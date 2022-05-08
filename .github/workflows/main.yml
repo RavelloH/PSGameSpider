@@ -1,5 +1,7 @@
 name: update
 on:
+  push:
+    branches: [ main ]
   schedule:
     - cron: '0 20 * * *' #每日更新
   workflow_dispatch:
@@ -18,7 +20,7 @@ jobs:
              pip install bs4  #安装依赖
       - name: 'Working'
         run: 
-          python main.py #运行主程序
+          python update.py #运行主程序
       - name: Commit files
         run: |
           git pull
