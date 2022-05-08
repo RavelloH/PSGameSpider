@@ -16,7 +16,7 @@ os.makedirs('./recent/',exist_ok=True)
 origin_link = "https://store.playstation.com/zh-hans-hk/pages/latest"
 # 删除重复文件
 for file_name in os.listdir('./img/'):
-    if '(1)' or '(2)' or '(3)' in file_name:
+    if '(1)' in file_name or '(2)' in file_name or '(3)' in file_name:
         os.remove('./img/' + file_name)
         print("清除重复文件:"+file_name)
 # 清空列表
