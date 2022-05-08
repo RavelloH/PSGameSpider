@@ -44,7 +44,7 @@ while k < 200:
             else:
                 continue
             # 下载
-            name = download(links,out='./img/,'+name+'.jpg')
+            name = download(links,out='./img/'+name+'.jpg')
             print(name)
     except:
         pass
