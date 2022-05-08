@@ -9,8 +9,24 @@
 所有游戏的封面将会存储在`./img/`内，最新的游戏将被存储在`./recent/`内
 
 ### 目录
-<!-- START doctoc -->
-<!-- END doctoc -->
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**
+
+- [使用](#%E4%BD%BF%E7%94%A8)
+  - [获取封面](#%E8%8E%B7%E5%8F%96%E5%B0%81%E9%9D%A2)
+  - [运行爬虫](#%E8%BF%90%E8%A1%8C%E7%88%AC%E8%99%AB)
+    - [安装依赖](#%E5%AE%89%E8%A3%85%E4%BE%9D%E8%B5%96)
+    - [运行文件](#%E8%BF%90%E8%A1%8C%E6%96%87%E4%BB%B6)
+  - [使用GithubActions](#%E4%BD%BF%E7%94%A8githubactions)
+- [开发](#%E5%BC%80%E5%8F%91)
+  - [功能](#%E5%8A%9F%E8%83%BD)
+    - [略缩图](#%E7%95%A5%E7%BC%A9%E5%9B%BE)
+- [关于](#%E5%85%B3%E4%BA%8E)
+  - [反馈](#%E5%8F%8D%E9%A6%88)
+  - [贡献](#%E8%B4%A1%E7%8C%AE)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## 使用
 ### 获取封面
