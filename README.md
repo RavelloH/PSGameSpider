@@ -8,6 +8,10 @@
 此仓库内共有两个爬虫程序:`main.py`以及`update.py`，其中`main.py`用于初次运行，运行此文件可爬取并下载PlayStationStore内的全部游戏，`update.py`用于每日运行，以更新最新游戏。  
 所有游戏的封面将会存储在`./img/`内，最新的游戏将被存储在`./recent/`内
 
+### 目录
+<!-- START doctoc -->
+<!-- END doctoc -->
+
 ## 使用
 ### 获取封面
 若要查找某游戏的封面，可直接访问 https://github.com/RavelloH/PSGameSpider/find/main 并搜索。  
