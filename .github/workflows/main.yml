@@ -27,7 +27,7 @@ jobs:
           git config --local user.email "hyh20060327@qq.com"
           git config --local user.name "RavelloH"
           git add .
-          git commit -m "`date '+%Y-%m-%d %H:%M:%S'`" #动态提交信息
+          git commit -m --allow-empty "`date '+%Y-%m-%d %H:%M:%S'`" #动态提交信息
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Push changes #推送
