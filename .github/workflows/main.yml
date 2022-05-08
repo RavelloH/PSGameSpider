@@ -28,10 +28,7 @@ jobs:
           git config --local user.name "RavelloH"
           git add .
           git commit -m --allow-empty "`date '+%Y-%m-%d %H:%M:%S'`" #动态提交信息
+          git push -f
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      - name: Push changes #推送
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: ${{ github.ref }}
+     
