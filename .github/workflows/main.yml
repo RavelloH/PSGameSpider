@@ -21,6 +21,8 @@ jobs:
       - name: 'Working'
         run: 
           python update.py #运行主程序
+      - name: TOC
+        uses: technote-space/toc-generator@v4
       - name: Commit files
         run: |
           git pull
