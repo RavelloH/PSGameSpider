@@ -28,10 +28,10 @@ jobs:
           git pull
           git config --local user.email "hyh20060327@qq.com"
           git config --local user.name "RavelloH"
-          git rm -r --cached .
           git add .
           git commit -m --allow-empty "`date '+%Y-%m-%d %H:%M:%S'`" #动态提交信息
-          git push -f
+          git status
+          git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
      
