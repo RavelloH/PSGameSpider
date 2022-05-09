@@ -49,13 +49,18 @@ pip install wget
 注:此程序只会更新***当月***最新游戏到总表中，要想保持列表完整性，请至少一个月运行一次。
 
 ### 使用GithubActions
-
-## 开发
-### 功能
-#### 略缩图
+此仓库可直接fork并运行actions。  
+直接fork将会保留之前更新的文件，所以无需运行`main.py`
+----
+**流程:  
+1.Fork此仓库  
+2.前往你的仓库，在Settings>Actions  
+3.前往你的仓库，在Actions中选择运行Actions运行  
+4.前往你的仓库，在.github/workflows/main.yml中，修改第  
 
 ## 关于
+此项目***源码***使用MIT Licence。  
+爬取内容归索尼所有。  
 
 ### 反馈
-
-### 贡献
+发现BUG？有修改建议？欢迎[用ISSUES](https://github.com/RavelloH/PSGameSpider/issues/new)反馈
