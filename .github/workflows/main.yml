@@ -12,7 +12,8 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
       - name: 'Git set'
-        run: git init
+        run: |
+             git init
              git pull
       - name: 'Set up Python'
         uses: actions/setup-python@v1
