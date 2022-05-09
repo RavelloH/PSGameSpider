@@ -19,12 +19,10 @@
     - [安装依赖](#%E5%AE%89%E8%A3%85%E4%BE%9D%E8%B5%96)
     - [运行文件](#%E8%BF%90%E8%A1%8C%E6%96%87%E4%BB%B6)
   - [使用GithubActions](#%E4%BD%BF%E7%94%A8githubactions)
-- [开发](#%E5%BC%80%E5%8F%91)
-  - [功能](#%E5%8A%9F%E8%83%BD)
-    - [略缩图](#%E7%95%A5%E7%BC%A9%E5%9B%BE)
+- [此仓库可直接fork并运行actions。  
+直接fork将会保留之前更新的文件，所以无需运行`main.py`](#%E6%AD%A4%E4%BB%93%E5%BA%93%E5%8F%AF%E7%9B%B4%E6%8E%A5fork%E5%B9%B6%E8%BF%90%E8%A1%8Cactions--%0A%E7%9B%B4%E6%8E%A5fork%E5%B0%86%E4%BC%9A%E4%BF%9D%E7%95%99%E4%B9%8B%E5%89%8D%E6%9B%B4%E6%96%B0%E7%9A%84%E6%96%87%E4%BB%B6%E6%89%80%E4%BB%A5%E6%97%A0%E9%9C%80%E8%BF%90%E8%A1%8Cmainpy)
 - [关于](#%E5%85%B3%E4%BA%8E)
   - [反馈](#%E5%8F%8D%E9%A6%88)
-  - [贡献](#%E8%B4%A1%E7%8C%AE)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
