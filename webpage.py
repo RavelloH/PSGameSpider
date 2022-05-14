@@ -6,7 +6,7 @@ from bs4 import BeautifulSoup as bs
 import os
 import time
 
-f = open("index.html", 'w+')
+f = open("index2.html", 'x')
 def partone(f):
     txt = ''' 
 <!DOCTYPE html>
