@@ -462,6 +462,7 @@ print("获取到最近更新列表地址:"+url_info['href'])
 link = "store.playstation.com"+str(url_info['href'])[:-1]
 k = 1
 while k < 20:
+    k = k+1
     # 爬取
     html = urlopen("https://"+link+str(k))
     # 解析
@@ -473,7 +474,6 @@ while k < 20:
         break
     j = 0 # 配置遍历   
     for i in pic_info:
-        print(j)
         j += 1
         pic = str(i['src'])
         name = re.sub("\(.*\)", "", str(i['alt']), count=0, flags=0) # 正则规范图片名
