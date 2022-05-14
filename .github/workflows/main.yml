@@ -21,7 +21,8 @@ jobs:
            python-version: 3.7 #v3
       - name: 'Install requirements'
         run: pip install wget
-             pip install bs4  #安装依赖
+             pip install bs4
+             pip install urllib3 #安装依赖
       - name: 'Working'
         run: 
           python update.py #运行主程序
