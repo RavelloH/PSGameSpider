@@ -318,7 +318,7 @@ recentpartone='''
 recentparttwo='''
 "><div class="card"><img src="https://ravelloh.github.io/PSGameSpider/img/loading.gif" onload="this.src='https://ravelloh.github.io/PSGameSpider/img/
 '''
-recentpatrthree='''
+recentpartthree='''
 .jpg'" /><div class="focus-content"><p>
 '''
 
