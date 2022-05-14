@@ -493,8 +493,8 @@ while k < 20:
         
             else:
                 links = pic
-    f.write(recentpartone+j+recentparttwo+name+recentpartthree+name+recentpartfour+name+recentpartfive)
-f.write(htmlbodytwo+time.strftime('%Y-%m-%d %H:%M:%S',time.localtime(time.time()))+liststart)
+    f.write(str(recentpartone)+str(j)+str(recentparttwo)+str(name)+str(recentpartthree)+str(name)+str(recentpartfour)+str(name)+str(recentpartfive))
+f.write(str(htmlbodytwo)+str(time.strftime('%Y-%m-%d %H:%M:%S',time.localtime(time.time())))+str(liststart))
 for file_name in os.listdir('./img/'):
     f.write('<option value="'+file_name+'">')
 f.write(listend)
