@@ -4,6 +4,8 @@ on:
     branches: [ main ]
   schedule:
     - cron: '0 20 * * *' #每日更新
+  watch:
+    types: [started]
   workflow_dispatch:
 jobs:
   build:
@@ -21,7 +23,6 @@ jobs:
            python-version: 3.7 #v3
       - name: 'Install requirements'
         run: |
-             del index.html
              pip install wget
              pip install bs4
              pip install urllib3 #安装依赖
