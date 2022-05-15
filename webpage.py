@@ -11,7 +11,7 @@ if os.path.exists("index.html"):
 else:
   print("The file does not exist")
 
-f = open("index.html", 'w+')
+f = open("index.html", 'x')
 def partone(f):
     txt = ''' 
 <!DOCTYPE html>
