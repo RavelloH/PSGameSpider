@@ -23,6 +23,8 @@ jobs:
            python-version: 3.7 #v3
       - name: 'Install requirements'
         run: |
+             python import os
+             python os.remove("index.html")
              pip install wget
              pip install bs4
              pip install urllib3 #安装依赖
