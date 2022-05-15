@@ -36,10 +36,11 @@ jobs:
         uses: technote-space/toc-generator@v4
       - name: Commit files
         run: |
+          git diff
           git config --local user.email "hyh20060327@qq.com"
           git config --local user.name "RavelloH"
-          git add .
-          git commit -m "`date '+%Y-%m-%d %H:%M:%S'`" #动态提交信息
+          git add -A
+          git commit -m "`date '+%Y-%m-%d %H:%M:%S'`" || exit #动态提交信息
           git status
           git push -f
         env:
