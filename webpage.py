@@ -6,6 +6,11 @@ from bs4 import BeautifulSoup as bs
 import os
 import time
 
+if os.path.exists("index.html"):
+  os.remove("index.html")
+else:
+  print("The file does not exist")
+
 f = open("index.html", 'w+')
 def partone(f):
     txt = ''' 
