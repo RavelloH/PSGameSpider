@@ -47,10 +47,12 @@ pip install wget
 注:此程序只会更新***当月***最新游戏到总表中，要想保持列表完整性，请至少一个月运行一次。
 
 ### 使用GithubActions  
+
 此仓库可直接fork并运行actions。  
-直接fork将会保留之前更新的文件，所以无需运行`main.py`
+直接fork将会保留之前更新的文件，所以无需运行`main.py`  
+
 ----
-**流程:  
+**流程:**  
 1.Fork此仓库  
 2.前往你的仓库，在Settings>Actions>General>Workflow permissions
 中，将权限设为读写(Read and write permissions)  
