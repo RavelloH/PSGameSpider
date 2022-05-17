@@ -322,7 +322,7 @@ recentpartone='''
 <div class="drop-in" style="--i: 
 '''
 recentparttwo='''
-"><div class="card"><img src="/logo.jpg" onload="this.src='/img/
+"><div class="card"><img src="/logo.jpg" onload="this.src='img/
 '''
 recentpartthree='''
 .jpg'" /><div class="focus-content"><p>
@@ -408,7 +408,7 @@ endofall ='''
 "RavelloH "];
         </script>
             <script type="text/javascript"
-                src="/main.js"></script>
+                src="main.js"></script>
             <script src="https://ravelloh.github.io/js/script.js"></script>
             <script src="//instant.page/5.1.0"
                     type="module"
