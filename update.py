@@ -75,5 +75,9 @@ while k < 20:
 for file_name in os.listdir('./img/'):
     if '(1)' in file_name:
         os.remove('./img/' + file_name)
-        print("清除重复文件:"+file_name)
+        print("清除总重复文件:"+file_name)
+for file_name in os.listdir('./recent/'):
+    if '(1)' in file_name:
+        os.remove('./recent/' + file_name)
+        print("清除最近重复文件:"+file_name)
         
