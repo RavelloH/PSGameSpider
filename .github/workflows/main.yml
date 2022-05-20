@@ -3,7 +3,7 @@ on:
   push:
     branches: [ main ]
   schedule:
-    - cron: '0 20 * * *' #每日更新
+    - cron: '45 5/6 * * *' #每日更新
   watch:
     types: [started]
   workflow_dispatch:
