@@ -37,7 +37,7 @@ var helpfordemo ='<h4><a name="无法找到游戏" href="#无法找到游戏">#�
         document.getElementById("tip").classList.add('disappear');
         document.getElementById("circle").classList.add('disappear');
         setTimeout("1000")
-        for(i = 0; i < 100; i++){
+        for(i = 0; i < 200; i++){
         document.getElementsByClassName('drop-in')[i].classList.add('droped');
         }}
         setTimeout("drop()","2000");
