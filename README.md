@@ -1,6 +1,8 @@
 # PSGameSpider
 自动爬取所有PlayStationStore中的所有游戏封面，支持按月分类
 
+在线预览:https://ravelloh.github.io/PSGameSpider
+
 ## 介绍
 基于Github Actions的自动Python爬虫，支持自动分析最新游戏链接、自动翻页、正则自适应图片名、自动选择下载高清图片、自动删除重复文件、自动更新新文件等
 
@@ -26,7 +28,8 @@
 
 ## 使用
 ### 获取封面
-若要查找某游戏的封面，可直接访问 https://github.com/RavelloH/PSGameSpider/find/main 并搜索。  
+若要查找某游戏的封面，可直接访问 https://github.com/RavelloH/PSGameSpider/find/main 并搜索。 
+也可前往https://ravelloh.github.io/PSGameSpider 中搜索  
 若需下载所有文件，可直接下载仓库压缩包或clone。  
 
 ### 运行爬虫
@@ -60,7 +63,7 @@ pip install wget
 
 ## 关于
 此项目***源码***使用MIT Licence。  
-爬取内容归索尼所有。  
+爬取内容归索尼及相关工作室所有。  
 
 ### 反馈
 发现BUG？有修改建议？欢迎[用ISSUES](https://github.com/RavelloH/PSGameSpider/issues/new)反馈
