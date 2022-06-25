@@ -81,3 +81,7 @@ for file_name in os.listdir('./recent/'):
         os.remove('./recent/' + file_name)
         print("清除最近重复文件:"+file_name)
         
+for file_name in os.listdir('./recent/'):
+    os.rename("./recnet/"+file_name,"./recent/"+html.escape(file_name))
+for file_name in os.listdir('./img/'):
+    os.rename("./img/"+file_name,"./img/"+html.escape(file_name))
