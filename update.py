@@ -9,6 +9,7 @@ from bs4 import BeautifulSoup as bs
 from wget import download
 import os
 import re
+import html
 # 创建目录
 os.makedirs('./img/',exist_ok=True)
 os.makedirs('./recent/',exist_ok=True)
