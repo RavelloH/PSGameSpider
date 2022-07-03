@@ -43,3 +43,7 @@ function drop() {
         }
 }
 setTimeout("drop()", "2000");
+twikoo.init({
+  envId: 'https://comment-ravelloh.vercel.app/', // 腾讯云环境填 envId；Vercel 环境填地址（https://xxx.vercel.app）
+  el: '#tcomment',
+})
