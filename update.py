@@ -81,8 +81,18 @@ for file_name in os.listdir('./recent/'):
     if '(1)' in file_name:
         os.remove('./recent/' + file_name)
         print("清除最近重复文件:"+file_name)
-        
-#for file_name in os.listdir('./recent/'):
-#    os.rename("./recnet/"+file_name,"./recent/"+html.escape(file_name))
-#for file_name in os.listdir('./img/'):
-#    os.rename("./img/"+file_name,"./img/"+html.escape(file_name))
+
+try:
+    for file_name in os.listdir('./recent/'):
+        file_name_new = re.sub(r'"', "", file_name)
+        file_name_new = re.sub(r",", "",file_name_new)
+        os.rename("./recnet/"+file_name,"./recent/"+file_name_new)
+except:
+    print('Error:recent重命名错误')
+try:
+    for file_name in os.listdir('./img/'):
+        file_name_new = re.sub(r'"',"",file_name)
+        file_name_new = re.sub(r",","",file_name_new)
+        os.rename("./img/"+file_name,"./img/"+file_name_new)
+except:
+    print('Error:img重命名错误')
