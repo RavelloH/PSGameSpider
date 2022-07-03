@@ -12,7 +12,7 @@ import re
 import html
 # 创建目录
 os.makedirs('./img-en/',exist_ok=True)
-os.makedirs('./recent-en-en/',exist_ok=True)
+os.makedirs('./recent-en/',exist_ok=True)
 # 设置目标路径
 origin_link = "https://store.playstation.com/zh-hans-hk/pages/latest"
 # 删除重复文件
