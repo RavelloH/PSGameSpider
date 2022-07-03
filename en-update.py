@@ -11,14 +11,14 @@ import os
 import re
 import html
 # 创建目录
-os.makedirs('./img/',exist_ok=True)
-os.makedirs('./recent/',exist_ok=True)
+os.makedirs('./img-en/',exist_ok=True)
+os.makedirs('./recent-en/',exist_ok=True)
 # 设置目标路径
 origin_link = "https://store.playstation.com/zh-hans-hk/pages/latest"
 # 删除重复文件
-for file_name in os.listdir('./img/'):
+for file_name in os.listdir('./img-en/'):
     if '(1)' in file_name or '(2)' in file_name or '(3)' in file_name:
-        os.remove('./img/' + file_name)
+        os.remove('./img-en/' + file_name)
         print("清除重复文件:"+file_name)
 # 清空列表
 for recent_file_name in os.listdir('./recent/'):
@@ -65,7 +65,7 @@ while k < 20:
             else:
                 continue
             # 下载
-            download(links,out='./img/'+name+'.jpg')
+            download(links,out='./img-en/'+name+'.jpg')
             download(links,out='./recent/'+name+'.jpg')
             print("\n"+name+"\n")
     except:
@@ -73,9 +73,9 @@ while k < 20:
     print("爬取:第"+str(k)+"页完成")
     k += 1
 # 删除重复文件
-for file_name in os.listdir('./img/'):
+for file_name in os.listdir('./img-en/'):
     if '(1)' in file_name:
-        os.remove('./img/' + file_name)
+        os.remove('./img-en/' + file_name)
         print("清除总重复文件:"+file_name)
 for file_name in os.listdir('./recent/'):
     if '(1)' in file_name:
@@ -90,10 +90,10 @@ for file_name in os.listdir('./recent/'):
     except:
         print('Error:recent重命名错误')
     
-for file_name in os.listdir('./img/'):
+for file_name in os.listdir('./img-en/'):
     try:
         file_name_new = re.sub(r'"',"",file_name)
         file_name_new = re.sub(r",","",file_name_new)
-        os.rename("./img/"+file_name,"./img/"+file_name_new)
+        os.rename("./img-en/"+file_name,"./img-en/"+file_name_new)
     except:
-        print('Error:img重命名错误'+file_name)
+        print('Error:img-en重命名错误'+file_name)
