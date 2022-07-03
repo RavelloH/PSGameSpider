@@ -49,7 +49,7 @@ jobs:
 
         run: 
 
-          python en-main.py #运行主程序
+          python en-update.py #运行主程序
 
       
       - name: Record time  
