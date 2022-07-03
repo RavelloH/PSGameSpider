@@ -14,7 +14,7 @@ import html
 os.makedirs('./img-en/',exist_ok=True)
 os.makedirs('./recent-en/',exist_ok=True)
 # 设置目标路径
-origin_link = "https://store.playstation.com/zh-hans-hk/pages/latest"
+origin_link = "https://store.playstation.com/en-hk/pages/latest"
 # 删除重复文件
 for file_name in os.listdir('./img-en/'):
     if '(1)' in file_name or '(2)' in file_name or '(3)' in file_name:
