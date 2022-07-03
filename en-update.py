@@ -21,7 +21,7 @@ for file_name in os.listdir('./img-en/'):
         os.remove('./img-en/' + file_name)
         print("清除重复文件:"+file_name)
 # 清空列表
-for recent-en_file_name in os.listdir('./recent-en/'):
+for recent_file_name in os.listdir('./recent-en/'):
     os.remove('./recent-en/' + recent-en_file_name)
     print("清空最近更新列表:"+recent-en_file_name)
 # 爬取最新更新列表链接
