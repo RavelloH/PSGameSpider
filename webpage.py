@@ -188,7 +188,7 @@ def partone(f):
               line-height: 1;
             }
             .card a {
-            margin-top:5px;
+            margin-top:20px;
             }
             .card:hover a, .card:focus-within a {
             margin-top:0;
