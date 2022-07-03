@@ -8,7 +8,7 @@ from urllib.request import urlopen
 from bs4 import BeautifulSoup as bs
 from wget import download
 import os    
-os.makedirs('./img/',exist_ok=True)
+os.makedirs('./img-en/',exist_ok=True)
 # 设置目标路径
 link = "store.playstation.com/en-hk/pages/browse/"
 k = 1
@@ -44,11 +44,11 @@ while k < 200:
             else:
                 continue
             # 下载
-            name = download(links,out='./img/'+name+'.jpg')
+            name = download(links,out='./img-en/'+name+'.jpg')
             print(name)
     except:
         pass
-    for file_name in os.listdir('./img/'):    
+    for file_name in os.listdir('./img-en/'):    
         if '(1)' in file_name:
-            os.remove('./img/' + file_name)
+            os.remove('./img-en/' + file_name)
     k += 1
