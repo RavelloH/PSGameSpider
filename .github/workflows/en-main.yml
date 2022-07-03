@@ -1,11 +1,6 @@
 name: update
 
 on:
-
-  push:
-
-    branches: [ main ]
-
   watch:
 
     types: [started]

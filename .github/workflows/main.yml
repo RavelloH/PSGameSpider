@@ -1,7 +1,5 @@
 name: update
 on:
-  push:
-    branches: [ main ]
   schedule:
     - cron: '30 5/12 * * *' #每日更新
   watch:
