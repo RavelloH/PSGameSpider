@@ -26,6 +26,7 @@ function search() {
 function post() {
         return false;
 }
+
 function quicksearch(name) {
         var innerimgurl = name;
         innerover = innerimghead + innerimgurl + innerimgparta + innerimgurl + innerimgpartaend + innerimgurl + innerimgpartb + innerimgurl + innerimgpartc;

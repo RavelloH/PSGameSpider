@@ -11,6 +11,7 @@ function search() {
         if (totalgamelist.includes(innerimgurl)) {
                 innerover = innerimghead + innerimgurl + innerimgparta + innerimgurl + innerimgpartaend + innerimgurl + innerimgpartb + innerimgurl + innerimgpartc;
                 document.getElementById('windowa').innerHTML = innerover;
+                document.getElementById('searchtitle').innerHTML = "- Search " + innerimgurl + " -";
                 document.getElementById('output').innerHTML = 'The query succeeded(' + innerimgurl + ') Touch the left cover to see more content. <br>If nothing appears, please wait for the image to load. ';
         } else {
                 var timedata = new Date();
@@ -18,19 +19,27 @@ function search() {
                 var timenow = "[" + timedata.getHours() + ":" + timedata.getMinutes() + ":" + timedata.getSeconds() + "]";
                 document.getElementById('output').innerHTML = timenow + errora;
         }
-        function post() {
-                return false;
+        function help() {
+                alert("aaa");
         }
-        function quicksearch(name) {
-                var innerimgurl = name;
-                innerover = innerimghead + innerimgurl + innerimgparta + innerimgurl + innerimgpartaend + innerimgurl + innerimgpartb + innerimgurl + innerimgpartc;
-                document.getElementById('windowa').innerHTML = innerover;
-                document.getElementById('searchtitle').innerHTML = "- search" + innerimgurl + " -";
-                document.getElementById('output').innerHTML = 'Search success(' + innerimgurl + ') touch left cover See more. <br>If nothing appears, please wait for the image to load. ';
-        }
+}
+function post() {
+        return false;
+}
 
-        function drop() {
-                document.getElementById("tip").classList.add('disappear');
+function quicksearch(name) {
+        var innerimgurl = name;
+        innerover = innerimghead + innerimgurl + innerimgparta + innerimgurl + innerimgpartaend + innerimgurl + innerimgpartb + innerimgurl + innerimgpartc;
+        document.getElementById('windowa').innerHTML = innerover;
+        document.getElementById('searchtitle').innerHTML = "- Search" + innerimgurl + " -";
+        document.getElementById('output').innerHTML = 'Search success(' + innerimgurl + ') touch left cover See more. <br>If nothing appears, please wait for the image to load. ';
+}
+
+function drop() {
+        document.getElementById("tip").classList.add('disappear');
+        document.getElementById("circle").classList.add('disappear');
+        setTimeout("1000")
+        for (i = 0; i < 200; i++) {
                 document.getElementsByClassName('drop-in')[i].classList.add('droped');
         }
 }
