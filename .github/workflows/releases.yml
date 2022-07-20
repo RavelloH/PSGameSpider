@@ -1,4 +1,4 @@
-name: update
+name: releases
 on:
   schedule:
     - cron: '30 5/12 * * *' #每日更新
