@@ -23,7 +23,7 @@ jobs:
           git diff
           git config --local user.email "hyh20060327@qq.com"
           git config --local user.name "RavelloH"
-          git add -a
+          git add -A
           git tag
           git tag -a "%Y.%m" -m "%Y年%m月存档"
           git tag
