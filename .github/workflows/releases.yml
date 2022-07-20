@@ -1,7 +1,7 @@
 name: releases
 on:
   schedule:
-    - cron: '30 5/12 * * *' #每日更新
+    - cron: '20 5 1 * *' #每月更新
   watch:
     types: [started]
   workflow_dispatch:
@@ -25,7 +25,7 @@ jobs:
           git config --local user.name "RavelloH"
           git add -A
           git tag
-          git tag -a "%Y.%m" -m "%Y年%m月存档"
+          git tag -a "`date '+%Y.%m'`" -m "`date '+%Y年%m月存档'`"
           git tag
           git commit -m "`date '+%Y-%m-%d %H:%M:%S'`" || exit #动态提交信息
           git status
