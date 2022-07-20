@@ -1,9 +1,7 @@
 name: releases
 on:
   schedule:
-    - cron: '20 5 1 * *' #每月更新
-  watch:
-    types: [started]
+    - cron: '20 8 1 * *' #每月更新
   workflow_dispatch:
 jobs:
   build:
