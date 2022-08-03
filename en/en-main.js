@@ -1,9 +1,9 @@
 var helpfordemo = '<h4><a name="Unable" href="#Unable">#Unable to find the required game</a></h4><p>Does auto completion appear when entering the file name?<br>The input box has its own candidate, and all games that can be indexed are in the candidate box. If there is a game to be found in the candidate box, please directly click to enter it and search.</p><p>Is the search content correct?<br>Please check whether the input is correct. The input is echoed in the output box.</p><p>Is the game name in another language?<br>The program supports both Chinese and English, and is currently in the English version. Please comment below if you need other languages.</p><p>Is the game released in Playstation?<br>Crawlers of other platforms are being made. Please confirm whether there are games to search in playstationstore.</p><p>Is the game released later than this page generation time? (see the top right for generation time) <br> this crawler crawls once a day by default. If you need to update now, please<a href="https://github.com/ravelloh/PSGameSpider" class="linkline">Go to GitHub</a>Star this repo（After triggering workflows, star can be retracted）</p>'
 var aboutfordemo = '<h4><a name="about" href="#about">#About</a></h4><p>Project name:PSGameSpider</p><p>Author:RavelloH</p><p>LICENCE:MIT</p><p>OpenSourceRepo:<a href="https://github.com/ravelloh/PSGameSpider" class="linkline">Go to github</a></p>'
 document.getElementById('output').innerHTML = "The terminal is waiting for data input...";
-var innerimghead = '<figure class="hover-menu"><img src="img/';
-var innerimgparta = '.jpg"/><div><a href="img/';
-var innerimgpartaend = '.jpg">Preview pictures</a><a href="https://github.com/RavelloH/PSGameSpider/blob/main/img/'
+var innerimghead = '<figure class="hover-menu"><img src="/img-en/';
+var innerimgparta = '.jpg"/><div><a href="/img-en/';
+var innerimgpartaend = '.jpg">Preview pictures</a><a href="https://github.com/RavelloH/PSGameSpider/blob/main/img-en/'
 var innerimgpartb = '.jpg">View source</a><a href="https://store.playstation.com/zh-hans-cn/search/';
 var innerimgpartc = '">Go to store</a></div></figure>';
 function search() {
