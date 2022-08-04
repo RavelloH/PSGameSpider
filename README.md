@@ -2,7 +2,7 @@
 自动爬取所有PlayStationStore中的所有游戏封面，支持按月分类
 
 [![GitHub Workflow Status](https://img.shields.io/github/workflow/status/RavelloH/PSGameSpider/update?label=update&style=for-the-badge)](https://github.com/RavelloH/PSGameSpider/actions/workflows/main.yml)
-[![GitHub Workflow Status](https://img.shields.io/github/workflow/status/RavelloH/PSGameSpider/releases?label=releases&style=for-the-badge)](https://github.com/RavelloH/PSGameSpider/actions/workflows/releases.yml)  
+[![GitHub Workflow Status](https://img.shields.io/github/workflow/status/RavelloH/PSGameSpider/releases?label=releases&style=for-the-badge)](https://github.com/RavelloH/PSGameSpider/actions/workflows/releases.yml)
 [![GitHub Workflow Status](https://img.shields.io/github/workflow/status/RavelloH/PSGameSpider/readme-tree?label=tree&style=for-the-badge)](https://github.com/RavelloH/PSGameSpider/actions/workflows/tree.yml)  
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/RavelloH/PSGameSpider?style=for-the-badge)
