@@ -1,3 +1,4 @@
+name: readme-tree
 on: [push]
 
 jobs:
