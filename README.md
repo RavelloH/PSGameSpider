@@ -21,7 +21,11 @@ English version:https://ravelloh.github.io/PSGameSpider
 ![Chinese](https://img.shields.io/badge/-中文-blue?style=for-the-badge)![GitHub file count](https://img.shields.io/github/directory-file-count/RavelloH/PSGameSpider/img?style=for-the-badge)  
 ![English](https://img.shields.io/badge/-ENGLISH-blue?style=for-the-badge)![GitHub file count](https://img.shields.io/github/directory-file-count/RavelloH/PSGameSpider/img-en?style=for-the-badge)
 
-
+ <details> 
+  <summary>查看所有列表</summary>
+  <!-- readme-tree start -->
+  <!-- readme-tree end -->
+ </details>
 ### 结构
 此仓库内共有两个爬虫程序:`main.py`、`update.py`以及一个页面生成程序`webpage.py`，其中`main.py`用于初次运行，运行此文件可爬取并下载PlayStationStore内的全部游戏，`update.py`用于每日运行，以更新最新游戏。  
 中文版所有游戏的封面将会存储在`./img/`内，最新的游戏将被存储在`./recent/`内  
