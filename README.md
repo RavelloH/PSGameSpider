@@ -11,7 +11,7 @@
 ![GitHub speed](https://img.shields.io/github/commit-activity/m/RavelloH/PSGameSpider?style=for-the-badge)
 ![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/RavelloH/PSgameSpider?style=for-the-badge)
 
-在线预览:https://ravelloh.github.io/PSGameSpider
+在线预览:https://ravelloh.github.io/PSGameSpider  
 English version:https://ravelloh.github.io/PSGameSpider
 
 ## 介绍
