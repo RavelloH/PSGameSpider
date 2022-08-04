@@ -3,6 +3,7 @@
 
 [![GitHub Workflow Status](https://img.shields.io/github/workflow/status/RavelloH/PSGameSpider/update?label=update&style=for-the-badge)](https://github.com/RavelloH/PSGameSpider/actions/workflows/main.yml)
 [![GitHub Workflow Status](https://img.shields.io/github/workflow/status/RavelloH/PSGameSpider/releases?label=releases&style=for-the-badge)](https://github.com/RavelloH/PSGameSpider/actions/workflows/releases.yml)  
+[![GitHub Workflow Status](https://img.shields.io/github/workflow/status/RavelloH/PSGameSpider/readme-tree?label=tree&style=for-the-badge)](https://github.com/RavelloH/PSGameSpider/actions/workflows/tree.yml)  
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/RavelloH/PSGameSpider?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/RavelloH/PSGameSpider?style=for-the-badge)
