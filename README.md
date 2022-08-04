@@ -12,6 +12,7 @@
 ![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/RavelloH/PSgameSpider?style=for-the-badge)
 
 在线预览:https://ravelloh.github.io/PSGameSpider
+English version:https://ravelloh.github.io/PSGameSpider
 
 ## 介绍
 基于Github Actions的自动Python爬虫，支持自动分析最新游戏链接、自动翻页、正则自适应图片名、自动选择下载高清图片、自动删除重复文件、自动更新新文件等
@@ -23,7 +24,9 @@
 
 ### 结构
 此仓库内共有两个爬虫程序:`main.py`、`update.py`以及一个页面生成程序`webpage.py`，其中`main.py`用于初次运行，运行此文件可爬取并下载PlayStationStore内的全部游戏，`update.py`用于每日运行，以更新最新游戏。  
-所有游戏的封面将会存储在`./img/`内，最新的游戏将被存储在`./recent/`内
+中文版所有游戏的封面将会存储在`./img/`内，最新的游戏将被存储在`./recent/`内  
+英文版所有游戏的封面将会存储在`./img-en/`内，最新的游戏将被存储在`./recent-en/`内
+
 
 ### 目录
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
@@ -40,7 +43,7 @@
   - [反馈](#%E5%8F%8D%E9%A6%88)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
+----
 ## 使用
 ### 获取封面
 若要查找某游戏的封面，可直接访问 https://github.com/RavelloH/PSGameSpider/find/main 并搜索。 
@@ -56,6 +59,8 @@ pip install wget
 ```
 #### 运行文件
 
+> 以下皆以中文版举例，英文版请运行对应含有en的文件
+
 初次使用，需运行[main.py](https://github.com/RavelloH/PSGameSpider/blob/main/main.py)。  
 注:现有游戏总量为2900左右(22-05-08)，爬取需要一定时间(Action需要大约20分钟)  
 
@@ -67,7 +72,6 @@ pip install wget
 此仓库可直接fork并运行actions。  
 直接fork将会保留之前更新的文件，所以无需运行`main.py`  
 
-----
 **流程:**  
 1.Fork此仓库  
 2.前往你的仓库，在Settings>Actions>General>Workflow permissions
@@ -75,6 +79,8 @@ pip install wget
 3.前往你的仓库，在Actions中选择允许Actions运行  
 4.前往你的仓库，在.github/workflows/main.yml中，修改第39-40行为你自己的邮箱及用户名  
 5.保存，自动触发Workflow
+
+----
 
 ## 关于
 此项目***源码***使用MIT Licence。  
