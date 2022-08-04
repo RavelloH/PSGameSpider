@@ -2,12 +2,24 @@
 自动爬取所有PlayStationStore中的所有游戏封面，支持按月分类
 
 [![update](https://github.com/RavelloH/PSGameSpider/actions/workflows/main.yml/badge.svg?event=schedule)](https://github.com/RavelloH/PSGameSpider/actions/workflows/main.yml)
-[![releases](https://github.com/RavelloH/PSGameSpider/actions/workflows/releases.yml/badge.svg)](https://github.com/RavelloH/PSGameSpider/actions/workflows/releases.yml)
+[![releases](https://github.com/RavelloH/PSGameSpider/actions/workflows/releases.yml/badge.svg)](https://github.com/RavelloH/PSGameSpider/actions/workflows/releases.yml)  
+
+![GitHub repo size](https://img.shields.io/github/repo-size/RavelloH/PSGameSpider?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/RavelloH/PSGameSpider?style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/RavelloH/PSGameSpider?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/RavelloH/PSGameSpider?style=for-the-badge)
+![GitHub speed](https://img.shields.io/github/commit-activity/m/RavelloH/PSGameSpider?style=for-the-badge)
+![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/RavelloH/PSgameSpider?style=for-the-badge)
 
 在线预览:https://ravelloh.github.io/PSGameSpider
 
 ## 介绍
 基于Github Actions的自动Python爬虫，支持自动分析最新游戏链接、自动翻页、正则自适应图片名、自动选择下载高清图片、自动删除重复文件、自动更新新文件等
+
+### 数据总数
+![Chinese](https://img.shields.io/badge/-中文-blue?style=for-the-badge)![GitHub file count](https://img.shields.io/github/directory-file-count/RavelloH/PSGameSpider/img?style=for-the-badge)  
+![English](https://img.shields.io/badge/-ENGLISH-blue?style=for-the-badge)![GitHub file count](https://img.shields.io/github/directory-file-count/RavelloH/PSGameSpider/img-en?style=for-the-badge)
+
 
 ### 结构
 此仓库内共有两个爬虫程序:`main.py`、`update.py`以及一个页面生成程序`webpage.py`，其中`main.py`用于初次运行，运行此文件可爬取并下载PlayStationStore内的全部游戏，`update.py`用于每日运行，以更新最新游戏。  
