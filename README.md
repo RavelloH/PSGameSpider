@@ -210,6 +210,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Aeterna Noctis .jpg
 │   ├── AeternoBlade II.jpg
 │   ├── AeternoBlade.jpg
+│   ├── After Wave: Downfall .jpg
 │   ├── After the Fall®.jpg
 │   ├── Age of Wonders: Planetfall.jpg
 │   ├── Ages of Mages: the last keeper.jpg
@@ -1179,6 +1180,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Ghostrunner - 幽灵行者.jpg
 │   ├── Ghostwire: Tokyo.jpg
 │   ├── Ghoulboy.jpg
+│   ├── Gigapocalypse .jpg
 │   ├── Gladiator: Blades of Fury.jpg
 │   ├── Gleamlight（微光）.jpg
 │   ├── Glittering Sword.jpg
@@ -1269,6 +1271,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Hero must die. again.jpg
 │   ├── Heroine Anthem Zero Episode 1.jpg
 │   ├── Hidden Agenda.jpg
+│   ├── Highway Driving .jpg
 │   ├── Himno.jpg
 │   ├── Hoa .jpg
 │   ├── Hoa.jpg
@@ -2221,6 +2224,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── SnowRunner - Premium Edition .jpg
 │   ├── SnowRunner .jpg
 │   ├── SnowRunner.jpg
+│   ├── Sofiya and the Ancient Clan PS4 & PS5 .jpg
 │   ├── Solar Ash.jpg
 │   ├── Sonar Beat.jpg
 │   ├── Song in the Smoke.jpg
@@ -2439,6 +2443,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── The Inner Friend.jpg
 │   ├── The Inpatient™.jpg
 │   ├── The Keeper of 4 Elements.jpg
+│   ├── The Ketchup story .jpg
 │   ├── The Kings Bird.jpg
 │   ├── The LEGO® Movie - Videogame.jpg
 │   ├── The LEGO® Movie 2 - Videogame.jpg
@@ -2762,6 +2767,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── inFAMOUS Second Son™.jpg
 │   ├── kingdom of drift .jpg
 │   ├── nFAMOUS First Light™.jpg
+│   ├── on Sunday .jpg
 │   ├── survival.jpg
 │   ├── ŌKAMI HD.jpg
 │   ├── √Letter Last Answer.jpg
@@ -2775,6 +2781,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── 《F1® 22》标准版 PS4™ .jpg
 │   ├── 《Furi》- 回归版 .jpg
 │   ├── 《GRID Legends》.jpg
+│   ├── 《GigaBash 巨击大乱斗》 .jpg
 │   ├── 《Killing Floor 2》- 终极版 .jpg
 │   ├── 《MONOPOLY®狂乐派对》.jpg
 │   ├── 《Madden NFL 22》MVP版.jpg
@@ -3488,6 +3495,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Aeterna Noctis.jpg
 │   ├── AeternoBlade II.jpg
 │   ├── AeternoBlade.jpg
+│   ├── After Wave: Downfall .jpg
 │   ├── After the Fall®.jpg
 │   ├── Age of Wonders: Planetfall.jpg
 │   ├── Agent Intercept.jpg
@@ -4603,6 +4611,8 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Ghostwire: Tokyo.jpg
 │   ├── Ghoulboy.jpg
 │   ├── Giana Sisters: Twisted Dreams – Director’s Cut.jpg
+│   ├── GigaBash .jpg
+│   ├── Gigapocalypse .jpg
 │   ├── Gladiator: Blades of Fury.jpg
 │   ├── Glittering Sword.jpg
 │   ├── Go!Go!5次元GAME ネプテューヌ re★Verse.jpg
@@ -4721,6 +4731,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Heroine Anthem Zero Episode 1.jpg
 │   ├── Hidden Agenda.jpg
 │   ├── Hide & Dance!.jpg
+│   ├── Highway Driving .jpg
 │   ├── Himno.jpg
 │   ├── Hitman: Absolution HD.jpg
 │   ├── Hoa.jpg
@@ -5848,6 +5859,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Sniper Ghost Warrior 3.jpg
 │   ├── Sniper Ghost Warrior Contracts.jpg
 │   ├── Sniper.jpg
+│   ├── Sofiya and the Ancient Clan PS4 & PS5 .jpg
 │   ├── Solar Ash.jpg
 │   ├── Sonar Beat.jpg
 │   ├── Song in the Smoke.jpg
@@ -6112,6 +6124,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── The Inner Friend.jpg
 │   ├── The Inpatient™.jpg
 │   ├── The Keeper of 4 Elements.jpg
+│   ├── The Ketchup story .jpg
 │   ├── The Kings Bird.jpg
 │   ├── The LEGO® Movie - Videogame (GER).jpg
 │   ├── The LEGO® Movie 2 - Videogame.jpg
@@ -6519,6 +6532,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── inFAMOUS Second Son™.jpg
 │   ├── kingdom of drift.jpg
 │   ├── nFAMOUS First Light™.jpg
+│   ├── on Sunday .jpg
 │   ├── ŌKAMI HD.jpg
 │   ├── √Letter Root Letter　Last Answer.jpg
 │   ├── √Letter.jpg
@@ -6588,6 +6602,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 ├── recent
 │   ├── A Fungus In My Garden .jpg
 │   ├── Absolute Deduction捆绑包 .jpg
+│   ├── After Wave: Downfall .jpg
 │   ├── Arcade Archives Chack'n Pop .jpg
 │   ├── Arcade Archives DIG DUG .jpg
 │   ├── Arcade Archives DRAGON SABER .jpg
@@ -6602,7 +6617,6 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Crossout - Season 9 Elite Battle pass Bundle .jpg
 │   ├── Crossout – "Cleaner" Starter Bundle .jpg
 │   ├── Crypt of the Serpent King Remastered 4K Edition .jpg
-│   ├── Cursed Island .jpg
 │   ├── Devastator PS4 & PS5 .jpg
 │   ├── Don't Fall: aleph .jpg
 │   ├── DreadOut 2 .jpg
@@ -6613,12 +6627,13 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Exploria .jpg
 │   ├── Frogo .jpg
 │   ├── Gale of Windoria .jpg
+│   ├── Gigapocalypse .jpg
 │   ├── Golf Club Wasteland .jpg
 │   ├── Gump Jump .jpg
 │   ├── Hellpoint .jpg
+│   ├── Highway Driving .jpg
 │   ├── Kill It With Fire: Exterminator Edition .jpg
 │   ├── Kruger .jpg
-│   ├── Lizard Lady vs the Cats Platinum Edition .jpg
 │   ├── LocoRoco Midnight Carnival .jpg
 │   ├── Lords of the Fallen Complete Edition .jpg
 │   ├── Lump Jump .jpg
@@ -6634,30 +6649,30 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Puzzletronics: Digital Infinite .jpg
 │   ├── QUByte Classics: Thunderbolt Collection by PIKO .jpg
 │   ├── Quick Mafs .jpg
-│   ├── Quintus and the Absent Truth PS4 & PS5 .jpg
 │   ├── Rayland PS4 & PS5 .jpg
 │   ├── RimWorld Console Edition - Digital Deluxe .jpg
 │   ├── RimWorld Console Edition .jpg
 │   ├── Seduction: A Monk's Fate PS4 & PS5 .jpg
 │   ├── Severed Steel .jpg
+│   ├── Sofiya and the Ancient Clan PS4 & PS5 .jpg
 │   ├── Square Keeper PS4 & PS5 .jpg
 │   ├── Stray .jpg
 │   ├── Surface Rush PS4 & PS5 .jpg
 │   ├── Surviving the Aftermath .jpg
+│   ├── The Ketchup story .jpg
 │   ├── Transiruby .jpg
 │   ├── Two Hundred Ways .jpg
 │   ├── United Assault - Normandy '44 .jpg
 │   ├── Vump Jump .jpg
 │   ├── WAIFU IMPACT PS4 & PS5 .jpg
 │   ├── War Thunder - German Starter Bundle .jpg
-│   ├── War Thunder - Leopard 2A4 Bundle .jpg
-│   ├── War Thunder - US Starter Bundle .jpg
 │   ├── What Remains of Edith Finch .jpg
 │   ├── echoshift 时限回廊 .jpg
+│   ├── on Sunday .jpg
+│   ├── 《GigaBash 巨击大乱斗》 .jpg
 │   ├── 《泰坦之路》标准创始者包 .jpg
 │   ├── 《物质世界》：冒险家礼包 .jpg
 │   ├── 《逃脱学院》豪华版带 .jpg
-│   ├── 《飙酷车神 2》 - 标准版 .jpg
 │   ├── 仙剑奇侠传七 .jpg
 │   ├── 信長之野望·新生 .jpg
 │   ├── 信長之野望·新生 数字豪华版 .jpg
@@ -6691,6 +6706,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 ├── recent-en
 │   ├── A Fungus In My Garden .jpg
 │   ├── Absolute Deduction bundle .jpg
+│   ├── After Wave: Downfall .jpg
 │   ├── Arcade Archives Chack'n Pop .jpg
 │   ├── Arcade Archives DIG DUG .jpg
 │   ├── Arcade Archives DRAGON SABER .jpg
@@ -6706,7 +6722,6 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Crossout - Season 9 Elite Battle pass Bundle .jpg
 │   ├── Crossout – "Cleaner" Starter Bundle .jpg
 │   ├── Crypt of the Serpent King Remastered 4K Edition .jpg
-│   ├── Cursed Island .jpg
 │   ├── Danganronpa S: Ultimate Summer Camp .jpg
 │   ├── Devastator PS4 & PS5 .jpg
 │   ├── Digimon Survive .jpg
@@ -6725,17 +6740,19 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── GUNBIRD .jpg
 │   ├── GUNBIRD 2 .jpg
 │   ├── Gale of Windoria .jpg
+│   ├── GigaBash .jpg
+│   ├── Gigapocalypse .jpg
 │   ├── Golf Club Wasteland .jpg
 │   ├── Gump Jump .jpg
 │   ├── Hazel Sky .jpg
 │   ├── Hellpoint .jpg
+│   ├── Highway Driving .jpg
 │   ├── Hourglass .jpg
 │   ├── Kill It With Fire: Exterminator Edition .jpg
 │   ├── Klonoa Phantasy Reverie Series Digital Deluxe Edition PS4 & PS5 .jpg
 │   ├── Klonoa Phantasy Reverie Series PS4 & PS5 .jpg
 │   ├── Kruger .jpg
 │   ├── LOST EPIC .jpg
-│   ├── Lizard Lady vs the Cats Platinum Edition .jpg
 │   ├── LocoRoco Midnight Carnival .jpg
 │   ├── Lords of the Fallen Complete Edition .jpg
 │   ├── Lump Jump .jpg
@@ -6758,7 +6775,6 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Puzzletronics: Digital Infinite .jpg
 │   ├── QUByte Classics: Thunderbolt Collection by PIKO .jpg
 │   ├── Quick Mafs .jpg
-│   ├── Quintus and the Absent Truth PS4 & PS5 .jpg
 │   ├── Rayland PS4 & PS5 .jpg
 │   ├── RimWorld Console Edition - Digital Deluxe .jpg
 │   ├── RimWorld Console Edition .jpg
@@ -6770,6 +6786,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Samurai Aces III: Sengoku Cannon .jpg
 │   ├── Seduction: A Monk's Fate PS4 & PS5 .jpg
 │   ├── Severed Steel .jpg
+│   ├── Sofiya and the Ancient Clan PS4 & PS5 .jpg
 │   ├── Square Keeper PS4 & PS5 .jpg
 │   ├── Stray .jpg
 │   ├── Surface Rush PS4 & PS5 .jpg
@@ -6777,7 +6794,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Sword and Fairy Together Forever .jpg
 │   ├── Sword and Fairy: Together Forever PS4™ & PS5™ .jpg
 │   ├── TENGAI .jpg
-│   ├── The Crew® 2 Standard Edition .jpg
+│   ├── The Ketchup story .jpg
 │   ├── The Legend of Heroes: Kuro no Kiseki .jpg
 │   ├── The Legend of Heroes: Kuro no Kiseki Digital Deluxe Edition .jpg
 │   ├── Time on Frog Island .jpg
@@ -6787,16 +6804,15 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Vump Jump .jpg
 │   ├── WAIFU IMPACT PS4 & PS5 .jpg
 │   ├── War Thunder - German Starter Bundle .jpg
-│   ├── War Thunder - Leopard 2A4 Bundle .jpg
-│   ├── War Thunder - US Starter Bundle .jpg
 │   ├── What Remains of Edith Finch .jpg
 │   ├── ZERO GUNNER 2- .jpg
-│   └── echoshift .jpg
+│   ├── echoshift .jpg
+│   └── on Sunday .jpg
 ├── tree.bak
 ├── update.py
 └── webpage.py
 
-7 directories, 6760 files
+7 directories, 6776 files
 ```
 <!-- readme-tree end -->
  
