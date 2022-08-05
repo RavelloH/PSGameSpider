@@ -13,7 +13,7 @@
 ![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/RavelloH/PSgameSpider?style=for-the-badge)
 
 在线预览:https://ravelloh.github.io/PSGameSpider  
-English version:https://ravelloh.github.io/PSGameSpider
+English version:https://ravelloh.github.io/PSGameSpider/en/
 
 ## 介绍
 基于Github Actions的自动Python爬虫，支持自动分析最新游戏链接、自动翻页、正则自适应图片名、自动选择下载高清图片、自动删除重复文件、自动更新新文件等
