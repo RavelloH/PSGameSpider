@@ -151,7 +151,7 @@ def partone(f):
             }
             .text {
              position: relative;
-              width: 45%;
+              width: 50%;
               height: 80%;
               overflow: auto;
             }
