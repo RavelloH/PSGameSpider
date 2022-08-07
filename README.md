@@ -186,6 +186,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── AKIBA'S TRIP 2.jpg
 │   ├── ALLISON'S DIARY: REBIRTH.jpg
 │   ├── ALTDEUS: Beyond Chronos.jpg
+│   ├── ANIQUILATION .jpg
 │   ├── AO Tennis 2.jpg
 │   ├── ARCADE GAME SERIES: DIG DUG.jpg
 │   ├── ARCADE GAME SERIES: GALAGA.jpg
@@ -1228,6 +1229,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Gump Jump .jpg
 │   ├── Gun Club VR.jpg
 │   ├── Gun Crazy.jpg
+│   ├── Gunducky Industries++ .jpg
 │   ├── Gunducky Industries++.jpg
 │   ├── Gunducky Industries.jpg
 │   ├── Gunkid 99 PS4 & PS5 .jpg
@@ -3462,6 +3464,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── ALLISON'S DIARY: REBIRTH.jpg
 │   ├── ALTDEUS: Beyond Chronos.jpg
 │   ├── ALVO VR.jpg
+│   ├── ANIQUILATION .jpg
 │   ├── ANNO: Mutationem.jpg
 │   ├── AO Tennis 2.jpg
 │   ├── APSULOV: END OF GODS.jpg
@@ -4667,6 +4670,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Gun Club VR.jpg
 │   ├── Gun Crazy.jpg
 │   ├── Gundam Breaker 3 BREAK EDITION.jpg
+│   ├── Gunducky Industries++ .jpg
 │   ├── Gunducky Industries++.jpg
 │   ├── Gunducky Industries.jpg
 │   ├── Gunjack.jpg
@@ -6601,6 +6605,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 ├── main.py
 ├── recent
 │   ├── A Fungus In My Garden .jpg
+│   ├── ANIQUILATION .jpg
 │   ├── Absolute Deduction捆绑包 .jpg
 │   ├── After Wave: Downfall .jpg
 │   ├── Arcade Archives Chack'n Pop .jpg
@@ -6630,6 +6635,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Gigapocalypse .jpg
 │   ├── Golf Club Wasteland .jpg
 │   ├── Gump Jump .jpg
+│   ├── Gunducky Industries++ .jpg
 │   ├── Hellpoint .jpg
 │   ├── Highway Driving .jpg
 │   ├── Kill It With Fire: Exterminator Edition .jpg
@@ -6705,6 +6711,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   └── 龙之怒火 .jpg
 ├── recent-en
 │   ├── A Fungus In My Garden .jpg
+│   ├── ANIQUILATION .jpg
 │   ├── Absolute Deduction bundle .jpg
 │   ├── After Wave: Downfall .jpg
 │   ├── Arcade Archives Chack'n Pop .jpg
@@ -6744,6 +6751,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Gigapocalypse .jpg
 │   ├── Golf Club Wasteland .jpg
 │   ├── Gump Jump .jpg
+│   ├── Gunducky Industries++ .jpg
 │   ├── Hazel Sky .jpg
 │   ├── Hellpoint .jpg
 │   ├── Highway Driving .jpg
@@ -6812,7 +6820,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 ├── update.py
 └── webpage.py
 
-7 directories, 6776 files
+7 directories, 6784 files
 ```
 <!-- readme-tree end -->
  
