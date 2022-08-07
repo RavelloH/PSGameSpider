@@ -89,7 +89,7 @@ def partone(f):
               position: relative;
               overflow: hidden;
               min-width: 80%;
-              max-width: 100%;
+              max-width: 90%;
               max-height: 100%;
               width: 100%;
               background: #000;
@@ -103,7 +103,7 @@ def partone(f):
             
             .hover-menu img {
               position: relative;
-              max-width: 100%;
+              max-width: 90%;
               top: 0;
               right: 0;
               opacity: 1;
