@@ -299,7 +299,7 @@ def partone(f):
                             <a href="/about/">
                                 ABOUT
                             </a>
-                            </p>
+                            <p></p>
                         </nav>
                     </div>
                     <div class="toggle"
