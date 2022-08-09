@@ -474,7 +474,7 @@ content = f1.read()
 f1.close()
 
 t = content.replace("\n","")
-soup = bs.BeautifulSoup(t)
+soup = BeautifulSoup(t,features="lxml")
 soup.prettify()
 print(soup.prettify())
 with open("index.html","w") as f2:
