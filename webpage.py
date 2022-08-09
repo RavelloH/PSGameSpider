@@ -456,7 +456,8 @@ endofall ='''
 '''
 partone(f)
 dt=0
-for name in os.listdir('./recent/'): 
+for name in os.listdir('./recent/'):
+    name = name.replace("'","&#x27;")
     f.write(recentpartone+str(dt)+recentparttwo+name[:-4]+recentpartthree+name[:-4]+recentpartfour+name[:-4]+recentpartfive+'\n')
     dt += 1
 f.write(htmlbodytwo+time.strftime('%Y-%m-%d %H:%M:%S',time.localtime(time.time()))+liststart)
@@ -472,6 +473,4 @@ f1 = open("index.html","r")
 content = f1.read()
 f1.close()
 
-t = content.replace("\n","")
-with open("index.html","w") as f2:
-    f2.write(t)
+
