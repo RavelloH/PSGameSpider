@@ -24,6 +24,7 @@ jobs:
              pip install wget
              pip install bs4
              pip install urllib3 #安装依赖
+             pip install lxml
       - name: 'Working'
         run: 
           python update.py #运行主程序
