@@ -5,6 +5,7 @@ from urllib.request import urlopen
 from bs4 import BeautifulSoup as bs
 import os
 import time
+import lxml
 
 if os.path.exists("index.html"):
   os.remove("index.html")
