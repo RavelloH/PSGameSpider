@@ -5,6 +5,7 @@ from urllib.request import urlopen
 from bs4 import BeautifulSoup as bs
 import os
 import time
+import lxml
 
 if os.path.exists("./en/index.html"):
   os.remove("./en/index.html")
@@ -424,7 +425,8 @@ twikoo.init({
 })
 
 </script>
-
+</div>
+</div>
             </section>
             <div class="menu">
                 <ul>
@@ -467,5 +469,8 @@ content = f1.read()
 f1.close()
 
 t = content.replace("\n","")
+soup = bs(t,features="lxml")
+soup.prettify()
 with open("./en/index.html","w") as f2:
-    f2.write(t)
+    f2.write(soup.prettify())
+    f2.close
