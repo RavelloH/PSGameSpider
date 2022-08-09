@@ -4,7 +4,7 @@ import re
 from urllib.request import urlopen
 from bs4 import BeautifulSoup as bs
 import os
-import time
+import time,datetime
 import lxml
 
 if os.path.exists("index.html"):
