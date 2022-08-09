@@ -1349,6 +1349,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Inked: A Tale of Love 洇客.jpg
 │   ├── InnerSpace.jpg
 │   ├── Inside My Radio.jpg
+│   ├── International Boxing .jpg
 │   ├── International Table Tennis.jpg
 │   ├── Intruders: Hide and Seek.jpg
 │   ├── Invasion of Normandy: Rocket Bundle .jpg
@@ -2604,6 +2605,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Unepic.jpg
 │   ├── UniPlex.jpg
 │   ├── United Assault - Normandy '44 .jpg
+│   ├── Universal Flight Simulator .jpg
 │   ├── Unpacking .jpg
 │   ├── Unpacking.jpg
 │   ├── Unrailed!.jpg
@@ -2734,6 +2736,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Xenon Valkyrie+ PS4 & PS5 .jpg
 │   ├── Xenon Valkyrie+.jpg
 │   ├── Xeodrifter™.jpg
+│   ├── Xump Jump .jpg
 │   ├── YOU ARE BEING FOLLOWED.jpg
 │   ├── YUKI.jpg
 │   ├── Yoku's Island Express.jpg
@@ -4820,6 +4823,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── InnerSpace.jpg
 │   ├── Inside My Radio.jpg
 │   ├── Insurgency: Sandstorm.jpg
+│   ├── International Boxing .jpg
 │   ├── International Table Tennis.jpg
 │   ├── Intruders: Hide and Seek.jpg
 │   ├── Invisible Inc. Console Edition.jpg
@@ -6340,6 +6344,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Unepic.jpg
 │   ├── UniPlex.jpg
 │   ├── United Assault - Normandy '44 .jpg
+│   ├── Universal Flight Simulator .jpg
 │   ├── Unpacking.jpg
 │   ├── Unrailed!.jpg
 │   ├── Unravel TWO.jpg
@@ -6485,6 +6490,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Xeodrifter™.jpg
 │   ├── Xuan Yuan Sword: the Gate of Firmament.jpg
 │   ├── Xuan-Yuan Sword VII.jpg
+│   ├── Xump Jump .jpg
 │   ├── YAKUZA 4.jpg
 │   ├── YOMAWARI: MIDNIGHT SHADOWS.jpg
 │   ├── YOU ARE BEING FOLLOWED.jpg
@@ -6611,7 +6617,6 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Arcade Archives Chack'n Pop .jpg
 │   ├── Arcade Archives DIG DUG .jpg
 │   ├── Arcade Archives DRAGON SABER .jpg
-│   ├── Arcade Archives RABIO LEPUS .jpg
 │   ├── Arcade Archives ROLLER JAMMER .jpg
 │   ├── Arsonist Heaven PS4 & PS5 .jpg
 │   ├── Bricky to Me .jpg
@@ -6621,14 +6626,12 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Crossout - Season 9 Battle Pass Bundle .jpg
 │   ├── Crossout - Season 9 Elite Battle pass Bundle .jpg
 │   ├── Crossout – "Cleaner" Starter Bundle .jpg
-│   ├── Crypt of the Serpent King Remastered 4K Edition .jpg
 │   ├── Devastator PS4 & PS5 .jpg
 │   ├── Don't Fall: aleph .jpg
 │   ├── DreadOut 2 .jpg
 │   ├── Endling - Extinction is Forever .jpg
 │   ├── Endzone - A World Apart .jpg
 │   ├── Esports Life Tycoon .jpg
-│   ├── Eternal Hope .jpg
 │   ├── Exploria .jpg
 │   ├── Frogo .jpg
 │   ├── Gale of Windoria .jpg
@@ -6638,19 +6641,12 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Gunducky Industries++ .jpg
 │   ├── Hellpoint .jpg
 │   ├── Highway Driving .jpg
-│   ├── Kill It With Fire: Exterminator Edition .jpg
+│   ├── International Boxing .jpg
 │   ├── Kruger .jpg
 │   ├── LocoRoco Midnight Carnival .jpg
-│   ├── Lords of the Fallen Complete Edition .jpg
 │   ├── Lump Jump .jpg
-│   ├── MADiSON .jpg
-│   ├── MX vs ATV Legends .jpg
-│   ├── MX vs ATV Legends Leader Pack .jpg
-│   ├── Matchpoint - Tennis Championships PS4 & PS5 .jpg
-│   ├── Matchpoint - Tennis Championships | Legends Edition PS4 & PS5 .jpg
 │   ├── No Heroes Allowed! .jpg
 │   ├── OUT OF THE BOX .jpg
-│   ├── Overrogue .jpg
 │   ├── Paradox Error .jpg
 │   ├── Puzzletronics: Digital Infinite .jpg
 │   ├── QUByte Classics: Thunderbolt Collection by PIKO .jpg
@@ -6668,11 +6664,10 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── The Ketchup story .jpg
 │   ├── Transiruby .jpg
 │   ├── Two Hundred Ways .jpg
-│   ├── United Assault - Normandy '44 .jpg
+│   ├── Universal Flight Simulator .jpg
 │   ├── Vump Jump .jpg
-│   ├── WAIFU IMPACT PS4 & PS5 .jpg
-│   ├── War Thunder - German Starter Bundle .jpg
 │   ├── What Remains of Edith Finch .jpg
+│   ├── Xump Jump .jpg
 │   ├── echoshift 时限回廊 .jpg
 │   ├── on Sunday .jpg
 │   ├── 《GigaBash 巨击大乱斗》 .jpg
@@ -6706,8 +6701,6 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── 蛙岛时光 序幕 .jpg
 │   ├── 逃脱学院 .jpg
 │   ├── 零式枪手2- .jpg
-│   ├── 风之少年 克罗诺亚1&2 乘风归来 PS4 & PS5 .jpg
-│   ├── 风之少年 克罗诺亚1&2 乘风归来 数字豪华版 PS4 & PS5 .jpg
 │   └── 龙之怒火 .jpg
 ├── recent-en
 │   ├── A Fungus In My Garden .jpg
@@ -6717,7 +6710,6 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Arcade Archives Chack'n Pop .jpg
 │   ├── Arcade Archives DIG DUG .jpg
 │   ├── Arcade Archives DRAGON SABER .jpg
-│   ├── Arcade Archives RABIO LEPUS .jpg
 │   ├── Arcade Archives ROLLER JAMMER .jpg
 │   ├── Arsonist Heaven PS4 & PS5 .jpg
 │   ├── Bricky to Me .jpg
@@ -6728,7 +6720,6 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Crossout - Season 9 Battle Pass Bundle .jpg
 │   ├── Crossout - Season 9 Elite Battle pass Bundle .jpg
 │   ├── Crossout – "Cleaner" Starter Bundle .jpg
-│   ├── Crypt of the Serpent King Remastered 4K Edition .jpg
 │   ├── Danganronpa S: Ultimate Summer Camp .jpg
 │   ├── Devastator PS4 & PS5 .jpg
 │   ├── Digimon Survive .jpg
@@ -6740,7 +6731,6 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Escape Academy .jpg
 │   ├── Escape Academy Deluxe Edition .jpg
 │   ├── Esports Life Tycoon .jpg
-│   ├── Eternal Hope .jpg
 │   ├── Exploria .jpg
 │   ├── Frogo .jpg
 │   ├── GUNBARICH .jpg
@@ -6756,19 +6746,11 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Hellpoint .jpg
 │   ├── Highway Driving .jpg
 │   ├── Hourglass .jpg
-│   ├── Kill It With Fire: Exterminator Edition .jpg
-│   ├── Klonoa Phantasy Reverie Series Digital Deluxe Edition PS4 & PS5 .jpg
-│   ├── Klonoa Phantasy Reverie Series PS4 & PS5 .jpg
+│   ├── International Boxing .jpg
 │   ├── Kruger .jpg
 │   ├── LOST EPIC .jpg
 │   ├── LocoRoco Midnight Carnival .jpg
-│   ├── Lords of the Fallen Complete Edition .jpg
 │   ├── Lump Jump .jpg
-│   ├── MADiSON .jpg
-│   ├── MX vs ATV Legends .jpg
-│   ├── MX vs ATV Legends Leader Pack .jpg
-│   ├── Matchpoint - Tennis Championships PS4 & PS5 .jpg
-│   ├── Matchpoint - Tennis Championships | Legends Edition PS4 & PS5 .jpg
 │   ├── Miss Kobayashi's Dragon Maid Burst Forth!! Choro-gon☆Breath .jpg
 │   ├── Mothmen 1966 .jpg
 │   ├── NOBUNAGA'S AMBITION: Shinsei .jpg
@@ -6776,7 +6758,6 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── No Heroes Allowed! .jpg
 │   ├── OUT OF THE BOX .jpg
 │   ├── Outward: The Adventurer Bundle .jpg
-│   ├── Overrogue .jpg
 │   ├── Paradox Error .jpg
 │   ├── Path of Titans Deluxe Founder's Pack .jpg
 │   ├── Path of Titans Standard Founder's Pack .jpg
@@ -6808,11 +6789,10 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Time on Frog Island .jpg
 │   ├── Transiruby .jpg
 │   ├── Two Hundred Ways .jpg
-│   ├── United Assault - Normandy '44 .jpg
+│   ├── Universal Flight Simulator .jpg
 │   ├── Vump Jump .jpg
-│   ├── WAIFU IMPACT PS4 & PS5 .jpg
-│   ├── War Thunder - German Starter Bundle .jpg
 │   ├── What Remains of Edith Finch .jpg
+│   ├── Xump Jump .jpg
 │   ├── ZERO GUNNER 2- .jpg
 │   ├── echoshift .jpg
 │   └── on Sunday .jpg
@@ -6820,7 +6800,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 ├── update.py
 └── webpage.py
 
-7 directories, 6784 files
+7 directories, 6764 files
 ```
 <!-- readme-tree end -->
  
