@@ -453,7 +453,7 @@ endofall ='''
 partone(f)
 dt=0
 for name in os.listdir('./recent-en/'): 
-    f.write(recentpartone+str(dt)+recentparttwo+name[:-4]+recentpartthree+name[:-4]+recentpartfour+name[:-4]+recentpartfive+'\n')
+    f.write(recentpartone+str(dt)+recentparttwo+name.replace("'","\'")[:-4]+recentpartthree+name[:-4]+recentpartfour+name.replace("'","\'")[:-4]+recentpartfive+'\n')
     dt += 1
 f.write(htmlbodytwo+time.strftime('%Y-%m-%d %H:%M:%S',time.localtime(time.time()))+liststart)
 for file_nameb in os.listdir('./img-en/'):
