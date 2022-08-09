@@ -2141,6 +2141,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Salary Man Escape™.jpg
 │   ├── Salt and Sanctuary.jpg
 │   ├── Samael: The Legacy of Ophiuchus.jpg
+│   ├── Santa's workshop .jpg
 │   ├── Sayonara Wild Hearts.jpg
 │   ├── Scheming Through The Zombie Apocalypse: The Beginning.jpg
 │   ├── School Girl Zombie Hunter.jpg
@@ -2492,6 +2493,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── The Technomancer.jpg
 │   ├── The Town of Light.jpg
 │   ├── The Trap Remake.jpg
+│   ├── The Ultimate FMV Bundle 2 .jpg
 │   ├── The Uncertain: Last Quiet Day.jpg
 │   ├── The Unfinished Swan™.jpg
 │   ├── The Unicorn Princess.jpg
@@ -2919,6 +2921,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── 克隆机器人角斗场 .jpg
 │   ├── 克隆机器人角斗场.jpg
 │   ├── 全民高尔夫 VR.jpg
+│   ├── 公理边缘2 .jpg
 │   ├── 公理边缘2.jpg
 │   ├── 关键奇异鸟 (KeyWe).jpg
 │   ├── 冤罪执行游戏Yurukill .jpg
@@ -3796,6 +3799,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Awesome Pea 2.jpg
 │   ├── Awesome Pea.jpg
 │   ├── Awesomenauts Assemble!.jpg
+│   ├── Axiom Verge 2 .jpg
 │   ├── Axiom Verge 2.jpg
 │   ├── Ayleouna.jpg
 │   ├── Ayo the Clown.jpg
@@ -5781,6 +5785,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Samurai Aces .jpg
 │   ├── Samurai Aces III: Sengoku Cannon .jpg
 │   ├── Samurai Bringer.jpg
+│   ├── Santa's workshop .jpg
 │   ├── Sayonara Wild Hearts.jpg
 │   ├── Scheming Through The Zombie Apocalypse: The Beginning.jpg
 │   ├── School Girl Zombie Hunter.jpg
@@ -6204,6 +6209,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── The Technomancer.jpg
 │   ├── The Town of Light.jpg
 │   ├── The Trap Remake.jpg
+│   ├── The Ultimate FMV Bundle 2 .jpg
 │   ├── The Uncertain: Last Quiet Day.jpg
 │   ├── The Unfinished Swan™.jpg
 │   ├── The Unicorn Princess.jpg
@@ -6631,7 +6637,6 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── DreadOut 2 .jpg
 │   ├── Endling - Extinction is Forever .jpg
 │   ├── Endzone - A World Apart .jpg
-│   ├── Esports Life Tycoon .jpg
 │   ├── Exploria .jpg
 │   ├── Frogo .jpg
 │   ├── Gale of Windoria .jpg
@@ -6654,6 +6659,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Rayland PS4 & PS5 .jpg
 │   ├── RimWorld Console Edition - Digital Deluxe .jpg
 │   ├── RimWorld Console Edition .jpg
+│   ├── Santa's workshop .jpg
 │   ├── Seduction: A Monk's Fate PS4 & PS5 .jpg
 │   ├── Severed Steel .jpg
 │   ├── Sofiya and the Ancient Clan PS4 & PS5 .jpg
@@ -6662,6 +6668,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Surface Rush PS4 & PS5 .jpg
 │   ├── Surviving the Aftermath .jpg
 │   ├── The Ketchup story .jpg
+│   ├── The Ultimate FMV Bundle 2 .jpg
 │   ├── Transiruby .jpg
 │   ├── Two Hundred Ways .jpg
 │   ├── Universal Flight Simulator .jpg
@@ -6678,6 +6685,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── 信長之野望·新生 .jpg
 │   ├── 信長之野望·新生 数字豪华版 .jpg
 │   ├── 光明记忆：无限 .jpg
+│   ├── 公理边缘2 .jpg
 │   ├── 天蛾人1966 .jpg
 │   ├── 失落史诗 .jpg
 │   ├── 小林家的龙女仆 炸裂!! 呆萌龙☆吐息 .jpg
@@ -6712,6 +6720,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Arcade Archives DRAGON SABER .jpg
 │   ├── Arcade Archives ROLLER JAMMER .jpg
 │   ├── Arsonist Heaven PS4 & PS5 .jpg
+│   ├── Axiom Verge 2 .jpg
 │   ├── Bricky to Me .jpg
 │   ├── Bright Memory: Infinite .jpg
 │   ├── Bump Jump .jpg
@@ -6730,7 +6739,6 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Endzone - A World Apart .jpg
 │   ├── Escape Academy .jpg
 │   ├── Escape Academy Deluxe Edition .jpg
-│   ├── Esports Life Tycoon .jpg
 │   ├── Exploria .jpg
 │   ├── Frogo .jpg
 │   ├── GUNBARICH .jpg
@@ -6773,6 +6781,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── STRIKERS 1945 III .jpg
 │   ├── Samurai Aces .jpg
 │   ├── Samurai Aces III: Sengoku Cannon .jpg
+│   ├── Santa's workshop .jpg
 │   ├── Seduction: A Monk's Fate PS4 & PS5 .jpg
 │   ├── Severed Steel .jpg
 │   ├── Sofiya and the Ancient Clan PS4 & PS5 .jpg
@@ -6786,6 +6795,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── The Ketchup story .jpg
 │   ├── The Legend of Heroes: Kuro no Kiseki .jpg
 │   ├── The Legend of Heroes: Kuro no Kiseki Digital Deluxe Edition .jpg
+│   ├── The Ultimate FMV Bundle 2 .jpg
 │   ├── Time on Frog Island .jpg
 │   ├── Transiruby .jpg
 │   ├── Two Hundred Ways .jpg
@@ -6800,7 +6810,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 ├── update.py
 └── webpage.py
 
-7 directories, 6764 files
+7 directories, 6774 files
 ```
 <!-- readme-tree end -->
  
