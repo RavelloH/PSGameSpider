@@ -476,6 +476,5 @@ f1.close()
 t = content.replace("\n","")
 soup = bs(t,features="lxml")
 soup.prettify()
-print(soup.prettify())
 with open("index.html","w") as f2:
-    f2.write(soup)
+    f2.write(soup.prettify())
