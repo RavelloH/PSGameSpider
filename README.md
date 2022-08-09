@@ -1226,6 +1226,8 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Guacamelee! 2.jpg
 │   ├── Guacamelee! Super Turbo Championship Edition.jpg
 │   ├── Guard Duty.jpg
+│   ├── Guilty Gear -Strive- + Season Pass 1 .jpg
+│   ├── Guilty Gear -Strive- Ultimate Edition 2022 PS4 & PS5 .jpg
 │   ├── Gump Jump .jpg
 │   ├── Gun Club VR.jpg
 │   ├── Gun Crazy.jpg
@@ -2722,6 +2724,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Wordbreaker by POWGI.jpg
 │   ├── Wordsweeper by POWGI.jpg
 │   ├── World War Z.jpg
+│   ├── World of Tanks – Evolution入门包 .jpg
 │   ├── World of Tanks – Steel Beasts入门包 .jpg
 │   ├── World of Tanks.jpg
 │   ├── World of Warships: Legends.jpg
@@ -4670,6 +4673,8 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Guacamelee! Super Turbo Championship Edition.jpg
 │   ├── Guard Duty.jpg
 │   ├── Guardian Force - Saturn Tribute.jpg
+│   ├── Guilty Gear -Strive- + Season Pass 1 PS4 & PS5 .jpg
+│   ├── Guilty Gear -Strive- Ultimate Edition 2022 PS4 & PS5 .jpg
 │   ├── Guilty Gear Xrd -Revelator-.jpg
 │   ├── Guilty Gear Xrd -SIGN-.jpg
 │   ├── Guilty Gear Xrd REV 2.jpg
@@ -6479,6 +6484,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Wordbreaker by POWGI.jpg
 │   ├── Wordsweeper by POWGI.jpg
 │   ├── World War Z.jpg
+│   ├── World of Tanks –  Evolution Starter Pack .jpg
 │   ├── World of Tanks.jpg
 │   ├── World of Warships: Legends.jpg
 │   ├── Worms Armageddon [PS1 Emulation].jpg
@@ -6642,6 +6648,8 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Gale of Windoria .jpg
 │   ├── Gigapocalypse .jpg
 │   ├── Golf Club Wasteland .jpg
+│   ├── Guilty Gear -Strive- + Season Pass 1 .jpg
+│   ├── Guilty Gear -Strive- Ultimate Edition 2022 PS4 & PS5 .jpg
 │   ├── Gump Jump .jpg
 │   ├── Gunducky Industries++ .jpg
 │   ├── Hellpoint .jpg
@@ -6674,6 +6682,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Universal Flight Simulator .jpg
 │   ├── Vump Jump .jpg
 │   ├── What Remains of Edith Finch .jpg
+│   ├── World of Tanks – Evolution入门包 .jpg
 │   ├── Xump Jump .jpg
 │   ├── echoshift 时限回廊 .jpg
 │   ├── on Sunday .jpg
@@ -6748,6 +6757,8 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── GigaBash .jpg
 │   ├── Gigapocalypse .jpg
 │   ├── Golf Club Wasteland .jpg
+│   ├── Guilty Gear -Strive- + Season Pass 1 PS4 & PS5 .jpg
+│   ├── Guilty Gear -Strive- Ultimate Edition 2022 PS4 & PS5 .jpg
 │   ├── Gump Jump .jpg
 │   ├── Gunducky Industries++ .jpg
 │   ├── Hazel Sky .jpg
@@ -6802,6 +6813,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Universal Flight Simulator .jpg
 │   ├── Vump Jump .jpg
 │   ├── What Remains of Edith Finch .jpg
+│   ├── World of Tanks –  Evolution Starter Pack .jpg
 │   ├── Xump Jump .jpg
 │   ├── ZERO GUNNER 2- .jpg
 │   ├── echoshift .jpg
@@ -6810,7 +6822,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 ├── update.py
 └── webpage.py
 
-7 directories, 6774 files
+7 directories, 6786 files
 ```
 <!-- readme-tree end -->
  
