@@ -431,7 +431,8 @@ twikoo.init({
 })
 
 </script>
-</section>
+</div>
+</div>
 </section>
             
             <div class="menu">
@@ -479,3 +480,4 @@ soup = bs(t,features="lxml")
 soup.prettify()
 with open("index.html","w") as f2:
     f2.write(soup.prettify())
+    f2.close
