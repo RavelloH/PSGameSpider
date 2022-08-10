@@ -4,7 +4,7 @@ document.getElementById('output').innerHTML = "The terminal is waiting for data 
 var innerimghead = '<figure class="hover-menu"><img src="../img-en/';
 var innerimgparta = '.jpg"/><div><a href="../img-en/';
 var innerimgpartaend = '.jpg">Preview pictures</a><a href="https://github.com/RavelloH/PSGameSpider/blob/main/img-en/'
-var innerimgpartb = '.jpg">View source</a><a href="https://store.playstation.com/zh-hans-cn/search/';
+var innerimgpartb = '.jpg">View source</a><a href="https://store.playstation.com/en-us/search/';
 var innerimgpartc = '">Go to store</a></div></figure>';
 function search() {
         var innerimgurl = document.getElementById("searchurl").value;
