@@ -583,6 +583,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Bonds of the Skies.jpg
 │   ├── Bonfire Peaks.jpg
 │   ├── Bonfire.jpg
+│   ├── Book Quest PS4 & PS5 .jpg
 │   ├── Book of Demons.jpg
 │   ├── Bookbound Brigade.jpg
 │   ├── Boomerang Fu .jpg
@@ -2582,6 +2583,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Twin Mirror.jpg
 │   ├── Twin Robots: Ultimate Edition.jpg
 │   ├── Two Hundred Ways .jpg
+│   ├── Two Point Campus PS4 & PS5 .jpg
 │   ├── Two Point Campus.jpg
 │   ├── Two Point Hospital.jpg
 │   ├── Type:Rider.jpg
@@ -3015,6 +3017,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── 小小大星球 3.jpg
 │   ├── 小小白日梦.jpg
 │   ├── 小小诺娅：乐园继承者 .jpg
+│   ├── 小小诺娅：乐园继承者　特别版 .jpg
 │   ├── 小林家的龙女仆 炸裂!! 呆萌龙☆吐息 .jpg
 │   ├── 小缇娜强袭龙堡：奇幻之地大冒险.jpg
 │   ├── 小缇娜的奇幻之地.jpg
@@ -3933,6 +3936,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Bonds of the Skies.jpg
 │   ├── Bonfire Peaks.jpg
 │   ├── Bonfire.jpg
+│   ├── Book Quest PS4 & PS5 .jpg
 │   ├── Book of Demons.jpg
 │   ├── Bookbound Brigade.jpg
 │   ├── Borderlands 3.jpg
@@ -5007,6 +5011,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Little Nightmares II.jpg
 │   ├── Little Nightmares.jpg
 │   ├── Little Noah: Scion of Paradise .jpg
+│   ├── Little Noah: Scion of Paradise Special Edition .jpg
 │   ├── Little Noah: Scion of Paradise.jpg
 │   ├── Little Red Lie.jpg
 │   ├── Little Triangle.jpg
@@ -6321,6 +6326,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Twin Mirror.jpg
 │   ├── Twin Robots: Ultimate Edition.jpg
 │   ├── Two Hundred Ways .jpg
+│   ├── Two Point Campus PS4 & PS5 .jpg
 │   ├── Two Point Campus.jpg
 │   ├── Two Point Hospital.jpg
 │   ├── Tyd wag vir Niemand - Deluxe Edition .jpg
@@ -6631,6 +6637,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Arcade Archives DRAGON SABER .jpg
 │   ├── Arcade Archives ROLLER JAMMER .jpg
 │   ├── Arsonist Heaven PS4 & PS5 .jpg
+│   ├── Book Quest PS4 & PS5 .jpg
 │   ├── Bricky to Me .jpg
 │   ├── Bump Jump .jpg
 │   ├── Capcom Arcade 2nd Stadium .jpg
@@ -6647,7 +6654,6 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Frogo .jpg
 │   ├── Gale of Windoria .jpg
 │   ├── Gigapocalypse .jpg
-│   ├── Golf Club Wasteland .jpg
 │   ├── Guilty Gear -Strive- + Season Pass 1 .jpg
 │   ├── Guilty Gear -Strive- Ultimate Edition 2022 PS4 & PS5 .jpg
 │   ├── Gump Jump .jpg
@@ -6659,7 +6665,6 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── LocoRoco Midnight Carnival .jpg
 │   ├── Lump Jump .jpg
 │   ├── No Heroes Allowed! .jpg
-│   ├── OUT OF THE BOX .jpg
 │   ├── Paradox Error .jpg
 │   ├── Puzzletronics: Digital Infinite .jpg
 │   ├── QUByte Classics: Thunderbolt Collection by PIKO .jpg
@@ -6679,6 +6684,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── The Ultimate FMV Bundle 2 .jpg
 │   ├── Transiruby .jpg
 │   ├── Two Hundred Ways .jpg
+│   ├── Two Point Campus PS4 & PS5 .jpg
 │   ├── Universal Flight Simulator .jpg
 │   ├── Vump Jump .jpg
 │   ├── What Remains of Edith Finch .jpg
@@ -6697,6 +6703,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── 公理边缘2 .jpg
 │   ├── 天蛾人1966 .jpg
 │   ├── 失落史诗 .jpg
+│   ├── 小小诺娅：乐园继承者　特别版 .jpg
 │   ├── 小林家的龙女仆 炸裂!! 呆萌龙☆吐息 .jpg
 │   ├── 幸福枪弹辩驳Ｓ 超高中级的南国掷骰合宿 .jpg
 │   ├── 彼岸晴空 .jpg
@@ -6730,6 +6737,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Arcade Archives ROLLER JAMMER .jpg
 │   ├── Arsonist Heaven PS4 & PS5 .jpg
 │   ├── Axiom Verge 2 .jpg
+│   ├── Book Quest PS4 & PS5 .jpg
 │   ├── Bricky to Me .jpg
 │   ├── Bright Memory: Infinite .jpg
 │   ├── Bump Jump .jpg
@@ -6756,7 +6764,6 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Gale of Windoria .jpg
 │   ├── GigaBash .jpg
 │   ├── Gigapocalypse .jpg
-│   ├── Golf Club Wasteland .jpg
 │   ├── Guilty Gear -Strive- + Season Pass 1 PS4 & PS5 .jpg
 │   ├── Guilty Gear -Strive- Ultimate Edition 2022 PS4 & PS5 .jpg
 │   ├── Gump Jump .jpg
@@ -6768,6 +6775,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── International Boxing .jpg
 │   ├── Kruger .jpg
 │   ├── LOST EPIC .jpg
+│   ├── Little Noah: Scion of Paradise Special Edition .jpg
 │   ├── LocoRoco Midnight Carnival .jpg
 │   ├── Lump Jump .jpg
 │   ├── Miss Kobayashi's Dragon Maid Burst Forth!! Choro-gon☆Breath .jpg
@@ -6775,7 +6783,6 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── NOBUNAGA'S AMBITION: Shinsei .jpg
 │   ├── NOBUNAGA'S AMBITION: Shinsei Digital Deluxe Edition .jpg
 │   ├── No Heroes Allowed! .jpg
-│   ├── OUT OF THE BOX .jpg
 │   ├── Outward: The Adventurer Bundle .jpg
 │   ├── Paradox Error .jpg
 │   ├── Path of Titans Deluxe Founder's Pack .jpg
@@ -6810,6 +6817,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Time on Frog Island .jpg
 │   ├── Transiruby .jpg
 │   ├── Two Hundred Ways .jpg
+│   ├── Two Point Campus PS4 & PS5 .jpg
 │   ├── Universal Flight Simulator .jpg
 │   ├── Vump Jump .jpg
 │   ├── What Remains of Edith Finch .jpg
@@ -6822,7 +6830,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 ├── update.py
 └── webpage.py
 
-7 directories, 6786 files
+7 directories, 6794 files
 ```
 <!-- readme-tree end -->
  
