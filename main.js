@@ -4,7 +4,7 @@ document.getElementById('output').innerHTML = "终端正在等待数据输入...
 var innerimghead = '<figure class="hover-menu"><img src="img/';
 var innerimgparta = '.jpg"/><div><a href="img/';
 var innerimgpartaend = '.jpg">预览图片</a><a href="https://github.com/RavelloH/PSGameSpider/blob/main/img/'
-var innerimgpartb = '.jpg">查看源</a><a href="https://store.playstation.com/zh-hans-cn/search/';
+var innerimgpartb = '.jpg">查看源</a><a href="https://store.playstation.com/zh-hans-hk/search/';
 var innerimgpartc = '">转到Store</a></div></figure>';
 function search() {
         var innerimgurl = document.getElementById("searchurl").value;
