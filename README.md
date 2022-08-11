@@ -36,7 +36,6 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │       └── tree.yml
 ├── LICENSE
 ├── README.md
-├── date-en.log
 ├── date.log
 ├── en
 │   ├── en-main.js
@@ -6830,7 +6829,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 ├── update.py
 └── webpage.py
 
-7 directories, 6794 files
+7 directories, 6793 files
 ```
 <!-- readme-tree end -->
  
