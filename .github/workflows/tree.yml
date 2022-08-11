@@ -8,7 +8,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - name: Tree
-        uses: RavelloH/readme-tree@latest
+        uses: RavelloH/readme-tree-undo@latest
       - name: commit
         continue-on-error: True
         run: |
