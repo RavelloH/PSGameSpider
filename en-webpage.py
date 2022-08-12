@@ -442,7 +442,7 @@ endofall ='''
         </script>
             <script type="text/javascript"
                 src="en-main.js"></script>
-            <script src="https://ravelloh.github.io/js/script.js"></script>
+            <script type="text/javascript" src="https://ravelloh.github.io/js/script.js"></script>
             <script src="//instant.page/5.1.0"
                     type="module"
                     integrity="sha384-by67kQnR+pyfy8yWP4kPO12fHKRLHZPfEsiSXR8u2IKcTdxD805MGUXBzVPnkLHw"></script>
@@ -453,7 +453,7 @@ endofall ='''
 partone(f)
 dt=0
 for name in os.listdir('./recent-en/'): 
-    f.write(recentpartone+str(dt)+recentparttwo+name.replace("'","\'")[:-4]+recentpartthree+name[:-4]+recentpartfour+name.replace("'",r"\'")[:-4]+recentpartfive+'\n')
+    f.write(recentpartone+str(dt)+recentparttwo+name.replace("'",r"\'")[:-4]+recentpartthree+name[:-4]+recentpartfour+name.replace("'",r"\'")[:-4]+recentpartfive+'\n')
     dt += 1
 f.write(htmlbodytwo+time.strftime('%Y-%m-%d %H:%M:%S',time.localtime(time.time()))+liststart)
 for file_nameb in os.listdir('./img-en/'):
