@@ -6962,12 +6962,14 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── ZERO GUNNER 2- .jpg
 │   ├── echoshift .jpg
 │   └── on Sunday .jpg
+├── thumbs
+│   └── en-thumbs.py
 ├── thumbs.py
 ├── tree.bak
 ├── update.py
 └── webpage.py
 
-8 directories, 6930 files
+9 directories, 6931 files
 ```
 <!-- readme-tree end -->
  
