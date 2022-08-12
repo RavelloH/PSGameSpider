@@ -41,6 +41,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── en-main.js
 │   └── index.html
 ├── en-main.py
+├── en-thumbs.py
 ├── en-update.py
 ├── en-webpage.py
 ├── img
@@ -6962,14 +6963,12 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── ZERO GUNNER 2- .jpg
 │   ├── echoshift .jpg
 │   └── on Sunday .jpg
-├── thumbs
-│   └── en-thumbs.py
 ├── thumbs.py
 ├── tree.bak
 ├── update.py
 └── webpage.py
 
-9 directories, 6931 files
+8 directories, 6931 files
 ```
 <!-- readme-tree end -->
  
