@@ -5,8 +5,8 @@
   <title>
    PSGameSpider | RavelloH’s Blog
   </title>
-  <meta content="RavelloH,blog," name="keywords"/>
-  <meta content="A Blog by RavelloH" name="description"/>
+  <meta content="RavelloH,blog,PlayStation,爬虫" name="keywords"/>
+  <meta content="自动爬取所有PlayStationStore中的所有游戏封面，自动生成网页并索引" name="description"/>
   <!-- CSS -->
   <link href="https://ravelloh.github.io/css/common.css" rel="stylesheet" type="text/css"/>
   <link href="https://ravelloh.github.io/css/style.css" rel="stylesheet" type="text/css"/>
@@ -14,11 +14,6 @@
   <style type="text/css">
    button {border: 1px solid #0099CC;                        background-color:#1e1e1e;                        color:#c6c9ce;                        border-radius: 3px;                        margin-top:1px;                        padding: 5px 20%;                        width:100%;                        height:40px;                        text-align: center;                         display: inline-block;                         font-size: 16px;                         -webkit-transition-duration: 0.4s;                         /* Safari */ transition-duration: 0.4s;                         cursor: pointer;                         text-decoration: none;                         text-transform: uppercase; }                 button{border: 1px solid #008CBA; background-color:#1e1e1e:} /* 悬停样式 */                 button:hover { background-color: #008CBA; color:#c6c9ce;}                input{                background-color:#1e1e1e;                color:#c6c9ce;                border: 1px solid #ccc;                 border-radius: 3px;                padding: 0px 10% 0px 10%;                width:100%;                height:40px;                font-size: 16px;                font-weight: 700;                }                input:focus{                border-color: #66afe9;                outline: 0;                -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.075),0 0 8px rgba(102,175,233,.6);                box-shadow: inset 0 1px 1px rgba(0,0,0,.075),0 0 8px rgba(102,175,233,.6)                }                .output{                border: 1px solid #808080;                background-color:#1e1e1e;                color:#808080;                border-radius: 3px;                margin-top:1px;                padding: 10px 1px 1px 10px;                width:100%;                height:15%;                overflow:auto;                }                .output * {                color:#808080                }                .hover-menu {              position: relative;              overflow: hidden;              min-width: 80%;              max-width: 90%;              max-height: 100%;              width: 100%;              background: #000;              text-align: center;              box-sizing: border-box;            }                        .hover-menu * {              box-sizing: border-box;            }                        .hover-menu img {              position: relative;              max-width: 90%;              top: 0;              right: 0;              opacity: 1;              transition: 0.3s ease-in-out;              object-fit: cover;            }                        .hover-menu div {              position: absolute;              top: 0;              left: -120px;              width: 120px;              height: 100%;              padding: 8px 4px;              background: #000;              transition: 0.3s ease-in-out;              display: flex;              flex-direction: column;              justify-content: center;            }                        .hover-menu div a {              display: block;              line-height: 2;              color: #fff;              text-decoration: none;              opacity: 0.8;              padding: 5px 15px;              position: relative;              transition: 0.3s ease-in-out;            }                        .hover-menu div a:hover {              text-decoration: underline;            }                        .hover-menu:hover img {              opacity: 0.5;              right: -120px;            }                        .hover-menu:hover div {              left: 0;              opacity: 1;            }            .text {             position: relative;              width: 50%;              height: 80%;              overflow: auto;            }            .card {              width: 10vw;              height: 10vw;              padding: 0;              box-shadow: 0 2px 4px 0 rgba(0,0,0,0.1);              border-radius: 4px;              box-sizing: border-box;              overflow: hidden;              display:inline-block;            }                        .card * {              transition: 0.3s ease all;            }                        .card img {              margin: 0;              width: 10vw;              height: 8vw;              object-fit: cover;              display: block;            }                        .card .focus-content {              display: block;              padding: 6px 2px;            }                        .card p {              margin: 0;              line-height: 1;            }            .card a {            margin-top:20px;            }            .card:hover a, .card:focus-within a {            margin-top:0;            padding:2px 2px 0;            }            .card:hover img, .card:focus-within img {              margin-top: -20px;            }                        .card:hover p, .card:focus-within p {              padding: 2px 3px 0;            }            .card p,.typing {                white-space: nowrap;                width: fit-content;            }            .card:hover p {                animation: 5s wordsLoop linear infinite;            }            @keyframes wordsLoop {                0%,100% {                    transform: translateX(0px);                }                10%,90% {                    transform: translateX(0px);                }                40%,60% {                    transform: translateX(calc(-100% + 10vw));                }            }            #circle{                margin: 20px auto;                width: 50px;                height: 50px;                border: 10px #1e1e1e solid;                border-left-color: #c6c9ce;                border-right-color:#c6c9ce;                border-radius: 100%;                animation: loading1 1s infinite linear;                transition-property: opacity, transform;            }            @keyframes loading1{                from{transform: rotate(0deg)}to{transform: rotate(360deg)}            }                        .drop-in {              opacity: 0;              display:none;              transition-property: opacity, transform, display;              transition-duration: 0.3s;              transition-timing-function: cubic-bezier(0.750, -0.015, 0.565, 1.055);              display:inline-block;            }                        .droped{              transition-delay: calc((0.055s * var(--i)));              opacity: 1;              display:inline-block;            }            .disappear{            display:none;            transition-duration: 0.3s;            }
   </style>
-  <!-- JavaScript -->
-  <script src="https://ravelloh.github.io/js/loading.js" type="text/javascript">
-  </script>
-  <script src="https://ravelloh.github.io/js/common.js" type="text/javascript">
-  </script>
  </head>
  <body>
   <section class="showcase">
@@ -264,7 +259,7 @@
     </div>
     <div class="drop-in" style="--i: 15">
      <div class="card">
-      <img onload="this.src='min-recent/Santa's workshop .jpg'" src="logo.jpg"/>
+      <img onload="this.src='min-recent/Santa\'s workshop .jpg'" src="logo.jpg"/>
       <div class="focus-content">
        <p>
         Santa's workshop
@@ -355,19 +350,6 @@
     </div>
     <div class="drop-in" style="--i: 22">
      <div class="card">
-      <img onload="this.src='min-recent/零式枪手2- .jpg'" src="logo.jpg"/>
-      <div class="focus-content">
-       <p>
-        零式枪手2-
-       </p>
-       <a onclick="quicksearch('零式枪手2- ')">
-        查看详情
-       </a>
-      </div>
-     </div>
-    </div>
-    <div class="drop-in" style="--i: 23">
-     <div class="card">
       <img onload="this.src='min-recent/Crossout - Season 9 Elite Battle pass Bundle .jpg'" src="logo.jpg"/>
       <div class="focus-content">
        <p>
@@ -379,7 +361,7 @@
       </div>
      </div>
     </div>
-    <div class="drop-in" style="--i: 24">
+    <div class="drop-in" style="--i: 23">
      <div class="card">
       <img onload="this.src='min-recent/The Ultimate FMV Bundle 2 .jpg'" src="logo.jpg"/>
       <div class="focus-content">
@@ -392,7 +374,7 @@
       </div>
      </div>
     </div>
-    <div class="drop-in" style="--i: 25">
+    <div class="drop-in" style="--i: 24">
      <div class="card">
       <img onload="this.src='min-recent/Devastator PS4 &amp; PS5 .jpg'" src="logo.jpg"/>
       <div class="focus-content">
@@ -405,7 +387,7 @@
       </div>
      </div>
     </div>
-    <div class="drop-in" style="--i: 26">
+    <div class="drop-in" style="--i: 25">
      <div class="card">
       <img onload="this.src='min-recent/Arcade Archives DIG DUG .jpg'" src="logo.jpg"/>
       <div class="focus-content">
@@ -418,7 +400,7 @@
       </div>
      </div>
     </div>
-    <div class="drop-in" style="--i: 27">
+    <div class="drop-in" style="--i: 26">
      <div class="card">
       <img onload="this.src='min-recent/Wally and the FANTASTIC PREDATORS .jpg'" src="logo.jpg"/>
       <div class="focus-content">
@@ -431,7 +413,7 @@
       </div>
      </div>
     </div>
-    <div class="drop-in" style="--i: 28">
+    <div class="drop-in" style="--i: 27">
      <div class="card">
       <img onload="this.src='min-recent/The Ketchup story .jpg'" src="logo.jpg"/>
       <div class="focus-content">
@@ -444,7 +426,7 @@
       </div>
      </div>
     </div>
-    <div class="drop-in" style="--i: 29">
+    <div class="drop-in" style="--i: 28">
      <div class="card">
       <img onload="this.src='min-recent/小小诺娅：乐园继承者　特别版 .jpg'" src="logo.jpg"/>
       <div class="focus-content">
@@ -457,7 +439,7 @@
       </div>
      </div>
     </div>
-    <div class="drop-in" style="--i: 30">
+    <div class="drop-in" style="--i: 29">
      <div class="card">
       <img onload="this.src='min-recent/Capcom Arcade 2nd Stadium Bundle .jpg'" src="logo.jpg"/>
       <div class="focus-content">
@@ -470,7 +452,7 @@
       </div>
      </div>
     </div>
-    <div class="drop-in" style="--i: 31">
+    <div class="drop-in" style="--i: 30">
      <div class="card">
       <img onload="this.src='min-recent/Rumbleverse .jpg'" src="logo.jpg"/>
       <div class="focus-content">
@@ -483,7 +465,7 @@
       </div>
      </div>
     </div>
-    <div class="drop-in" style="--i: 32">
+    <div class="drop-in" style="--i: 31">
      <div class="card">
       <img onload="this.src='min-recent/Lump Jump .jpg'" src="logo.jpg"/>
       <div class="focus-content">
@@ -496,20 +478,7 @@
       </div>
      </div>
     </div>
-    <div class="drop-in" style="--i: 33">
-     <div class="card">
-      <img onload="this.src='min-recent/打击者1945 III .jpg'" src="logo.jpg"/>
-      <div class="focus-content">
-       <p>
-        打击者1945 III
-       </p>
-       <a onclick="quicksearch('打击者1945 III ')">
-        查看详情
-       </a>
-      </div>
-     </div>
-    </div>
-    <div class="drop-in" style="--i: 34">
+    <div class="drop-in" style="--i: 32">
      <div class="card">
       <img onload="this.src='min-recent/Crossout - Season 9 Battle Pass Bundle .jpg'" src="logo.jpg"/>
       <div class="focus-content">
@@ -522,7 +491,7 @@
       </div>
      </div>
     </div>
-    <div class="drop-in" style="--i: 35">
+    <div class="drop-in" style="--i: 33">
      <div class="card">
       <img onload="this.src='min-recent/echoshift 时限回廊 .jpg'" src="logo.jpg"/>
       <div class="focus-content">
@@ -535,7 +504,7 @@
       </div>
      </div>
     </div>
-    <div class="drop-in" style="--i: 36">
+    <div class="drop-in" style="--i: 34">
      <div class="card">
       <img onload="this.src='min-recent/Sofiya and the Ancient Clan PS4 &amp; PS5 .jpg'" src="logo.jpg"/>
       <div class="focus-content">
@@ -548,7 +517,7 @@
       </div>
      </div>
     </div>
-    <div class="drop-in" style="--i: 37">
+    <div class="drop-in" style="--i: 35">
      <div class="card">
       <img onload="this.src='min-recent/《逃脱学院》豪华版带 .jpg'" src="logo.jpg"/>
       <div class="focus-content">
@@ -561,7 +530,7 @@
       </div>
      </div>
     </div>
-    <div class="drop-in" style="--i: 38">
+    <div class="drop-in" style="--i: 36">
      <div class="card">
       <img onload="this.src='min-recent/Capcom Arcade 2nd Stadium .jpg'" src="logo.jpg"/>
       <div class="focus-content">
@@ -574,7 +543,7 @@
       </div>
      </div>
     </div>
-    <div class="drop-in" style="--i: 39">
+    <div class="drop-in" style="--i: 37">
      <div class="card">
       <img onload="this.src='min-recent/Cult of the Lamb .jpg'" src="logo.jpg"/>
       <div class="focus-content">
@@ -587,7 +556,7 @@
       </div>
      </div>
     </div>
-    <div class="drop-in" style="--i: 40">
+    <div class="drop-in" style="--i: 38">
      <div class="card">
       <img onload="this.src='min-recent/数码宝贝 绝境求生 .jpg'" src="logo.jpg"/>
       <div class="focus-content">
@@ -600,7 +569,7 @@
       </div>
      </div>
     </div>
-    <div class="drop-in" style="--i: 41">
+    <div class="drop-in" style="--i: 39">
      <div class="card">
       <img onload="this.src='min-recent/战场的赋格曲 体验版 .jpg'" src="logo.jpg"/>
       <div class="focus-content">
@@ -613,7 +582,7 @@
       </div>
      </div>
     </div>
-    <div class="drop-in" style="--i: 42">
+    <div class="drop-in" style="--i: 40">
      <div class="card">
       <img onload="this.src='min-recent/Xump Jump .jpg'" src="logo.jpg"/>
       <div class="focus-content">
@@ -626,7 +595,7 @@
       </div>
      </div>
     </div>
-    <div class="drop-in" style="--i: 43">
+    <div class="drop-in" style="--i: 41">
      <div class="card">
       <img onload="this.src='min-recent/QUByte Classics: Thunderbolt Collection by PIKO .jpg'" src="logo.jpg"/>
       <div class="focus-content">
@@ -639,7 +608,7 @@
       </div>
      </div>
     </div>
-    <div class="drop-in" style="--i: 44">
+    <div class="drop-in" style="--i: 42">
      <div class="card">
       <img onload="this.src='min-recent/Arcade Archives ROLLER JAMMER .jpg'" src="logo.jpg"/>
       <div class="focus-content">
@@ -652,7 +621,7 @@
       </div>
      </div>
     </div>
-    <div class="drop-in" style="--i: 45">
+    <div class="drop-in" style="--i: 43">
      <div class="card">
       <img onload="this.src='min-recent/战国世纪 .jpg'" src="logo.jpg"/>
       <div class="focus-content">
@@ -665,9 +634,9 @@
       </div>
      </div>
     </div>
-    <div class="drop-in" style="--i: 46">
+    <div class="drop-in" style="--i: 44">
      <div class="card">
-      <img onload="this.src='min-recent/Seduction: A Monk's Fate PS4 &amp; PS5 .jpg'" src="logo.jpg"/>
+      <img onload="this.src='min-recent/Seduction: A Monk\'s Fate PS4 &amp; PS5 .jpg'" src="logo.jpg"/>
       <div class="focus-content">
        <p>
         Seduction: A Monk's Fate PS4 &amp; PS5
@@ -678,7 +647,7 @@
       </div>
      </div>
     </div>
-    <div class="drop-in" style="--i: 47">
+    <div class="drop-in" style="--i: 45">
      <div class="card">
       <img onload="this.src='min-recent/Endzone - A World Apart .jpg'" src="logo.jpg"/>
       <div class="focus-content">
@@ -691,33 +660,7 @@
       </div>
      </div>
     </div>
-    <div class="drop-in" style="--i: 48">
-     <div class="card">
-      <img onload="this.src='min-recent/Arcade Archives DRAGON SABER .jpg'" src="logo.jpg"/>
-      <div class="focus-content">
-       <p>
-        Arcade Archives DRAGON SABER
-       </p>
-       <a onclick="quicksearch('Arcade Archives DRAGON SABER ')">
-        查看详情
-       </a>
-      </div>
-     </div>
-    </div>
-    <div class="drop-in" style="--i: 49">
-     <div class="card">
-      <img onload="this.src='min-recent/龙之怒火 .jpg'" src="logo.jpg"/>
-      <div class="focus-content">
-       <p>
-        龙之怒火
-       </p>
-       <a onclick="quicksearch('龙之怒火 ')">
-        查看详情
-       </a>
-      </div>
-     </div>
-    </div>
-    <div class="drop-in" style="--i: 50">
+    <div class="drop-in" style="--i: 46">
      <div class="card">
       <img onload="this.src='min-recent/Guilty Gear -Strive- Ultimate Edition 2022 PS4 &amp; PS5 .jpg'" src="logo.jpg"/>
       <div class="focus-content">
@@ -730,20 +673,7 @@
       </div>
      </div>
     </div>
-    <div class="drop-in" style="--i: 51">
-     <div class="card">
-      <img onload="this.src='min-recent/天蛾人1966 .jpg'" src="logo.jpg"/>
-      <div class="focus-content">
-       <p>
-        天蛾人1966
-       </p>
-       <a onclick="quicksearch('天蛾人1966 ')">
-        查看详情
-       </a>
-      </div>
-     </div>
-    </div>
-    <div class="drop-in" style="--i: 52">
+    <div class="drop-in" style="--i: 47">
      <div class="card">
       <img onload="this.src='min-recent/Guilty Gear -Strive- + Season Pass 1 .jpg'" src="logo.jpg"/>
       <div class="focus-content">
@@ -756,7 +686,7 @@
       </div>
      </div>
     </div>
-    <div class="drop-in" style="--i: 53">
+    <div class="drop-in" style="--i: 48">
      <div class="card">
       <img onload="this.src='min-recent/逃脱学院 .jpg'" src="logo.jpg"/>
       <div class="focus-content">
@@ -769,7 +699,7 @@
       </div>
      </div>
     </div>
-    <div class="drop-in" style="--i: 54">
+    <div class="drop-in" style="--i: 49">
      <div class="card">
       <img onload="this.src='min-recent/What Remains of Edith Finch .jpg'" src="logo.jpg"/>
       <div class="focus-content">
@@ -782,7 +712,7 @@
       </div>
      </div>
     </div>
-    <div class="drop-in" style="--i: 55">
+    <div class="drop-in" style="--i: 50">
      <div class="card">
       <img onload="this.src='min-recent/A Fungus In My Garden .jpg'" src="logo.jpg"/>
       <div class="focus-content">
@@ -795,7 +725,7 @@
       </div>
      </div>
     </div>
-    <div class="drop-in" style="--i: 56">
+    <div class="drop-in" style="--i: 51">
      <div class="card">
       <img onload="this.src='min-recent/小林家的龙女仆 炸裂!! 呆萌龙☆吐息 .jpg'" src="logo.jpg"/>
       <div class="focus-content">
@@ -808,7 +738,7 @@
       </div>
      </div>
     </div>
-    <div class="drop-in" style="--i: 57">
+    <div class="drop-in" style="--i: 52">
      <div class="card">
       <img onload="this.src='min-recent/Bricky to Me .jpg'" src="logo.jpg"/>
       <div class="focus-content">
@@ -821,7 +751,7 @@
       </div>
      </div>
     </div>
-    <div class="drop-in" style="--i: 58">
+    <div class="drop-in" style="--i: 53">
      <div class="card">
       <img onload="this.src='min-recent/Rainbow .jpg'" src="logo.jpg"/>
       <div class="focus-content">
@@ -834,7 +764,7 @@
       </div>
      </div>
     </div>
-    <div class="drop-in" style="--i: 59">
+    <div class="drop-in" style="--i: 54">
      <div class="card">
       <img onload="this.src='min-recent/International Boxing .jpg'" src="logo.jpg"/>
       <div class="focus-content">
@@ -847,7 +777,7 @@
       </div>
      </div>
     </div>
-    <div class="drop-in" style="--i: 60">
+    <div class="drop-in" style="--i: 55">
      <div class="card">
       <img onload="this.src='min-recent/Gale of Windoria .jpg'" src="logo.jpg"/>
       <div class="focus-content">
@@ -860,7 +790,7 @@
       </div>
      </div>
     </div>
-    <div class="drop-in" style="--i: 61">
+    <div class="drop-in" style="--i: 56">
      <div class="card">
       <img onload="this.src='min-recent/英雄传说 黎之轨迹 数字豪华版 .jpg'" src="logo.jpg"/>
       <div class="focus-content">
@@ -873,7 +803,7 @@
       </div>
      </div>
     </div>
-    <div class="drop-in" style="--i: 62">
+    <div class="drop-in" style="--i: 57">
      <div class="card">
       <img onload="this.src='min-recent/on Sunday .jpg'" src="logo.jpg"/>
       <div class="focus-content">
@@ -886,7 +816,7 @@
       </div>
      </div>
     </div>
-    <div class="drop-in" style="--i: 63">
+    <div class="drop-in" style="--i: 58">
      <div class="card">
       <img onload="this.src='min-recent/英雄传说 黎之轨迹 .jpg'" src="logo.jpg"/>
       <div class="focus-content">
@@ -899,7 +829,7 @@
       </div>
      </div>
     </div>
-    <div class="drop-in" style="--i: 64">
+    <div class="drop-in" style="--i: 59">
      <div class="card">
       <img onload="this.src='min-recent/Paradox Error .jpg'" src="logo.jpg"/>
       <div class="focus-content">
@@ -912,7 +842,7 @@
       </div>
      </div>
     </div>
-    <div class="drop-in" style="--i: 65">
+    <div class="drop-in" style="--i: 60">
      <div class="card">
       <img onload="this.src='min-recent/DreadOut 2 .jpg'" src="logo.jpg"/>
       <div class="focus-content">
@@ -925,7 +855,7 @@
       </div>
      </div>
     </div>
-    <div class="drop-in" style="--i: 66">
+    <div class="drop-in" style="--i: 61">
      <div class="card">
       <img onload="this.src='min-recent/热血三国志 .jpg'" src="logo.jpg"/>
       <div class="focus-content">
@@ -938,7 +868,7 @@
       </div>
      </div>
     </div>
-    <div class="drop-in" style="--i: 67">
+    <div class="drop-in" style="--i: 62">
      <div class="card">
       <img onload="this.src='min-recent/Bump Jump .jpg'" src="logo.jpg"/>
       <div class="focus-content">
@@ -951,7 +881,7 @@
       </div>
      </div>
     </div>
-    <div class="drop-in" style="--i: 68">
+    <div class="drop-in" style="--i: 63">
      <div class="card">
       <img onload="this.src='min-recent/Kruger .jpg'" src="logo.jpg"/>
       <div class="focus-content">
@@ -964,7 +894,7 @@
       </div>
      </div>
     </div>
-    <div class="drop-in" style="--i: 69">
+    <div class="drop-in" style="--i: 64">
      <div class="card">
       <img onload="this.src='min-recent/战国之刃 .jpg'" src="logo.jpg"/>
       <div class="focus-content">
@@ -977,7 +907,7 @@
       </div>
      </div>
     </div>
-    <div class="drop-in" style="--i: 70">
+    <div class="drop-in" style="--i: 65">
      <div class="card">
       <img onload="this.src='min-recent/Square Keeper PS4 &amp; PS5 .jpg'" src="logo.jpg"/>
       <div class="focus-content">
@@ -990,20 +920,7 @@
       </div>
      </div>
     </div>
-    <div class="drop-in" style="--i: 71">
-     <div class="card">
-      <img onload="this.src='min-recent/打击者1945 II .jpg'" src="logo.jpg"/>
-      <div class="focus-content">
-       <p>
-        打击者1945 II
-       </p>
-       <a onclick="quicksearch('打击者1945 II ')">
-        查看详情
-       </a>
-      </div>
-     </div>
-    </div>
-    <div class="drop-in" style="--i: 72">
+    <div class="drop-in" style="--i: 66">
      <div class="card">
       <img onload="this.src='min-recent/《物质世界》：冒险家礼包 .jpg'" src="logo.jpg"/>
       <div class="focus-content">
@@ -1016,7 +933,7 @@
       </div>
      </div>
     </div>
-    <div class="drop-in" style="--i: 73">
+    <div class="drop-in" style="--i: 67">
      <div class="card">
       <img onload="this.src='min-recent/Vump Jump .jpg'" src="logo.jpg"/>
       <div class="focus-content">
@@ -1029,7 +946,7 @@
       </div>
      </div>
     </div>
-    <div class="drop-in" style="--i: 74">
+    <div class="drop-in" style="--i: 68">
      <div class="card">
       <img onload="this.src='min-recent/RimWorld Console Edition .jpg'" src="logo.jpg"/>
       <div class="focus-content">
@@ -1042,7 +959,7 @@
       </div>
      </div>
     </div>
-    <div class="drop-in" style="--i: 75">
+    <div class="drop-in" style="--i: 69">
      <div class="card">
       <img onload="this.src='min-recent/武装飞鸟2 .jpg'" src="logo.jpg"/>
       <div class="focus-content">
@@ -1055,7 +972,7 @@
       </div>
      </div>
     </div>
-    <div class="drop-in" style="--i: 76">
+    <div class="drop-in" style="--i: 70">
      <div class="card">
       <img onload="this.src='min-recent/Gump Jump .jpg'" src="logo.jpg"/>
       <div class="focus-content">
@@ -1068,7 +985,7 @@
       </div>
      </div>
     </div>
-    <div class="drop-in" style="--i: 77">
+    <div class="drop-in" style="--i: 71">
      <div class="card">
       <img onload="this.src='min-recent/Universal Flight Simulator .jpg'" src="logo.jpg"/>
       <div class="focus-content">
@@ -1081,7 +998,7 @@
       </div>
      </div>
     </div>
-    <div class="drop-in" style="--i: 78">
+    <div class="drop-in" style="--i: 72">
      <div class="card">
       <img onload="this.src='min-recent/武装飞鸟 .jpg'" src="logo.jpg"/>
       <div class="focus-content">
@@ -1094,7 +1011,7 @@
       </div>
      </div>
     </div>
-    <div class="drop-in" style="--i: 79">
+    <div class="drop-in" style="--i: 73">
      <div class="card">
       <img onload="this.src='min-recent/SD GUNDAM 激斗同盟 体验版 .jpg'" src="logo.jpg"/>
       <div class="focus-content">
@@ -1107,7 +1024,7 @@
       </div>
      </div>
     </div>
-    <div class="drop-in" style="--i: 80">
+    <div class="drop-in" style="--i: 74">
      <div class="card">
       <img onload="this.src='min-recent/Surface Rush PS4 &amp; PS5 .jpg'" src="logo.jpg"/>
       <div class="focus-content">
@@ -1120,7 +1037,7 @@
       </div>
      </div>
     </div>
-    <div class="drop-in" style="--i: 81">
+    <div class="drop-in" style="--i: 75">
      <div class="card">
       <img onload="this.src='min-recent/神领编年史 The DioField Chronicle PS4 &amp; PS5 体验版 .jpg'" src="logo.jpg"/>
       <div class="focus-content">
@@ -1133,7 +1050,7 @@
       </div>
      </div>
     </div>
-    <div class="drop-in" style="--i: 82">
+    <div class="drop-in" style="--i: 76">
      <div class="card">
       <img onload="this.src='min-recent/泰坦之路 - 豪华创始者包 .jpg'" src="logo.jpg"/>
       <div class="focus-content">
@@ -1146,7 +1063,7 @@
       </div>
      </div>
     </div>
-    <div class="drop-in" style="--i: 83">
+    <div class="drop-in" style="--i: 77">
      <div class="card">
       <img onload="this.src='min-recent/幸福枪弹辩驳Ｓ 超高中级的南国掷骰合宿 .jpg'" src="logo.jpg"/>
       <div class="focus-content">
@@ -1159,9 +1076,9 @@
       </div>
      </div>
     </div>
-    <div class="drop-in" style="--i: 84">
+    <div class="drop-in" style="--i: 78">
      <div class="card">
-      <img onload="this.src='min-recent/Arcade Archives Chack'n Pop .jpg'" src="logo.jpg"/>
+      <img onload="this.src='min-recent/Arcade Archives Chack\'n Pop .jpg'" src="logo.jpg"/>
       <div class="focus-content">
        <p>
         Arcade Archives Chack'n Pop
@@ -1172,7 +1089,7 @@
       </div>
      </div>
     </div>
-    <div class="drop-in" style="--i: 85">
+    <div class="drop-in" style="--i: 79">
      <div class="card">
       <img onload="this.src='min-recent/Gunducky Industries++ .jpg'" src="logo.jpg"/>
       <div class="focus-content">
@@ -1185,7 +1102,7 @@
       </div>
      </div>
     </div>
-    <div class="drop-in" style="--i: 86">
+    <div class="drop-in" style="--i: 80">
      <div class="card">
       <img onload="this.src='min-recent/砖块物语 .jpg'" src="logo.jpg"/>
       <div class="focus-content">
@@ -1198,7 +1115,7 @@
       </div>
      </div>
     </div>
-    <div class="drop-in" style="--i: 87">
+    <div class="drop-in" style="--i: 81">
      <div class="card">
       <img onload="this.src='min-recent/Severed Steel .jpg'" src="logo.jpg"/>
       <div class="focus-content">
@@ -1211,7 +1128,7 @@
       </div>
      </div>
     </div>
-    <div class="drop-in" style="--i: 88">
+    <div class="drop-in" style="--i: 82">
      <div class="card">
       <img onload="this.src='min-recent/信長之野望·新生 数字豪华版 .jpg'" src="logo.jpg"/>
       <div class="focus-content">
@@ -1224,7 +1141,7 @@
       </div>
      </div>
     </div>
-    <div class="drop-in" style="--i: 89">
+    <div class="drop-in" style="--i: 83">
      <div class="card">
       <img onload="this.src='min-recent/Quick Mafs .jpg'" src="logo.jpg"/>
       <div class="focus-content">
@@ -1237,7 +1154,7 @@
       </div>
      </div>
     </div>
-    <div class="drop-in" style="--i: 90">
+    <div class="drop-in" style="--i: 84">
      <div class="card">
       <img onload="this.src='min-recent/Arcade Paradise PS4™ &amp; PS5™ .jpg'" src="logo.jpg"/>
       <div class="focus-content">
@@ -1250,7 +1167,7 @@
       </div>
      </div>
     </div>
-    <div class="drop-in" style="--i: 91">
+    <div class="drop-in" style="--i: 85">
      <div class="card">
       <img onload="this.src='min-recent/沙漏[Hourglass] .jpg'" src="logo.jpg"/>
       <div class="focus-content">
@@ -1263,7 +1180,7 @@
       </div>
      </div>
     </div>
-    <div class="drop-in" style="--i: 92">
+    <div class="drop-in" style="--i: 86">
      <div class="card">
       <img onload="this.src='min-recent/《泰坦之路》标准创始者包 .jpg'" src="logo.jpg"/>
       <div class="focus-content">
@@ -1276,7 +1193,7 @@
       </div>
      </div>
     </div>
-    <div class="drop-in" style="--i: 93">
+    <div class="drop-in" style="--i: 87">
      <div class="card">
       <img onload="this.src='min-recent/公理边缘2 .jpg'" src="logo.jpg"/>
       <div class="focus-content">
@@ -1289,7 +1206,7 @@
       </div>
      </div>
     </div>
-    <div class="drop-in" style="--i: 94">
+    <div class="drop-in" style="--i: 88">
      <div class="card">
       <img onload="this.src='min-recent/战国加农 .jpg'" src="logo.jpg"/>
       <div class="focus-content">
@@ -1302,7 +1219,7 @@
       </div>
      </div>
     </div>
-    <div class="drop-in" style="--i: 95">
+    <div class="drop-in" style="--i: 89">
      <div class="card">
       <img onload="this.src='min-recent/World of Tanks – Evolution入门包 .jpg'" src="logo.jpg"/>
       <div class="focus-content">
@@ -1315,7 +1232,7 @@
       </div>
      </div>
     </div>
-    <div class="drop-in" style="--i: 96">
+    <div class="drop-in" style="--i: 90">
      <div class="card">
       <img onload="this.src='min-recent/ANIQUILATION .jpg'" src="logo.jpg"/>
       <div class="focus-content">
@@ -1328,7 +1245,7 @@
       </div>
      </div>
     </div>
-    <div class="drop-in" style="--i: 97">
+    <div class="drop-in" style="--i: 91">
      <div class="card">
       <img onload="this.src='min-recent/Highway Driving .jpg'" src="logo.jpg"/>
       <div class="focus-content">
@@ -1341,7 +1258,7 @@
       </div>
      </div>
     </div>
-    <div class="drop-in" style="--i: 98">
+    <div class="drop-in" style="--i: 92">
      <div class="card">
       <img onload="this.src='min-recent/Endling - Extinction is Forever .jpg'" src="logo.jpg"/>
       <div class="focus-content">
@@ -1354,7 +1271,7 @@
       </div>
      </div>
     </div>
-    <div class="drop-in" style="--i: 99">
+    <div class="drop-in" style="--i: 93">
      <div class="card">
       <img onload="this.src='min-recent/No Heroes Allowed! .jpg'" src="logo.jpg"/>
       <div class="focus-content">
@@ -1367,9 +1284,9 @@
       </div>
      </div>
     </div>
-    <div class="drop-in" style="--i: 100">
+    <div class="drop-in" style="--i: 94">
      <div class="card">
-      <img onload="this.src='min-recent/Don't Fall: aleph .jpg'" src="logo.jpg"/>
+      <img onload="this.src='min-recent/Don\'t Fall: aleph .jpg'" src="logo.jpg"/>
       <div class="focus-content">
        <p>
         Don't Fall: aleph
@@ -1380,7 +1297,7 @@
       </div>
      </div>
     </div>
-    <div class="drop-in" style="--i: 101">
+    <div class="drop-in" style="--i: 95">
      <div class="card">
       <img onload="this.src='min-recent/《GigaBash 巨击大乱斗》 .jpg'" src="logo.jpg"/>
       <div class="focus-content">
@@ -1393,7 +1310,7 @@
       </div>
      </div>
     </div>
-    <div class="drop-in" style="--i: 102">
+    <div class="drop-in" style="--i: 96">
      <div class="card">
       <img .jpg="" bundle="" cleaner="" onload="this.src='min-recent/Crossout – " src="logo.jpg" starter=""/>
       <div class="focus-content">
@@ -1406,7 +1323,7 @@
       </div>
      </div>
     </div>
-    <div class="drop-in" style="--i: 103">
+    <div class="drop-in" style="--i: 97">
      <div class="card">
       <img onload="this.src='min-recent/Puzzletronics: Digital Infinite .jpg'" src="logo.jpg"/>
       <div class="focus-content">
@@ -1445,10 +1362,10 @@
      - 搜索 -
     </h4>
     <p>
-     INFO - 上次更新于:2022-08-12 23:17:03 (UTC+8)
+     INFO - 上次更新于:2022-08-13 00:24:31 (UTC+8)
     </p>
     <form onsubmit="post();return false;">
-     <input id="searchurl" list="gamelist" name="gamelist" placeholder="输入要查找的游戏..."/>
+     <input id="searchurl" list="gamelist" name="gamelist" placeholder="输入要查找的游戏名..."/>
      <datalist id="gamelist">
       <!-- List Start-->
       <option value="Bishoujo Battle Cyber Panic!">
@@ -8037,6 +7954,12 @@
     </h4>
     <div class="output" id="output">
      您的浏览器不支持JavaScript。请打开JavaScript或更换浏览器以确保此程序正常运行
+     <br/>
+     若已开启JavaScript，请尝试
+     <a class="linkline" href=".">
+      点击此处刷新
+     </a>
+     &gt;
     </div>
     <span class="iconfontsmall icon-annotation" onclick="document.getElementById('windowa').innerHTML = helpfordemo">
     </span>
@@ -8067,10 +7990,10 @@
      <br/>
      <div id="tcomment">
      </div>
-     <script src="https://cdn.staticfile.org/twikoo/1.5.11/twikoo.all.min.js">
+     <script src="https://cdn.staticfile.org/twikoo/1.6.4/twikoo.all.min.js">
      </script>
      <script>
-      twikoo.init({  envId: 'https://comment-ravelloh.vercel.app/', // 腾讯云环境填 envId；Vercel 环境填地址（https://xxx.vercel.app）  el: '#tcomment', // 容器元素  // region: 'ap-guangzhou', // 环境地域，默认为 ap-shanghai，腾讯云环境填 ap-shanghai 或 ap-guangzhou；Vercel 环境不填  // path: location.pathname, // 用于区分不同文章的自定义 js 路径，如果您的文章路径不是 location.pathname，需传此参数  // lang: 'zh-CN', // 用于手动设定评论区语言，支持的语言列表 https://github.com/imaegoo/twikoo/blob/main/src/js/utils/i18n/index.js})
+      twikoo.init({  envId: 'https://comment-ravelloh.vercel.app/',  el: '#tcomment',})
      </script>
     </div>
    </div>
@@ -8086,7 +8009,12 @@
   </script>
   <script src="main.js" type="text/javascript">
   </script>
-  <script src="https://ravelloh.github.io/js/script.js">
+  <!-- JavaScript -->
+  <script src="https://ravelloh.github.io/js/loading.js" type="text/javascript">
+  </script>
+  <script src="https://ravelloh.github.io/js/common.js" type="text/javascript">
+  </script>
+  <script src="https://ravelloh.github.io/js/script.js" type="text/javascript">
   </script>
   <script integrity="sha384-by67kQnR+pyfy8yWP4kPO12fHKRLHZPfEsiSXR8u2IKcTdxD805MGUXBzVPnkLHw" src="//instant.page/5.1.0" type="module">
   </script>
