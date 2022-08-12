@@ -6654,7 +6654,6 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── After Wave: Downfall .jpg
 │   ├── Arcade Archives Chack'n Pop .jpg
 │   ├── Arcade Archives DIG DUG .jpg
-│   ├── Arcade Archives DRAGON SABER .jpg
 │   ├── Arcade Archives GUN & FRONTIER .jpg
 │   ├── Arcade Archives ROLLER JAMMER .jpg
 │   ├── Arcade Paradise Digital Deluxe PS4™ & PS5™ .jpg
@@ -6726,7 +6725,6 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── 信長之野望·新生 数字豪华版 .jpg
 │   ├── 光明记忆：无限 .jpg
 │   ├── 公理边缘2 .jpg
-│   ├── 天蛾人1966 .jpg
 │   ├── 失落史诗 .jpg
 │   ├── 小小诺娅：乐园继承者　特别版 .jpg
 │   ├── 小林家的龙女仆 炸裂!! 呆萌龙☆吐息 .jpg
@@ -6736,8 +6734,6 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── 战国之刃 .jpg
 │   ├── 战国加农 .jpg
 │   ├── 战场的赋格曲 体验版 .jpg
-│   ├── 打击者1945 II .jpg
-│   ├── 打击者1945 III .jpg
 │   ├── 数码宝贝 绝境求生 .jpg
 │   ├── 武装飞鸟 .jpg
 │   ├── 武装飞鸟2 .jpg
@@ -6749,9 +6745,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── 神领编年史 The DioField Chronicle PS4 & PS5 体验版 .jpg
 │   ├── 英雄传说 黎之轨迹 .jpg
 │   ├── 英雄传说 黎之轨迹 数字豪华版 .jpg
-│   ├── 逃脱学院 .jpg
-│   ├── 零式枪手2- .jpg
-│   └── 龙之怒火 .jpg
+│   └── 逃脱学院 .jpg
 ├── min-recent-en
 │   ├── A Fungus In My Garden .jpg
 │   ├── ANIQUILATION .jpg
@@ -6759,7 +6753,6 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── After Wave: Downfall .jpg
 │   ├── Arcade Archives Chack'n Pop .jpg
 │   ├── Arcade Archives DIG DUG .jpg
-│   ├── Arcade Archives DRAGON SABER .jpg
 │   ├── Arcade Archives GUN & FRONTIER .jpg
 │   ├── Arcade Archives ROLLER JAMMER .jpg
 │   ├── Arcade Paradise Digital Deluxe PS4™ & PS5™ .jpg
@@ -6780,7 +6773,6 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Devastator PS4 & PS5 .jpg
 │   ├── Digimon Survive .jpg
 │   ├── Don't Fall: aleph .jpg
-│   ├── Dragon Blaze .jpg
 │   ├── DreadOut 2 .jpg
 │   ├── Endling - Extinction is Forever .jpg
 │   ├── Endzone - A World Apart .jpg
@@ -6808,7 +6800,6 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── LocoRoco Midnight Carnival .jpg
 │   ├── Lump Jump .jpg
 │   ├── Miss Kobayashi's Dragon Maid Burst Forth!! Choro-gon☆Breath .jpg
-│   ├── Mothmen 1966 .jpg
 │   ├── NOBUNAGA'S AMBITION: Shinsei .jpg
 │   ├── NOBUNAGA'S AMBITION: Shinsei Digital Deluxe Edition .jpg
 │   ├── No Heroes Allowed! .jpg
@@ -6826,8 +6817,6 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Rumbleverse™ .jpg
 │   ├── SD Gundam Battle Alliance Demo .jpg
 │   ├── STORY OF SEASONS: Pioneers of Olive Town .jpg
-│   ├── STRIKERS 1945 II .jpg
-│   ├── STRIKERS 1945 III .jpg
 │   ├── Samurai Aces .jpg
 │   ├── Samurai Aces III: Sengoku Cannon .jpg
 │   ├── Santa's workshop .jpg
@@ -6855,7 +6844,6 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── What Remains of Edith Finch .jpg
 │   ├── World of Tanks –  Evolution Starter Pack .jpg
 │   ├── Xump Jump .jpg
-│   ├── ZERO GUNNER 2- .jpg
 │   ├── echoshift .jpg
 │   └── on Sunday .jpg
 ├── recent
@@ -6865,7 +6853,6 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── After Wave: Downfall .jpg
 │   ├── Arcade Archives Chack'n Pop .jpg
 │   ├── Arcade Archives DIG DUG .jpg
-│   ├── Arcade Archives DRAGON SABER .jpg
 │   ├── Arcade Archives GUN & FRONTIER .jpg
 │   ├── Arcade Archives ROLLER JAMMER .jpg
 │   ├── Arcade Paradise Digital Deluxe PS4™ & PS5™ .jpg
@@ -6937,7 +6924,6 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── 信長之野望·新生 数字豪华版 .jpg
 │   ├── 光明记忆：无限 .jpg
 │   ├── 公理边缘2 .jpg
-│   ├── 天蛾人1966 .jpg
 │   ├── 失落史诗 .jpg
 │   ├── 小小诺娅：乐园继承者　特别版 .jpg
 │   ├── 小林家的龙女仆 炸裂!! 呆萌龙☆吐息 .jpg
@@ -6947,8 +6933,6 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── 战国之刃 .jpg
 │   ├── 战国加农 .jpg
 │   ├── 战场的赋格曲 体验版 .jpg
-│   ├── 打击者1945 II .jpg
-│   ├── 打击者1945 III .jpg
 │   ├── 数码宝贝 绝境求生 .jpg
 │   ├── 武装飞鸟 .jpg
 │   ├── 武装飞鸟2 .jpg
@@ -6960,9 +6944,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── 神领编年史 The DioField Chronicle PS4 & PS5 体验版 .jpg
 │   ├── 英雄传说 黎之轨迹 .jpg
 │   ├── 英雄传说 黎之轨迹 数字豪华版 .jpg
-│   ├── 逃脱学院 .jpg
-│   ├── 零式枪手2- .jpg
-│   └── 龙之怒火 .jpg
+│   └── 逃脱学院 .jpg
 ├── recent-en
 │   ├── A Fungus In My Garden .jpg
 │   ├── ANIQUILATION .jpg
@@ -6970,7 +6952,6 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── After Wave: Downfall .jpg
 │   ├── Arcade Archives Chack'n Pop .jpg
 │   ├── Arcade Archives DIG DUG .jpg
-│   ├── Arcade Archives DRAGON SABER .jpg
 │   ├── Arcade Archives GUN & FRONTIER .jpg
 │   ├── Arcade Archives ROLLER JAMMER .jpg
 │   ├── Arcade Paradise Digital Deluxe PS4™ & PS5™ .jpg
@@ -6991,7 +6972,6 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Devastator PS4 & PS5 .jpg
 │   ├── Digimon Survive .jpg
 │   ├── Don't Fall: aleph .jpg
-│   ├── Dragon Blaze .jpg
 │   ├── DreadOut 2 .jpg
 │   ├── Endling - Extinction is Forever .jpg
 │   ├── Endzone - A World Apart .jpg
@@ -7019,7 +6999,6 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── LocoRoco Midnight Carnival .jpg
 │   ├── Lump Jump .jpg
 │   ├── Miss Kobayashi's Dragon Maid Burst Forth!! Choro-gon☆Breath .jpg
-│   ├── Mothmen 1966 .jpg
 │   ├── NOBUNAGA'S AMBITION: Shinsei .jpg
 │   ├── NOBUNAGA'S AMBITION: Shinsei Digital Deluxe Edition .jpg
 │   ├── No Heroes Allowed! .jpg
@@ -7037,8 +7016,6 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Rumbleverse™ .jpg
 │   ├── SD Gundam Battle Alliance Demo .jpg
 │   ├── STORY OF SEASONS: Pioneers of Olive Town .jpg
-│   ├── STRIKERS 1945 II .jpg
-│   ├── STRIKERS 1945 III .jpg
 │   ├── Samurai Aces .jpg
 │   ├── Samurai Aces III: Sengoku Cannon .jpg
 │   ├── Santa's workshop .jpg
@@ -7066,7 +7043,6 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── What Remains of Edith Finch .jpg
 │   ├── World of Tanks –  Evolution Starter Pack .jpg
 │   ├── Xump Jump .jpg
-│   ├── ZERO GUNNER 2- .jpg
 │   ├── echoshift .jpg
 │   └── on Sunday .jpg
 ├── thumbs.py
@@ -7075,7 +7051,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 ├── vercel.json
 └── webpage.py
 
-9 directories, 7037 files
+9 directories, 7013 files
 ```
 <!-- readme-tree end -->
  
