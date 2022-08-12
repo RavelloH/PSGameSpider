@@ -323,7 +323,7 @@ recentpartone='''
 <div class="drop-in" style="--i: 
 '''
 recentparttwo='''
-"><div class="card"><img src="../logo.jpg" onload="this.src='../img-en/
+"><div class="card"><img src="../logo.jpg" onload="this.src='../min-recent-en/
 '''
 recentpartthree='''
 .jpg'" /><div class="focus-content"><p>
