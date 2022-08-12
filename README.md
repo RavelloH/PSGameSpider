@@ -305,6 +305,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Arcade Archives GRADIUS III.jpg
 │   ├── Arcade Archives GRADIUS.jpg
 │   ├── Arcade Archives GUERRILLA WAR.jpg
+│   ├── Arcade Archives GUN & FRONTIER .jpg
 │   ├── Arcade Archives GUNNAIL.jpg
 │   ├── Arcade Archives GUZZLER.jpg
 │   ├── Arcade Archives Gemini Wing.jpg
@@ -761,6 +762,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Crysis® Remastered.jpg
 │   ├── Crystal Ortha.jpg
 │   ├── Cubians.jpg
+│   ├── Cult of the Lamb .jpg
 │   ├── Cuphead & The Delicious Last Course .jpg
 │   ├── Cuphead.jpg
 │   ├── Cursed Island .jpg
@@ -1975,6 +1977,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Rage Among the Stars.jpg
 │   ├── Raiden V: Director's Cut.jpg
 │   ├── Railway Empire.jpg
+│   ├── Rainbow .jpg
 │   ├── Rainbow Moon.jpg
 │   ├── Rainbow Skies.jpg
 │   ├── Rainbows Toilets & Unicorns.jpg
@@ -2074,6 +2077,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Rugby Challenge 4.jpg
 │   ├── Ruiner.jpg
 │   ├── Ruinverse.jpg
+│   ├── Rumbleverse .jpg
 │   ├── Rumbleverse Network Test .jpg
 │   ├── Rush Rover.jpg
 │   ├── Rush VR.jpg
@@ -3620,6 +3624,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Arcade Archives GRADIUS III.jpg
 │   ├── Arcade Archives GRADIUS.jpg
 │   ├── Arcade Archives GUERRILLA WAR.jpg
+│   ├── Arcade Archives GUN & FRONTIER .jpg
 │   ├── Arcade Archives GUNNAIL.jpg
 │   ├── Arcade Archives GUZZLER.jpg
 │   ├── Arcade Archives Gemini Wing.jpg
@@ -4136,6 +4141,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Crysis® Remastered.jpg
 │   ├── Crystal Ortha.jpg
 │   ├── Cubians.jpg
+│   ├── Cult of the Lamb .jpg
 │   ├── Cuphead & The Delicious Last Course .jpg
 │   ├── Cuphead.jpg
 │   ├── Curse of the Dead Gods.jpg
@@ -5598,6 +5604,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Rage Among the Stars.jpg
 │   ├── Raiden V: Director's Cut.jpg
 │   ├── Railway Empire.jpg
+│   ├── Rainbow .jpg
 │   ├── Rainbow Moon.jpg
 │   ├── Rainbow Six Extraction.jpg
 │   ├── Rainbow Skies.jpg
@@ -5707,6 +5714,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Ruiner.jpg
 │   ├── Ruinverse.jpg
 │   ├── Rumbleverse Network Test .jpg
+│   ├── Rumbleverse™ .jpg
 │   ├── Rune Factory 4 Special.jpg
 │   ├── Rush Rover.jpg
 │   ├── Rush VR.jpg
@@ -6646,6 +6654,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Arcade Archives Chack'n Pop .jpg
 │   ├── Arcade Archives DIG DUG .jpg
 │   ├── Arcade Archives DRAGON SABER .jpg
+│   ├── Arcade Archives GUN & FRONTIER .jpg
 │   ├── Arcade Archives ROLLER JAMMER .jpg
 │   ├── Arcade Paradise Digital Deluxe PS4™ & PS5™ .jpg
 │   ├── Arcade Paradise PS4™ & PS5™ .jpg
@@ -6658,6 +6667,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Crossout - Season 9 Battle Pass Bundle .jpg
 │   ├── Crossout - Season 9 Elite Battle pass Bundle .jpg
 │   ├── Crossout – "Cleaner" Starter Bundle .jpg
+│   ├── Cult of the Lamb .jpg
 │   ├── Devastator PS4 & PS5 .jpg
 │   ├── Don't Fall: aleph .jpg
 │   ├── DreadOut 2 .jpg
@@ -6670,7 +6680,6 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Guilty Gear -Strive- Ultimate Edition 2022 PS4 & PS5 .jpg
 │   ├── Gump Jump .jpg
 │   ├── Gunducky Industries++ .jpg
-│   ├── Hellpoint .jpg
 │   ├── Highway Driving .jpg
 │   ├── International Boxing .jpg
 │   ├── Kruger .jpg
@@ -6681,9 +6690,10 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Puzzletronics: Digital Infinite .jpg
 │   ├── QUByte Classics: Thunderbolt Collection by PIKO .jpg
 │   ├── Quick Mafs .jpg
-│   ├── Rayland PS4 & PS5 .jpg
+│   ├── Rainbow .jpg
 │   ├── RimWorld Console Edition - Digital Deluxe .jpg
 │   ├── RimWorld Console Edition .jpg
+│   ├── Rumbleverse .jpg
 │   ├── SD GUNDAM 激斗同盟 体验版 .jpg
 │   ├── Santa's workshop .jpg
 │   ├── Seduction: A Monk's Fate PS4 & PS5 .jpg
@@ -6749,6 +6759,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Arcade Archives Chack'n Pop .jpg
 │   ├── Arcade Archives DIG DUG .jpg
 │   ├── Arcade Archives DRAGON SABER .jpg
+│   ├── Arcade Archives GUN & FRONTIER .jpg
 │   ├── Arcade Archives ROLLER JAMMER .jpg
 │   ├── Arcade Paradise Digital Deluxe PS4™ & PS5™ .jpg
 │   ├── Arcade Paradise PS4™ & PS5™ .jpg
@@ -6763,6 +6774,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Crossout - Season 9 Battle Pass Bundle .jpg
 │   ├── Crossout - Season 9 Elite Battle pass Bundle .jpg
 │   ├── Crossout – "Cleaner" Starter Bundle .jpg
+│   ├── Cult of the Lamb .jpg
 │   ├── Danganronpa S: Ultimate Summer Camp .jpg
 │   ├── Devastator PS4 & PS5 .jpg
 │   ├── Digimon Survive .jpg
@@ -6786,7 +6798,6 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Gump Jump .jpg
 │   ├── Gunducky Industries++ .jpg
 │   ├── Hazel Sky .jpg
-│   ├── Hellpoint .jpg
 │   ├── Highway Driving .jpg
 │   ├── Hourglass .jpg
 │   ├── International Boxing .jpg
@@ -6807,10 +6818,11 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Puzzletronics: Digital Infinite .jpg
 │   ├── QUByte Classics: Thunderbolt Collection by PIKO .jpg
 │   ├── Quick Mafs .jpg
-│   ├── Rayland PS4 & PS5 .jpg
+│   ├── Rainbow .jpg
 │   ├── RimWorld Console Edition - Digital Deluxe .jpg
 │   ├── RimWorld Console Edition .jpg
 │   ├── River City Saga: Three Kingdoms .jpg
+│   ├── Rumbleverse™ .jpg
 │   ├── SD Gundam Battle Alliance Demo .jpg
 │   ├── STORY OF SEASONS: Pioneers of Olive Town .jpg
 │   ├── STRIKERS 1945 II .jpg
@@ -6845,11 +6857,12 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── ZERO GUNNER 2- .jpg
 │   ├── echoshift .jpg
 │   └── on Sunday .jpg
+├── thumbs.py
 ├── tree.bak
 ├── update.py
 └── webpage.py
 
-7 directories, 6813 files
+7 directories, 6826 files
 ```
 <!-- readme-tree end -->
  
