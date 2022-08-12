@@ -22,9 +22,9 @@ def partone(f):
         <meta charset="UTF-8">
         <title>PSGameSpider | RavelloH’s Blog</title>
         <meta name="keywords"
-              content="RavelloH,blog,">
+              content="RavelloH,blog,PlayStation,爬虫">
         <meta name="description"
-              content="A Blog by RavelloH">
+              content="自动爬取所有PlayStationStore中的所有游戏封面，自动生成网页并索引">
 
         <!-- CSS -->
         <link type="text/css"
@@ -255,11 +255,7 @@ def partone(f):
             }
         </style>
 
-        <!-- JavaScript -->
-        <script type="text/javascript"
-                src="https://ravelloh.github.io/js/loading.js"></script>
-        <script type="text/javascript"
-                src="https://ravelloh.github.io/js/common.js"></script>
+        
         
 
     </head>
@@ -372,7 +368,7 @@ liststart='''
                         <input list="gamelist"
                                name="gamelist"
                                id="searchurl"
-                               placeholder="输入要查找的游戏...">
+                               placeholder="输入要查找的游戏名...">
                         <datalist id="gamelist">
                             <!-- List Start-->
 '''
@@ -388,7 +384,9 @@ listend='''
                     <h4>- 输出 -</h4>
                     <div class="output"
                          id="output">
-                        您的浏览器不支持JavaScript。请打开JavaScript或更换浏览器以确保此程序正常运行
+                        您的浏览器不支持JavaScript。请打开JavaScript或更换浏览器以确保此程序正常运行<br>若已开启JavaScript，请尝试<a href='.' class='linkline'>点击此处刷新</a>
+>
+			
                     </div>
                     <span onclick="document.getElementById('windowa').innerHTML = helpfordemo"
                           class="iconfontsmall icon-annotation"></span>
@@ -412,22 +410,13 @@ listend='''
 
                 <div id="tcomment"></div>
 
-<script src="https://cdn.staticfile.org/twikoo/1.5.11/twikoo.all.min.js"></script>
+<script src="https://cdn.staticfile.org/twikoo/1.6.4/twikoo.all.min.js"></script>
 
 <script>
 
 twikoo.init({
-
-  envId: 'https://comment-ravelloh.vercel.app/', // 腾讯云环境填 envId；Vercel 环境填地址（https://xxx.vercel.app）
-
-  el: '#tcomment', // 容器元素
-
-  // region: 'ap-guangzhou', // 环境地域，默认为 ap-shanghai，腾讯云环境填 ap-shanghai 或 ap-guangzhou；Vercel 环境不填
-
-  // path: location.pathname, // 用于区分不同文章的自定义 js 路径，如果您的文章路径不是 location.pathname，需传此参数
-
-  // lang: 'zh-CN', // 用于手动设定评论区语言，支持的语言列表 https://github.com/imaegoo/twikoo/blob/main/src/js/utils/i18n/index.js
-
+  envId: 'https://comment-ravelloh.vercel.app/',
+  el: '#tcomment',
 })
 
 </script>
@@ -447,9 +436,15 @@ twikoo.init({
 endofall ='''
 "RavelloH "];
         </script>
+	
             <script type="text/javascript"
                 src="main.js"></script>
-            <script src="https://ravelloh.github.io/js/script.js"></script>
+	<!-- JavaScript -->
+        <script type="text/javascript"
+                src="https://ravelloh.github.io/js/loading.js"></script>
+        <script type="text/javascript"
+                src="https://ravelloh.github.io/js/common.js"></script>
+            <script type="text/javascript" src="https://ravelloh.github.io/js/script.js"></script>
             <script src="//instant.page/5.1.0"
                     type="module"
                     integrity="sha384-by67kQnR+pyfy8yWP4kPO12fHKRLHZPfEsiSXR8u2IKcTdxD805MGUXBzVPnkLHw"></script>
@@ -460,7 +455,7 @@ endofall ='''
 partone(f)
 dt=0
 for name in os.listdir('./recent/'):
-    f.write(recentpartone+str(dt)+recentparttwo+name.replace("'","\'")[:-4]+recentpartthree+name[:-4]+recentpartfour+name.replace("'",r"\'")[:-4]+recentpartfive+'\n')
+    f.write(recentpartone+str(dt)+recentparttwo+name.replace("'",r"\'")[:-4]+recentpartthree+name[:-4]+recentpartfour+name.replace("'",r"\'")[:-4]+recentpartfive+'\n')
     dt += 1
 now = datetime.datetime.now()+ datetime.timedelta(hours=8)
 f.write(htmlbodytwo+now.strftime('%Y-%m-%d %H:%M:%S')+liststart)
