@@ -6646,6 +6646,111 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 ├── logo.jpg
 ├── main.js
 ├── main.py
+├── min-recent
+│   ├── A Fungus In My Garden .jpg
+│   ├── ANIQUILATION .jpg
+│   ├── Absolute Deduction捆绑包 .jpg
+│   ├── After Wave: Downfall .jpg
+│   ├── Arcade Archives Chack'n Pop .jpg
+│   ├── Arcade Archives DIG DUG .jpg
+│   ├── Arcade Archives DRAGON SABER .jpg
+│   ├── Arcade Archives GUN & FRONTIER .jpg
+│   ├── Arcade Archives ROLLER JAMMER .jpg
+│   ├── Arcade Paradise Digital Deluxe PS4™ & PS5™ .jpg
+│   ├── Arcade Paradise PS4™ & PS5™ .jpg
+│   ├── Arsonist Heaven PS4 & PS5 .jpg
+│   ├── Book Quest PS4 & PS5 .jpg
+│   ├── Bricky to Me .jpg
+│   ├── Bump Jump .jpg
+│   ├── Capcom Arcade 2nd Stadium .jpg
+│   ├── Capcom Arcade 2nd Stadium Bundle .jpg
+│   ├── Crossout - Season 9 Battle Pass Bundle .jpg
+│   ├── Crossout - Season 9 Elite Battle pass Bundle .jpg
+│   ├── Crossout – "Cleaner" Starter Bundle .jpg
+│   ├── Cult of the Lamb .jpg
+│   ├── Devastator PS4 & PS5 .jpg
+│   ├── Don't Fall: aleph .jpg
+│   ├── DreadOut 2 .jpg
+│   ├── Endling - Extinction is Forever .jpg
+│   ├── Endzone - A World Apart .jpg
+│   ├── Exploria .jpg
+│   ├── Gale of Windoria .jpg
+│   ├── Gigapocalypse .jpg
+│   ├── Guilty Gear -Strive- + Season Pass 1 .jpg
+│   ├── Guilty Gear -Strive- Ultimate Edition 2022 PS4 & PS5 .jpg
+│   ├── Gump Jump .jpg
+│   ├── Gunducky Industries++ .jpg
+│   ├── Highway Driving .jpg
+│   ├── International Boxing .jpg
+│   ├── Kruger .jpg
+│   ├── LocoRoco Midnight Carnival .jpg
+│   ├── Lump Jump .jpg
+│   ├── No Heroes Allowed! .jpg
+│   ├── Paradox Error .jpg
+│   ├── Puzzletronics: Digital Infinite .jpg
+│   ├── QUByte Classics: Thunderbolt Collection by PIKO .jpg
+│   ├── Quick Mafs .jpg
+│   ├── Rainbow .jpg
+│   ├── RimWorld Console Edition - Digital Deluxe .jpg
+│   ├── RimWorld Console Edition .jpg
+│   ├── Rumbleverse .jpg
+│   ├── SD GUNDAM 激斗同盟 体验版 .jpg
+│   ├── Santa's workshop .jpg
+│   ├── Seduction: A Monk's Fate PS4 & PS5 .jpg
+│   ├── Severed Steel .jpg
+│   ├── Sofiya and the Ancient Clan PS4 & PS5 .jpg
+│   ├── Square Keeper PS4 & PS5 .jpg
+│   ├── Stray .jpg
+│   ├── Surface Rush PS4 & PS5 .jpg
+│   ├── Surviving the Aftermath .jpg
+│   ├── The Ketchup story .jpg
+│   ├── The Ultimate FMV Bundle 2 .jpg
+│   ├── Transiruby .jpg
+│   ├── Two Hundred Ways .jpg
+│   ├── Two Point Campus PS4 & PS5 .jpg
+│   ├── Universal Flight Simulator .jpg
+│   ├── Vump Jump .jpg
+│   ├── Wally and the FANTASTIC PREDATORS .jpg
+│   ├── What Remains of Edith Finch .jpg
+│   ├── World of Tanks – Evolution入门包 .jpg
+│   ├── Xump Jump .jpg
+│   ├── echoshift 时限回廊 .jpg
+│   ├── on Sunday .jpg
+│   ├── 《GigaBash 巨击大乱斗》 .jpg
+│   ├── 《泰坦之路》标准创始者包 .jpg
+│   ├── 《物质世界》：冒险家礼包 .jpg
+│   ├── 《逃脱学院》豪华版带 .jpg
+│   ├── 仙剑奇侠传七 .jpg
+│   ├── 信長之野望·新生 .jpg
+│   ├── 信長之野望·新生 数字豪华版 .jpg
+│   ├── 光明记忆：无限 .jpg
+│   ├── 公理边缘2 .jpg
+│   ├── 天蛾人1966 .jpg
+│   ├── 失落史诗 .jpg
+│   ├── 小小诺娅：乐园继承者　特别版 .jpg
+│   ├── 小林家的龙女仆 炸裂!! 呆萌龙☆吐息 .jpg
+│   ├── 幸福枪弹辩驳Ｓ 超高中级的南国掷骰合宿 .jpg
+│   ├── 彼岸晴空 .jpg
+│   ├── 战国世纪 .jpg
+│   ├── 战国之刃 .jpg
+│   ├── 战国加农 .jpg
+│   ├── 战场的赋格曲 体验版 .jpg
+│   ├── 打击者1945 II .jpg
+│   ├── 打击者1945 III .jpg
+│   ├── 数码宝贝 绝境求生 .jpg
+│   ├── 武装飞鸟 .jpg
+│   ├── 武装飞鸟2 .jpg
+│   ├── 沙漏[Hourglass] .jpg
+│   ├── 泰坦之路 - 豪华创始者包 .jpg
+│   ├── 热血三国志 .jpg
+│   ├── 牧场物语 橄榄镇与希望的大地 SPECIAL .jpg
+│   ├── 砖块物语 .jpg
+│   ├── 神领编年史 The DioField Chronicle PS4 & PS5 体验版 .jpg
+│   ├── 英雄传说 黎之轨迹 .jpg
+│   ├── 英雄传说 黎之轨迹 数字豪华版 .jpg
+│   ├── 逃脱学院 .jpg
+│   ├── 零式枪手2- .jpg
+│   └── 龙之怒火 .jpg
 ├── recent
 │   ├── A Fungus In My Garden .jpg
 │   ├── ANIQUILATION .jpg
@@ -6862,7 +6967,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 ├── update.py
 └── webpage.py
 
-7 directories, 6826 files
+8 directories, 6930 files
 ```
 <!-- readme-tree end -->
  
