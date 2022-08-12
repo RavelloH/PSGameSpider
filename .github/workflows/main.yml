@@ -31,6 +31,9 @@ jobs:
       - name: 'Page'
         run: 
           python webpage.py #运行主程序
+      - name: 'Thumbs'
+        run: 
+          python thumbs.py #运行主程序
       - name: 'EnglishWorking'
         run: 
           python en-update.py #运行主程序
