@@ -11,7 +11,7 @@ def smallPic():
         print(filename)
         im = Image.open(filename)
         print(im.format, im.size, im.mode, filename)
-        im.thumbnail((128, (im.size[1] * im.size[0] / 128)))
+        im.thumbnail((256, (im.size[1] * im.size[0] / 256)))
         savepath = "min-recent/"+i
         im.save(savepath, 'JPEG')
         
