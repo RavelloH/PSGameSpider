@@ -1,7 +1,7 @@
 name: update
 on:
   schedule:
-    - cron: '30 */12 * * *' #每日更新
+    - cron: '30 */8 * * *' #每日更新
   watch:
     types: [started]
   workflow_dispatch:
@@ -60,4 +60,23 @@ jobs:
           git push -f
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-     
+          
+  deploy:
+    needs: build
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Setup Pages
+        uses: actions/configure-pages@v1
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v1
+        with:
+          # Upload entire repository
+          path: '.'
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@main     
