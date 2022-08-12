@@ -6752,6 +6752,112 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── 逃脱学院 .jpg
 │   ├── 零式枪手2- .jpg
 │   └── 龙之怒火 .jpg
+├── min-recent-en
+│   ├── A Fungus In My Garden .jpg
+│   ├── ANIQUILATION .jpg
+│   ├── Absolute Deduction bundle .jpg
+│   ├── After Wave: Downfall .jpg
+│   ├── Arcade Archives Chack'n Pop .jpg
+│   ├── Arcade Archives DIG DUG .jpg
+│   ├── Arcade Archives DRAGON SABER .jpg
+│   ├── Arcade Archives GUN & FRONTIER .jpg
+│   ├── Arcade Archives ROLLER JAMMER .jpg
+│   ├── Arcade Paradise Digital Deluxe PS4™ & PS5™ .jpg
+│   ├── Arcade Paradise PS4™ & PS5™ .jpg
+│   ├── Arsonist Heaven PS4 & PS5 .jpg
+│   ├── Axiom Verge 2 .jpg
+│   ├── Book Quest PS4 & PS5 .jpg
+│   ├── Bricky to Me .jpg
+│   ├── Bright Memory: Infinite .jpg
+│   ├── Bump Jump .jpg
+│   ├── Capcom Arcade 2nd Stadium .jpg
+│   ├── Capcom Arcade 2nd Stadium Bundle .jpg
+│   ├── Crossout - Season 9 Battle Pass Bundle .jpg
+│   ├── Crossout - Season 9 Elite Battle pass Bundle .jpg
+│   ├── Crossout – "Cleaner" Starter Bundle .jpg
+│   ├── Cult of the Lamb .jpg
+│   ├── Danganronpa S: Ultimate Summer Camp .jpg
+│   ├── Devastator PS4 & PS5 .jpg
+│   ├── Digimon Survive .jpg
+│   ├── Don't Fall: aleph .jpg
+│   ├── Dragon Blaze .jpg
+│   ├── DreadOut 2 .jpg
+│   ├── Endling - Extinction is Forever .jpg
+│   ├── Endzone - A World Apart .jpg
+│   ├── Escape Academy .jpg
+│   ├── Escape Academy Deluxe Edition .jpg
+│   ├── Exploria .jpg
+│   ├── Fuga: Melodies of Steel - Demo .jpg
+│   ├── GUNBARICH .jpg
+│   ├── GUNBIRD .jpg
+│   ├── GUNBIRD 2 .jpg
+│   ├── Gale of Windoria .jpg
+│   ├── GigaBash .jpg
+│   ├── Gigapocalypse .jpg
+│   ├── Guilty Gear -Strive- + Season Pass 1 PS4 & PS5 .jpg
+│   ├── Guilty Gear -Strive- Ultimate Edition 2022 PS4 & PS5 .jpg
+│   ├── Gump Jump .jpg
+│   ├── Gunducky Industries++ .jpg
+│   ├── Hazel Sky .jpg
+│   ├── Highway Driving .jpg
+│   ├── Hourglass .jpg
+│   ├── International Boxing .jpg
+│   ├── Kruger .jpg
+│   ├── LOST EPIC .jpg
+│   ├── Little Noah: Scion of Paradise Special Edition .jpg
+│   ├── LocoRoco Midnight Carnival .jpg
+│   ├── Lump Jump .jpg
+│   ├── Miss Kobayashi's Dragon Maid Burst Forth!! Choro-gon☆Breath .jpg
+│   ├── Mothmen 1966 .jpg
+│   ├── NOBUNAGA'S AMBITION: Shinsei .jpg
+│   ├── NOBUNAGA'S AMBITION: Shinsei Digital Deluxe Edition .jpg
+│   ├── No Heroes Allowed! .jpg
+│   ├── Outward: The Adventurer Bundle .jpg
+│   ├── Paradox Error .jpg
+│   ├── Path of Titans Deluxe Founder's Pack .jpg
+│   ├── Path of Titans Standard Founder's Pack .jpg
+│   ├── Puzzletronics: Digital Infinite .jpg
+│   ├── QUByte Classics: Thunderbolt Collection by PIKO .jpg
+│   ├── Quick Mafs .jpg
+│   ├── Rainbow .jpg
+│   ├── RimWorld Console Edition - Digital Deluxe .jpg
+│   ├── RimWorld Console Edition .jpg
+│   ├── River City Saga: Three Kingdoms .jpg
+│   ├── Rumbleverse™ .jpg
+│   ├── SD Gundam Battle Alliance Demo .jpg
+│   ├── STORY OF SEASONS: Pioneers of Olive Town .jpg
+│   ├── STRIKERS 1945 II .jpg
+│   ├── STRIKERS 1945 III .jpg
+│   ├── Samurai Aces .jpg
+│   ├── Samurai Aces III: Sengoku Cannon .jpg
+│   ├── Santa's workshop .jpg
+│   ├── Seduction: A Monk's Fate PS4 & PS5 .jpg
+│   ├── Severed Steel .jpg
+│   ├── Sofiya and the Ancient Clan PS4 & PS5 .jpg
+│   ├── Square Keeper PS4 & PS5 .jpg
+│   ├── Stray .jpg
+│   ├── Surface Rush PS4 & PS5 .jpg
+│   ├── Surviving the Aftermath .jpg
+│   ├── Sword and Fairy Together Forever .jpg
+│   ├── Sword and Fairy: Together Forever PS4™ & PS5™ .jpg
+│   ├── TENGAI .jpg
+│   ├── The DioField Chronicle PS4 & PS5 DEMO .jpg
+│   ├── The Ketchup story .jpg
+│   ├── The Legend of Heroes: Kuro no Kiseki .jpg
+│   ├── The Legend of Heroes: Kuro no Kiseki Digital Deluxe Edition .jpg
+│   ├── The Ultimate FMV Bundle 2 .jpg
+│   ├── Transiruby .jpg
+│   ├── Two Hundred Ways .jpg
+│   ├── Two Point Campus PS4 & PS5 .jpg
+│   ├── Universal Flight Simulator .jpg
+│   ├── Vump Jump .jpg
+│   ├── Wally and the FANTASTIC PREDATORS .jpg
+│   ├── What Remains of Edith Finch .jpg
+│   ├── World of Tanks –  Evolution Starter Pack .jpg
+│   ├── Xump Jump .jpg
+│   ├── ZERO GUNNER 2- .jpg
+│   ├── echoshift .jpg
+│   └── on Sunday .jpg
 ├── recent
 │   ├── A Fungus In My Garden .jpg
 │   ├── ANIQUILATION .jpg
@@ -6966,9 +7072,10 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 ├── thumbs.py
 ├── tree.bak
 ├── update.py
+├── vercel.json
 └── webpage.py
 
-8 directories, 6931 files
+9 directories, 7037 files
 ```
 <!-- readme-tree end -->
  
