@@ -644,6 +644,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── COGEN: 大凤羽空与刻之剑.jpg
 │   ├── CONCEPTION PLUS 俺の子供を産んでくれ！.jpg
 │   ├── CONTRA: ROGUE CORPS.jpg
+│   ├── COSPLAY LOVE! : Enchanted princess .jpg
 │   ├── CRSED.jpg
 │   ├── CRYSTAR.jpg
 │   ├── Cake Bash.jpg
@@ -4007,6 +4008,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── CODE VEIN.jpg
 │   ├── COGEN: Sword of Rewind.jpg
 │   ├── CONTRA: ROGUE CORPS.jpg
+│   ├── COSPLAY LOVE! : Enchanted princess .jpg
 │   ├── COTTOn 2 - Saturn Tribute.jpg
 │   ├── COTTOn Boomerang - Saturn Tribute.jpg
 │   ├── CRSED.jpg
@@ -6662,6 +6664,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Book Quest PS4 & PS5 .jpg
 │   ├── Bricky to Me .jpg
 │   ├── Bump Jump .jpg
+│   ├── COSPLAY LOVE! : Enchanted princess .jpg
 │   ├── Capcom Arcade 2nd Stadium .jpg
 │   ├── Capcom Arcade 2nd Stadium Bundle .jpg
 │   ├── Crossout - Season 9 Battle Pass Bundle .jpg
@@ -6686,7 +6689,6 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── LocoRoco Midnight Carnival .jpg
 │   ├── Lump Jump .jpg
 │   ├── No Heroes Allowed! .jpg
-│   ├── Paradox Error .jpg
 │   ├── Puzzletronics: Digital Infinite .jpg
 │   ├── QUByte Classics: Thunderbolt Collection by PIKO .jpg
 │   ├── Quick Mafs .jpg
@@ -6706,7 +6708,6 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── The Ketchup story .jpg
 │   ├── The Ultimate FMV Bundle 2 .jpg
 │   ├── Transiruby .jpg
-│   ├── Two Hundred Ways .jpg
 │   ├── Two Point Campus PS4 & PS5 .jpg
 │   ├── Universal Flight Simulator .jpg
 │   ├── Vump Jump .jpg
@@ -6719,7 +6720,6 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── 《GigaBash 巨击大乱斗》 .jpg
 │   ├── 《泰坦之路》标准创始者包 .jpg
 │   ├── 《物质世界》：冒险家礼包 .jpg
-│   ├── 《逃脱学院》豪华版带 .jpg
 │   ├── 仙剑奇侠传七 .jpg
 │   ├── 信長之野望·新生 .jpg
 │   ├── 信長之野望·新生 数字豪华版 .jpg
@@ -6733,7 +6733,6 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── 战国世纪 .jpg
 │   ├── 战国之刃 .jpg
 │   ├── 战国加农 .jpg
-│   ├── 战场的赋格曲 体验版 .jpg
 │   ├── 数码宝贝 绝境求生 .jpg
 │   ├── 武装飞鸟 .jpg
 │   ├── 武装飞鸟2 .jpg
@@ -6744,8 +6743,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── 砖块物语 .jpg
 │   ├── 神领编年史 The DioField Chronicle PS4 & PS5 体验版 .jpg
 │   ├── 英雄传说 黎之轨迹 .jpg
-│   ├── 英雄传说 黎之轨迹 数字豪华版 .jpg
-│   └── 逃脱学院 .jpg
+│   └── 英雄传说 黎之轨迹 数字豪华版 .jpg
 ├── min-recent-en
 │   ├── A Fungus In My Garden .jpg
 │   ├── ANIQUILATION .jpg
@@ -6763,6 +6761,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Bricky to Me .jpg
 │   ├── Bright Memory: Infinite .jpg
 │   ├── Bump Jump .jpg
+│   ├── COSPLAY LOVE! : Enchanted princess .jpg
 │   ├── Capcom Arcade 2nd Stadium .jpg
 │   ├── Capcom Arcade 2nd Stadium Bundle .jpg
 │   ├── Crossout - Season 9 Battle Pass Bundle .jpg
@@ -6776,10 +6775,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── DreadOut 2 .jpg
 │   ├── Endling - Extinction is Forever .jpg
 │   ├── Endzone - A World Apart .jpg
-│   ├── Escape Academy .jpg
-│   ├── Escape Academy Deluxe Edition .jpg
 │   ├── Exploria .jpg
-│   ├── Fuga: Melodies of Steel - Demo .jpg
 │   ├── GUNBARICH .jpg
 │   ├── GUNBIRD .jpg
 │   ├── GUNBIRD 2 .jpg
@@ -6804,7 +6800,6 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── NOBUNAGA'S AMBITION: Shinsei Digital Deluxe Edition .jpg
 │   ├── No Heroes Allowed! .jpg
 │   ├── Outward: The Adventurer Bundle .jpg
-│   ├── Paradox Error .jpg
 │   ├── Path of Titans Deluxe Founder's Pack .jpg
 │   ├── Path of Titans Standard Founder's Pack .jpg
 │   ├── Puzzletronics: Digital Infinite .jpg
@@ -6836,7 +6831,6 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── The Legend of Heroes: Kuro no Kiseki Digital Deluxe Edition .jpg
 │   ├── The Ultimate FMV Bundle 2 .jpg
 │   ├── Transiruby .jpg
-│   ├── Two Hundred Ways .jpg
 │   ├── Two Point Campus PS4 & PS5 .jpg
 │   ├── Universal Flight Simulator .jpg
 │   ├── Vump Jump .jpg
@@ -6861,6 +6855,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Book Quest PS4 & PS5 .jpg
 │   ├── Bricky to Me .jpg
 │   ├── Bump Jump .jpg
+│   ├── COSPLAY LOVE! : Enchanted princess .jpg
 │   ├── Capcom Arcade 2nd Stadium .jpg
 │   ├── Capcom Arcade 2nd Stadium Bundle .jpg
 │   ├── Crossout - Season 9 Battle Pass Bundle .jpg
@@ -6885,7 +6880,6 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── LocoRoco Midnight Carnival .jpg
 │   ├── Lump Jump .jpg
 │   ├── No Heroes Allowed! .jpg
-│   ├── Paradox Error .jpg
 │   ├── Puzzletronics: Digital Infinite .jpg
 │   ├── QUByte Classics: Thunderbolt Collection by PIKO .jpg
 │   ├── Quick Mafs .jpg
@@ -6905,7 +6899,6 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── The Ketchup story .jpg
 │   ├── The Ultimate FMV Bundle 2 .jpg
 │   ├── Transiruby .jpg
-│   ├── Two Hundred Ways .jpg
 │   ├── Two Point Campus PS4 & PS5 .jpg
 │   ├── Universal Flight Simulator .jpg
 │   ├── Vump Jump .jpg
@@ -6918,7 +6911,6 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── 《GigaBash 巨击大乱斗》 .jpg
 │   ├── 《泰坦之路》标准创始者包 .jpg
 │   ├── 《物质世界》：冒险家礼包 .jpg
-│   ├── 《逃脱学院》豪华版带 .jpg
 │   ├── 仙剑奇侠传七 .jpg
 │   ├── 信長之野望·新生 .jpg
 │   ├── 信長之野望·新生 数字豪华版 .jpg
@@ -6932,7 +6924,6 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── 战国世纪 .jpg
 │   ├── 战国之刃 .jpg
 │   ├── 战国加农 .jpg
-│   ├── 战场的赋格曲 体验版 .jpg
 │   ├── 数码宝贝 绝境求生 .jpg
 │   ├── 武装飞鸟 .jpg
 │   ├── 武装飞鸟2 .jpg
@@ -6943,8 +6934,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── 砖块物语 .jpg
 │   ├── 神领编年史 The DioField Chronicle PS4 & PS5 体验版 .jpg
 │   ├── 英雄传说 黎之轨迹 .jpg
-│   ├── 英雄传说 黎之轨迹 数字豪华版 .jpg
-│   └── 逃脱学院 .jpg
+│   └── 英雄传说 黎之轨迹 数字豪华版 .jpg
 ├── recent-en
 │   ├── A Fungus In My Garden .jpg
 │   ├── ANIQUILATION .jpg
@@ -6962,6 +6952,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Bricky to Me .jpg
 │   ├── Bright Memory: Infinite .jpg
 │   ├── Bump Jump .jpg
+│   ├── COSPLAY LOVE! : Enchanted princess .jpg
 │   ├── Capcom Arcade 2nd Stadium .jpg
 │   ├── Capcom Arcade 2nd Stadium Bundle .jpg
 │   ├── Crossout - Season 9 Battle Pass Bundle .jpg
@@ -6975,10 +6966,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── DreadOut 2 .jpg
 │   ├── Endling - Extinction is Forever .jpg
 │   ├── Endzone - A World Apart .jpg
-│   ├── Escape Academy .jpg
-│   ├── Escape Academy Deluxe Edition .jpg
 │   ├── Exploria .jpg
-│   ├── Fuga: Melodies of Steel - Demo .jpg
 │   ├── GUNBARICH .jpg
 │   ├── GUNBIRD .jpg
 │   ├── GUNBIRD 2 .jpg
@@ -7003,7 +6991,6 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── NOBUNAGA'S AMBITION: Shinsei Digital Deluxe Edition .jpg
 │   ├── No Heroes Allowed! .jpg
 │   ├── Outward: The Adventurer Bundle .jpg
-│   ├── Paradox Error .jpg
 │   ├── Path of Titans Deluxe Founder's Pack .jpg
 │   ├── Path of Titans Standard Founder's Pack .jpg
 │   ├── Puzzletronics: Digital Infinite .jpg
@@ -7035,7 +7022,6 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── The Legend of Heroes: Kuro no Kiseki Digital Deluxe Edition .jpg
 │   ├── The Ultimate FMV Bundle 2 .jpg
 │   ├── Transiruby .jpg
-│   ├── Two Hundred Ways .jpg
 │   ├── Two Point Campus PS4 & PS5 .jpg
 │   ├── Universal Flight Simulator .jpg
 │   ├── Vump Jump .jpg
@@ -7051,7 +7037,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 ├── vercel.json
 └── webpage.py
 
-9 directories, 7013 files
+9 directories, 6999 files
 ```
 <!-- readme-tree end -->
  
