@@ -413,10 +413,11 @@ listend='''
 <script src="https://cdn.staticfile.org/twikoo/1.6.4/twikoo.all.min.js"></script>
 
 <script>
-
+window.TWIKOO_MAGIC_PATH="psgamespider"
 twikoo.init({
   envId: 'https://comment-ravelloh.vercel.app/',
   el: '#tcomment',
+  path: 'window.TWIKOO_MAGIC_PATH||window.location.pathname',
 })
 
 </script>
