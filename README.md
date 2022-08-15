@@ -6762,6 +6762,9 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Absolute Deduction bundle .jpg
 │   ├── After Wave: Downfall .jpg
 │   ├── Arcade Archives Chack'n Pop .jpg
+│   ├── Arcade Archives DIG DUG .jpg
+│   ├── Arcade Archives GUN & FRONTIER .jpg
+│   ├── Arcade Archives ROLLER JAMMER .jpg
 │   ├── Arcade Paradise Digital Deluxe PS4™ & PS5™ .jpg
 │   ├── Arcade Paradise PS4™ & PS5™ .jpg
 │   ├── Arsonist Heaven PS4 & PS5 .jpg
@@ -6773,7 +6776,9 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── COSPLAY LOVE! : Enchanted princess .jpg
 │   ├── Capcom Arcade 2nd Stadium .jpg
 │   ├── Capcom Arcade 2nd Stadium Bundle .jpg
+│   ├── Crossout - Season 9 Battle Pass Bundle .jpg
 │   ├── Crossout - Season 9 Elite Battle pass Bundle .jpg
+│   ├── Crossout – "Cleaner" Starter Bundle .jpg
 │   ├── Cult of the Lamb .jpg
 │   ├── Danganronpa S: Ultimate Summer Camp .jpg
 │   ├── Devastator PS4 & PS5 .jpg
@@ -6786,6 +6791,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── FMV Comedy Bundle .jpg
 │   ├── GUNBARICH .jpg
 │   ├── GUNBIRD .jpg
+│   ├── GUNBIRD 2 .jpg
 │   ├── Gale of Windoria .jpg
 │   ├── GigaBash .jpg
 │   ├── Gigapocalypse .jpg
@@ -6796,6 +6802,8 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Hazel Sky .jpg
 │   ├── Highway Driving .jpg
 │   ├── Hourglass .jpg
+│   ├── International Boxing .jpg
+│   ├── Kruger .jpg
 │   ├── LOST EPIC .jpg
 │   ├── Little Noah: Scion of Paradise Special Edition .jpg
 │   ├── LocoRoco Midnight Carnival .jpg
@@ -6821,6 +6829,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Samurai Aces .jpg
 │   ├── Samurai Aces III: Sengoku Cannon .jpg
 │   ├── Santa's workshop .jpg
+│   ├── Seduction: A Monk's Fate PS4 & PS5 .jpg
 │   ├── Severed Steel .jpg
 │   ├── Snow Journey .jpg
 │   ├── Sofiya and the Ancient Clan PS4 & PS5 .jpg
@@ -6952,6 +6961,9 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Absolute Deduction bundle .jpg
 │   ├── After Wave: Downfall .jpg
 │   ├── Arcade Archives Chack'n Pop .jpg
+│   ├── Arcade Archives DIG DUG .jpg
+│   ├── Arcade Archives GUN & FRONTIER .jpg
+│   ├── Arcade Archives ROLLER JAMMER .jpg
 │   ├── Arcade Paradise Digital Deluxe PS4™ & PS5™ .jpg
 │   ├── Arcade Paradise PS4™ & PS5™ .jpg
 │   ├── Arsonist Heaven PS4 & PS5 .jpg
@@ -6963,7 +6975,9 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── COSPLAY LOVE! : Enchanted princess .jpg
 │   ├── Capcom Arcade 2nd Stadium .jpg
 │   ├── Capcom Arcade 2nd Stadium Bundle .jpg
+│   ├── Crossout - Season 9 Battle Pass Bundle .jpg
 │   ├── Crossout - Season 9 Elite Battle pass Bundle .jpg
+│   ├── Crossout – "Cleaner" Starter Bundle .jpg
 │   ├── Cult of the Lamb .jpg
 │   ├── Danganronpa S: Ultimate Summer Camp .jpg
 │   ├── Devastator PS4 & PS5 .jpg
@@ -6976,6 +6990,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── FMV Comedy Bundle .jpg
 │   ├── GUNBARICH .jpg
 │   ├── GUNBIRD .jpg
+│   ├── GUNBIRD 2 .jpg
 │   ├── Gale of Windoria .jpg
 │   ├── GigaBash .jpg
 │   ├── Gigapocalypse .jpg
@@ -6986,6 +7001,8 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Hazel Sky .jpg
 │   ├── Highway Driving .jpg
 │   ├── Hourglass .jpg
+│   ├── International Boxing .jpg
+│   ├── Kruger .jpg
 │   ├── LOST EPIC .jpg
 │   ├── Little Noah: Scion of Paradise Special Edition .jpg
 │   ├── LocoRoco Midnight Carnival .jpg
@@ -7011,6 +7028,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Samurai Aces .jpg
 │   ├── Samurai Aces III: Sengoku Cannon .jpg
 │   ├── Santa's workshop .jpg
+│   ├── Seduction: A Monk's Fate PS4 & PS5 .jpg
 │   ├── Severed Steel .jpg
 │   ├── Snow Journey .jpg
 │   ├── Sofiya and the Ancient Clan PS4 & PS5 .jpg
@@ -7043,7 +7061,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 ├── vercel.json
 └── webpage.py
 
-9 directories, 7005 files
+9 directories, 7023 files
 ```
 <!-- readme-tree end -->
  
