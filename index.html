@@ -1362,7 +1362,7 @@
      - 搜索 -
     </h4>
     <p>
-     INFO - 上次更新于:2022-08-15 10:17:02 (UTC+8)
+     INFO - 上次更新于:2022-08-15 10:36:08 (UTC+8)
     </p>
     <form onsubmit="post();return false;">
      <input id="searchurl" list="gamelist" name="gamelist" placeholder="输入要查找的游戏名..."/>
@@ -8003,7 +8003,7 @@
      <script src="https://cdn.staticfile.org/twikoo/1.6.4/twikoo.all.min.js">
      </script>
      <script>
-      twikoo.init({  envId: 'https://comment-ravelloh.vercel.app/',  el: '#tcomment',})
+      window.TWIKOO_MAGIC_PATH="psgamespider"twikoo.init({  envId: 'https://comment-ravelloh.vercel.app/',  el: '#tcomment',  path: 'window.TWIKOO_MAGIC_PATH||window.location.pathname',})
      </script>
     </div>
    </div>
