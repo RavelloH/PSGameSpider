@@ -270,6 +270,7 @@ def partone(f):
         <body>
 
             <section class="showcase">
+	    <div class="shade"></div>
                 <header>
                     <h2 class="logo">
                         <a href="/">
