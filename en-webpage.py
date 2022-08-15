@@ -416,7 +416,7 @@ listend='''
 <script src="https://cdn.staticfile.org/twikoo/1.6.4/twikoo.all.min.js"></script>
 
 <script>
-window.TWIKOO_MAGIC_PATH="PSGameSpider/en"
+window.TWIKOO_MAGIC_PATH="/PSGameSpider/en";
 twikoo.init({
 
   envId: 'https://comment-ravelloh.vercel.app
