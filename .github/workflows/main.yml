@@ -76,3 +76,15 @@ jobs:
         with:
           source-repo: "git@github.com:RavelloH/PSGameSpider.git"
           destination-repo: "git@gitee.com:ravelloh/PSGameSpider.git"
+  reload-pages:
+    needs: sync
+    runs-on: ubuntu-latest
+    steps:
+      - name: reload
+        uses: mizuka-wu/gitee-pages-action@v1.0.0
+        with:
+          repository: RavelloH/PSGameSpider
+          cookie: ${{ secrets.GITEE_COOKIE }}
+          branch: master
+          directory: src
+          https: true
