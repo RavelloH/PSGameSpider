@@ -85,6 +85,5 @@ jobs:
         with:
           repository: RavelloH/PSGameSpider
           cookie: ${{ secrets.GITEE_COOKIE }}
-          branch: master
-          directory: src
+          branch: main
           https: true
