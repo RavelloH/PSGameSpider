@@ -29,13 +29,13 @@ def partone(f):
         <!-- CSS -->
         <link type="text/css"
               rel="stylesheet"
-              href="https://ravelloh.github.io/css/common.css">
+              href="/css/common.css">
         <link type="text/css"
               rel="stylesheet"
-              href="https://ravelloh.github.io/css/style.css">
+              href="/css/style.css">
         <link type="text/css"
               rel="stylesheet"
-              href="https://ravelloh.github.io/css/iconfont.css">
+              href="/css/iconfont.css">
         <style type="text/css">
             button {border: 1px solid #0099CC;
                         background-color:#1e1e1e;
@@ -269,11 +269,11 @@ def partone(f):
                     <h2 class="logo">
                         <a href="/">
                             <img class="logoimg"
-                                 src="https://ravelloh.github.io/img/avatar.jpg"
+                                 src="/img/avatar.jpg"
                                  style="width: 1.5em;border-radius: 50%;"
                                  alt="avatar">
                             <img class="logoimg"
-                                 src="https://ravelloh.github.io/img/RavelloH.svg"
+                                 src="/img/RavelloH.svg"
                                  alt="RavelloH's Blog">
                         </a>
 
@@ -396,9 +396,9 @@ listend='''
 
                     <div><h4>- 更多语言 -</h4>
 
-                    <li><a href="https://ravelloh.github.io/PSGameSpider/">中文</a></li>
+                    <li><a href="/PSGameSpider/">中文</a></li>
 
-                    <li><a href="https://ravelloh.github.io/PSGameSpider/en/">English</a></li>
+                    <li><a href="/PSGameSpider/en/">English</a></li>
 
                     </div>
 
@@ -413,7 +413,7 @@ listend='''
 <script src="https://cdn.staticfile.org/twikoo/1.6.4/twikoo.all.min.js"></script>
 
 <script>
-window.TWIKOO_MAGIC_PATH="psgamespider"
+window.TWIKOO_MAGIC_PATH="PSGameSpider"
 twikoo.init({
   envId: 'https://comment-ravelloh.vercel.app/',
   el: '#tcomment',
@@ -428,7 +428,7 @@ twikoo.init({
             <div class="menu">
                 <ul>
                     <script type="text/javascript"
-                            src="https://ravelloh.github.io/js/menu.js"></script>
+                            src="/js/menu.js"></script>
                 </ul>
             </div>
             <script language="javascript">
@@ -442,10 +442,10 @@ endofall ='''
                 src="main.js"></script>
 	<!-- JavaScript -->
         <script type="text/javascript"
-                src="https://ravelloh.github.io/js/loading.js"></script>
+                src="/js/loading.js"></script>
         <script type="text/javascript"
                 src="https://ravelloh.github.io/js/common.js"></script>
-            <script type="text/javascript" src="https://ravelloh.github.io/js/script.js"></script>
+            <script type="text/javascript" src="/js/script.js"></script>
             <script src="//instant.page/5.1.0"
                     type="module"
                     integrity="sha384-by67kQnR+pyfy8yWP4kPO12fHKRLHZPfEsiSXR8u2IKcTdxD805MGUXBzVPnkLHw"></script>
