@@ -337,6 +337,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Arcade Archives MAPPY.jpg
 │   ├── Arcade Archives MARKHAM.jpg
 │   ├── Arcade Archives MAT MANIA EXCITING HOUR.jpg
+│   ├── Arcade Archives METROCROSS .jpg
 │   ├── Arcade Archives MIRAI NINJA.jpg
 │   ├── Arcade Archives MOON PATROL.jpg
 │   ├── Arcade Archives MOTOS .jpg
@@ -386,6 +387,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Arcade Archives Shusse Ozumo.jpg
 │   ├── Arcade Archives Soldier Girl Amazon.jpg
 │   ├── Arcade Archives Super Dodge Ball.jpg
+│   ├── Arcade Archives Super Volleyball .jpg
 │   ├── Arcade Archives T.N.K III.jpg
 │   ├── Arcade Archives TASK FORCE HARRIER.jpg
 │   ├── Arcade Archives TECMO BOWL.jpg
@@ -433,6 +435,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Arcade Paradise Digital Deluxe PS4™ & PS5™ .jpg
 │   ├── Arcade Paradise PS4™ & PS5™ .jpg
 │   ├── Arcadegeddon.jpg
+│   ├── Are You Smarter Than a 5th Grader? .jpg
 │   ├── Arietta of Spirits .jpg
 │   ├── Arise: A simple story.jpg
 │   ├── Arizona Sunshine.jpg
@@ -442,6 +445,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Arsonist Heaven PS4 & PS5 .jpg
 │   ├── Ary and the Secret of Seasons.jpg
 │   ├── Ascendshaft and Endless Shaft.jpg
+│   ├── Asdivine Cross .jpg
 │   ├── Asdivine Cross.jpg
 │   ├── Asdivine Dios.jpg
 │   ├── Asdivine Hearts II.jpg
@@ -506,6 +510,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── BRIKS.jpg
 │   ├── BUTCHER.jpg
 │   ├── Baby Hands .jpg
+│   ├── Back Again PS4 & PS5 .jpg
 │   ├── Back in 1995.jpg
 │   ├── Back to Bed.jpg
 │   ├── Backgammon Blitz.jpg
@@ -549,6 +554,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Bit Dungeon Plus.jpg
 │   ├── Black Book.jpg
 │   ├── Black Clover: Quartet Knights.jpg
+│   ├── Black Death :A Tragic Dirge .jpg
 │   ├── Black Desert.jpg
 │   ├── Black Rose Valkyrie.jpg
 │   ├── Black The Fall.jpg
@@ -566,6 +572,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Blind Spot.jpg
 │   ├── Blitz Breaker.jpg
 │   ├── Blizzard® Arcade Collection.jpg
+│   ├── Blob Quest .jpg
 │   ├── Block-a-Pix Deluxe.jpg
 │   ├── Blood & Truth.jpg
 │   ├── Blood Bowl 2.jpg
@@ -597,6 +604,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Bound By Flame.jpg
 │   ├── Bowling.jpg
 │   ├── Bravo Team.jpg
+│   ├── Breaking Enigma .jpg
 │   ├── Breakneck City.jpg
 │   ├── Breakout Bricks .jpg
 │   ├── Breakout Bricks PS4.jpg
@@ -694,6 +702,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Caveman Warriors.jpg
 │   ├── Cel Damage HD.jpg
 │   ├── Centipede: Recharged.jpg
+│   ├── Chameneon .jpg
 │   ├── Chaos on Deponia.jpg
 │   ├── Checkers.jpg
 │   ├── Chess.jpg
@@ -713,6 +722,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Clash Force.jpg
 │   ├── Clay Skeet Shooting PS4 & PS5.jpg
 │   ├── Clid The Snail.jpg
+│   ├── Cloudpunk .jpg
 │   ├── Cloudpunk.jpg
 │   ├── Cluster Tumble.jpg
 │   ├── Coastline Flight Simulator - 海岸线飞行模拟器.jpg
@@ -768,6 +778,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Cuphead & The Delicious Last Course .jpg
 │   ├── Cuphead.jpg
 │   ├── Cursed Island .jpg
+│   ├── Cursed to Golf .jpg
 │   ├── Curses 'N Chaos.jpg
 │   ├── Cybarian: The Time Traveling Warrior.jpg
 │   ├── Cyber Engine .jpg
@@ -908,6 +919,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Dog Duty.jpg
 │   ├── DogFighterWW2.jpg
 │   ├── Dogfight.jpg
+│   ├── Dog’s Donuts .jpg
 │   ├── Dojoran.jpg
 │   ├── Doki Doki Literature Club +.jpg
 │   ├── Doki-Doki Universe™.jpg
@@ -952,6 +964,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Dreamfall Chapters.jpg
 │   ├── Dreaming Sarah.jpg
 │   ├── Dreams Universe™.jpg
+│   ├── Drift Journey .jpg
 │   ├── Drift Zone.jpg
 │   ├── Driven Out.jpg
 │   ├── Drizzlepath: Deja Vu.jpg
@@ -960,6 +973,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Drunken Fist 2: Zombie Hangover PS4 & PS5 .jpg
 │   ├── Drunken Fist.jpg
 │   ├── Duck Souls+.jpg
+│   ├── Dungeon Color .jpg
 │   ├── Dungeon Escape.jpg
 │   ├── Dungeon Punks.jpg
 │   ├── Dungeon Rushers.jpg
@@ -975,6 +989,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Dusty Raging Fist.jpg
 │   ├── Dying Light 2.jpg
 │   ├── Dying Light.jpg
+│   ├── Dyna Bomb 2 .jpg
 │   ├── Dyna Bomb.jpg
 │   ├── Déraciné™.jpg
 │   ├── EA SPORTS™ UFC® 3.jpg
@@ -1045,6 +1060,8 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Explosive Candy World.jpg
 │   ├── Explosive Jake.jpg
 │   ├── F1® 2021.jpg
+│   ├── F1®车队经理2022 .jpg
+│   ├── F1®车队经理2022 PS4 & PS5 .jpg
 │   ├── FAIRY TAIL.jpg
 │   ├── FAR: Lone Sails.jpg
 │   ├── FATED : The Silent Oath.jpg
@@ -1060,6 +1077,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Fade to Silence.jpg
 │   ├── Fairune Collection.jpg
 │   ├── Fall Of Light - Darkest Edition.jpg
+│   ├── Fall of Porcupine: Prologue .jpg
 │   ├── Fallout 4.jpg
 │   ├── Fallout 76.jpg
 │   ├── Fantastic Contraption.jpg
@@ -1097,6 +1115,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Flavouride.jpg
 │   ├── Flowers by POWGI.jpg
 │   ├── Flower™.jpg
+│   ├── Fluffy Cubed .jpg
 │   ├── Fluster Cluck.jpg
 │   ├── Flying Soldiers.jpg
 │   ├── Flynn: Son of Crimson.jpg
@@ -1118,6 +1137,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Frogo .jpg
 │   ├── Full Metal Panic! Fight! Who Dares Wins.jpg
 │   ├── FullBlast.jpg
+│   ├── Fump Jump .jpg
 │   ├── FunTime.jpg
 │   ├── Funny Truck.jpg
 │   ├── Furi .jpg
@@ -1282,7 +1302,10 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Hero must die. again.jpg
 │   ├── Heroine Anthem Zero Episode 1.jpg
 │   ├── Hidden Agenda.jpg
+│   ├── Hidden Shapes: Animals + Lovely Cats .jpg
+│   ├── Hidden Shapes: Black Skull + Old West .jpg
 │   ├── Highway Driving .jpg
+│   ├── Him & Her Collection .jpg
 │   ├── Himno.jpg
 │   ├── Hoa .jpg
 │   ├── Hoa.jpg
@@ -1302,6 +1325,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Hotline Miami .jpg
 │   ├── Hotline Miami 2: Wrong Number.jpg
 │   ├── Hotshot Racing.jpg
+│   ├── Hover Racer .jpg
 │   ├── How To Survive 2.jpg
 │   ├── How to Survive: Storm Warning Edition.jpg
 │   ├── How to take off your Mask Remastered.jpg
@@ -1327,6 +1351,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── INSIDE.jpg
 │   ├── IRON HARVEST.jpg
 │   ├── Ice Cream Surfer PS4 & PS5 .jpg
+│   ├── Idol Manager .jpg
 │   ├── Ikaruga.jpg
 │   ├── Illusion of L'Phalcia.jpg
 │   ├── Immortal Legacy™: The Jade Cipher Console Edition.jpg
@@ -1411,6 +1436,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Kena: Bridge of Spirits PS4 & PS5.jpg
 │   ├── Kentucky Route Zero: TV Edition.jpg
 │   ├── Kerbal Space Program Enhanced Edition.jpg
+│   ├── Kid Ball Adventure PS4 & PS5 .jpg
 │   ├── Kid Tripp.jpg
 │   ├── Kill It With Fire.jpg
 │   ├── Kill It With Fire: Exterminator Edition .jpg
@@ -1512,6 +1538,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── LocoRoco™ Remastered.jpg
 │   ├── Lode Runner Legacy.jpg
 │   ├── Lonely Mountains: Downhill.jpg
+│   ├── LootLite PS4 & PS5 .jpg
 │   ├── Lords of the Fallen - Ancient Labyrinth .jpg
 │   ├── Lords of the Fallen - The Arcane Boost .jpg
 │   ├── Lords of the Fallen Complete Edition .jpg
@@ -1619,8 +1646,10 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Middle-earth™: Shadow of War™.jpg
 │   ├── Miden Tower.jpg
 │   ├── Midnight Deluxe.jpg
+│   ├── Midnight Fight Express .jpg
 │   ├── Miko Gakkou Monogatari: Kaede Episode.jpg
 │   ├── Miles & Kilo.jpg
+│   ├── Milli & Greg .jpg
 │   ├── Milo's Quest.jpg
 │   ├── Mina & Michi.jpg
 │   ├── Minecraft Dungeons.jpg
@@ -1651,6 +1680,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Monster Viator.jpg
 │   ├── Monstrum.jpg
 │   ├── Monument Journey .jpg
+│   ├── Monument Journey: Nitro .jpg
 │   ├── Moo Lander .jpg
 │   ├── Moons of Madness.jpg
 │   ├── Mordheim: City of the Damned.jpg
@@ -1670,6 +1700,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── MotoGP™22 PS4 & PS5 .jpg
 │   ├── MotoGP™22.jpg
 │   ├── MouseCraft.jpg
+│   ├── Move or Die .jpg
 │   ├── Moving Out.jpg
 │   ├── Mr. Prepper.jpg
 │   ├── MudRunner.jpg
@@ -1755,6 +1786,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Northgard.jpg
 │   ├── Nova-111.jpg
 │   ├── Null Drifter.jpg
+│   ├── Nump Jump .jpg
 │   ├── Nun Massacre.jpg
 │   ├── OF MICE AND SAND -REVISED-.jpg
 │   ├── OLYMPIC GAMES TOKYO 2020™.jpg
@@ -1800,6 +1832,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Onimusha: Warlords.jpg
 │   ├── Orcs Must Die! 3 .jpg
 │   ├── Orcs Must Die! 3 PS4 & PS5 .jpg
+│   ├── Organic Engine .jpg
 │   ├── Othercide.jpg
 │   ├── Outcast - Second Contact.jpg
 │   ├── Outcast – Second Contact Deluxe Edition .jpg
@@ -1813,6 +1846,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Overpass.jpg
 │   ├── Override 2: Super Mech League.jpg
 │   ├── Overrogue .jpg
+│   ├── Overrogue Demo .jpg
 │   ├── Overwatch® 2 Beta .jpg
 │   ├── Oxide Room 104 .jpg
 │   ├── PAC-MAN 256.jpg
@@ -1901,6 +1935,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Premium Pool Arena.jpg
 │   ├── Prequel Story of Detective Saburo Jinguji  Daedalus：The Awakening of Golden Jazz.jpg
 │   ├── Pretty Girls Breakers!.jpg
+│   ├── Pretty Girls Four Kings Solitaire PS4 & PS5 .jpg
 │   ├── Pretty Girls Klondike Solitaire.jpg
 │   ├── Pretty Girls Mahjong Solitaire - Green.jpg
 │   ├── Pretty Girls Mahjong Solitaire.jpg
@@ -1935,11 +1970,16 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Puzzle Showdown.jpg
 │   ├── Puzzletronics: Digital Infinite .jpg
 │   ├── Q*bert: Rebooted.jpg
+│   ├── QUByte Classics - The Humans by PIKO .jpg
+│   ├── QUByte Classics - The Immortal by PIKO .jpg
+│   ├── QUByte Classics: Jim Power: The Lost Dimension Collection by PIKO .jpg
 │   ├── QUByte Classics: Thunderbolt Collection by PIKO .jpg
+│   ├── QUByte Classics: Zero Tolerance Collection by PIKO .jpg
 │   ├── Quake.jpg
 │   ├── Queeny Army.jpg
 │   ├── Quest Hunter.jpg
 │   ├── Quick Mafs .jpg
+│   ├── Quick Mafs Advanced .jpg
 │   ├── Quintus and the Absent Truth PS4 & PS5 .jpg
 │   ├── R-Type Dimensions EX.jpg
 │   ├── R-Type Final 2.jpg
@@ -1989,16 +2029,19 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Rainswept.jpg
 │   ├── Random Heroes: Gold Edition.jpg
 │   ├── Ratchet & Clank: Rift Apart.jpg
+│   ├── Raven's Hike .jpg
 │   ├── Ravva and the Cyclops Curse.jpg
 │   ├── Rayland PS4 & PS5 .jpg
 │   ├── ReadySet Heroes.jpg
 │   ├── RealFarm.jpg
+│   ├── Realm Royale Reforged .jpg
 │   ├── Rebel Cops.jpg
 │   ├── Rebel Galaxy.jpg
 │   ├── Reborn:A Samurai Awakens.jpg
 │   ├── Red Bow.jpg
 │   ├── Red Dead Redemption 2.jpg
 │   ├── Red Death.jpg
+│   ├── Red Ronin .jpg
 │   ├── Redeemer: Enhanced Edition.jpg
 │   ├── Redout 2 - Deluxe Edition .jpg
 │   ├── Redout 2 .jpg
@@ -2094,7 +2137,10 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── SAVE YOUR NUTS.jpg
 │   ├── SCREENCHEAT.jpg
 │   ├── SD GUNDAM G GENERATION CROSS RAYS.jpg
+│   ├── SD GUNDAM 激斗同盟 PS4 & PS5 .jpg
 │   ├── SD GUNDAM 激斗同盟 体验版 .jpg
+│   ├── SD GUNDAM 激斗同盟 数字终极版 PS4 & PS5 .jpg
+│   ├── SD GUNDAM 激斗同盟 数字豪华版 PS4 & PS5 .jpg
 │   ├── SEGA Mega Drive Classics.jpg
 │   ├── SENKO NO RONDE2.jpg
 │   ├── SHADOW OF THE COLOSSUS™ 汪达与巨像.jpg
@@ -2142,10 +2188,14 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── SWORD ART ONLINE: HOLLOW REALIZATION.jpg
 │   ├── SWORDS of GARGANTUA.jpg
 │   ├── SaGa Frontier Remastered.jpg
+│   ├── SaGa 未拓领域 Remastered .jpg
 │   ├── SaGa 緋紅恩典 緋色的野望 .jpg
 │   ├── SaGa 緋紅恩典 緋色的野望.jpg
 │   ├── Sackboy: A Big Adventure.jpg
+│   ├── Saints Row Gold Edition .jpg
 │   ├── Saints Row IV: Re-Elected.jpg
+│   ├── Saints Row PS4&PS5 .jpg
+│   ├── Saints Row Platinum Edition .jpg
 │   ├── Saints Row.jpg
 │   ├── Saints Row: Gat out of Hell.jpg
 │   ├── Saints Row®: The Third™ Remastered.jpg
@@ -2239,10 +2289,12 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Sniper Ghost Warrior Contracts.jpg
 │   ├── Sniper.jpg
 │   ├── Snow Journey .jpg
+│   ├── Snow Journey: Nitro .jpg
 │   ├── SnowRunner - Premium Edition .jpg
 │   ├── SnowRunner .jpg
 │   ├── SnowRunner.jpg
 │   ├── Sofiya and the Ancient Clan PS4 & PS5 .jpg
+│   ├── Sokocat - Combo .jpg
 │   ├── Solar Ash.jpg
 │   ├── Sonar Beat.jpg
 │   ├── Song in the Smoke.jpg
@@ -2257,13 +2309,16 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── South Park™: The Fractured But Whole™.jpg
 │   ├── South Park™: The Stick of Truth™.jpg
 │   ├── Space Channel 5 VR Kinda Funky News Flash!.jpg
+│   ├── Space Elite Force 2 in 1 .jpg
 │   ├── Space Explore.jpg
+│   ├── Space Explorers: Red Planet .jpg
 │   ├── Space Hulk: Deathwing.jpg
 │   ├── Space Hulk: Tactics.jpg
 │   ├── Space Intervention.jpg
 │   ├── Space Invasion.jpg
 │   ├── Space Junkies.jpg
 │   ├── Space KaBAAM 2 .jpg
+│   ├── Space KaBAAM 3 .jpg
 │   ├── Space KaBAAM.jpg
 │   ├── Space Otter Charlie.jpg
 │   ├── Space Robinson.jpg
@@ -2272,6 +2327,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Spacewing War PS4 & PS5 .jpg
 │   ├── Spartan Fist.jpg
 │   ├── Spear of Destiny: The Kaiseki.jpg
+│   ├── Spectrewoods .jpg
 │   ├── Spectrewoods.jpg
 │   ├── Speed Limit.jpg
 │   ├── SpellForce III Reforced .jpg
@@ -2310,6 +2366,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Stealth Inc 2: A Game of Clones.jpg
 │   ├── Stealth Inc: Ultimate Edition.jpg
 │   ├── Steam Engine .jpg
+│   ├── Steelrising - Beta .jpg
 │   ├── Stellaris: Console Edition.jpg
 │   ├── Steredenn.jpg
 │   ├── Stick it to The Man.jpg
@@ -2425,7 +2482,9 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── The Aliance Alive HD Remastered.jpg
 │   ├── The Angry Birds Movie 2 VR: Under Pressure.jpg
 │   ├── The Artful Escape.jpg
+│   ├── The Ascent: Cyber Edition PS4 & PS5 .jpg
 │   ├── The Assembly.jpg
+│   ├── The Bat D .jpg
 │   ├── The Binding of Isaac: Rebirth.jpg
 │   ├── The Book of Regrets.jpg
 │   ├── The Book of Unwritten Tales 2.jpg
@@ -2440,6 +2499,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── The Dead Tree of Ranchiuna.jpg
 │   ├── The Diabolical Trilogy PS4 & PS5 .jpg
 │   ├── The Disney Afternoon Collection.jpg
+│   ├── The Dog K .jpg
 │   ├── The Drone Racing League Simulator.jpg
 │   ├── The Dwarves.jpg
 │   ├── The Elder Scrolls Online Collection: High Isle - PS4 & PS5 .jpg
@@ -2489,10 +2549,12 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── The Pillar: Puzzle Escape.jpg
 │   ├── The Plane Effect.jpg
 │   ├── The Ramen Sensei.jpg
+│   ├── The Riftbreaker Deluxe Edition .jpg
 │   ├── The Savior's Gang.jpg
 │   ├── The Serpent Rogue .jpg
 │   ├── The Serpent Rogue.jpg
 │   ├── The Shapeshifting Detective .jpg
+│   ├── The Sheep P .jpg
 │   ├── The Sims™ 4.jpg
 │   ├── The Sinking City PS5.jpg
 │   ├── The Skylia Prophecy.jpg
@@ -2512,6 +2574,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── The Unfinished Swan™.jpg
 │   ├── The Unicorn Princess.jpg
 │   ├── The Unknown City (Horror Begins Now.....Episode 1).jpg
+│   ├── The Volleyball B .jpg
 │   ├── The Walker.jpg
 │   ├── The Wild at Heart.jpg
 │   ├── The Witch and the Hundred Knight: Revival Edition.jpg
@@ -2532,6 +2595,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Thunder Paw.jpg
 │   ├── Thunderflash.jpg
 │   ├── Thy Sword.jpg
+│   ├── Thymesia .jpg
 │   ├── Tic-Tac-Letters by POWGI.jpg
 │   ├── Tilt Brush.jpg
 │   ├── Time Carnage .jpg
@@ -2618,6 +2682,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Uncanny Valley.jpg
 │   ├── Under the Jolly Roger - Complete Edition .jpg
 │   ├── Under the Jolly Roger.jpg
+│   ├── Underland .jpg
 │   ├── Underland: The Climb .jpg
 │   ├── Unearthing Mars 2 : The Ancient War.jpg
 │   ├── Unepic.jpg
@@ -2708,7 +2773,10 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Wasteland 3.jpg
 │   ├── WatchVR.jpg
 │   ├── Wattam.jpg
+│   ├── Way of the Hunter .jpg
+│   ├── Way of the Hunter: Elite Edition .jpg
 │   ├── Wayward Sky.jpg
+│   ├── We Are OFK .jpg
 │   ├── Weird West.jpg
 │   ├── Werewolves Within.jpg
 │   ├── West of Dead.jpg
@@ -2759,6 +2827,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Xump Jump .jpg
 │   ├── YOU ARE BEING FOLLOWED.jpg
 │   ├── YUKI.jpg
+│   ├── Yars: Recharged .jpg
 │   ├── Yoku's Island Express.jpg
 │   ├── Yonder: The Cloud Catcher Chronicles.jpg
 │   ├── Yooka-Laylee and the Impossible Lair.jpg
@@ -2810,9 +2879,14 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── 《Killing Floor 2》- 终极版 .jpg
 │   ├── 《MONOPOLY®狂乐派对》.jpg
 │   ├── 《Madden NFL 22》MVP版.jpg
+│   ├── 《Madden NFL 23》All Madden 版 PS5™ 和 PS4™ .jpg
+│   ├── 《Madden NFL 23》PS4™ .jpg
+│   ├── 《Madden NFL 23》PS5™ .jpg
 │   ├── 《Moss:Book II》.jpg
 │   ├── 《NBA 2K22》.jpg
 │   ├── 《NHL™ 22》X-Factor 版 PS4™ & PS5™.jpg
+│   ├── 《Realm Royale Reforged》Bass Drop礼包 .jpg
+│   ├── 《Realm Royale Reforged》Cute But Deadly礼包 .jpg
 │   ├── 《TRIVIAL PURSUIT Live! 2》.jpg
 │   ├── 《Tales from the Borderlands》.jpg
 │   ├── 《WWE 2K22》.jpg
@@ -2950,6 +3024,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── 初音未來 VR Future Live.jpg
 │   ├── 初音未来 Project DIVA Future Tone DX.jpg
 │   ├── 刺客信条：起源 .jpg
+│   ├── 剑与魔法与学园任务 体验版 .jpg
 │   ├── 加速世界VS刀剑神域 千年的黄昏.jpg
 │   ├── 勇者战机少女 世界啊，宇宙啊，刮目相看吧！！终极ＲＰＧ宣言！！.jpg
 │   ├── 勇者斗恶龙 创世小玩家 阿雷夫加尔德复兴记.jpg
@@ -2972,6 +3047,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── 叛乱：沙漠风暴.jpg
 │   ├── 古惑狼™4：时机已到.jpg
 │   ├── 吃豆人 博物馆+ .jpg
+│   ├── 吃豆人 吃遍世界（PAC-MAN WORLD Re-PAC） PS4 & PS5 .jpg
 │   ├── 吉娜姐妹：扭曲梦境 - 导演剪辑版.jpg
 │   ├── 同步音律.jpg
 │   ├── 告别回忆 -无垢少女- 致最爱的你.jpg
@@ -3060,6 +3136,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── 意航员 2.jpg
 │   ├── 憎恨之心：亡者归来.jpg
 │   ├── 成长物语：永恒树之歌.jpg
+│   ├── 我炼金超牛 Alchemist Simulator .jpg
 │   ├── 我的世界.jpg
 │   ├── 我的英雄学院 唯我正义.jpg
 │   ├── 我的英雄学院 唯我正义2.jpg
@@ -3081,6 +3158,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── 打击者1945 .jpg
 │   ├── 打击者1945 II .jpg
 │   ├── 打击者1945 III .jpg
+│   ├── 打工人 .jpg
 │   ├── 托尼·霍克™：职业滑板手™1 + 2.jpg
 │   ├── 托托莉的炼金工房 ～亚兰德之炼金术士2～ DX.jpg
 │   ├── 扭曲时空.jpg
@@ -3155,6 +3233,8 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── 火影忍者 疾风传 终极风暴 三部曲.jpg
 │   ├── 火影忍者 疾风传 终极风暴4.jpg
 │   ├── 火星漫游.jpg
+│   ├── 灵魂骇客2 25th纪念版 PS4 & PS5 .jpg
+│   ├── 灵魂骇客2 PS4 & PS5 .jpg
 │   ├── 炼金工房 ～不可思议之炼金术士三部曲～ DX.jpg
 │   ├── 烙印勇士无双.jpg
 │   ├── 热血三国志 .jpg
@@ -3262,6 +3342,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── 街霸V.jpg
 │   ├── 被虐的诺艾尔 .jpg
 │   ├── 装车：满载.jpg
+│   ├── 角色扮演游戏时间！～光之传说～ .jpg
 │   ├── 讨鬼传 极.jpg
 │   ├── 讨鬼传２.jpg
 │   ├── 说谎公主与盲眼王子.jpg
@@ -3285,6 +3366,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── 逃脱学院 .jpg
 │   ├── 遥远星际™.jpg
 │   ├── 那由多之轨迹：改.jpg
+│   ├── 酷极轮滑 .jpg
 │   ├── 酷飙出租车.jpg
 │   ├── 采石场惊魂.jpg
 │   ├── 采石场惊魂（PS4™） .jpg
@@ -3518,6 +3600,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Actraiser Renaissance.jpg
 │   ├── AdVenture Capitalist.jpg
 │   ├── Adam's Venture: Origins.jpg
+│   ├── Adventure Academia: The Fractured Continent Demo Version .jpg
 │   ├── Adventure Time: Pirates of the Enchiridion.jpg
 │   ├── Aegis Defenders.jpg
 │   ├── Aeon Must Die!.jpg
@@ -3541,6 +3624,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Alba: A Wildlife Adventure.jpg
 │   ├── Alchemic Jousts.jpg
 │   ├── Alchemist Adventure.jpg
+│   ├── Alchemist Simulator .jpg
 │   ├── Alien Destroyer.jpg
 │   ├── Alien Shooter.jpg
 │   ├── Alien: Isolation™.jpg
@@ -3662,6 +3746,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Arcade Archives MAPPY.jpg
 │   ├── Arcade Archives MARKHAM.jpg
 │   ├── Arcade Archives MAT MANIA EXCITING HOUR.jpg
+│   ├── Arcade Archives METROCROSS .jpg
 │   ├── Arcade Archives MIRAI NINJA.jpg
 │   ├── Arcade Archives MOON CRESTA.jpg
 │   ├── Arcade Archives MOON PATROL.jpg
@@ -3714,6 +3799,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Arcade Archives Shusse Ozumo.jpg
 │   ├── Arcade Archives Soldier Girl Amazon.jpg
 │   ├── Arcade Archives Super Dodge Ball.jpg
+│   ├── Arcade Archives Super Volleyball .jpg
 │   ├── Arcade Archives T.N.K III.jpg
 │   ├── Arcade Archives TECMO BOWL.jpg
 │   ├── Arcade Archives TERRA CRESTA.jpg
@@ -3762,6 +3848,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Arcade Paradise Digital Deluxe PS4™ & PS5™ .jpg
 │   ├── Arcade Paradise PS4™ & PS5™ .jpg
 │   ├── Arcadegeddon.jpg
+│   ├── Are You Smarter Than A 5th Grader? .jpg
 │   ├── Arietta of Spirits .jpg
 │   ├── Arietta of Spirits.jpg
 │   ├── Arise: A simple story.jpg
@@ -3773,6 +3860,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Arsonist Heaven PS4 & PS5 .jpg
 │   ├── Ary and the Secret of Seasons.jpg
 │   ├── Ascendshaft and Endless Shaft.jpg
+│   ├── Asdivine Cross .jpg
 │   ├── Asdivine Cross.jpg
 │   ├── Asdivine Dios.jpg
 │   ├── Asdivine Hearts II.jpg
@@ -3861,6 +3949,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── BUTCHER.jpg
 │   ├── Baby Hands.jpg
 │   ├── Back 4 Blood.jpg
+│   ├── Back Again PS4 & PS5 .jpg
 │   ├── Back in 1995.jpg
 │   ├── Back to Bed.jpg
 │   ├── Backgammon Blitz.jpg
@@ -3912,6 +4001,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Bit Dungeon Plus.jpg
 │   ├── Black Book.jpg
 │   ├── Black Clover: Quartet Knights.jpg
+│   ├── Black Death : A Tragic Dirge .jpg
 │   ├── Black Desert.jpg
 │   ├── Black The Fall.jpg
 │   ├── Black Widow: Recharged.jpg
@@ -3934,6 +4024,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Blind Spot.jpg
 │   ├── Blitz Breaker.jpg
 │   ├── Blizzard® Arcade Collection.jpg
+│   ├── Blob Quest .jpg
 │   ├── Block-a-Pix Deluxe.jpg
 │   ├── Blood & Truth.jpg
 │   ├── Blood Bowl 2.jpg
@@ -3966,6 +4057,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Bowling.jpg
 │   ├── Bravo Team.jpg
 │   ├── Brawlhalla.jpg
+│   ├── Breaking Enigma .jpg
 │   ├── Breakneck City.jpg
 │   ├── Breakout Bricks PS4.jpg
 │   ├── Breakout: Recharged.jpg
@@ -4070,6 +4162,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Caveman Warriors.jpg
 │   ├── Cel Damage HD.jpg
 │   ├── Centipede: Recharged.jpg
+│   ├── Chameneon .jpg
 │   ├── Chaos on Deponia.jpg
 │   ├── Chariot.jpg
 │   ├── Checkers.jpg
@@ -4092,6 +4185,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Clay Skeet Shooting PS4 & PS5.jpg
 │   ├── Clid The Snail.jpg
 │   ├── Clone Drone in the Danger Zone.jpg
+│   ├── Cloudpunk PS4 & PS5 .jpg
 │   ├── Cloudpunk.jpg
 │   ├── Cluster Tumble.jpg
 │   ├── Coastline Flight Simulator.jpg
@@ -4154,6 +4248,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Curse of the Dead Gods.jpg
 │   ├── Cursed Island .jpg
 │   ├── Cursed Island.jpg
+│   ├── Cursed to Golf .jpg
 │   ├── Curses 'N Chaos.jpg
 │   ├── Curved Space.jpg
 │   ├── Cybarian: The Time Traveling Warrior.jpg
@@ -4339,6 +4434,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Dog Duty.jpg
 │   ├── DogFighterWW2.jpg
 │   ├── Dogfight.jpg
+│   ├── Dog’s Donuts .jpg
 │   ├── Dojoran.jpg
 │   ├── Doki Doki Literature Club +.jpg
 │   ├── Doki-Doki Universe™.jpg
@@ -4384,6 +4480,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Dreamfall Chapters.jpg
 │   ├── Dreaming Sarah.jpg
 │   ├── Dreams Universe™.jpg
+│   ├── Drift Journey .jpg
 │   ├── Drift Zone.jpg
 │   ├── Driven Out.jpg
 │   ├── Drizzlepath: Deja Vu.jpg
@@ -4393,6 +4490,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Drunken Fist 2: Zombie Hangover.jpg
 │   ├── Drunken Fist.jpg
 │   ├── Duck Souls+.jpg
+│   ├── Dungeon Color .jpg
 │   ├── Dungeon Escape.jpg
 │   ├── Dungeon Punks.jpg
 │   ├── Dungeon Rushers.jpg
@@ -4408,6 +4506,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Dusty Raging Fist.jpg
 │   ├── Dying Light 2.jpg
 │   ├── Dying Light.jpg
+│   ├── Dyna Bomb 2 .jpg
 │   ├── Dyna Bomb.jpg
 │   ├── Déraciné™.jpg
 │   ├── EA SPORTS™ UFC® 3.jpg
@@ -4492,6 +4591,8 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── F1® 22 PS4™ .jpg
 │   ├── F1® 22 Standard Edition PS4™ .jpg
 │   ├── F1® 22.jpg
+│   ├── F1® Manager 2022 .jpg
+│   ├── F1® Manager 2022 PS4 & PS5 .jpg
 │   ├── F1® Manager 2022.jpg
 │   ├── FAIRY TAIL.jpg
 │   ├── FAR CRY 3: BLOOD DRAGON CLASSIC EDITION.jpg
@@ -4520,6 +4621,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Fall Guys .jpg
 │   ├── Fall Guys.jpg
 │   ├── Fall Of Light - Darkest Edition.jpg
+│   ├── Fall of Porcupine: Prologue .jpg
 │   ├── Fallen Legion: Flames of Rebellion.jpg
 │   ├── Fallen Legion: Sins of an Empire.jpg
 │   ├── Fallout 76.jpg
@@ -4562,6 +4664,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── FlatOut 4: Total Insanity.jpg
 │   ├── Flavouride.jpg
 │   ├── Flowers by POWGI.jpg
+│   ├── Fluffy Cubed .jpg
 │   ├── Fluster Cluck.jpg
 │   ├── Flying Soldiers.jpg
 │   ├── Flynn: Son of Crimson.jpg
@@ -4586,6 +4689,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Fuga: Melodies of Steel.jpg
 │   ├── Full Metal Panic! Fight! Who Dares Wins.jpg
 │   ├── FullBlast.jpg
+│   ├── Fump Jump .jpg
 │   ├── Furi.jpg
 │   ├── Furwind.jpg
 │   ├── Fury Unleashed.jpg
@@ -4772,8 +4876,11 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Heroes Trials.jpg
 │   ├── Heroine Anthem Zero Episode 1.jpg
 │   ├── Hidden Agenda.jpg
+│   ├── Hidden Shapes: Animals + Lovely Cats .jpg
+│   ├── Hidden Shapes: Black Skull + Old West .jpg
 │   ├── Hide & Dance!.jpg
 │   ├── Highway Driving .jpg
+│   ├── Him & Her Collection .jpg
 │   ├── Himno.jpg
 │   ├── Hitman: Absolution HD.jpg
 │   ├── Hoa.jpg
@@ -4798,6 +4905,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Hotshot Racing.jpg
 │   ├── Hourglass .jpg
 │   ├── Hourglass.jpg
+│   ├── Hover Racer .jpg
 │   ├── How To Survive 2.jpg
 │   ├── How to Survive: Storm Warning Edition.jpg
 │   ├── How to take off your Mask Remastered.jpg
@@ -4829,6 +4937,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── ISLANDERS: Console Edition.jpg
 │   ├── Ice Cream Surfer PS4 & PS5 .jpg
 │   ├── Ice Cream Surfer.jpg
+│   ├── Idol Manager .jpg
 │   ├── Ikaruga.jpg
 │   ├── Illusion of L'Phalcia.jpg
 │   ├── Immortal Legacy: The Jade Cipher.jpg
@@ -4921,6 +5030,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Kerbal Space Program Enhanced Edition.jpg
 │   ├── KeyWe.jpg
 │   ├── KiKi KaiKai KuRoManTo No NaZo.jpg
+│   ├── Kid Ball Adventure PS4 & PS5 .jpg
 │   ├── Kid Tripp.jpg
 │   ├── Kill It With Fire.jpg
 │   ├── Kill It With Fire: Exterminator Edition .jpg
@@ -5046,6 +5156,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── LocoRoco™2 Remastered.jpg
 │   ├── Lode Runner Legacy.jpg
 │   ├── Lonely Mountains: Downhill.jpg
+│   ├── LootLite PS4 & PS5 .jpg
 │   ├── Lords of the Fallen - Ancient Labyrinth .jpg
 │   ├── Lords of the Fallen - The Arcane Boost .jpg
 │   ├── Lords of the Fallen Complete Edition .jpg
@@ -5115,7 +5226,10 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Madden NFL 19.jpg
 │   ├── Madden NFL 21.jpg
 │   ├── Madden NFL 22 MVP Edition.jpg
+│   ├── Madden NFL 23 All Madden Edition PS5™ & PS4™ .jpg
 │   ├── Madden NFL 23 All Madden Edition PS5™ & PS4™.jpg
+│   ├── Madden NFL 23 PS4™ .jpg
+│   ├── Madden NFL 23 PS5™ .jpg
 │   ├── Mafia II: Definitive Edition.jpg
 │   ├── Mafia: Definitive Edition.jpg
 │   ├── Mages of Mystralia.jpg
@@ -5187,10 +5301,12 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Middle-earth™: Shadow of War™.jpg
 │   ├── Miden Tower.jpg
 │   ├── Midnight Deluxe.jpg
+│   ├── Midnight Fight Express .jpg
 │   ├── Mighty Goose.jpg
 │   ├── Mighty No. 9.jpg
 │   ├── Miko Gakkou Monogatari: Kaede Episode.jpg
 │   ├── Miles & Kilo.jpg
+│   ├── Milli & Greg .jpg
 │   ├── Milo's Quest.jpg
 │   ├── Mina & Michi.jpg
 │   ├── Minecraft Dungeons.jpg
@@ -5227,6 +5343,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Monster Viator.jpg
 │   ├── Monstrum.jpg
 │   ├── Monument Journey .jpg
+│   ├── Monument Journey: Nitro .jpg
 │   ├── Moo Lander.jpg
 │   ├── Moons of Madness.jpg
 │   ├── Morbid: The Seven Acolytes.jpg
@@ -5246,6 +5363,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── MotoGP™21.jpg
 │   ├── MotoGP™22.jpg
 │   ├── MouseCraft.jpg
+│   ├── Move or Die .jpg
 │   ├── Mr. DRILLER DrillLand.jpg
 │   ├── Mr. Driller.jpg
 │   ├── Mr. Prepper.jpg
@@ -5357,6 +5475,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Northgard.jpg
 │   ├── Nova-111.jpg
 │   ├── Null Drifter.jpg
+│   ├── Nump Jump .jpg
 │   ├── Nun Massacre.jpg
 │   ├── O! My Genesis VR.jpg
 │   ├── OF MICE AND SAND -REVISED-.jpg
@@ -5408,6 +5527,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Orcs Must Die! 3 Bundle .jpg
 │   ├── Orcs Must Die! 3 PS4 & PS5 .jpg
 │   ├── Orcs Must Die! 3.jpg
+│   ├── Organic Engine .jpg
 │   ├── Othercide.jpg
 │   ├── Outcast - Second Contact.jpg
 │   ├── Outcast – Second Contact Deluxe Edition  .jpg
@@ -5422,6 +5542,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Overpass.jpg
 │   ├── Override 2: Super Mech League.jpg
 │   ├── Overrogue .jpg
+│   ├── Overrogue Demo .jpg
 │   ├── Overrogue.jpg
 │   ├── Overwatch® 2 Beta .jpg
 │   ├── Overwatch® 2: Watchpoint Pack .jpg
@@ -5430,6 +5551,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Oxide Room 104.jpg
 │   ├── PAC-MAN 256.jpg
 │   ├── PAC-MAN MUSEUM+.jpg
+│   ├── PAC-MAN WORLD Re-PAC PS4 & PS5 .jpg
 │   ├── PAC-MAN™ CHAMPIONSHIP EDITION 2.jpg
 │   ├── PAYDAY 2: CRIMEWAVE EDITION.jpg
 │   ├── PGA TOUR 2K21.jpg
@@ -5527,6 +5649,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Predator: Hunting Grounds.jpg
 │   ├── Prehistoric Dude.jpg
 │   ├── Premium Pool Arena.jpg
+│   ├── Pretty Girls Four Kings Solitaire PS4 & PS5 .jpg
 │   ├── Pretty Girls Klondike Solitaire.jpg
 │   ├── Pretty Girls Mahjong Solitaire - Blue.jpg
 │   ├── Pretty Girls Mahjong Solitaire - Green.jpg
@@ -5565,11 +5688,16 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Puzzletronics: Digital Infinite .jpg
 │   ├── Puzzling Places.jpg
 │   ├── Q*bert: Rebooted.jpg
+│   ├── QUByte Classics - The Humans by PIKO .jpg
+│   ├── QUByte Classics - The Immortal by PIKO .jpg
+│   ├── QUByte Classics: Jim Power: The Lost Dimension Collection by PIKO .jpg
 │   ├── QUByte Classics: Thunderbolt Collection by PIKO .jpg
+│   ├── QUByte Classics: Zero Tolerance Collection by PIKO .jpg
 │   ├── Quake.jpg
 │   ├── Queeny Army.jpg
 │   ├── Quest Hunter.jpg
 │   ├── Quick Mafs .jpg
+│   ├── Quick Mafs Advanced .jpg
 │   ├── Quintus and the Absent Truth PS4 & PS5 .jpg
 │   ├── Quintus and the Absent Truth.jpg
 │   ├── R-Type Dimensions EX.jpg
@@ -5597,6 +5725,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── RIVE.jpg
 │   ├── ROCKETSROCKETSROCKETS.jpg
 │   ├── ROMANCE OF THE THREE KINGDOMS XIII.jpg
+│   ├── RPG Time: The Legend of Wright .jpg
 │   ├── RPGMAKER MV.jpg
 │   ├── RPGMakerMV Player.jpg
 │   ├── RPGolf Legends.jpg
@@ -5625,11 +5754,15 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Random Heroes: Gold Edition.jpg
 │   ├── Ratchet & Clank: Rift Apart.jpg
 │   ├── Ratchet ＆ Clank™.jpg
+│   ├── Raven's Hike .jpg
 │   ├── Ravva and the Cyclops Curse.jpg
 │   ├── Rayland PS4 & PS5 .jpg
 │   ├── Rayman Legends.jpg
 │   ├── ReadySet Heroes.jpg
 │   ├── RealFarm.jpg
+│   ├── Realm Royale Reforged .jpg
+│   ├── Realm Royale Reforged Bass Drop Bundle .jpg
+│   ├── Realm Royale Reforged Cute But Deadly Pack .jpg
 │   ├── Rebel Cops.jpg
 │   ├── Rebel Galaxy.jpg
 │   ├── Reborn:A Samurai Awakens.jpg
@@ -5637,6 +5770,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Red Bow.jpg
 │   ├── Red Dead Redemption 2.jpg
 │   ├── Red Death.jpg
+│   ├── Red Ronin .jpg
 │   ├── Redeemer: Enhanced Edition.jpg
 │   ├── Redout 2 - Deluxe Edition .jpg
 │   ├── Redout 2 .jpg
@@ -5707,6 +5841,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Rogue Lords.jpg
 │   ├── Roller Champions™.jpg
 │   ├── Rollercoaster Dreams.jpg
+│   ├── Rollerdrome .jpg
 │   ├── Romance of the Three Kingdoms XIV.jpg
 │   ├── Romancing SaGa 2.jpg
 │   ├── Romancing SaGa 3.jpg
@@ -5746,6 +5881,9 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── SBK™22 PS4 & PS5.jpg
 │   ├── SCARLET NEXUS.jpg
 │   ├── SCREENCHEAT.jpg
+│   ├── SD GUNDAM BATTLE ALLIANCE - Deluxe Edition PS4 & PS5 .jpg
+│   ├── SD GUNDAM BATTLE ALLIANCE - Ultimate Edition PS4 & PS5 .jpg
+│   ├── SD GUNDAM BATTLE ALLIANCE PS4 & PS5 .jpg
 │   ├── SD GUNDAM BATTLE ALLIANCE.jpg
 │   ├── SD GUNDAM G GENERATION CROSS RAYS.jpg
 │   ├── SD GUNDAM G GENERATION GENESIS.jpg
@@ -5804,10 +5942,14 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── SWORD ART ONLINE Alicization Lycoris.jpg
 │   ├── SWORD ART ONLINE Re: Hollow Fragment.jpg
 │   ├── SWORD ART ONLINE: FATAL BULLET.jpg
+│   ├── SaGa Frontier Remastered .jpg
 │   ├── SaGa Frontier Remastered.jpg
 │   ├── SaGa SCARLET GRACE: AMBITIONS.jpg
 │   ├── Sackboy: A Big Adventure.jpg
+│   ├── Saints Row Gold Edition .jpg
 │   ├── Saints Row IV: Re-Elected.jpg
+│   ├── Saints Row PS4&PS5 .jpg
+│   ├── Saints Row Platinum Edition .jpg
 │   ├── Saints Row.jpg
 │   ├── Saints Row: Gat out of Hell.jpg
 │   ├── Saints Row®: The Third™ Remastered.jpg
@@ -5909,7 +6051,9 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Sniper Ghost Warrior Contracts.jpg
 │   ├── Sniper.jpg
 │   ├── Snow Journey .jpg
+│   ├── Snow Journey: Nitro .jpg
 │   ├── Sofiya and the Ancient Clan PS4 & PS5 .jpg
+│   ├── Sokocat - Combo .jpg
 │   ├── Solar Ash.jpg
 │   ├── Sonar Beat.jpg
 │   ├── Song in the Smoke.jpg
@@ -5919,6 +6063,8 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Sonic Mania.jpg
 │   ├── Soul Axiom.jpg
 │   ├── Soul Dimension.jpg
+│   ├── Soul Hackers 2 - 25th Anniversary Edition  PS4 & PS5 .jpg
+│   ├── Soul Hackers 2 PS4 & PS5 .jpg
 │   ├── Soul Hackers 2.jpg
 │   ├── SoulFrost.jpg
 │   ├── Sound Shapes.jpg
@@ -5928,13 +6074,16 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── South Park™: The Stick of Truth™.jpg
 │   ├── Space Channel 5 VR Kinda Funky News Flash!.jpg
 │   ├── Space Crew.jpg
+│   ├── Space Elite Force 2 in 1 .jpg
 │   ├── Space Explore.jpg
+│   ├── Space Explorers: Red Planet .jpg
 │   ├── Space Hulk: Deathwing.jpg
 │   ├── Space Hulk: Tactics.jpg
 │   ├── Space Intervention.jpg
 │   ├── Space Invasion.jpg
 │   ├── Space Junkies.jpg
 │   ├── Space KaBAAM 2.jpg
+│   ├── Space KaBAAM 3 .jpg
 │   ├── Space KaBAAM.jpg
 │   ├── Space Moth Lunar Edition.jpg
 │   ├── Space Otter Charlie.jpg
@@ -5946,6 +6095,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Spacewing War.jpg
 │   ├── Spartan Fist.jpg
 │   ├── Spear of Destiny: The Kaiseki.jpg
+│   ├── Spectrewoods .jpg
 │   ├── Spectrewoods.jpg
 │   ├── Speed 3: Grand Prix.jpg
 │   ├── Speed Limit.jpg
@@ -5991,6 +6141,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Stealth Inc: Ultimate Edition.jpg
 │   ├── Steam Engine.jpg
 │   ├── SteamWorld Dig.jpg
+│   ├── Steelrising - Beta .jpg
 │   ├── Stellaris: Console Edition.jpg
 │   ├── Steredenn.jpg
 │   ├── Stick it to The Man.jpg
@@ -6134,7 +6285,9 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── The Angry Birds Movie 2 VR: Under Pressure.jpg
 │   ├── The Artful Escape.jpg
 │   ├── The Ascent.jpg
+│   ├── The Ascent: Cyber Edition PS4 & PS5 .jpg
 │   ├── The Assembly.jpg
+│   ├── The Bat D .jpg
 │   ├── The Binding of Isaac: Rebirth.jpg
 │   ├── The Book of Regrets.jpg
 │   ├── The Book of Unwritten Tales 2.jpg
@@ -6142,6 +6295,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── The Bunker.jpg
 │   ├── The Caligula Effect: Overdose.jpg
 │   ├── The Callisto Protocol.jpg
+│   ├── The Company Man .jpg
 │   ├── The Complex.jpg
 │   ├── The Council.jpg
 │   ├── The Crew® 2 Standard Edition .jpg
@@ -6151,6 +6305,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── The Dead Tree of Ranchiuna.jpg
 │   ├── The DioField Chronicle PS4 & PS5 DEMO .jpg
 │   ├── The Disney Afternoon Collection.jpg
+│   ├── The Dog K .jpg
 │   ├── The Drone Racing League Simulator.jpg
 │   ├── The Dungeon of Naheulbeuk: The Amulet of Chaos.jpg
 │   ├── The Dwarves.jpg
@@ -6225,6 +6380,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── The Quarry for PS5™ .jpg
 │   ├── The Quarry.jpg
 │   ├── The Ramen Sensei.jpg
+│   ├── The Riftbreaker Deluxe Edition .jpg
 │   ├── The Riftbreaker.jpg
 │   ├── The Ronin Deluxe .jpg
 │   ├── The Savior's Gang.jpg
@@ -6232,6 +6388,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── The Serpent Rogue.jpg
 │   ├── The Seven Deadly Sins　Knights of Britannia.jpg
 │   ├── The Sexy Brutale.jpg
+│   ├── The Sheep P .jpg
 │   ├── The Shogun Ultimate .jpg
 │   ├── The Sims™ 4.jpg
 │   ├── The Sinking City PS5.jpg
@@ -6252,6 +6409,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── The Unfinished Swan™.jpg
 │   ├── The Unicorn Princess.jpg
 │   ├── The Unknown City (Horror Begins Now.....Episode 1).jpg
+│   ├── The Volleyball B .jpg
 │   ├── The Walker.jpg
 │   ├── The Wild at Heart.jpg
 │   ├── The Witch and the Hundred Knight 2.jpg
@@ -6276,6 +6434,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Thunder Paw.jpg
 │   ├── Thunderflash.jpg
 │   ├── Thy Sword.jpg
+│   ├── Thymesia .jpg
 │   ├── Tic-Tac-Letters by POWGI.jpg
 │   ├── Tilt Brush.jpg
 │   ├── Time Carnage.jpg
@@ -6384,6 +6543,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Uncanny Valley.jpg
 │   ├── Under the Jolly Roger - Complete Edition .jpg
 │   ├── Under the Jolly Roger.jpg
+│   ├── Underland .jpg
 │   ├── Underland: The Climb .jpg
 │   ├── Unearthing Mars 2 : The Ancient War.jpg
 │   ├── Unearthing Mars.jpg
@@ -6481,8 +6641,11 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Watch Dogs: Legion.jpg
 │   ├── WatchVR.jpg
 │   ├── Wattam.jpg
+│   ├── Way of the Hunter .jpg
 │   ├── Way of the Hunter.jpg
+│   ├── Way of the Hunter: Elite Edition .jpg
 │   ├── Wayward Sky.jpg
+│   ├── We Are OFK .jpg
 │   ├── Weeping Doll.jpg
 │   ├── Weird West.jpg
 │   ├── Werewolf: The Apocalypse - Earthblood.jpg
@@ -6549,6 +6712,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 │   ├── Yakuza Kiwami 2.jpg
 │   ├── Yakuza Kiwami.jpg
 │   ├── Yakuza: Like a Dragon.jpg
+│   ├── Yars: Recharged .jpg
 │   ├── Yoku's Island Express.jpg
 │   ├── Yonder: The Cloud Catcher Chronicles.jpg
 │   ├── Yooka-Laylee and the Impossible Lair.jpg
@@ -6658,402 +6822,542 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 ├── main.js
 ├── main.py
 ├── min-recent
-│   ├── A Fungus In My Garden .jpg
 │   ├── ANIQUILATION .jpg
-│   ├── Absolute Deduction捆绑包 .jpg
 │   ├── After Wave: Downfall .jpg
-│   ├── Arcade Archives Chack'n Pop .jpg
 │   ├── Arcade Archives DIG DUG .jpg
 │   ├── Arcade Archives GUN & FRONTIER .jpg
-│   ├── Arcade Archives ROLLER JAMMER .jpg
+│   ├── Arcade Archives METROCROSS .jpg
+│   ├── Arcade Archives Super Volleyball .jpg
 │   ├── Arcade Paradise Digital Deluxe PS4™ & PS5™ .jpg
 │   ├── Arcade Paradise PS4™ & PS5™ .jpg
-│   ├── Arsonist Heaven PS4 & PS5 .jpg
+│   ├── Are You Smarter Than a 5th Grader? .jpg
+│   ├── Asdivine Cross .jpg
+│   ├── Back Again PS4 & PS5 .jpg
+│   ├── Black Death :A Tragic Dirge .jpg
+│   ├── Blob Quest .jpg
 │   ├── Book Quest PS4 & PS5 .jpg
-│   ├── Bricky to Me .jpg
-│   ├── Bump Jump .jpg
+│   ├── Breaking Enigma .jpg
 │   ├── COSPLAY LOVE! : Enchanted princess .jpg
-│   ├── Capcom Arcade 2nd Stadium .jpg
-│   ├── Capcom Arcade 2nd Stadium Bundle .jpg
+│   ├── Chameneon .jpg
+│   ├── Cloudpunk .jpg
 │   ├── Crossout - Season 9 Battle Pass Bundle .jpg
 │   ├── Crossout - Season 9 Elite Battle pass Bundle .jpg
 │   ├── Crossout – "Cleaner" Starter Bundle .jpg
 │   ├── Cult of the Lamb .jpg
-│   ├── Devastator PS4 & PS5 .jpg
+│   ├── Cursed to Golf .jpg
+│   ├── Dog’s Donuts .jpg
 │   ├── Don't Fall: aleph .jpg
-│   ├── DreadOut 2 .jpg
-│   ├── Endling - Extinction is Forever .jpg
-│   ├── Endzone - A World Apart .jpg
+│   ├── Drift Journey .jpg
+│   ├── Dungeon Color .jpg
+│   ├── Dyna Bomb 2 .jpg
 │   ├── Exploria .jpg
+│   ├── F1®车队经理2022 .jpg
 │   ├── FMV Comedy Bundle .jpg
+│   ├── Fall of Porcupine: Prologue .jpg
+│   ├── Fluffy Cubed .jpg
+│   ├── Fump Jump .jpg
 │   ├── Gale of Windoria .jpg
 │   ├── Gigapocalypse .jpg
 │   ├── Guilty Gear -Strive- + Season Pass 1 .jpg
 │   ├── Guilty Gear -Strive- Ultimate Edition 2022 PS4 & PS5 .jpg
-│   ├── Gump Jump .jpg
 │   ├── Gunducky Industries++ .jpg
+│   ├── Hidden Shapes: Animals + Lovely Cats .jpg
+│   ├── Hidden Shapes: Black Skull + Old West .jpg
 │   ├── Highway Driving .jpg
+│   ├── Him & Her Collection .jpg
+│   ├── Hover Racer .jpg
+│   ├── Idol Manager .jpg
 │   ├── International Boxing .jpg
+│   ├── Kid Ball Adventure PS4 & PS5 .jpg
 │   ├── Kruger .jpg
-│   ├── LocoRoco Midnight Carnival .jpg
+│   ├── LootLite PS4 & PS5 .jpg
 │   ├── Lump Jump .jpg
+│   ├── Midnight Fight Express .jpg
+│   ├── Milli & Greg .jpg
 │   ├── Monument Journey .jpg
-│   ├── No Heroes Allowed! .jpg
-│   ├── Puzzletronics: Digital Infinite .jpg
+│   ├── Monument Journey: Nitro .jpg
+│   ├── Move or Die .jpg
+│   ├── Nump Jump .jpg
+│   ├── Organic Engine .jpg
+│   ├── Overrogue Demo .jpg
+│   ├── Pretty Girls Four Kings Solitaire PS4 & PS5 .jpg
+│   ├── QUByte Classics - The Humans by PIKO .jpg
+│   ├── QUByte Classics - The Immortal by PIKO .jpg
+│   ├── QUByte Classics: Jim Power: The Lost Dimension Collection by PIKO .jpg
 │   ├── QUByte Classics: Thunderbolt Collection by PIKO .jpg
+│   ├── QUByte Classics: Zero Tolerance Collection by PIKO .jpg
 │   ├── Quick Mafs .jpg
+│   ├── Quick Mafs Advanced .jpg
 │   ├── Rainbow .jpg
-│   ├── RimWorld Console Edition - Digital Deluxe .jpg
-│   ├── RimWorld Console Edition .jpg
+│   ├── Raven's Hike .jpg
+│   ├── Realm Royale Reforged .jpg
+│   ├── Red Ronin .jpg
 │   ├── Rumbleverse .jpg
-│   ├── SD GUNDAM 激斗同盟 体验版 .jpg
+│   ├── SD GUNDAM 激斗同盟 PS4 & PS5 .jpg
+│   ├── SD GUNDAM 激斗同盟 数字终极版 PS4 & PS5 .jpg
+│   ├── SD GUNDAM 激斗同盟 数字豪华版 PS4 & PS5 .jpg
+│   ├── SaGa 未拓领域 Remastered .jpg
+│   ├── Saints Row Gold Edition .jpg
+│   ├── Saints Row PS4&PS5 .jpg
+│   ├── Saints Row Platinum Edition .jpg
 │   ├── Santa's workshop .jpg
-│   ├── Seduction: A Monk's Fate PS4 & PS5 .jpg
-│   ├── Severed Steel .jpg
 │   ├── Snow Journey .jpg
+│   ├── Snow Journey: Nitro .jpg
 │   ├── Sofiya and the Ancient Clan PS4 & PS5 .jpg
-│   ├── Square Keeper PS4 & PS5 .jpg
-│   ├── Stray .jpg
+│   ├── Sokocat - Combo .jpg
+│   ├── Space Elite Force 2 in 1 .jpg
+│   ├── Space Explorers: Red Planet .jpg
+│   ├── Space KaBAAM 3 .jpg
+│   ├── Spectrewoods .jpg
+│   ├── Steelrising - Beta .jpg
 │   ├── Surface Rush PS4 & PS5 .jpg
-│   ├── Surviving the Aftermath .jpg
+│   ├── The Ascent: Cyber Edition PS4 & PS5 .jpg
+│   ├── The Bat D .jpg
+│   ├── The Dog K .jpg
 │   ├── The Ketchup story .jpg
+│   ├── The Sheep P .jpg
 │   ├── The Ultimate FMV Bundle 2 .jpg
-│   ├── Transiruby .jpg
+│   ├── The Volleyball B .jpg
+│   ├── Thymesia .jpg
 │   ├── Tump Jump .jpg
 │   ├── Two Point Campus PS4 & PS5 .jpg
+│   ├── Underland .jpg
 │   ├── Universal Flight Simulator .jpg
 │   ├── Vump Jump .jpg
 │   ├── Wally and the FANTASTIC PREDATORS .jpg
-│   ├── What Remains of Edith Finch .jpg
+│   ├── Way of the Hunter .jpg
+│   ├── Way of the Hunter: Elite Edition .jpg
+│   ├── We Are OFK .jpg
 │   ├── World of Tanks – Evolution入门包 .jpg
 │   ├── Xump Jump .jpg
-│   ├── echoshift 时限回廊 .jpg
+│   ├── Yars: Recharged .jpg
 │   ├── on Sunday .jpg
 │   ├── 《GigaBash 巨击大乱斗》 .jpg
-│   ├── 《泰坦之路》标准创始者包 .jpg
+│   ├── 《Madden NFL 23》All Madden 版 PS5™ 和 PS4™ .jpg
+│   ├── 《Madden NFL 23》PS4™ .jpg
+│   ├── 《Madden NFL 23》PS5™ .jpg
+│   ├── 《Realm Royale Reforged》Bass Drop礼包 .jpg
+│   ├── 《Realm Royale Reforged》Cute But Deadly礼包 .jpg
 │   ├── 《物质世界》：冒险家礼包 .jpg
 │   ├── 仙剑奇侠传七 .jpg
-│   ├── 信長之野望·新生 .jpg
-│   ├── 信長之野望·新生 数字豪华版 .jpg
-│   ├── 光明记忆：无限 .jpg
 │   ├── 公理边缘2 .jpg
-│   ├── 失落史诗 .jpg
+│   ├── 剑与魔法与学园任务 体验版 .jpg
+│   ├── 吃豆人 吃遍世界（PAC-MAN WORLD Re-PAC） PS4 & PS5 .jpg
 │   ├── 小小诺娅：乐园继承者　特别版 .jpg
 │   ├── 小林家的龙女仆 炸裂!! 呆萌龙☆吐息 .jpg
-│   ├── 幸福枪弹辩驳Ｓ 超高中级的南国掷骰合宿 .jpg
-│   ├── 彼岸晴空 .jpg
-│   ├── 战国世纪 .jpg
+│   ├── 我炼金超牛 Alchemist Simulator .jpg
 │   ├── 战国之刃 .jpg
-│   ├── 战国加农 .jpg
-│   ├── 数码宝贝 绝境求生 .jpg
-│   ├── 武装飞鸟 .jpg
+│   ├── 打工人 .jpg
 │   ├── 武装飞鸟2 .jpg
-│   ├── 沙漏[Hourglass] .jpg
-│   ├── 泰坦之路 - 豪华创始者包 .jpg
-│   ├── 热血三国志 .jpg
-│   ├── 牧场物语 橄榄镇与希望的大地 SPECIAL .jpg
+│   ├── 灵魂骇客2 25th纪念版 PS4 & PS5 .jpg
+│   ├── 灵魂骇客2 PS4 & PS5 .jpg
 │   ├── 砖块物语 .jpg
 │   ├── 神领编年史 The DioField Chronicle PS4 & PS5 体验版 .jpg
-│   ├── 英雄传说 黎之轨迹 .jpg
-│   └── 英雄传说 黎之轨迹 数字豪华版 .jpg
+│   ├── 角色扮演游戏时间！～光之传说～ .jpg
+│   └── 酷极轮滑 .jpg
 ├── min-recent-en
-│   ├── A Fungus In My Garden .jpg
 │   ├── ANIQUILATION .jpg
-│   ├── Absolute Deduction bundle .jpg
+│   ├── Adventure Academia: The Fractured Continent Demo Version .jpg
 │   ├── After Wave: Downfall .jpg
-│   ├── Arcade Archives Chack'n Pop .jpg
+│   ├── Alchemist Simulator .jpg
 │   ├── Arcade Archives DIG DUG .jpg
 │   ├── Arcade Archives GUN & FRONTIER .jpg
-│   ├── Arcade Archives ROLLER JAMMER .jpg
+│   ├── Arcade Archives METROCROSS .jpg
+│   ├── Arcade Archives Super Volleyball .jpg
 │   ├── Arcade Paradise Digital Deluxe PS4™ & PS5™ .jpg
 │   ├── Arcade Paradise PS4™ & PS5™ .jpg
-│   ├── Arsonist Heaven PS4 & PS5 .jpg
+│   ├── Are You Smarter Than A 5th Grader? .jpg
+│   ├── Asdivine Cross .jpg
 │   ├── Axiom Verge 2 .jpg
+│   ├── Back Again PS4 & PS5 .jpg
+│   ├── Black Death : A Tragic Dirge .jpg
+│   ├── Blob Quest .jpg
 │   ├── Book Quest PS4 & PS5 .jpg
-│   ├── Bricky to Me .jpg
-│   ├── Bright Memory: Infinite .jpg
-│   ├── Bump Jump .jpg
+│   ├── Breaking Enigma .jpg
 │   ├── COSPLAY LOVE! : Enchanted princess .jpg
-│   ├── Capcom Arcade 2nd Stadium .jpg
-│   ├── Capcom Arcade 2nd Stadium Bundle .jpg
+│   ├── Chameneon .jpg
+│   ├── Cloudpunk PS4 & PS5 .jpg
 │   ├── Crossout - Season 9 Battle Pass Bundle .jpg
 │   ├── Crossout - Season 9 Elite Battle pass Bundle .jpg
 │   ├── Crossout – "Cleaner" Starter Bundle .jpg
 │   ├── Cult of the Lamb .jpg
-│   ├── Danganronpa S: Ultimate Summer Camp .jpg
-│   ├── Devastator PS4 & PS5 .jpg
-│   ├── Digimon Survive .jpg
+│   ├── Cursed to Golf .jpg
+│   ├── Dog’s Donuts .jpg
 │   ├── Don't Fall: aleph .jpg
-│   ├── DreadOut 2 .jpg
-│   ├── Endling - Extinction is Forever .jpg
-│   ├── Endzone - A World Apart .jpg
+│   ├── Drift Journey .jpg
+│   ├── Dungeon Color .jpg
+│   ├── Dyna Bomb 2 .jpg
 │   ├── Exploria .jpg
+│   ├── F1® Manager 2022 .jpg
 │   ├── FMV Comedy Bundle .jpg
+│   ├── Fall of Porcupine: Prologue .jpg
+│   ├── Fluffy Cubed .jpg
+│   ├── Fump Jump .jpg
 │   ├── GUNBARICH .jpg
-│   ├── GUNBIRD .jpg
 │   ├── GUNBIRD 2 .jpg
 │   ├── Gale of Windoria .jpg
 │   ├── GigaBash .jpg
 │   ├── Gigapocalypse .jpg
 │   ├── Guilty Gear -Strive- + Season Pass 1 PS4 & PS5 .jpg
 │   ├── Guilty Gear -Strive- Ultimate Edition 2022 PS4 & PS5 .jpg
-│   ├── Gump Jump .jpg
 │   ├── Gunducky Industries++ .jpg
-│   ├── Hazel Sky .jpg
+│   ├── Hidden Shapes: Animals + Lovely Cats .jpg
+│   ├── Hidden Shapes: Black Skull + Old West .jpg
 │   ├── Highway Driving .jpg
-│   ├── Hourglass .jpg
+│   ├── Him & Her Collection .jpg
+│   ├── Hover Racer .jpg
+│   ├── Idol Manager .jpg
 │   ├── International Boxing .jpg
+│   ├── Kid Ball Adventure PS4 & PS5 .jpg
 │   ├── Kruger .jpg
-│   ├── LOST EPIC .jpg
 │   ├── Little Noah: Scion of Paradise Special Edition .jpg
-│   ├── LocoRoco Midnight Carnival .jpg
+│   ├── LootLite PS4 & PS5 .jpg
 │   ├── Lump Jump .jpg
+│   ├── Madden NFL 23 All Madden Edition PS5™ & PS4™ .jpg
+│   ├── Madden NFL 23 PS4™ .jpg
+│   ├── Madden NFL 23 PS5™ .jpg
+│   ├── Midnight Fight Express .jpg
+│   ├── Milli & Greg .jpg
 │   ├── Miss Kobayashi's Dragon Maid Burst Forth!! Choro-gon☆Breath .jpg
 │   ├── Monument Journey .jpg
-│   ├── NOBUNAGA'S AMBITION: Shinsei .jpg
-│   ├── NOBUNAGA'S AMBITION: Shinsei Digital Deluxe Edition .jpg
-│   ├── No Heroes Allowed! .jpg
+│   ├── Monument Journey: Nitro .jpg
+│   ├── Move or Die .jpg
+│   ├── Nump Jump .jpg
+│   ├── Organic Engine .jpg
 │   ├── Outward: The Adventurer Bundle .jpg
-│   ├── Path of Titans Deluxe Founder's Pack .jpg
-│   ├── Path of Titans Standard Founder's Pack .jpg
-│   ├── Puzzletronics: Digital Infinite .jpg
+│   ├── Overrogue Demo .jpg
+│   ├── PAC-MAN WORLD Re-PAC PS4 & PS5 .jpg
+│   ├── Pretty Girls Four Kings Solitaire PS4 & PS5 .jpg
+│   ├── QUByte Classics - The Humans by PIKO .jpg
+│   ├── QUByte Classics - The Immortal by PIKO .jpg
+│   ├── QUByte Classics: Jim Power: The Lost Dimension Collection by PIKO .jpg
 │   ├── QUByte Classics: Thunderbolt Collection by PIKO .jpg
+│   ├── QUByte Classics: Zero Tolerance Collection by PIKO .jpg
 │   ├── Quick Mafs .jpg
+│   ├── Quick Mafs Advanced .jpg
+│   ├── RPG Time: The Legend of Wright .jpg
 │   ├── Rainbow .jpg
-│   ├── RimWorld Console Edition - Digital Deluxe .jpg
-│   ├── RimWorld Console Edition .jpg
-│   ├── River City Saga: Three Kingdoms .jpg
+│   ├── Raven's Hike .jpg
+│   ├── Realm Royale Reforged .jpg
+│   ├── Realm Royale Reforged Bass Drop Bundle .jpg
+│   ├── Realm Royale Reforged Cute But Deadly Pack .jpg
+│   ├── Red Ronin .jpg
+│   ├── Rollerdrome .jpg
 │   ├── Rumbleverse™ .jpg
-│   ├── SD Gundam Battle Alliance Demo .jpg
-│   ├── STORY OF SEASONS: Pioneers of Olive Town .jpg
-│   ├── Samurai Aces .jpg
-│   ├── Samurai Aces III: Sengoku Cannon .jpg
+│   ├── SD GUNDAM BATTLE ALLIANCE - Deluxe Edition PS4 & PS5 .jpg
+│   ├── SD GUNDAM BATTLE ALLIANCE - Ultimate Edition PS4 & PS5 .jpg
+│   ├── SD GUNDAM BATTLE ALLIANCE PS4 & PS5 .jpg
+│   ├── SaGa Frontier Remastered .jpg
+│   ├── Saints Row Gold Edition .jpg
+│   ├── Saints Row PS4&PS5 .jpg
+│   ├── Saints Row Platinum Edition .jpg
 │   ├── Santa's workshop .jpg
-│   ├── Seduction: A Monk's Fate PS4 & PS5 .jpg
-│   ├── Severed Steel .jpg
 │   ├── Snow Journey .jpg
+│   ├── Snow Journey: Nitro .jpg
 │   ├── Sofiya and the Ancient Clan PS4 & PS5 .jpg
-│   ├── Square Keeper PS4 & PS5 .jpg
-│   ├── Stray .jpg
+│   ├── Sokocat - Combo .jpg
+│   ├── Soul Hackers 2 - 25th Anniversary Edition  PS4 & PS5 .jpg
+│   ├── Soul Hackers 2 PS4 & PS5 .jpg
+│   ├── Space Elite Force 2 in 1 .jpg
+│   ├── Space Explorers: Red Planet .jpg
+│   ├── Space KaBAAM 3 .jpg
+│   ├── Spectrewoods .jpg
+│   ├── Steelrising - Beta .jpg
 │   ├── Surface Rush PS4 & PS5 .jpg
-│   ├── Surviving the Aftermath .jpg
 │   ├── Sword and Fairy Together Forever .jpg
 │   ├── Sword and Fairy: Together Forever PS4™ & PS5™ .jpg
 │   ├── TENGAI .jpg
+│   ├── The Ascent: Cyber Edition PS4 & PS5 .jpg
+│   ├── The Bat D .jpg
+│   ├── The Company Man .jpg
 │   ├── The DioField Chronicle PS4 & PS5 DEMO .jpg
+│   ├── The Dog K .jpg
 │   ├── The Ketchup story .jpg
-│   ├── The Legend of Heroes: Kuro no Kiseki .jpg
-│   ├── The Legend of Heroes: Kuro no Kiseki Digital Deluxe Edition .jpg
+│   ├── The Sheep P .jpg
 │   ├── The Ultimate FMV Bundle 2 .jpg
-│   ├── Transiruby .jpg
+│   ├── The Volleyball B .jpg
+│   ├── Thymesia .jpg
 │   ├── Tump Jump .jpg
 │   ├── Two Point Campus PS4 & PS5 .jpg
+│   ├── Underland .jpg
 │   ├── Universal Flight Simulator .jpg
 │   ├── Vump Jump .jpg
 │   ├── Wally and the FANTASTIC PREDATORS .jpg
-│   ├── What Remains of Edith Finch .jpg
+│   ├── Way of the Hunter .jpg
+│   ├── Way of the Hunter: Elite Edition .jpg
+│   ├── We Are OFK .jpg
 │   ├── World of Tanks –  Evolution Starter Pack .jpg
 │   ├── Xump Jump .jpg
-│   ├── echoshift .jpg
+│   ├── Yars: Recharged .jpg
 │   └── on Sunday .jpg
 ├── recent
-│   ├── A Fungus In My Garden .jpg
 │   ├── ANIQUILATION .jpg
-│   ├── Absolute Deduction捆绑包 .jpg
 │   ├── After Wave: Downfall .jpg
-│   ├── Arcade Archives Chack'n Pop .jpg
 │   ├── Arcade Archives DIG DUG .jpg
 │   ├── Arcade Archives GUN & FRONTIER .jpg
-│   ├── Arcade Archives ROLLER JAMMER .jpg
+│   ├── Arcade Archives METROCROSS .jpg
+│   ├── Arcade Archives Super Volleyball .jpg
 │   ├── Arcade Paradise Digital Deluxe PS4™ & PS5™ .jpg
 │   ├── Arcade Paradise PS4™ & PS5™ .jpg
-│   ├── Arsonist Heaven PS4 & PS5 .jpg
+│   ├── Are You Smarter Than a 5th Grader? .jpg
+│   ├── Asdivine Cross .jpg
+│   ├── Back Again PS4 & PS5 .jpg
+│   ├── Black Death :A Tragic Dirge .jpg
+│   ├── Blob Quest .jpg
 │   ├── Book Quest PS4 & PS5 .jpg
-│   ├── Bricky to Me .jpg
-│   ├── Bump Jump .jpg
+│   ├── Breaking Enigma .jpg
 │   ├── COSPLAY LOVE! : Enchanted princess .jpg
-│   ├── Capcom Arcade 2nd Stadium .jpg
-│   ├── Capcom Arcade 2nd Stadium Bundle .jpg
+│   ├── Chameneon .jpg
+│   ├── Cloudpunk .jpg
 │   ├── Crossout - Season 9 Battle Pass Bundle .jpg
 │   ├── Crossout - Season 9 Elite Battle pass Bundle .jpg
 │   ├── Crossout – "Cleaner" Starter Bundle .jpg
 │   ├── Cult of the Lamb .jpg
-│   ├── Devastator PS4 & PS5 .jpg
+│   ├── Cursed to Golf .jpg
+│   ├── Dog’s Donuts .jpg
 │   ├── Don't Fall: aleph .jpg
-│   ├── DreadOut 2 .jpg
-│   ├── Endling - Extinction is Forever .jpg
-│   ├── Endzone - A World Apart .jpg
+│   ├── Drift Journey .jpg
+│   ├── Dungeon Color .jpg
+│   ├── Dyna Bomb 2 .jpg
 │   ├── Exploria .jpg
+│   ├── F1®车队经理2022 .jpg
 │   ├── FMV Comedy Bundle .jpg
+│   ├── Fall of Porcupine: Prologue .jpg
+│   ├── Fluffy Cubed .jpg
+│   ├── Fump Jump .jpg
 │   ├── Gale of Windoria .jpg
 │   ├── Gigapocalypse .jpg
 │   ├── Guilty Gear -Strive- + Season Pass 1 .jpg
 │   ├── Guilty Gear -Strive- Ultimate Edition 2022 PS4 & PS5 .jpg
-│   ├── Gump Jump .jpg
 │   ├── Gunducky Industries++ .jpg
+│   ├── Hidden Shapes: Animals + Lovely Cats .jpg
+│   ├── Hidden Shapes: Black Skull + Old West .jpg
 │   ├── Highway Driving .jpg
+│   ├── Him & Her Collection .jpg
+│   ├── Hover Racer .jpg
+│   ├── Idol Manager .jpg
 │   ├── International Boxing .jpg
+│   ├── Kid Ball Adventure PS4 & PS5 .jpg
 │   ├── Kruger .jpg
-│   ├── LocoRoco Midnight Carnival .jpg
+│   ├── LootLite PS4 & PS5 .jpg
 │   ├── Lump Jump .jpg
+│   ├── Midnight Fight Express .jpg
+│   ├── Milli & Greg .jpg
 │   ├── Monument Journey .jpg
-│   ├── No Heroes Allowed! .jpg
-│   ├── Puzzletronics: Digital Infinite .jpg
+│   ├── Monument Journey: Nitro .jpg
+│   ├── Move or Die .jpg
+│   ├── Nump Jump .jpg
+│   ├── Organic Engine .jpg
+│   ├── Overrogue Demo .jpg
+│   ├── Pretty Girls Four Kings Solitaire PS4 & PS5 .jpg
+│   ├── QUByte Classics - The Humans by PIKO .jpg
+│   ├── QUByte Classics - The Immortal by PIKO .jpg
+│   ├── QUByte Classics: Jim Power: The Lost Dimension Collection by PIKO .jpg
 │   ├── QUByte Classics: Thunderbolt Collection by PIKO .jpg
+│   ├── QUByte Classics: Zero Tolerance Collection by PIKO .jpg
 │   ├── Quick Mafs .jpg
+│   ├── Quick Mafs Advanced .jpg
 │   ├── Rainbow .jpg
-│   ├── RimWorld Console Edition - Digital Deluxe .jpg
-│   ├── RimWorld Console Edition .jpg
+│   ├── Raven's Hike .jpg
+│   ├── Realm Royale Reforged .jpg
+│   ├── Red Ronin .jpg
 │   ├── Rumbleverse .jpg
-│   ├── SD GUNDAM 激斗同盟 体验版 .jpg
+│   ├── SD GUNDAM 激斗同盟 PS4 & PS5 .jpg
+│   ├── SD GUNDAM 激斗同盟 数字终极版 PS4 & PS5 .jpg
+│   ├── SD GUNDAM 激斗同盟 数字豪华版 PS4 & PS5 .jpg
+│   ├── SaGa 未拓领域 Remastered .jpg
+│   ├── Saints Row Gold Edition .jpg
+│   ├── Saints Row PS4&PS5 .jpg
+│   ├── Saints Row Platinum Edition .jpg
 │   ├── Santa's workshop .jpg
-│   ├── Seduction: A Monk's Fate PS4 & PS5 .jpg
-│   ├── Severed Steel .jpg
 │   ├── Snow Journey .jpg
+│   ├── Snow Journey: Nitro .jpg
 │   ├── Sofiya and the Ancient Clan PS4 & PS5 .jpg
-│   ├── Square Keeper PS4 & PS5 .jpg
-│   ├── Stray .jpg
+│   ├── Sokocat - Combo .jpg
+│   ├── Space Elite Force 2 in 1 .jpg
+│   ├── Space Explorers: Red Planet .jpg
+│   ├── Space KaBAAM 3 .jpg
+│   ├── Spectrewoods .jpg
+│   ├── Steelrising - Beta .jpg
 │   ├── Surface Rush PS4 & PS5 .jpg
-│   ├── Surviving the Aftermath .jpg
+│   ├── The Ascent: Cyber Edition PS4 & PS5 .jpg
+│   ├── The Bat D .jpg
+│   ├── The Dog K .jpg
 │   ├── The Ketchup story .jpg
+│   ├── The Sheep P .jpg
 │   ├── The Ultimate FMV Bundle 2 .jpg
-│   ├── Transiruby .jpg
+│   ├── The Volleyball B .jpg
+│   ├── Thymesia .jpg
 │   ├── Tump Jump .jpg
 │   ├── Two Point Campus PS4 & PS5 .jpg
+│   ├── Underland .jpg
 │   ├── Universal Flight Simulator .jpg
 │   ├── Vump Jump .jpg
 │   ├── Wally and the FANTASTIC PREDATORS .jpg
-│   ├── What Remains of Edith Finch .jpg
+│   ├── Way of the Hunter .jpg
+│   ├── Way of the Hunter: Elite Edition .jpg
+│   ├── We Are OFK .jpg
 │   ├── World of Tanks – Evolution入门包 .jpg
 │   ├── Xump Jump .jpg
-│   ├── echoshift 时限回廊 .jpg
+│   ├── Yars: Recharged .jpg
 │   ├── on Sunday .jpg
 │   ├── 《GigaBash 巨击大乱斗》 .jpg
-│   ├── 《泰坦之路》标准创始者包 .jpg
+│   ├── 《Madden NFL 23》All Madden 版 PS5™ 和 PS4™ .jpg
+│   ├── 《Madden NFL 23》PS4™ .jpg
+│   ├── 《Madden NFL 23》PS5™ .jpg
+│   ├── 《Realm Royale Reforged》Bass Drop礼包 .jpg
+│   ├── 《Realm Royale Reforged》Cute But Deadly礼包 .jpg
 │   ├── 《物质世界》：冒险家礼包 .jpg
 │   ├── 仙剑奇侠传七 .jpg
-│   ├── 信長之野望·新生 .jpg
-│   ├── 信長之野望·新生 数字豪华版 .jpg
-│   ├── 光明记忆：无限 .jpg
 │   ├── 公理边缘2 .jpg
-│   ├── 失落史诗 .jpg
+│   ├── 剑与魔法与学园任务 体验版 .jpg
+│   ├── 吃豆人 吃遍世界（PAC-MAN WORLD Re-PAC） PS4 & PS5 .jpg
 │   ├── 小小诺娅：乐园继承者　特别版 .jpg
 │   ├── 小林家的龙女仆 炸裂!! 呆萌龙☆吐息 .jpg
-│   ├── 幸福枪弹辩驳Ｓ 超高中级的南国掷骰合宿 .jpg
-│   ├── 彼岸晴空 .jpg
-│   ├── 战国世纪 .jpg
+│   ├── 我炼金超牛 Alchemist Simulator .jpg
 │   ├── 战国之刃 .jpg
-│   ├── 战国加农 .jpg
-│   ├── 数码宝贝 绝境求生 .jpg
-│   ├── 武装飞鸟 .jpg
+│   ├── 打工人 .jpg
 │   ├── 武装飞鸟2 .jpg
-│   ├── 沙漏[Hourglass] .jpg
-│   ├── 泰坦之路 - 豪华创始者包 .jpg
-│   ├── 热血三国志 .jpg
-│   ├── 牧场物语 橄榄镇与希望的大地 SPECIAL .jpg
+│   ├── 灵魂骇客2 25th纪念版 PS4 & PS5 .jpg
+│   ├── 灵魂骇客2 PS4 & PS5 .jpg
 │   ├── 砖块物语 .jpg
 │   ├── 神领编年史 The DioField Chronicle PS4 & PS5 体验版 .jpg
-│   ├── 英雄传说 黎之轨迹 .jpg
-│   └── 英雄传说 黎之轨迹 数字豪华版 .jpg
+│   ├── 角色扮演游戏时间！～光之传说～ .jpg
+│   └── 酷极轮滑 .jpg
 ├── recent-en
-│   ├── A Fungus In My Garden .jpg
 │   ├── ANIQUILATION .jpg
-│   ├── Absolute Deduction bundle .jpg
+│   ├── Adventure Academia: The Fractured Continent Demo Version .jpg
 │   ├── After Wave: Downfall .jpg
-│   ├── Arcade Archives Chack'n Pop .jpg
+│   ├── Alchemist Simulator .jpg
 │   ├── Arcade Archives DIG DUG .jpg
 │   ├── Arcade Archives GUN & FRONTIER .jpg
-│   ├── Arcade Archives ROLLER JAMMER .jpg
+│   ├── Arcade Archives METROCROSS .jpg
+│   ├── Arcade Archives Super Volleyball .jpg
 │   ├── Arcade Paradise Digital Deluxe PS4™ & PS5™ .jpg
 │   ├── Arcade Paradise PS4™ & PS5™ .jpg
-│   ├── Arsonist Heaven PS4 & PS5 .jpg
+│   ├── Are You Smarter Than A 5th Grader? .jpg
+│   ├── Asdivine Cross .jpg
 │   ├── Axiom Verge 2 .jpg
+│   ├── Back Again PS4 & PS5 .jpg
+│   ├── Black Death : A Tragic Dirge .jpg
+│   ├── Blob Quest .jpg
 │   ├── Book Quest PS4 & PS5 .jpg
-│   ├── Bricky to Me .jpg
-│   ├── Bright Memory: Infinite .jpg
-│   ├── Bump Jump .jpg
+│   ├── Breaking Enigma .jpg
 │   ├── COSPLAY LOVE! : Enchanted princess .jpg
-│   ├── Capcom Arcade 2nd Stadium .jpg
-│   ├── Capcom Arcade 2nd Stadium Bundle .jpg
+│   ├── Chameneon .jpg
+│   ├── Cloudpunk PS4 & PS5 .jpg
 │   ├── Crossout - Season 9 Battle Pass Bundle .jpg
 │   ├── Crossout - Season 9 Elite Battle pass Bundle .jpg
 │   ├── Crossout – "Cleaner" Starter Bundle .jpg
 │   ├── Cult of the Lamb .jpg
-│   ├── Danganronpa S: Ultimate Summer Camp .jpg
-│   ├── Devastator PS4 & PS5 .jpg
-│   ├── Digimon Survive .jpg
+│   ├── Cursed to Golf .jpg
+│   ├── Dog’s Donuts .jpg
 │   ├── Don't Fall: aleph .jpg
-│   ├── DreadOut 2 .jpg
-│   ├── Endling - Extinction is Forever .jpg
-│   ├── Endzone - A World Apart .jpg
+│   ├── Drift Journey .jpg
+│   ├── Dungeon Color .jpg
+│   ├── Dyna Bomb 2 .jpg
 │   ├── Exploria .jpg
+│   ├── F1® Manager 2022 .jpg
 │   ├── FMV Comedy Bundle .jpg
+│   ├── Fall of Porcupine: Prologue .jpg
+│   ├── Fluffy Cubed .jpg
+│   ├── Fump Jump .jpg
 │   ├── GUNBARICH .jpg
-│   ├── GUNBIRD .jpg
 │   ├── GUNBIRD 2 .jpg
 │   ├── Gale of Windoria .jpg
 │   ├── GigaBash .jpg
 │   ├── Gigapocalypse .jpg
 │   ├── Guilty Gear -Strive- + Season Pass 1 PS4 & PS5 .jpg
 │   ├── Guilty Gear -Strive- Ultimate Edition 2022 PS4 & PS5 .jpg
-│   ├── Gump Jump .jpg
 │   ├── Gunducky Industries++ .jpg
-│   ├── Hazel Sky .jpg
+│   ├── Hidden Shapes: Animals + Lovely Cats .jpg
+│   ├── Hidden Shapes: Black Skull + Old West .jpg
 │   ├── Highway Driving .jpg
-│   ├── Hourglass .jpg
+│   ├── Him & Her Collection .jpg
+│   ├── Hover Racer .jpg
+│   ├── Idol Manager .jpg
 │   ├── International Boxing .jpg
+│   ├── Kid Ball Adventure PS4 & PS5 .jpg
 │   ├── Kruger .jpg
-│   ├── LOST EPIC .jpg
 │   ├── Little Noah: Scion of Paradise Special Edition .jpg
-│   ├── LocoRoco Midnight Carnival .jpg
+│   ├── LootLite PS4 & PS5 .jpg
 │   ├── Lump Jump .jpg
+│   ├── Madden NFL 23 All Madden Edition PS5™ & PS4™ .jpg
+│   ├── Madden NFL 23 PS4™ .jpg
+│   ├── Madden NFL 23 PS5™ .jpg
+│   ├── Midnight Fight Express .jpg
+│   ├── Milli & Greg .jpg
 │   ├── Miss Kobayashi's Dragon Maid Burst Forth!! Choro-gon☆Breath .jpg
 │   ├── Monument Journey .jpg
-│   ├── NOBUNAGA'S AMBITION: Shinsei .jpg
-│   ├── NOBUNAGA'S AMBITION: Shinsei Digital Deluxe Edition .jpg
-│   ├── No Heroes Allowed! .jpg
+│   ├── Monument Journey: Nitro .jpg
+│   ├── Move or Die .jpg
+│   ├── Nump Jump .jpg
+│   ├── Organic Engine .jpg
 │   ├── Outward: The Adventurer Bundle .jpg
-│   ├── Path of Titans Deluxe Founder's Pack .jpg
-│   ├── Path of Titans Standard Founder's Pack .jpg
-│   ├── Puzzletronics: Digital Infinite .jpg
+│   ├── Overrogue Demo .jpg
+│   ├── PAC-MAN WORLD Re-PAC PS4 & PS5 .jpg
+│   ├── Pretty Girls Four Kings Solitaire PS4 & PS5 .jpg
+│   ├── QUByte Classics - The Humans by PIKO .jpg
+│   ├── QUByte Classics - The Immortal by PIKO .jpg
+│   ├── QUByte Classics: Jim Power: The Lost Dimension Collection by PIKO .jpg
 │   ├── QUByte Classics: Thunderbolt Collection by PIKO .jpg
+│   ├── QUByte Classics: Zero Tolerance Collection by PIKO .jpg
 │   ├── Quick Mafs .jpg
+│   ├── Quick Mafs Advanced .jpg
+│   ├── RPG Time: The Legend of Wright .jpg
 │   ├── Rainbow .jpg
-│   ├── RimWorld Console Edition - Digital Deluxe .jpg
-│   ├── RimWorld Console Edition .jpg
-│   ├── River City Saga: Three Kingdoms .jpg
+│   ├── Raven's Hike .jpg
+│   ├── Realm Royale Reforged .jpg
+│   ├── Realm Royale Reforged Bass Drop Bundle .jpg
+│   ├── Realm Royale Reforged Cute But Deadly Pack .jpg
+│   ├── Red Ronin .jpg
+│   ├── Rollerdrome .jpg
 │   ├── Rumbleverse™ .jpg
-│   ├── SD Gundam Battle Alliance Demo .jpg
-│   ├── STORY OF SEASONS: Pioneers of Olive Town .jpg
-│   ├── Samurai Aces .jpg
-│   ├── Samurai Aces III: Sengoku Cannon .jpg
+│   ├── SD GUNDAM BATTLE ALLIANCE - Deluxe Edition PS4 & PS5 .jpg
+│   ├── SD GUNDAM BATTLE ALLIANCE - Ultimate Edition PS4 & PS5 .jpg
+│   ├── SD GUNDAM BATTLE ALLIANCE PS4 & PS5 .jpg
+│   ├── SaGa Frontier Remastered .jpg
+│   ├── Saints Row Gold Edition .jpg
+│   ├── Saints Row PS4&PS5 .jpg
+│   ├── Saints Row Platinum Edition .jpg
 │   ├── Santa's workshop .jpg
-│   ├── Seduction: A Monk's Fate PS4 & PS5 .jpg
-│   ├── Severed Steel .jpg
 │   ├── Snow Journey .jpg
+│   ├── Snow Journey: Nitro .jpg
 │   ├── Sofiya and the Ancient Clan PS4 & PS5 .jpg
-│   ├── Square Keeper PS4 & PS5 .jpg
-│   ├── Stray .jpg
+│   ├── Sokocat - Combo .jpg
+│   ├── Soul Hackers 2 - 25th Anniversary Edition  PS4 & PS5 .jpg
+│   ├── Soul Hackers 2 PS4 & PS5 .jpg
+│   ├── Space Elite Force 2 in 1 .jpg
+│   ├── Space Explorers: Red Planet .jpg
+│   ├── Space KaBAAM 3 .jpg
+│   ├── Spectrewoods .jpg
+│   ├── Steelrising - Beta .jpg
 │   ├── Surface Rush PS4 & PS5 .jpg
-│   ├── Surviving the Aftermath .jpg
 │   ├── Sword and Fairy Together Forever .jpg
 │   ├── Sword and Fairy: Together Forever PS4™ & PS5™ .jpg
 │   ├── TENGAI .jpg
+│   ├── The Ascent: Cyber Edition PS4 & PS5 .jpg
+│   ├── The Bat D .jpg
+│   ├── The Company Man .jpg
 │   ├── The DioField Chronicle PS4 & PS5 DEMO .jpg
+│   ├── The Dog K .jpg
 │   ├── The Ketchup story .jpg
-│   ├── The Legend of Heroes: Kuro no Kiseki .jpg
-│   ├── The Legend of Heroes: Kuro no Kiseki Digital Deluxe Edition .jpg
+│   ├── The Sheep P .jpg
 │   ├── The Ultimate FMV Bundle 2 .jpg
-│   ├── Transiruby .jpg
+│   ├── The Volleyball B .jpg
+│   ├── Thymesia .jpg
 │   ├── Tump Jump .jpg
 │   ├── Two Point Campus PS4 & PS5 .jpg
+│   ├── Underland .jpg
 │   ├── Universal Flight Simulator .jpg
 │   ├── Vump Jump .jpg
 │   ├── Wally and the FANTASTIC PREDATORS .jpg
-│   ├── What Remains of Edith Finch .jpg
+│   ├── Way of the Hunter .jpg
+│   ├── Way of the Hunter: Elite Edition .jpg
+│   ├── We Are OFK .jpg
 │   ├── World of Tanks –  Evolution Starter Pack .jpg
 │   ├── Xump Jump .jpg
-│   ├── echoshift .jpg
+│   ├── Yars: Recharged .jpg
 │   └── on Sunday .jpg
 ├── thumbs.py
 ├── tree.bak
@@ -7061,7 +7365,7 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 ├── vercel.json
 └── webpage.py
 
-9 directories, 7023 files
+9 directories, 7327 files
 ```
 <!-- readme-tree end -->
  
