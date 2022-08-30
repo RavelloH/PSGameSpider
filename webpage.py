@@ -457,7 +457,7 @@ endofall ='''
 partone(f)
 dt=0
 for name in os.listdir('./recent/'):
-    f.write(recentpartone+str(dt)+recentparttwo+name.replace("'",r"\'").replace("?",r"%3F")[:-4]+recentpartthree+name[:-4]+recentpartfour+name.replace("'",r"\'").replace("?",r"%3F")[:-4]+recentpartfive+'\n')
+    f.write(recentpartone+str(dt)+recentparttwo+name.replace("'",r"\'").replace('"',r'\"').replace("?",r"%3F")[:-4]+recentpartthree+name[:-4]+recentpartfour+name.replace("'",r"\'").replace("?",r"%3F")[:-4]+recentpartfive+'\n')
     dt += 1
 now = datetime.datetime.now()+ datetime.timedelta(hours=8)
 f.write(htmlbodytwo+now.strftime('%Y-%m-%d %H:%M:%S')+liststart)
