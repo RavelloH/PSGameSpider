@@ -36,40 +36,23 @@ while k < 20:
     html = urlopen("https://"+link+str(k))
     # 解析
     obj = bs(html.read(),'html.parser')
-    pic_info = obj.find_all('img')
-    if pic_info == []:
+    pic_info = obj.find_all("li","psw-l-w-1/2@mobile-s")
+    if len(pic_info) == 1:
         print("爬取结束，共爬取"+str(k-1)+"页内容")
         break
-    j = 0 # 配置遍历
-    try:   
-        for i in pic_info:
-            j += 1
-            pic = str(i['src'])
-            name = re.sub("\(.*\)", "", str(i['alt']), count=0, flags=0) # 正则规范图片名
-            # 自适应规范url
-            if 'image-no-js' in str(i): 
-                if "http" not in pic:
-                    if "data" in pic:
-                        continue
-                    else:
-                        if "//" in pic:
-                            links = "http:"+pic
-                        else:
-                            if pic[0] == "/":
-                                links = "http://"+link+pic
-                            else:
-                                links = "http://"+link+"/"+pic
-            
-                else:
-                    links = pic
-            else:
-                continue
-            # 下载
-            download(links,out='./img/'+name+'.jpg')
-            download(links,out='./recent/'+name+'.jpg')
-            print("\n"+name+"\n")
-    except:
-        pass
+    j = 0 # 配置遍历  
+    for i in pic_info:
+        try:
+            imgs = i.find('noscript','psw-layer').contents
+            img = imgs[0]['src']
+            names = i.find_all('section','psw-product-tile__details psw-m-t-2')
+            name = re.sub("\(.*\)", "", str(names[0].contents[1].string), count=0, flags=0)
+            download(img,out='./img/'+name+'.jpg',bar='')
+            download(img,out='./recent/'+name+'.jpg',bar='')
+            print("[I]Success: "+name)
+        except:                        
+            print('[E]Error: %s' %(name))
+            pass
     print("爬取:第"+str(k)+"页完成")
     k += 1
 # 删除重复文件
