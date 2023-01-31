@@ -1,7 +1,5 @@
 name: update
 on:
-  push:
-    branches: [ main ]  
   workflow_dispatch:
 jobs:
   build:
@@ -17,7 +15,7 @@ jobs:
              pip install bs4
       - name: 'Working'
         run:
-          python main.py
+          python en-main.py
       # git 提交文件
       - name: Commit files
         run: |
