@@ -1,9 +1,10 @@
 # PSGameSpider
 自动爬取所有PlayStationStore中的所有游戏封面，支持按月分类
 
-[![GitHub Workflow Status](https://img.shields.io/github/workflow/status/RavelloH/PSGameSpider/update?label=update&style=for-the-badge)](https://github.com/RavelloH/PSGameSpider/actions/workflows/main.yml)
-[![GitHub Workflow Status](https://img.shields.io/github/workflow/status/RavelloH/PSGameSpider/releases?label=releases&style=for-the-badge)](https://github.com/RavelloH/PSGameSpider/actions/workflows/releases.yml)
-[![GitHub Workflow Status](https://img.shields.io/github/workflow/status/RavelloH/PSGameSpider/readme-tree?label=tree&style=for-the-badge)](https://github.com/RavelloH/PSGameSpider/actions/workflows/tree.yml)  
+[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/RavelloH/PSGameSpider/main.yml?label=update&style=for-the-badge)](https://github.com/RavelloH/PSGameSpider/actions/workflows/main.yml)
+[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/RavelloH/PSGameSpider/releases.yml?label=releases&style=for-the-badge)](https://github.com/RavelloH/PSGameSpider/actions/workflows/releases.yml)
+[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/RavelloH/PSGameSpider/tree.yml?label=tree&style=for-the-badge)](https://github.com/RavelloH/PSGameSpider/actions/workflows/tree.yml)
+[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/RavelloH/PSGameSpider/refresh.yml?label=refresh&style=for-the-badge)](https://github.com/RavelloH/PSGameSpider/actions/workflows/refresh.yml)
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/RavelloH/PSGameSpider?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/RavelloH/PSGameSpider?style=for-the-badge)
@@ -22,13 +23,8 @@ English version:https://ravelloh.github.io/PSGameSpider/en/
 ![Chinese](https://img.shields.io/badge/-中文-blue?style=for-the-badge)![GitHub file count](https://img.shields.io/github/directory-file-count/RavelloH/PSGameSpider/img?style=for-the-badge)  
 ![English](https://img.shields.io/badge/-ENGLISH-blue?style=for-the-badge)![GitHub file count](https://img.shields.io/github/directory-file-count/RavelloH/PSGameSpider/img-en?style=for-the-badge)
 
- <details> 
-  <summary>查看所有列表</summary>
- 
 <!-- readme-tree start -->
 <!-- readme-tree end -->
- 
- </details>
  
 ### 结构
 > 以下以中文版举例，英文版请见文件名带有en的对应文件
