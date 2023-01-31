@@ -15,7 +15,6 @@ jobs:
       - name: 'Install requirements'
         run: pip install wget
              pip install bs4
-             pip install os
       - name: 'Working'
         run:
           python main.py
