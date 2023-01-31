@@ -416,7 +416,7 @@ listend='''
 <script>
 window.TWIKOO_MAGIC_PATH="/PSGameSpider/";
 twikoo.init({
-  envId: 'https://comment-ravelloh.vercel.app/',
+  envId: 'https://comment.ravelloh.ml',
   el: '#tcomment',
   path: 'window.TWIKOO_MAGIC_PATH||window.location.pathname',
 })
