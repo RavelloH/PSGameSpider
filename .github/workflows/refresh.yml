@@ -9,14 +9,13 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v2
-        uses: actions/setup-python@v1
         with:
            python-version: 3.7
+     
       - name: 'Install requirements'
         run: pip install wget
              pip install bs4
              pip install os
-       
       - name: 'Working'
         run:
           python main.py
