@@ -12,7 +12,36 @@ permissions:
   id-token: write
 
 jobs:
+  delete:
+    runs-on: ubuntu-latest #运行环境
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: 'Git set'
+        run: |
+             git init
+             git pull
+      - name: 'Delete old files'
+        run: |
+             rm index.html
+             rm en/index.html
+      - name: Commit files
+        run: |
+          git diff
+          git config --local user.email "dr_hamilton@foxmail.com"
+          git config --local user.name "Ravello-H"
+          git add -A
+          git commit -m "`date '+%Y-%m-%d %H:%M:%S'`" || exit #动态提交信息
+          git status
+          git push -f
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: 'Wait for a moment'
+        run: |
+             sleep 10
+          
   build:
+    needs: delete
     runs-on: ubuntu-latest #运行环境
     steps:
       - name: Checkout
