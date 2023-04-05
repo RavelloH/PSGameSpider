@@ -14,6 +14,7 @@ permissions:
 jobs:
   delete:
     runs-on: ubuntu-latest #运行环境
+    continue-on-error: True
     steps:
       - name: Checkout
         uses: actions/checkout@v2
@@ -43,6 +44,7 @@ jobs:
   build:
     needs: delete
     runs-on: ubuntu-latest #运行环境
+    continue-on-error: True
     steps:
       - name: Checkout
         uses: actions/checkout@v2
