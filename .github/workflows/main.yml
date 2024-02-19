@@ -1,0 +1,69 @@
+name: update
+on:
+  schedule:
+    - cron: '0 8 1/1 * *' #每日更新
+  watch:
+    types: [started]
+  workflow_dispatch:
+  
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:      
+  build:
+    runs-on: ubuntu-latest #运行环境
+    continue-on-error: True
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: 'Git set'
+        run: |
+             git init
+             git pull
+      - name: 'Setup nodejs'
+              uses: actions/setup-node@v3
+              with:
+                  node-version: 'latest'
+      - name: 'Install requirements'
+        run: |
+             npm install
+      - name: 'Working'
+        run: 
+          node program/fetchAll.js
+
+      - name: Commit files
+        run: |
+          git diff
+          git config --local user.email "dr_hamilton@foxmail.com"
+          git config --local user.name "Ravello-H"
+          git add -A
+          git commit -m "`date '+%Y-%m-%d %H:%M:%S'`" || exit #动态提交信息
+          git status
+          git push -f
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  sync:
+    needs: build
+    runs-on: ubuntu-latest
+    continue-on-error: True
+    steps:
+      - uses: wearerequired/git-mirror-action@master
+        env:
+          SSH_PRIVATE_KEY: ${{ secrets.GITEE_PRIVATE_KEY }}
+        with:
+          source-repo: "git@github.com:RavelloH/PSGameSpider.git"
+          destination-repo: "git@gitee.com:ravelloh/PSGameSpider.git"
+  reload-pages:
+    needs: sync
+    runs-on: ubuntu-latest
+    continue-on-error: True
+    steps:
+      - name: reload
+        uses: mizuka-wu/gitee-pages-action@v1.0.0
+        with:
+          repository: RavelloH/PSGameSpider
+          cookie: ${{ secrets.GITEE_COOKIE }}
+          branch: main
+          https: true
