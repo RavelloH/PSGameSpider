@@ -34,7 +34,6 @@ async function starter() {
     rlog.success('Successfully downloaded images')
     rlog.info('Start get more informations...')
     // 元数据扩充
-    return
     gameList = getData('data/gameList.json');
 
     let gameListNew = await getInfo(gameList)
