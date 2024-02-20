@@ -117,24 +117,24 @@ async function getList(lang) {
                                 lang: lang,
                             });
                         });
+
+                        // 获取总数
+                        if (!allPage) {
+                            allPage = $(
+                                '#main > div > section > div > div > div > div.psw-l-w-3\\/4 > div.psw-l-w-1\\/1 > div > nav > ol > li:nth-child(5) > button',
+                            ).text();
+
+                            for (let i = 2; i <= allPage; i++) {
+                                c.queue(`${rootPath}/${lang}/pages/browse/${i}`);
+                            }
+                        }
+
+                        // 进度输出
+                        resultPage++;
+                        rlog.log('Fetching:', resultPage, '/', allPage);
                     } catch (e) {
                         rlog.error(e);
                     }
-
-                    // 获取总数
-                    if (!allPage) {
-                        allPage = $(
-                            '#main > div > section > div > div > div > div.psw-l-w-3\\/4 > div.psw-l-w-1\\/1 > div > nav > ol > li:nth-child(5) > button',
-                        ).text();
-
-                        for (let i = 2; i <= allPage; i++) {
-                            c.queue(`${rootPath}/${lang}/pages/browse/${i}`);
-                        }
-                    }
-
-                    // 进度输出
-                    resultPage++;
-                    rlog.log('Fetching:', resultPage, '/', allPage);
                 }
                 done();
             },
