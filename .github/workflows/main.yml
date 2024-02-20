@@ -36,12 +36,11 @@ jobs:
 
       - name: Commit files
         run: |
-          git diff
           git config --local user.email "dr_hamilton@foxmail.com"
           git config --local user.name "Ravello-H"
           git add -A
           git commit -m "`date '+%Y-%m-%d %H:%M:%S'`" || exit #动态提交信息
           git status
-          git push -f
+          git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
