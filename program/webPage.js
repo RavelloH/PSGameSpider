@@ -1,0 +1,150 @@
+const rbuild = require('render-build')
+const RLog = require('rlog-js')
+const rlog = new RLog()
+const fs = require('fs-extra')
+const ejs = require('ejs')
+
+function getData(filepath) {
+    if (fs.existsSync(filepath)) {
+        try {
+            const jsonString = fs.readFileSync(filepath, 'utf8');
+            return JSON.parse(jsonString);
+        } catch (err) {
+            rlog.exit(err);
+        }
+    }
+}
+
+
+const langList = ['zh-hans-hk', 'en-us', 'ja-jp', 'de-de'];
+const config = getData('./config.json')
+const gameList = getData('./data/gameList.json')
+// 创建索引
+const index = {};
+
+for (let i = 0; i < gameList.length; i++) {
+    const key = `${gameList[i].lang}-${gameList[i].name}`;
+    index[key] = gameList[i];
+}
+
+function findGame(lang, name) {
+    const key = `${lang}-${name}`;
+    return index[key] || null;
+}
+
+function getRandomItems(inputList) {
+    const randomItems = [];
+    if (inputList.length <= 100) {
+        return inputList;
+    }
+    while (randomItems.length < 100) {
+        const randomIndex = Math.floor(Math.random() * inputList.length);
+        randomItems.push(inputList[randomIndex]);
+    }
+
+    return randomItems;
+}
+
+let template
+
+// 修改默认行为
+rbuild.build = async function (rootPath) {
+    // 预检查
+    if (!(await this.init())) {
+        return;
+    }
+    rlog.log('Start building...');
+    let preTemplate = await rbuild.singleBuild('{{https://raw.githubusercontent.com/RavelloH/ravelloh.github.io/master/template/layout.html}}', 'template/')
+    
+    rlog.success('Fetched templates')
+
+    // 资源内容导入
+    rlog.log('Start copying resource files...');
+    let fileList;
+    try {
+        fs.emptyDirSync(this.config.outputDirectory);
+        fileList = this.traversePath(this.processPath(rootPath, this.config.originDirectory));
+        fileList = this.categorizeFiles(fileList);
+        fileList.otherFiles.forEach((filePath) => {
+            this.copyFiles(
+                filePath,
+                this.moveFilePath(
+                    filePath,
+                    this.config.originDirectory,
+                    this.config.outputDirectory,
+                ),
+            );
+        });
+        rlog.success('File copying completed, start building...');
+    } catch (e) {
+        rlog.exit(e);
+        return;
+    }
+    // 首页构建
+    rlog.log('test')
+    let doc = fs.readFileSync('template/index.ejs', 'utf-8');
+    let config = rbuild.config.page
+    config.doc = doc
+    config.title = '索引'
+    config.keywords = 'playstation'
+    config.description = 'PSGameSpider'
+    config.pagetype = 'edge'
+    config.url = rbuild.config.siteUrl
+    config.pageJs = rbuild.config.page.defaultScript;
+    config.prefetch = []
+    config.randomList = getRandomItems(gameList)
+    config.gameList = gameList
+    
+    doc = ejs.render(preTemplate, config);
+    doc = ejs.render(doc,config)
+    // 保存文件
+    rbuild.writeFile('public/index.html',doc);
+    
+    
+    return
+    doc = fs.readFileSync('template/item.html', 'utf-8');
+    
+    
+    // 遍历构建
+    try {
+        for (let i = 0; i < gameList.length; i++) {
+            rlog.log(`Building ${gameList[i].name}...`);
+
+            
+            // 配置合并
+            config = rbuild.config.page;
+            config = rbuild.mergeObjects(config, gameList[i]);
+            config.doc = doc;
+            config.title = gameList[i].fullname
+            config.keywords = gameList[i].keywords || '';
+            config.description = gameList[i].description || '';
+            config.pagetype = gameList[i].pagetype || 'edge';
+            config.url = config.siteUrl + gameList[i].lang + '/' + gameList[i].name
+            config.pageJs = gameList[i].pageJsPath
+            ? `<script>${fs.readFileSync(
+                rbuild.convertFilePath(gameList[i], gameList[i].pageJsPath),
+            )}</script>`: rbuild.config.page.defaultScript;
+            config.prefetch = gameList[i].prefetch || [];
+
+            doc = ejs.render(preTemplate, config);
+
+            // 保存文件
+            rbuild.writeFile(
+                rbuild.processPath(
+                    rbuild.config.outputDirectory,
+                    gameList[i].lang + gameList[i].name
+                ),
+                doc,
+            );
+        }
+        rlog.success('Build completed.');
+    } catch (e) {
+        rlog.exit(e);
+        return;
+    }
+
+    // 缓存导出
+    cache.set('preTemplate', preTemplate);
+}
+
+rbuild.build('.')

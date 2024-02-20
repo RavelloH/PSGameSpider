@@ -1,0 +1,72 @@
+<div class="texts full overflow" style='--i: 0'>
+    <br><br>
+    <h2 class="center">PSGameSpider</h2><br>
+
+    <span class="virgule center">
+        定时更新的Playstation Store数据平台
+    </span>
+    <br>
+    <div class="form-control half center" style="margin: 1em auto">
+        <input type="search" required="" oninput="search(this.value)" onpropertychange="search(this.value)" class="half" list="gamelist">
+        <label><span
+            class="i_small ri:search-2-line" style="--i: 0;">&nbsp;</span><span
+            style="--i: 1">在</span><span style="--i: 2">S</span><span style="--i: 3">t</span><span
+            style="--i: 4">o</span><span style="--i: 5">r</span><span style="--i: 6">e</span><span
+            style="--i: 7">中</span><span style="--i: 8">搜</span><span style="--i: 9">索</span><span
+            style="--i: 10">.</span><span style="--i: 11">.</span><span style="--i: 12">.</span></label>
+    </div>
+
+    <div class="full center flex-list">
+        <a class="no-effect">
+            <div>
+                <span class="virgule">当前地区</span>
+                <span class="virgule">zh-hans-tw</span>
+            </div>
+        </a>
+        <a class="no-effect">
+            <div>
+                <span class="virgule">当前地区游戏总数</span>
+                <span><h4><%= gameList.length %></h4></span>
+            </div>
+        </a>
+        <a class="no-effect">
+            <div>
+                <span class="virgule"><%= new Date().toISOString().slice(0, 10) %><br>
+                    <%= new Date().toLocaleTimeString('zh-CN', {
+                        hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: false
+                    }) %></span>
+            </div>
+        </a>
+    </div>
+
+    <hr class="light">
+    <span class="virgule center">
+        - 探索每日随机的100个游戏 -
+    </span>
+    <div id="friends-link-box">
+        <% for (let i = 0; i < randomList.length; i++) {
+            %>
+            <a href="zh-hans-tw/<%= randomList[i].name %>" class="no-effect">
+                <div class="square-img-box">
+                    <div class="square-img-box-img">
+                        <img src="<%= randomList[i].img %>" alt="<%= randomList[i].fullname %>" class="no-zoom" />
+                    </div>
+                    <div class="square-img-box-name">
+                        <%= randomList[i].name %>
+                    </div>
+                </div>
+            </a>
+            <%
+        } %>
+    </div>
+
+    <br>
+    <br>
+    <hr>
+    <h4 class="virgule center"><a href="https://github.com/ravelloh/PSGameSpider" class="no-effect">Github:RavelloH/PSGameSpider</a></h4>
+    <div id="tcomment">
+        <div class="info center">
+            <span class="i_small ri:download-cloud-line"></span> 正在加载评论...
+        </div>
+    </div>
+</div>
