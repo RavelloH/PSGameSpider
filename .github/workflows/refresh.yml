@@ -1,0 +1,33 @@
+name: update
+on:
+    workflow_dispatch:
+jobs:
+    build:
+        runs-on: ubuntu-latest
+        steps:
+            - name: Checkout
+              uses: actions/checkout@v2
+              with:
+                  python-version: 3.7
+
+            - name: 'Install requirements'
+              run: pip install wget
+                  pip install bs4
+            - name: 'Working'
+              run: python en-main.py
+            # git 提交文件
+            - name: Commit files
+              run: |
+                  git pull
+                  git config --local user.email "hyh20060327@qq.com"
+                  git config --local user.name "RavelloH"
+                  git add .
+                  git commit -m "`date '+%Y-%m-%d %H:%M:%S'`" #动态提交信息
+              env:
+                  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+            # 推送到github仓库
+            - name: Push changes
+              uses: ad-m/github-push-action@master
+              with:
+                  github_token: ${{ secrets.GITHUB_TOKEN }}
+                  branch: ${{ github.ref }}

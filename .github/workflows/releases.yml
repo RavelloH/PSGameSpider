@@ -1,0 +1,32 @@
+name: releases
+on:
+    schedule:
+        - cron: '20 8 1 * *' #每月更新
+    workflow_dispatch:
+jobs:
+    build:
+        runs-on: ubuntu-latest #运行环境
+        steps:
+            - name: Checkout
+              uses: actions/checkout@v2
+            - name: 'Git set'
+              run: |
+                  git init
+                  git pull
+            - name: Record time
+              run: echo `date` > date.log
+
+            - name: Commit files
+              run: |
+                  git diff
+                  git config --local user.email "hyh20060327@qq.com"
+                  git config --local user.name "RavelloH"
+                  git add -A
+                  git tag
+                  git tag -a "`date '+%Y.%m'`" -m "`date '+%Y年%m月存档'`"
+                  git tag
+                  git commit -m "`date '+%Y-%m-%d %H:%M:%S'`" || exit #动态提交信息
+                  git status
+                  git push origin --tag
+              env:
+                  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
