@@ -28,12 +28,13 @@ async function starter() {
     rlog.success('Metedata successfully fetched.');
     rlog.info('Start downloading images...');
     // 封面下载
-    let newResult = await downloadImages(gameList);
+    let newResult = await downloadImages(gameList2);
     gameListOld = getData('data/gameList.json');
     exportGameList(mergeObjects(newResult, gameListOld), 'data/gameList.json')
     rlog.success('Successfully downloaded images')
     rlog.info('Start get more informations...')
     // 元数据扩充
+    return
     gameList = getData('data/gameList.json');
 
     let gameListNew = await getInfo(gameList)
@@ -56,38 +57,22 @@ function exportGameList(gameList, filepath) {
     }
 }
 // 合并文件
-function mergeObjects(old, newObject) {
-    const merged = {};
+function mergeObjects(oldObj, newObj) {
+    let mergedObj = [...oldObj];
 
-    old.forEach(oldItem => {
-        const newItem = newObject.find(item => item.name === oldItem.name);
+    for (let newItem of newObj) {
+        let existingItemIndex = mergedObj.findIndex(item => item.path === newItem.path);
 
-        if (newItem) {
-            const mergedItem = {
-                ...oldItem
-            };
-            mergedItem.img = oldItem.img; // Keep the img property from oldItem
-
-            Object.keys(newItem).forEach(key => {
-                if (key !== 'img') {
-                    mergedItem[key] = newItem[key];
-                }
-            });
-
-            merged[oldItem.name] = mergedItem;
+        if (existingItemIndex !== -1) {
+            mergedObj[existingItemIndex] = { ...mergedObj[existingItemIndex], ...newItem, img: mergedObj[existingItemIndex].img };
         } else {
-            merged[oldItem.name] = oldItem;
+            mergedObj.push(newItem);
         }
-    });
+    }
 
-    newObject.forEach(newItem => {
-        if (!old.find(item => item.name === newItem.name)) {
-            merged[newItem.name] = newItem;
-        }
-    });
-
-    return Object.values(merged);
+    return mergedObj;
 }
+
 function getData(filepath) {
     if (fs.existsSync(filepath)) {
         try {
