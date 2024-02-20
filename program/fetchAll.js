@@ -8,7 +8,7 @@ const axios = require('axios');
 const cheerio = require('cheerio');
 
 const rootPath = 'https://store.playstation.com';
-const langList = ['zh-hans-hk', 'en-us', 'ja-jp', 'de-de'];
+const langList = ['zh-hans-hk'];
 let gameList = [];
 let gameListOld = [];
 let allGame;
