@@ -30,6 +30,7 @@ jobs:
         run: |
              npm install
       - name: 'Working'
+        continue-on-error: True
         run: 
           node program/fetchAll.js
 
@@ -44,26 +45,3 @@ jobs:
           git push -f
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-  sync:
-    needs: build
-    runs-on: ubuntu-latest
-    continue-on-error: True
-    steps:
-      - uses: wearerequired/git-mirror-action@master
-        env:
-          SSH_PRIVATE_KEY: ${{ secrets.GITEE_PRIVATE_KEY }}
-        with:
-          source-repo: "git@github.com:RavelloH/PSGameSpider.git"
-          destination-repo: "git@gitee.com:ravelloh/PSGameSpider.git"
-  reload-pages:
-    needs: sync
-    runs-on: ubuntu-latest
-    continue-on-error: True
-    steps:
-      - name: reload
-        uses: mizuka-wu/gitee-pages-action@v1.0.0
-        with:
-          repository: RavelloH/PSGameSpider
-          cookie: ${{ secrets.GITEE_COOKIE }}
-          branch: main
-          https: true
