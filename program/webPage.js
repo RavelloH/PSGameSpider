@@ -93,7 +93,8 @@ rbuild.build = async function (rootPath) {
         return;
     }
     rlog.log('Start building...');
-    let preTemplate = await rbuild.singleBuild('{{https://raw.githubusercontent.com/RavelloH/ravelloh.github.io/master/template/layout.html}}', 'template/')
+    
+    let preTemplate = await rbuild.singleBuild(fs.readFileSync('template/layout.html', 'utf-8'), 'template/')
 
     rlog.success('Fetched templates')
 
@@ -141,38 +142,37 @@ rbuild.build = async function (rootPath) {
     rlog.log('Successfully built index')
 
 
-    return
-    doc = fs.readFileSync('template/item.html', 'utf-8');
-
-
+    let templateDoc = fs.readFileSync('template/item.ejs', 'utf-8');
+    config = {}
     // 遍历构建
     try {
         for (let i = 0; i < gameList.length; i++) {
-            rlog.log(`Building ${gameList[i].name}...`);
+            rlog.info(`Building ${gameList[i].name}...`);
 
 
             // 配置合并
             config = rbuild.config.page;
             config = rbuild.mergeObjects(config, gameList[i]);
-            config.doc = doc;
+            config.doc = templateDoc;
             config.title = gameList[i].fullname
             config.keywords = gameList[i].keywords || '';
             config.description = gameList[i].description || '';
             config.pagetype = gameList[i].pagetype || 'edge';
             config.url = config.siteUrl + gameList[i].lang + '/' + gameList[i].name
-            config.pageJs = gameList[i].pageJsPath
-            ? `<script>${fs.readFileSync(
-                rbuild.convertFilePath(gameList[i], gameList[i].pageJsPath),
-            )}</script>`: rbuild.config.page.defaultScript;
-            config.prefetch = gameList[i].prefetch || [];
+            config.game = gameList[i]
+            config.pageJs = `<script>function main() {
+                loadComment('/PSGameSpider'+location.pathname)
+            }</script>`
+            config.prefetch = [];
 
             doc = ejs.render(preTemplate, config);
+            doc = ejs.render(doc,config)
 
             // 保存文件
             rbuild.writeFile(
                 rbuild.processPath(
                     rbuild.config.outputDirectory,
-                    gameList[i].lang + gameList[i].name
+                    gameList[i].lang + '/'+gameList[i].name + '/index.html' 
                 ),
                 doc,
             );
@@ -182,9 +182,6 @@ rbuild.build = async function (rootPath) {
         rlog.exit(e);
         return;
     }
-
-    // 缓存导出
-    cache.set('preTemplate', preTemplate);
 }
 
 rbuild.build('.')

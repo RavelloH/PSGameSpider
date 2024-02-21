@@ -22,14 +22,14 @@
                 <%= game.price %> <%= game.priceCurrency %>
             </h3>
             <div class="form-control">
-                <div class="big-button">
-                    <span href='<%= game.path %>'>前往Store</span>
-                </div>
+                <a class="big-button no-effect" href='<%= game.path %>'>
+                    <span>前往Store</span>
+                </a>
             </div>
         </div>
     </div>
     <div class="info-img">
-        <img src="<%= game.img %>" class="square-img-large">
+        <img src="/<%= game.img %>" class="square-img-large">
     </div>
 
 
@@ -49,16 +49,21 @@
                 <thead>
                     <tr>
                         <th>时间</th>
-                        <th>金额</th>
-                        <th>单位</th>
+                        <th>价格</th>
                     </tr>
                 </thead>
                 <tbody>
-                    <tr>
-                        <td>showall</td>
-                        <td>是否展示所有文件及目录</td>
-                        <td>yes/no</td>
-                    </tr>
+
+                    <% for (let i = 0; i < game.priceHistory.length; i++) {
+                        %>
+                        <tr>
+                            <td><%= game.priceHistory[i][0] %></td>
+                            <td><%= game.priceHistory[i][1] + game.priceCurrency%></td>
+                        </tr>
+                        <%
+
+                    } %>
+
                 </tbody>
             </table>
         </p>
@@ -74,13 +79,23 @@
                     </tr>
                 </thead>
                 <tbody>
-                    <tr>
-                        <td>showall</td>
-                        <td>是否展示所有文件及目录</td>
-                    </tr>
+
+                    <% for (let i = 0; i < game.rateHistory.length; i++) {
+                        %>
+                        <tr>
+                            <td><%= game.rateHistory[i][0] %></td>
+                            <td><%= game.rateHistory[i][1] %></td>
+                        </tr>
+                        <%
+                    } %>
                 </tbody>
             </table>
         </p>
+        <div id="tcomment">
+            <div class="info center">
+                <span class="i_small ri:download-cloud-line"></span> 正在加载评论...
+            </div>
+        </div>
 
     </div>
 </div>
