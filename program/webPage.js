@@ -81,7 +81,6 @@ rbuild.build = async function (rootPath) {
         return;
     }
     // 首页构建
-    rlog.log('test')
     let doc = fs.readFileSync('template/index.ejs', 'utf-8');
     let config = rbuild.config.page
     config.doc = doc
@@ -90,7 +89,7 @@ rbuild.build = async function (rootPath) {
     config.description = 'PSGameSpider'
     config.pagetype = 'edge'
     config.url = rbuild.config.siteUrl
-    config.pageJs = rbuild.config.page.defaultScript;
+    config.pageJs = `<script>${fs.readFileSync('origin/index.js', 'utf-8')}</script>`
     config.prefetch = []
     config.randomList = getRandomItems(gameList)
     config.gameList = gameList
@@ -99,6 +98,7 @@ rbuild.build = async function (rootPath) {
     doc = ejs.render(doc,config)
     // 保存文件
     rbuild.writeFile('public/index.html',doc);
+    rlog.log('Successfully built index')
     
     
     return

@@ -6,6 +6,7 @@ const path = require('path');
 const crypto = require('crypto');
 const axios = require('axios');
 const cheerio = require('cheerio');
+const pLimit = require('p-limit');
 
 const rootPath = 'https://store.playstation.com';
 const langList = ['zh-hans-hk'];
@@ -18,6 +19,7 @@ async function starter() {
     rlog.log('Reading gameList.json...');
     gameListOld = getData('data/gameList.json');
     // 元数据获取
+    /*
     for (let i = 0; i < langList.length; i++) {
         resultPage = 0;
         rlog.info(`Start fetching all games in ${langList[i]}`);
@@ -33,6 +35,7 @@ async function starter() {
     exportGameList(mergeObjects(newResult, gameListOld), 'data/gameList.json');
     rlog.success('Successfully downloaded images');
     rlog.info('Start get more informations...');
+    */
     // 元数据扩充
     gameList = getData('data/gameList.json');
 
@@ -214,28 +217,54 @@ const downloadImages = async (json) => {
     return newJson;
 };
 
+
+const limit = pLimit(10);
+
 async function getInfo(gameList) {
-    for (let i = 0; i < gameList.length; i++) {
-        rlog.log(`${i + 1} / ${gameList.length} Fetching informations for ${gameList[i].name}`);
-        let url = gameList[i].path;
-        let infoJson = await getInfoJson(url);
-        gameList[i].fullname = infoJson.name;
-        gameList[i].category = infoJson.category;
-        gameList[i].description = infoJson.description;
-        gameList[i].price = infoJson.offers.price;
-        gameList[i].priceCurrency = infoJson.offers.priceCurrency;
-        gameList[i].priceHistory = !gameList[i].priceHistory
-            ? [[getTodayDate(), gameList[i].price]]
-            : gameList[i].priceHistory.concat([getTodayDate(), gameList[i].price]);
-    }
+    const promises = gameList.map((game, index) => limit(() => getInfoForGame(game, index)));
+
+    await Promise.all(promises);
+
     return gameList;
 }
+
+async function getInfoForGame(game, index) {
+    rlog.log(`${index + 1} / ${gameList.length} Fetching informations for ${game.name}`);
+    let url = game.path;
+    let infoJson = await getInfoJson(url);
+    game.fullname = infoJson.name;
+    game.category = infoJson.category;
+    game.description = infoJson.description;
+    game.price = infoJson.offers.price;
+    game.priceCurrency = infoJson.offers.priceCurrency;
+    game.priceHistory = !game.priceHistory
+        ? [[getTodayDate(), game.price]]
+        : game.priceHistory.concat([[getTodayDate(), game.price]]);
+    game.publisher = infoJson.publisher;
+    game.rate = infoJson.rate;
+    game.info = infoJson.info;
+    game.releaseTime = infoJson.releaseTime;
+    game.platform = infoJson.platform;
+    game.type = infoJson.type;
+    game.rateHistory = !game.rateHistory
+        ? [[getTodayDate(), game.rate]]
+        : game.rateHistory.concat([[getTodayDate(), game.rate]]);
+}
+
+
 
 const getInfoJson = async (url, retryCount = 0) => {
     try {
         const response = await axios.get(url);
         const $ = cheerio.load(response.data);
-        return JSON.parse($('#mfe-jsonld-tags').text());
+        let infoJson = JSON.parse($('#mfe-jsonld-tags').text());
+        infoJson.publisher = $('[data-qa="mfe-game-title#publisher"]').text()
+        infoJson.rate = $('[data-qa="mfe-star-rating#overall-rating#average-rating"]').text()
+        infoJson.info = $('[data-qa="mfe-game-overview#description"]').text()
+        infoJson.releaseTime =$('[data-qa="gameInfo#releaseInformation#releaseDate-value"]').text()
+        infoJson.platform = $('[data-qa="gameInfo#releaseInformation#platform-value"]').text()
+        infoJson.type = $('[data-qa="gameInfo#releaseInformation#genre-value"] span').map((_, span) => $(span).text()).get().join(', ');
+        return infoJson
     } catch (error) {
         if (retryCount < 30) {
             rlog.warning(`Error getting info JSON from ${url}. Retrying in 1 second...`);
