@@ -4,6 +4,7 @@ const rlog = new RLog()
 const fs = require('fs-extra')
 const ejs = require('ejs')
 
+
 function getData(filepath) {
     if (fs.existsSync(filepath)) {
         try {
@@ -21,48 +22,48 @@ const config = getData('./config.json')
 const gameList = getData('./data/gameList.json')
 
 const getRecentlyReleasedGames = (games, daysAgo = 14) => {
-  const today = new Date();
+    const today = new Date();
 
-  const recentGames = games.filter(game => {
-    const releaseDate = new Date(game.releaseTime);
-    const diffInMs = Math.abs(releaseDate - today);
-    const diffInYears = diffInMs / (1000 * 60 * 60 * 24 * 365);
+    const recentGames = games.filter(game => {
+        const releaseDate = new Date(game.releaseTime);
+        const diffInMs = Math.abs(releaseDate - today);
+        const diffInYears = diffInMs / (1000 * 60 * 60 * 24 * 365);
 
-    return diffInYears <= daysAgo / 365;
-  });
+        return diffInYears <= daysAgo / 365;
+    });
 
-  return recentGames;
+    return recentGames;
 };
 
 const getRecentlyDiscountedGames = (games, daysAgo = 14) => {
-  const today = new Date();
+    const today = new Date();
 
-  const discountedGames = games.filter(game => {
-    const priceHistory = game.priceHistory;
-    const latestPrice = priceHistory[priceHistory.length - 1][1];
+    const discountedGames = games.filter(game => {
+        const priceHistory = game.priceHistory;
+        const latestPrice = priceHistory[priceHistory.length - 1][1];
 
-    if (priceHistory.length < 2 || latestPrice === null) {
-      return false;
-    }
-
-    for (let i = priceHistory.length - 2; i >= 0; i--) {
-      if (priceHistory[i][1] !== latestPrice && priceHistory[i][1] !== null) {
-        const previousPrice = priceHistory[i][1];
-        const discountDate = new Date(priceHistory[priceHistory.length - 1][0]);
-        const diffInMs = Math.abs(discountDate - today);
-        const diffInYears = diffInMs / (1000 * 60 * 60 * 24 * 365);
-
-        if (diffInYears <= daysAgo / 365) {
-          game.previousPrice = previousPrice;
-          return true;
+        if (priceHistory.length < 2 || latestPrice === null) {
+            return false;
         }
-      }
-    }
 
-    return false;
-  });
+        for (let i = priceHistory.length - 2; i >= 0; i--) {
+            if (priceHistory[i][1] !== latestPrice && priceHistory[i][1] !== null) {
+                const previousPrice = priceHistory[i][1];
+                const discountDate = new Date(priceHistory[priceHistory.length - 1][0]);
+                const diffInMs = Math.abs(discountDate - today);
+                const diffInYears = diffInMs / (1000 * 60 * 60 * 24 * 365);
 
-  return discountedGames;
+                if (diffInYears <= daysAgo / 365) {
+                    game.previousPrice = previousPrice;
+                    return true;
+                }
+            }
+        }
+
+        return false;
+    });
+
+    return discountedGames;
 };
 
 
@@ -93,7 +94,7 @@ rbuild.build = async function (rootPath) {
     }
     rlog.log('Start building...');
     let preTemplate = await rbuild.singleBuild('{{https://raw.githubusercontent.com/RavelloH/ravelloh.github.io/master/template/layout.html}}', 'template/')
-    
+
     rlog.success('Fetched templates')
 
     // 资源内容导入
@@ -134,22 +135,22 @@ rbuild.build = async function (rootPath) {
     config.recent = getRecentlyReleasedGames(gameList)
     config.discount = getRecentlyDiscountedGames(gameList)
     doc = ejs.render(preTemplate, config);
-    doc = ejs.render(doc,config)
+    doc = ejs.render(doc, config)
     // 保存文件
-    rbuild.writeFile('public/index.html',doc);
+    rbuild.writeFile('public/index.html', doc);
     rlog.log('Successfully built index')
-    
-    
+
+
     return
     doc = fs.readFileSync('template/item.html', 'utf-8');
-    
-    
+
+
     // 遍历构建
     try {
         for (let i = 0; i < gameList.length; i++) {
             rlog.log(`Building ${gameList[i].name}...`);
 
-            
+
             // 配置合并
             config = rbuild.config.page;
             config = rbuild.mergeObjects(config, gameList[i]);

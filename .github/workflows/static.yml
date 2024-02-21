@@ -37,7 +37,7 @@ jobs:
         run: |
           npm install
       - name: Build Pages
-        run: node program/webPage.js
+        run: node program/webPage.js && node program/minimize.js
       - name: Setup Pages
         uses: actions/configure-pages@v4
       - name: Upload artifact

@@ -1,0 +1,86 @@
+<div class="texts overflow full" style="--i: 0">
+    <div class="info-header">
+
+        <div class="info-info">
+            <div class="info-title">
+                <h3><%= game.name %></h3>
+                <h4><%= game.fullname %></h4>
+            </div>
+
+            <div class="info-sub">
+                <span class="virgule">
+                    <%= game.publisher %>
+                </span>
+                <span class="i_small ri:playstation-fill"></span> <span><%= game.platform %></span> •
+                <span class="i_small ri:time-fill"></span> <span><%= game.releaseTime %></span>
+            </div>
+
+            <div class="info-sub">
+                <span class="i_small ri:star-fill"></span> <span><%= game.rate %></span> • <span class="i_small ri:box-3-fill"></span> <span><%= game.category %></span> • <span class="i_small ri:price-tag-3-fill"></span> <span><%= game.type %></span>
+            </div>
+            <h3>
+                <%= game.price %> <%= game.priceCurrency %>
+            </h3>
+            <div class="form-control">
+                <div class="big-button">
+                    <span href='<%= game.path %>'>前往Store</span>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="info-img">
+        <img src="<%= game.img %>" class="square-img-large">
+    </div>
+
+
+    <br>
+    <hr>
+    <div class="info-explain">
+        <span class="virgule center">- 游戏描述 -</span>
+        <p>
+            <%= game.info %>
+        </p>
+        <br>
+        <span class="virgule center">
+            - 价格历史 -
+        </span>
+        <p>
+            <table>
+                <thead>
+                    <tr>
+                        <th>时间</th>
+                        <th>金额</th>
+                        <th>单位</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>showall</td>
+                        <td>是否展示所有文件及目录</td>
+                        <td>yes/no</td>
+                    </tr>
+                </tbody>
+            </table>
+        </p>
+        <span class="virgule center">
+            - 评分历史 -
+        </span>
+        <p>
+            <table>
+                <thead>
+                    <tr>
+                        <th>时间</th>
+                        <th>评分</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>showall</td>
+                        <td>是否展示所有文件及目录</td>
+                    </tr>
+                </tbody>
+            </table>
+        </p>
+
+    </div>
+</div>
