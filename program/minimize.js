@@ -24,7 +24,7 @@ fs.readdir(inputDir, (err, files) => {
             const outputPath = outputDir + file;
 
             sharp(inputPath)
-                .resize(128, 128)
+                .resize(256, 256)
                 .toFile(outputPath, (err, info) => {
                     if (err) {
                         console.error(`Failed to compress ${file}`, err);
