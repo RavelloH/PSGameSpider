@@ -19,7 +19,6 @@ async function starter() {
     rlog.log('Reading gameList.json...');
     gameListOld = getData('data/gameList.json');
     // 元数据获取
-    /*
     for (let i = 0; i < langList.length; i++) {
         resultPage = 0;
         rlog.info(`Start fetching all games in ${langList[i]}`);
@@ -35,7 +34,6 @@ async function starter() {
     exportGameList(mergeObjects(newResult, gameListOld), 'data/gameList.json');
     rlog.success('Successfully downloaded images');
     rlog.info('Start get more informations...');
-    */
     // 元数据扩充
     gameList = getData('data/gameList.json');
 
@@ -218,7 +216,7 @@ const downloadImages = async (json) => {
 };
 
 
-const limit = pLimit(10);
+const limit = pLimit(20);
 
 async function getInfo(gameList) {
     const promises = gameList.map((game, index) => limit(() => getInfoForGame(game, index)));
@@ -229,7 +227,7 @@ async function getInfo(gameList) {
 }
 
 async function getInfoForGame(game, index) {
-    rlog.log(`${index + 1} / ${gameList.length} Fetching informations for ${game.name}`);
+    rlog.info(`${index + 1} / ${gameList.length} Fetching informations for ${game.name}`);
     let url = game.path;
     let infoJson = await getInfoJson(url);
     game.fullname = infoJson.name;
