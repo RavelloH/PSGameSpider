@@ -20,7 +20,7 @@ const langList = ['zh-hans-hk', 'en-us', 'ja-jp', 'de-de'];
 const config = getData('./config.json')
 const gameList = getData('./data/gameList.json')
 
-const getRecentlyReleasedGames = (games, daysAgo = 60) => {
+const getRecentlyReleasedGames = (games, daysAgo = 14) => {
   const today = new Date();
 
   const recentGames = games.filter(game => {
@@ -40,28 +40,34 @@ const getRecentlyDiscountedGames = (games, daysAgo = 14) => {
   const discountedGames = games.filter(game => {
     const priceHistory = game.priceHistory;
     const latestPrice = priceHistory[priceHistory.length - 1][1];
-    const previousPrice = priceHistory[priceHistory.length - 2][1];
 
-    if (latestPrice < previousPrice) {
-      const discountDate = new Date(priceHistory[priceHistory.length - 1][0]);
-      const diffInMs = Math.abs(discountDate - today);
-      const diffInYears = diffInMs / (1000 * 60 * 60 * 24 * 365);
+    if (priceHistory.length < 2 || latestPrice === null) {
+      return false;
+    }
 
-      return diffInYears <= daysAgo / 365;
+    for (let i = priceHistory.length - 2; i >= 0; i--) {
+      if (priceHistory[i][1] !== latestPrice && priceHistory[i][1] !== null) {
+        const previousPrice = priceHistory[i][1];
+        const discountDate = new Date(priceHistory[priceHistory.length - 1][0]);
+        const diffInMs = Math.abs(discountDate - today);
+        const diffInYears = diffInMs / (1000 * 60 * 60 * 24 * 365);
+
+        if (diffInYears <= daysAgo / 365) {
+          game.previousPrice = previousPrice;
+          return true;
+        }
+      }
     }
 
     return false;
   });
 
-  discountedGames.forEach(game => {
-    const priceHistory = game.priceHistory;
-    const latestPrice = priceHistory[priceHistory.length - 1][1];
-    const previousPrice = priceHistory[priceHistory.length - 2][1];
-
-    game.previousPrice = previousPrice;
-  });
   return discountedGames;
-}; 
+};
+
+
+
+
 
 
 function getRandomItems(inputList) {
