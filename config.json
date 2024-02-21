@@ -17,7 +17,7 @@
         "mail": "ravelloh@outlook.com",
         "copyrightStartTime": "2019",
         "defaultScript": "<script>function main(){}</script>",
-        "analyticScript": "<script async src=\"https://analytics.ravelloh.top/script.js\" data-website-id=\"9704e50f-edeb-4bee-88e2-16d4f18ab1b3\"></script>",
+        "analyticScript": "<script async src=\"https://psgamespider.ravelloh.top/assets/js/analytic.js\"></script>",
         "remotePath": "https://ravelloh.top"
     },
     "mainTemplate": "layout.html"
