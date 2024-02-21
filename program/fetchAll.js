@@ -216,7 +216,7 @@ const downloadImages = async (json) => {
 };
 
 
-const limit = pLimit(20);
+const limit = pLimit(10);
 
 async function getInfo(gameList) {
     const promises = gameList.map((game, index) => limit(() => getInfoForGame(game, index)));
@@ -241,7 +241,7 @@ async function getInfoForGame(game, index) {
     game.publisher = infoJson.publisher;
     game.rate = infoJson.rate;
     game.info = infoJson.info;
-    game.releaseTime = infoJson.releaseTime;
+    game.releaseTime = infoJson.releaseTime.split('/').reverse().join('/');
     game.platform = infoJson.platform;
     game.type = infoJson.type;
     game.rateHistory = !game.rateHistory

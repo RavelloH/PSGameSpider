@@ -19,18 +19,50 @@ function getData(filepath) {
 const langList = ['zh-hans-hk', 'en-us', 'ja-jp', 'de-de'];
 const config = getData('./config.json')
 const gameList = getData('./data/gameList.json')
-// 创建索引
-const index = {};
 
-for (let i = 0; i < gameList.length; i++) {
-    const key = `${gameList[i].lang}-${gameList[i].name}`;
-    index[key] = gameList[i];
-}
+const getRecentlyReleasedGames = (games, daysAgo = 60) => {
+  const today = new Date();
 
-function findGame(lang, name) {
-    const key = `${lang}-${name}`;
-    return index[key] || null;
-}
+  const recentGames = games.filter(game => {
+    const releaseDate = new Date(game.releaseTime);
+    const diffInMs = Math.abs(releaseDate - today);
+    const diffInYears = diffInMs / (1000 * 60 * 60 * 24 * 365);
+
+    return diffInYears <= daysAgo / 365;
+  });
+
+  return recentGames;
+};
+
+const getRecentlyDiscountedGames = (games, daysAgo = 14) => {
+  const today = new Date();
+
+  const discountedGames = games.filter(game => {
+    const priceHistory = game.priceHistory;
+    const latestPrice = priceHistory[priceHistory.length - 1][1];
+    const previousPrice = priceHistory[priceHistory.length - 2][1];
+
+    if (latestPrice < previousPrice) {
+      const discountDate = new Date(priceHistory[priceHistory.length - 1][0]);
+      const diffInMs = Math.abs(discountDate - today);
+      const diffInYears = diffInMs / (1000 * 60 * 60 * 24 * 365);
+
+      return diffInYears <= daysAgo / 365;
+    }
+
+    return false;
+  });
+
+  discountedGames.forEach(game => {
+    const priceHistory = game.priceHistory;
+    const latestPrice = priceHistory[priceHistory.length - 1][1];
+    const previousPrice = priceHistory[priceHistory.length - 2][1];
+
+    game.previousPrice = previousPrice;
+  });
+  return discountedGames;
+}; 
+
 
 function getRandomItems(inputList) {
     const randomItems = [];
@@ -93,7 +125,8 @@ rbuild.build = async function (rootPath) {
     config.prefetch = []
     config.randomList = getRandomItems(gameList)
     config.gameList = gameList
-    
+    config.recent = getRecentlyReleasedGames(gameList)
+    config.discount = getRecentlyDiscountedGames(gameList)
     doc = ejs.render(preTemplate, config);
     doc = ejs.render(doc,config)
     // 保存文件
