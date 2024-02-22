@@ -66,6 +66,12 @@ const getRecentlyDiscountedGames = (games, daysAgo = 14) => {
     return discountedGames;
 };
 
+function convertObjectToFile(obj, outputPath) {
+    const dataString = `module.exports = ${JSON.stringify(obj, null, 2)};`;
+    fs.writeFileSync(outputPath, dataString, 'utf8');
+    rlog.success(`Object successfully converted and saved to ${outputPath}`);
+}
+
 
 
 
@@ -97,6 +103,9 @@ rbuild.build = async function (rootPath) {
     let preTemplate = await rbuild.singleBuild(fs.readFileSync('template/layout.html', 'utf-8'), 'template/')
 
     rlog.success('Fetched templates')
+    
+    // 创建函数
+    convertObjectToFile(gameList, 'data/gameList.js');
 
     // 资源内容导入
     rlog.log('Start copying resource files...');
