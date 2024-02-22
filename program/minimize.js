@@ -1,13 +1,13 @@
 const fs = require('fs');
 const sharp = require('sharp');
-const RLog = require('rlog-js')
-const rlog = new RLog()
+const RLog = require('rlog-js');
+const rlog = new RLog();
 
 const inputDir = 'public/images/';
 const outputDir = 'public/mini/';
 
 // 创建输出目录
-if (!fs.existsSync(outputDir)){
+if (!fs.existsSync(outputDir)) {
     fs.mkdirSync(outputDir);
 }
 
@@ -17,7 +17,7 @@ fs.readdir(inputDir, (err, files) => {
         return;
     }
 
-    files.forEach(file => {
+    files.forEach((file) => {
         // 只处理图片文件
         if (file.match(/\.(jpg|jpeg|png)$/)) {
             const inputPath = inputDir + file;

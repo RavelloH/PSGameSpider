@@ -215,7 +215,6 @@ const downloadImages = async (json) => {
     return newJson;
 };
 
-
 const limit = pLimit(10);
 
 async function getInfo(gameList) {
@@ -249,20 +248,23 @@ async function getInfoForGame(game, index) {
         : game.rateHistory.concat([[getTodayDate(), game.rate]]);
 }
 
-
-
 const getInfoJson = async (url, retryCount = 0) => {
     try {
         const response = await axios.get(url);
         const $ = cheerio.load(response.data);
         let infoJson = JSON.parse($('#mfe-jsonld-tags').text());
-        infoJson.publisher = $('[data-qa="mfe-game-title#publisher"]').text()
-        infoJson.rate = $('[data-qa="mfe-star-rating#overall-rating#average-rating"]').text()
-        infoJson.info = $('[data-qa="mfe-game-overview#description"]').text()
-        infoJson.releaseTime =$('[data-qa="gameInfo#releaseInformation#releaseDate-value"]').text()
-        infoJson.platform = $('[data-qa="gameInfo#releaseInformation#platform-value"]').text()
-        infoJson.type = $('[data-qa="gameInfo#releaseInformation#genre-value"] span').map((_, span) => $(span).text()).get().join(', ');
-        return infoJson
+        infoJson.publisher = $('[data-qa="mfe-game-title#publisher"]').text();
+        infoJson.rate = $('[data-qa="mfe-star-rating#overall-rating#average-rating"]').text();
+        infoJson.info = $('[data-qa="mfe-game-overview#description"]').text();
+        infoJson.releaseTime = $(
+            '[data-qa="gameInfo#releaseInformation#releaseDate-value"]',
+        ).text();
+        infoJson.platform = $('[data-qa="gameInfo#releaseInformation#platform-value"]').text();
+        infoJson.type = $('[data-qa="gameInfo#releaseInformation#genre-value"] span')
+            .map((_, span) => $(span).text())
+            .get()
+            .join(', ');
+        return infoJson;
     } catch (error) {
         if (retryCount < 30) {
             rlog.warning(`Error getting info JSON from ${url}. Retrying in 1 second...`);
