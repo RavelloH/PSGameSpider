@@ -42,7 +42,7 @@
                     clearTimeout(searchTimer);
                 }
                 searchTimer = setTimeout(function () {
-                    fetch('/api/search?name=' + name)
+                    fetch('/api/search?keyword=' + name)
                     .then((response) => response.json())
                     .then((data) => {
                         let gameSearchResult = '';
