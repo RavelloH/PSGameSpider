@@ -7,7 +7,7 @@
     </span>
     <br>
     <div class="form-control half center" style="margin: 1em auto">
-        <input type="search" required="" oninput="search(this.value)" onpropertychange="search(this.value)" class="half" list="gamelist">
+        <input type="search" required="" oninput="psSearch(this.value)" onpropertychange="psSearch(this.value)" class="half" list="gamelist">
         <label><span
             class="i_small ri:search-2-line" style="--i: 0;">&nbsp;</span><span
             style="--i: 1">在</span><span style="--i: 2">S</span><span style="--i: 3">t</span><span
@@ -16,6 +16,54 @@
             style="--i: 10">.</span><span style="--i: 11">.</span><span style="--i: 12">.</span></label>
     </div>
 
+
+    <div class="friends-link-box" id="ps-search-result">
+
+    </div>
+    <script>
+        function getstructureMusicSearchResult(game) {
+            return `
+            <a href="zh-hans-hk/${ game.name }" class="no-effect">
+            <div class="square-img-box">
+            <div class="square-img-box-img">
+            <img src="${ '/'+discount[i].img.replace('images', 'mini') }" alt="${ game.fullname }" class="no-zoom" />
+            </div>
+            <div class="square-img-box-name">
+            ${  game.name } <br>
+            <span>${  game.fullname }</span>
+            </div>
+            </div>
+            </a>`;
+        }
+        function psSearch(name) {
+            if (name !== '' && name !== ' ') {
+                switchElementContent('#ps-search-result', structureSquareLoading);
+                if (typeof searchTimer !== 'undefined') {
+                    clearTimeout(searchTimer);
+                }
+                searchTimer = setTimeout(function () {
+                    fetch('/api/search?name=' + name)
+                    .then((response) => response.json())
+                    .then((data) => {
+                        let gameSearchResult = '';
+                        for (let i = 0; i < data.length; i++) {
+                            gameSearchResult += getstructuregameSearchResult(data[i]);
+                        }
+                        switchElementContent('#ps-search-result', gameSearchResult, 200);
+                        setTimeout(() => {
+                            loadItems('#ps-search-result');
+                            zoomPics();
+                        }, 310);
+                    })
+                    .catch((error) => {
+                        switchElementContent('#ps-search-result', structureErrorInfo(error));
+                    });
+                }, 1000);
+            } else {
+                switchElementContent('#ps-search-result', '');
+            }
+        }
+    </script>
     <div class="full center flex-list">
         <a class="no-effect">
             <div>
@@ -33,7 +81,9 @@
             <div>
                 <span class="virgule"><%= new Date(new Date().getTime() + (8 * 60 + new Date().getTimezoneOffset()) * 60000).toISOString().split('T')[0].replace(/-/g, '/')
                     %><br>
-                    <%= new Date(new Date().getTime() + (8 * 60 + new Date().getTimezoneOffset()) * 60000).toLocaleTimeString('en-US', {timeZone: 'Asia/Shanghai', hour12: false})
+                    <%= new Date(new Date().getTime() + (8 * 60 + new Date().getTimezoneOffset()) * 60000).toLocaleTimeString('en-US', {
+                        timeZone: 'Asia/Shanghai', hour12: false
+                    })
                     %></span>
             </div>
         </a>
@@ -51,7 +101,7 @@
                 <a href="zh-hans-hk/<%= discount[i].name %>" class="no-effect">
                     <div class="square-img-box">
                         <div class="square-img-box-img">
-                            <img src="<%= '/'+discount[i].img.replace('images','mini')  %>" alt="<%= discount[i].fullname %>" class="no-zoom" />
+                            <img src="<%= '/'+discount[i].img.replace('images', 'mini') %>" alt="<%= discount[i].fullname %>" class="no-zoom" />
                         </div>
                         <div class="square-img-box-name">
                             <%= discount[i].name %> <br>
@@ -78,7 +128,7 @@
                 <a href="zh-hans-hk/<%= recent[i].name %>" class="no-effect">
                     <div class="square-img-box">
                         <div class="square-img-box-img">
-                            <img src="<%= '/'+recent[i].img.replace('images','mini') %>" alt="<%= recent[i].fullname %>" class="no-zoom" />
+                            <img src="<%= '/'+recent[i].img.replace('images', 'mini') %>" alt="<%= recent[i].fullname %>" class="no-zoom" />
                         </div>
                         <div class="square-img-box-name">
                             <%= recent[i].name %> <br>
@@ -107,7 +157,7 @@
             <a href="zh-hans-hk/<%= randomList[i].name %>" class="no-effect">
                 <div class="square-img-box">
                     <div class="square-img-box-img">
-                        <img src="<%= '/'+randomList[i].img.replace('images','mini')  %>" alt="<%= randomList[i].fullname %>" class="no-zoom" />
+                        <img src="<%= '/'+randomList[i].img.replace('images', 'mini') %>" alt="<%= randomList[i].fullname %>" class="no-zoom" />
                     </div>
                     <div class="square-img-box-name">
                         <%= randomList[i].name %> <br>

@@ -104,8 +104,8 @@ module.exports = (req,res) => {
     let fullname = [];
 
     // 索引预处理
-    name = fuzzySearch(data, keyword, 'name');
-    fullname = fuzzySearch(data, keyword, 'fullname');
+    name = fuzzySearch(gameList, keyword, 'name');
+    fullname = fuzzySearch(gameList, keyword, 'fullname');
 
     // 构建标准输出
     addToResultList(name, 'name');
