@@ -3,7 +3,7 @@ const path = require('path');
 
 const siteDomain = 'https://psgamespider.ravelloh.top/';
 const targetPath = './public/';
-const preserveFile = './public/assets/data/urlList.txt';
+const preserveFile = './public/urlList.txt';
 
 function removeDuplicateBeginning(arr) {
     if (arr.length === 0) {

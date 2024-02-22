@@ -4,7 +4,7 @@
     "description": "自动爬取所有PlayStationStore中的所有游戏封面，自动生成网页并索引 # # # Automatically crawl all game covers in all playstationstore, automatically generate web pages and index them",
     "main": "program/update.js",
     "scripts": {
-        "build": "node program/webPage.js && node program/minimize.js && node program/fileList.js && npx sitemap < ./public/assets/data/urlList.txt > ./public/sitemap.xml"
+        "build": "node program/webPage.js && node program/minimize.js && node program/fileList.js && npx sitemap < ./public/urlList.txt > ./public/sitemap.xml"
     },
     "repository": {
         "type": "git",
