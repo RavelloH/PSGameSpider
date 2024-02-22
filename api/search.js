@@ -1,7 +1,7 @@
 // RPageSearch search.serverless
-const gameList = require('../data/gameList')
+const gameList = require('../data/gameList');
 
-let resultList = []
+let resultList = [];
 const collator = new Intl.Collator('zh-Hans-CN', {
     numeric: true,
 });
@@ -91,7 +91,7 @@ function addToResultList(arr, attribute) {
     }
 }
 
-module.exports = (req,res) => {
+module.exports = (req, res) => {
     let { keyword } = req.query;
     let reg = new RegExp(keyword, 'ig');
     if (keyword == '' || keyword == '.') {
@@ -117,7 +117,7 @@ module.exports = (req,res) => {
         for (let i = 0; i < e['match'].length; i++) {
             switch (e['match'][i]) {
                 case 'fullname':
-                    e['fullname'] = e['fullname']
+                    e['fullname'] = e['fullname'];
                     let regResult = e['fullname'].match(reg);
                     e['match'][i] = ['fullname', regResult.length, findFirst(reg, e['fullname'])];
                     if (e['matchTimes'] !== 999999) {
@@ -126,7 +126,7 @@ module.exports = (req,res) => {
                     break;
                 case 'name':
                     e['matchTimes'] = 999999;
-                    e['name'] = e['name']
+                    e['name'] = e['name'];
                     break;
             }
         }
