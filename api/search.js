@@ -1,7 +1,7 @@
 // RPageSearch search.serverless
 const gameList = require('../data/gameList')
 
-
+let resultList
 const collator = new Intl.Collator('zh-Hans-CN', {
     numeric: true,
 });
@@ -92,7 +92,6 @@ function addToResultList(arr, attribute) {
 }
 
 module.exports = (req,res) => {
-    let data = gameList
     let { keyword } = req.query;
     let reg = new RegExp(keyword, 'ig');
     if (keyword == '' || keyword == '.') {
