@@ -23,14 +23,14 @@
     <script>
         function getstructuregameSearchResult(game) {
             return `
-            <a href="zh-hans-hk/${ game.name }" class="no-effect">
+            <a onclick="pjaxLoad('zh-hans-hk/${ game.name }')" class="no-effect">
             <div class="square-img-box">
             <div class="square-img-box-img">
             <img src="${ '/'+game.img.replace('images', 'mini') }" alt="${ game.fullname }" class="no-zoom" />
             </div>
             <div class="square-img-box-name">
-            ${  game.name } <br>
-            <span>${  game.fullname }</span>
+            ${ game.name } <br>
+            <span>${ game.fullname }</span>
             </div>
             </div>
             </a>`;
@@ -49,7 +49,9 @@
                         for (let i = 0; i < data.length; i++) {
                             gameSearchResult += getstructuregameSearchResult(data[i]);
                         }
-                        switchElementContent('#ps-search-result', gameSearchResult, 200);
+                        if (!document.getElementById('#ps-search-result').innerHTML == '') {
+                            switchElementContent('#ps-search-result', gameSearchResult, 200);
+                        }
                         setTimeout(() => {
                             loadItems('#ps-search-result');
                             zoomPics();

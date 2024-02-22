@@ -117,7 +117,7 @@ module.exports = (req,res) => {
         for (let i = 0; i < e['match'].length; i++) {
             switch (e['match'][i]) {
                 case 'fullname':
-                    e['fullname'] = e['fullname'].replace(reg, '<mark>$&</mark>');
+                    e['fullname'] = e['fullname']
                     let regResult = e['fullname'].match(reg);
                     e['match'][i] = ['fullname', regResult.length, findFirst(reg, e['fullname'])];
                     if (e['matchTimes'] !== 999999) {
@@ -126,7 +126,7 @@ module.exports = (req,res) => {
                     break;
                 case 'name':
                     e['matchTimes'] = 999999;
-                    e['name'] = e['name'].replace(reg, '<mark>$&</mark>');
+                    e['name'] = e['name']
                     break;
             }
         }
