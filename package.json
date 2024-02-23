@@ -4,7 +4,7 @@
     "description": "自动爬取所有PlayStationStore中的所有游戏封面，自动生成网页并索引 # # # Automatically crawl all game covers in all playstationstore, automatically generate web pages and index them",
     "main": "program/update.js",
     "scripts": {
-        "build": "node program/webPage.js && node program/minimize.js && node program/fileList.js && npx sitemap < ./public/urlList.txt > ./public/sitemap.xml"
+        "build": "node program/webPage.js && node program/minimize.js && node program/svg.js && node program/fileList.js && npx sitemap < ./public/urlList.txt > ./public/sitemap.xml"
     },
     "repository": {
         "type": "git",
@@ -37,6 +37,7 @@
         "cheerio": "^1.0.0-rc.12",
         "crawler": "^1.5.0",
         "crypto": "^1.0.1",
+        "d3-node": "^3.0.0",
         "fs-extra": "^11.2.0",
         "p-limit": "^3.1.0",
         "path": "^0.12.7",
