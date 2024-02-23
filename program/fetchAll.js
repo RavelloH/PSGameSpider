@@ -229,6 +229,9 @@ async function getInfoForGame(game, index) {
     rlog.info(`${index + 1} / ${gameList.length} Fetching informations for ${game.name}`);
     let url = game.path;
     let infoJson = await getInfoJson(url);
+    if (infoJson == {}) {
+        return
+    }
     game.fullname = infoJson.name;
     game.category = infoJson.category;
     game.description = infoJson.description;
@@ -266,12 +269,13 @@ const getInfoJson = async (url, retryCount = 0) => {
             .join(', ');
         return infoJson;
     } catch (error) {
-        if (retryCount < 30) {
+        if (retryCount < 10) {
             rlog.warning(`Error getting info JSON from ${url}. Retrying in 1 second...`);
             await new Promise((resolve) => setTimeout(resolve, 1000));
             return getInfoJson(url, retryCount + 1);
         } else {
-            rlog.error(`Failed to get info JSON from ${url} after 3 retries. Skipping...`);
+            rlog.error(`Failed to get info JSON from ${url} after 10 retries. Skipping...`);
+            return {}
         }
     }
 };
