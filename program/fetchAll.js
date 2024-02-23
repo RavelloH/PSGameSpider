@@ -276,7 +276,7 @@ const getInfoJson = async (url, retryCount = 0) => {
         let infoJson = JSON.parse($('#mfe-jsonld-tags').text());
         infoJson.publisher = $('[data-qa="mfe-game-title#publisher"]').text();
         infoJson.rate = $('[data-qa="mfe-star-rating#overall-rating#average-rating"]').text();
-        infoJson.info = $('[data-qa="mfe-game-overview#description"]').text();
+        infoJson.info = $('[data-qa="mfe-game-overview#description"]').html().replaceAll('<br>','\\n');
         infoJson.releaseTime = $(
             '[data-qa="gameInfo#releaseInformation#releaseDate-value"]',
         ).text();
