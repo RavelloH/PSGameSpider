@@ -42,6 +42,9 @@
                     clearTimeout(searchTimer);
                 }
                 searchTimer = setTimeout(function () {
+                    if (typeof umami !== 'undefined') {
+                        umami.track('search',{"keyword": name})
+                    }
                     fetch('/api/search?keyword=' + name)
                     .then((response) => response.json())
                     .then((data) => {
