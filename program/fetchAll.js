@@ -56,6 +56,22 @@ function exportGameList(gameList, filepath) {
         rlog.error(`Export failed: ${err}`);
     }
 }
+function removeDuplicateDates(inputList) {
+    const map = new Map();
+
+    for (const [date, value] of inputList) {
+        map.set(date, value);
+    }
+
+    const result = [];
+
+    for (const [date, value] of map) {
+        result.push([date, value]);
+    }
+
+    return result;
+}
+
 // 合并文件
 function mergeObjects(oldObj, newObj) {
     let mergedObj = [...oldObj];
@@ -249,6 +265,8 @@ async function getInfoForGame(game, index) {
     game.rateHistory = !game.rateHistory
         ? [[getTodayDate(), game.rate]]
         : game.rateHistory.concat([[getTodayDate(), game.rate]]);
+    game.rateHistory = removeDuplicateDates(game.rateHistory)
+    game.priceHistory = removeDuplicateDates(game.priceHistory)
 }
 
 const getInfoJson = async (url, retryCount = 0) => {
