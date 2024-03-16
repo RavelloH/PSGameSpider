@@ -14,7 +14,6 @@ permissions:
 jobs:
     build:
         runs-on: ubuntu-latest #运行环境
-        continue-on-error: True
         steps:
             - name: Checkout
               uses: actions/checkout@v2
@@ -32,6 +31,7 @@ jobs:
             - name: 'Working'
               run: node program/fetchAll.js
             - name: 'Create Files'
+              continue-on-error: True
               run: node program/svg.js
 
             - name: Commit files
