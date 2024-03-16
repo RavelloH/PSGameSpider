@@ -39,7 +39,14 @@ async function starter() {
 
     let gameListNew = await getInfo(gameList);
     exportGameList(mergeObjects(gameList, gameListNew), 'data/gameList.json');
+    gameListNew = await getInfo(gameList);
+    convertObjectToFile(gameListNew, 'data/gameList.js');
     rlog.success('All jobs finished');
+}
+function convertObjectToFile(obj, outputPath) {
+    const dataString = `module.exports = ${JSON.stringify(obj, null, 2)};`;
+    fs.writeFileSync(outputPath, dataString, 'utf8');
+    rlog.success(`Object successfully converted and saved to ${outputPath}`);
 }
 // 烤串转驼峰
 function kebabToCamel(str) {

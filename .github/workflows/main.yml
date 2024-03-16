@@ -31,6 +31,8 @@ jobs:
                   npm install
             - name: 'Working'
               run: node program/fetchAll.js
+            - name: 'Create Files'
+              run: node program/svg.js
 
             - name: Commit files
               run: |
