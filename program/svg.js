@@ -9,6 +9,7 @@ let d3n = new D3Node(); // Create a new D3Node instance outside the loop
 for (let i = 0; i < dataG.length; i++) {
     rlog.info('Processing chart for', dataG[i].name, '...');
     d3n = new D3Node();
+    fs.ensureDirSync(`./origin/zh-hans-hk/${dataG[i].name}`)
     fs.writeFileSync(`./origin/zh-hans-hk/${dataG[i].name}/rateHistory.svg`, generateLineChart(dataG[i].rateHistory, d3n));
     d3n = new D3Node();
     fs.writeFileSync(`./origin/zh-hans-hk/${dataG[i].name}/priceHistory.svg`, generateLineChart(dataG[i].priceHistory, d3n));
