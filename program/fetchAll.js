@@ -39,8 +39,20 @@ async function starter() {
 
     let gameListNew = await getInfo(gameList);
     exportGameList(mergeObjects(gameList, gameListNew), 'data/gameList.json');
-    gameListNew = await getInfo(gameList);
-    convertObjectToFile(gameListNew, 'data/gameList.js');
+
+    // 压缩
+    rlog.log("Start compressing...")
+    let gameListMini = []
+    gameListNew = getData('data/gameList.json');
+    gameListNew.forEach((item,index)=>{
+        gameListMini.push([])
+        gameListMini[index] = item
+        gameListMini[index].rateHistory = compressPriceHistory(item.rateHistory)
+        gameListMini[index].priceHistory = compressPriceHistory(item.priceHistory)
+    })
+    exportGameList(gameListMini, 'data/gameList.json');
+
+    convertObjectToFile(gameListMini, 'data/gameList.js');
     rlog.success('All jobs finished');
 }
 function convertObjectToFile(obj, outputPath) {
@@ -104,7 +116,7 @@ function getData(filepath) {
     if (fs.existsSync(filepath)) {
         try {
             const jsonString = fs.readFileSync(filepath, 'utf8');
-            return JSON.parse(jsonString);
+            return JSON.parse(jsonString)
         } catch (err) {
             rlog.exit(err);
         }
@@ -154,7 +166,7 @@ async function getList(lang) {
 
                         // 进度输出
                         resultPage++;
-                        rlog.log('Fetching:', resultPage, '/', allPage);
+                        rlog.progress(resultPage, allPage);
                     } catch (e) {
                         rlog.error(e);
                     }
@@ -169,6 +181,25 @@ async function getList(lang) {
             resolve();
         });
     });
+}
+
+// 压缩
+function compressPriceHistory(priceHistory) {
+    if (!priceHistory) return [];
+    let compressedPriceHistory = [];
+    for (let i = 0; i < priceHistory.length; i++) {
+        let found = false;
+        for (let j = 0; j < compressedPriceHistory.length; j++) {
+            if (priceHistory[i][1] === compressedPriceHistory[j][1]) {
+                found = true;
+                break;
+            }
+        }
+        if (!found) {
+            compressedPriceHistory.push(priceHistory[i]);
+        }
+    }
+    return compressedPriceHistory;
 }
 
 const downloadImages = async (json) => {
