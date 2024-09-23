@@ -10,11 +10,63 @@ for (let i = 0; i < dataG.length; i++) {
     rlog.info('Processing chart for', dataG[i].name, '...');
     d3n = new D3Node();
     fs.ensureDirSync(`./origin/zh-hans-hk/${dataG[i].name}`)
-    fs.writeFileSync(`./origin/zh-hans-hk/${dataG[i].name}/rateHistory.svg`, generateLineChart(dataG[i].rateHistory, d3n));
+    fs.writeFileSync(`./origin/zh-hans-hk/${dataG[i].name}/rateHistory.svg`, generateLineChart(expandList(dataG[i].rateHistory), d3n));
     d3n = new D3Node();
-    fs.writeFileSync(`./origin/zh-hans-hk/${dataG[i].name}/priceHistory.svg`, generateLineChart(dataG[i].priceHistory, d3n));
+    fs.writeFileSync(`./origin/zh-hans-hk/${dataG[i].name}/priceHistory.svg`, generateLineChart(expandList(dataG[i].priceHistory), d3n));
 }
+const expandList = (list) => {
+    if (list.length == 0) return []
+    const currentDateObj = new Date();
+    const currentYear = currentDateObj.getFullYear();
+    const currentMonth = currentDateObj.getMonth();
+    const currentDay = currentDateObj.getDate();
+    const formatDate = (year, month, day) => {
+        const monthStr = month < 10 ? '0' + (month + 1) : month + 1;
+        const dayStr = day < 10 ? '0' + day : day;
+        return `${year}/${monthStr}/${dayStr}`;
+    };
+    const parseDate = (dateStr) => {
+        const parts = dateStr.split('/');
+        return new Date(parts[0], parts[1] - 1, parts[2]);
+    };
+    const findIndex = (dateStr) => {
+        for (let i = 0; i < list.length; i++) {
+            if (list[i][0] === dateStr) {
+                return i;
+            }
+        }
+        return -1;
+    };
+    const expandedList = [];
+    let lastValue = null;
+    let lastIndex = -1;
+    let minDate = new Date(list[0][0]);
+    let maxDate = new Date(list[list.length - 1][0]);
+    for (let item of list) {
+        const date = new Date(item[0]);
+        if (date < minDate) minDate = date;
+        if (date > maxDate) maxDate = date;
+    }
+    for (
+        let date = minDate;
+        date <= new Date(currentYear, currentMonth, currentDay);
+        date.setDate(date.getDate() + 1)
+    ) {
+        const dateString = formatDate(date.getFullYear(), date.getMonth(), date.getDate());
+        const index = findIndex(dateString);
+        if (index !== -1) {
+            expandedList.push([dateString, list[index][1]]);
+            lastIndex = index;
+            lastValue = list[index][1];
+        } else {
+            if (lastIndex !== -1) {
+                expandedList.push([dateString, lastValue]);
+            }
+        }
+    }
 
+    return expandedList;
+};
 function generateLineChart(data, d3n) {
     let width = 800;
     let height = 400;
