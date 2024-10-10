@@ -5,15 +5,6 @@ const RLog = require('rlog-js');
 const rlog = new RLog();
 
 let d3n = new D3Node(); // Create a new D3Node instance outside the loop
-
-for (let i = 0; i < dataG.length; i++) {
-    rlog.info('Processing chart for', dataG[i].name, '...');
-    d3n = new D3Node();
-    fs.ensureDirSync(`./origin/zh-hans-hk/${dataG[i].name}`)
-    fs.writeFileSync(`./origin/zh-hans-hk/${dataG[i].name}/rateHistory.svg`, generateLineChart(expandList(dataG[i].rateHistory), d3n));
-    d3n = new D3Node();
-    fs.writeFileSync(`./origin/zh-hans-hk/${dataG[i].name}/priceHistory.svg`, generateLineChart(expandList(dataG[i].priceHistory), d3n));
-}
 const expandList = (list) => {
     if (list.length == 0) return []
     const currentDateObj = new Date();
@@ -67,6 +58,16 @@ const expandList = (list) => {
 
     return expandedList;
 };
+
+for (let i = 0; i < dataG.length; i++) {
+    rlog.info('Processing chart for', dataG[i].name, '...');
+    d3n = new D3Node();
+    fs.ensureDirSync(`./origin/zh-hans-hk/${dataG[i].name}`)
+    fs.writeFileSync(`./origin/zh-hans-hk/${dataG[i].name}/rateHistory.svg`, generateLineChart(expandList(dataG[i].rateHistory), d3n));
+    d3n = new D3Node();
+    fs.writeFileSync(`./origin/zh-hans-hk/${dataG[i].name}/priceHistory.svg`, generateLineChart(expandList(dataG[i].priceHistory), d3n));
+}
+
 function generateLineChart(data, d3n) {
     let width = 800;
     let height = 400;
