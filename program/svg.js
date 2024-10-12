@@ -59,16 +59,7 @@ const expandList = (list) => {
     return expandedList;
 };
 
-for (let i = 0; i < dataG.length; i++) {
-    rlog.info('Processing chart for', dataG[i].name, '...');
-    d3n = new D3Node();
-    fs.ensureDirSync(`./origin/zh-hans-hk/${dataG[i].name}`)
-    fs.writeFileSync(`./origin/zh-hans-hk/${dataG[i].name}/rateHistory.svg`, generateLineChart(expandList(dataG[i].rateHistory), d3n));
-    d3n = new D3Node();
-    fs.writeFileSync(`./origin/zh-hans-hk/${dataG[i].name}/priceHistory.svg`, generateLineChart(expandList(dataG[i].priceHistory), d3n));
-}
-
-function generateLineChart(data, d3n) {
+const generateLineChart = (data, d3n) => {
     let width = 800;
     let height = 400;
     let margin = { top: 20, right: 20, bottom: 30, left: 50 };
@@ -114,9 +105,17 @@ function generateLineChart(data, d3n) {
             .y(d => y(d[1]))
         );
 
-    // 修改所有线的颜色为白色
     svg.selectAll('path')
-        .attr('stroke', '#ffffff');
+        .attr('stroke', '#ffffff'); // Modify all line colors to white
 
     return d3n.svgString();
+};
+
+for (let i = 0; i < dataG.length; i++) {
+    rlog.info('Processing chart for', dataG[i].name, '...');
+    const rateHistorySvg = generateLineChart(expandList(dataG[i].rateHistory), d3n);
+    fs.ensureDirSync(`./origin/zh-hans-hk/${dataG[i].name}`);
+    fs.writeFileSync(`./origin/zh-hans-hk/${dataG[i].name}/rateHistory.svg`, rateHistorySvg);
+    const priceHistorySvg = generateLineChart(expandList(dataG[i].priceHistory), d3n);
+    fs.writeFileSync(`./origin/zh-hans-hk/${dataG[i].name}/priceHistory.svg`, priceHistorySvg);
 }
