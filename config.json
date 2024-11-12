@@ -18,7 +18,7 @@
         "copyrightStartTime": "2019",
         "defaultScript": "<script>function main(){}</script>",
         "analyticScript": "<script async src=\"/assets/js/analysis.js\" onload=\"umamiAnalytics()\"></script>",
-        "remotePath": "https://raw.githubusercontent.com/RavelloH/ravelloh.github.io/refs/heads/master/origin/"
+        "remotePath": "https://raw.githubusercontent.com/RavelloH/ravelloh.github.io/refs/heads/master/origin"
     },
     "mainTemplate": "layout.html"
 }
