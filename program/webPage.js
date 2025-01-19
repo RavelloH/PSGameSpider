@@ -17,27 +17,101 @@ function getData(filepath) {
 
 const langList = ['zh-hans-hk', 'en-us', 'ja-jp', 'de-de'];
 const config = getData('./config.json');
-const gameList = getData('./data/gameList.json');
+let gameList = [];
+
+// 读取游戏列表
+let metaData, priceHistory, rateHistory, infoList;
+try {
+    [metaData, priceHistory, rateHistory, infoList] = [
+        'metaData',
+        'priceHistory',
+        'rateHistory',
+        'info',
+    ].map((file) => JSON.parse(fs.readFileSync(`data/${file}.json`, 'utf8')));
+} catch (err) {
+    rlog.exit(err);
+}
+
+// 重组数据
+metaData.forEach((item, index) => {
+    item.priceHistory = priceHistory[item.name];
+    item.rateHistory = rateHistory[item.name];
+    item.info = infoList[item.name];
+    gameList.push(item);
+});
 
 const getRecentlyReleasedGames = (games, daysAgo = 14) => {
     const today = new Date();
-
     const recentGames = games.filter((game) => {
         const releaseDate = new Date(game.releaseTime);
         const diffInMs = Math.abs(releaseDate - today);
         const diffInYears = diffInMs / (1000 * 60 * 60 * 24 * 365);
-
         return diffInYears <= daysAgo / 365;
     });
 
     return recentGames;
 };
 
+const expandList = (list) => {
+    if (list.length == 0) return [];
+    const currentDateObj = new Date();
+    const currentYear = currentDateObj.getFullYear();
+    const currentMonth = currentDateObj.getMonth();
+    const currentDay = currentDateObj.getDate();
+    const formatDate = (year, month, day) => {
+        const monthStr = month < 10 ? '0' + (month + 1) : month + 1;
+        const dayStr = day < 10 ? '0' + day : day;
+        return `${year}/${monthStr}/${dayStr}`;
+    };
+    const parseDate = (dateStr) => {
+        const parts = dateStr.split('/');
+        return new Date(parts[0], parts[1] - 1, parts[2]);
+    };
+    const findIndex = (dateStr) => {
+        for (let i = 0; i < list.length; i++) {
+            if (list[i][0] === dateStr) {
+                return i;
+            }
+        }
+        return -1;
+    };
+    const expandedList = [];
+    let lastValue = null;
+    let lastIndex = -1;
+    let minDate = new Date(list[0][0]);
+    let maxDate = new Date(list[list.length - 1][0]);
+    for (let item of list) {
+        const date = new Date(item[0]);
+        if (date < minDate) minDate = date;
+        if (date > maxDate) maxDate = date;
+    }
+    for (
+        let date = minDate;
+        date <= new Date(currentYear, currentMonth, currentDay);
+        date.setDate(date.getDate() + 1)
+    ) {
+        const dateString = formatDate(date.getFullYear(), date.getMonth(), date.getDate());
+        const index = findIndex(dateString);
+        if (index !== -1) {
+            expandedList.push([dateString, list[index][1]]);
+            lastIndex = index;
+            lastValue = list[index][1];
+        } else {
+            if (lastIndex !== -1) {
+                expandedList.push([dateString, lastValue]);
+            }
+        }
+    }
+
+    return expandedList;
+};
+
 const getRecentlyDiscountedGames = (games, daysAgo = 7) => {
     const today = new Date();
 
     const discountedGames = games.filter((game) => {
-        const priceHistory = game.priceHistory;
+        let priceHistory = game.priceHistory;
+        priceHistory = expandList(priceHistory);
 
         if (priceHistory.length < 2) {
             return false;
@@ -178,7 +252,7 @@ rbuild.build = async function (rootPath) {
             config.game = gameList[i];
             config.game.info = gameList[i].info.replaceAll('\\n', '<br>');
             config.pageJs = `<script>function main() {
-                loadComment('/PSGameSpider'+location.pathname)
+                pjax = null;
             }</script>`;
             config.prefetch = [];
 
@@ -191,7 +265,7 @@ rbuild.build = async function (rootPath) {
                     rbuild.config.outputDirectory,
                     gameList[i].lang +
                         '/' +
-                        encodeURIComponent(gameList[i].name.slice(0, 25)) +
+                        gameList[i].path.split("/").pop() +
                         '/index.html',
                 ),
                 doc,

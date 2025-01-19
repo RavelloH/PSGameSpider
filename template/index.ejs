@@ -23,7 +23,7 @@
     <script>
         function getstructuregameSearchResult(game) {
             return `
-            <a onclick="pjaxLoad('zh-hans-hk/${ game.name }')" class="no-effect">
+            <a onclick="pjaxLoad('zh-hans-hk/${ game.path.split("/").pop() }')" class="no-effect">
             <div class="square-img-box">
             <div class="square-img-box-img">
             <img src="${ '/'+game.img.replace('images', 'mini') }" alt="${ game.fullname }" class="no-zoom" />
@@ -103,7 +103,7 @@
         <div id="friends-link-box">
             <% for (let i = 0; i < discount.length; i++) {
                 %>
-                <a href="zh-hans-hk/<%= discount[i].name %>" class="no-effect">
+                <a href="zh-hans-hk/<%= discount[i].path.split("/").pop() %>" class="no-effect">
                     <div class="square-img-box">
                         <div class="square-img-box-img">
                             <img src="<%= '/'+discount[i].img.replace('images', 'mini') %>" alt="<%= discount[i].fullname %>" class="no-zoom" />
@@ -130,7 +130,7 @@
         <div id="friends-link-box">
             <% for (let i = 0; i < recent.length; i++) {
                 %>
-                <a href="zh-hans-hk/<%= recent[i].name %>" class="no-effect">
+                <a href="zh-hans-hk/<%= recent[i].path.split("/").pop() %>" class="no-effect">
                     <div class="square-img-box">
                         <div class="square-img-box-img">
                             <img src="<%= '/'+recent[i].img.replace('images', 'mini') %>" alt="<%= recent[i].fullname %>" class="no-zoom" />
@@ -159,7 +159,7 @@
     <div id="friends-link-box">
         <% for (let i = 0; i < randomList.length; i++) {
             %>
-            <a href="zh-hans-hk/<%= randomList[i].name %>" class="no-effect">
+            <a href="zh-hans-hk/<%= randomList[i].path.split("/").pop() %>" class="no-effect">
                 <div class="square-img-box">
                     <div class="square-img-box-img">
                         <img src="<%= '/'+randomList[i].img.replace('images', 'mini') %>" alt="<%= randomList[i].fullname %>" class="no-zoom" />
@@ -180,9 +180,5 @@
     <br>
     <hr>
     <h4 class="virgule center"><a href="https://github.com/ravelloh/PSGameSpider" class="no-effect">Github:RavelloH/PSGameSpider</a></h4>
-    <div id="tcomment">
-        <div class="info center">
-            <span class="i_small ri:download-cloud-line"></span> 正在加载评论...
-        </div>
-    </div>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
 </div>

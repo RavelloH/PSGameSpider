@@ -3,23 +3,38 @@
 
         <div class="info-info">
             <div class="info-title">
-                <h3><%= game.name %></h3>
-                <h4><%= game.fullname %></h4>
+                <h3>
+                    <%= game.name %>
+                </h3>
+                <h4>
+                    <%= game.fullname %>
+                </h4>
             </div>
 
             <div class="info-sub">
                 <span class="virgule">
                     <%= game.publisher %>
                 </span>
-                <span class="i_small ri:playstation-fill"></span> <span><%= game.platform %></span> •
-                <span class="i_small ri:time-fill"></span> <span><%= game.releaseTime %></span>
+                <span class="i_small ri:playstation-fill"></span> <span>
+                    <%= game.platform %>
+                </span> •
+                <span class="i_small ri:time-fill"></span> <span>
+                    <%= game.releaseTime %>
+                </span>
             </div>
 
             <div class="info-sub">
-                <span class="i_small ri:star-fill"></span> <span><%= game.rate %></span> • <span class="i_small ri:box-3-fill"></span> <span><%= game.category %></span> • <span class="i_small ri:price-tag-3-fill"></span> <span><%= game.type %></span>
+                <span class="i_small ri:star-fill"></span> <span>
+                    <%= game.rate %>
+                </span> • <span class="i_small ri:box-3-fill"></span> <span>
+                    <%= game.category %>
+                </span> • <span class="i_small ri:price-tag-3-fill"></span> <span>
+                    <%= game.type %>
+                </span>
             </div>
             <h3>
-                <%= game.price %> <%= game.priceCurrency %>
+                <%= game.price %>
+                    <%= game.priceCurrency %>
             </h3>
             <div class="form-control">
                 <a class="big-button no-effect" href='<%= game.path %>'>
@@ -46,56 +61,59 @@
         </span>
         <p>
         <div class='full center'>
-            <img src="<%= '/zh-hans-hk/'+game.name+'/priceHistory.svg' %>">
+            <svg id="priceHistoryChart" width="600" height="400"></svg>
         </div><br>
-            <table>
-                <thead>
+        <table>
+            <thead>
+                <tr>
+                    <th>时间</th>
+                    <th>价格</th>
+                </tr>
+            </thead>
+            <tbody>
+
+                <% for (let i=0; i < game.priceHistory.length; i++) { %>
                     <tr>
-                        <th>时间</th>
-                        <th>价格</th>
+                        <td>
+                            <%= game.priceHistory[i][0] %>
+                        </td>
+                        <td>
+                            <%= game.priceHistory[i][1] + game.priceCurrency%>
+                        </td>
                     </tr>
-                </thead>
-                <tbody>
+                    <% } %>
 
-                    <% for (let i = 0; i < game.priceHistory.length; i++) {
-                        %>
-                        <tr>
-                            <td><%= game.priceHistory[i][0] %></td>
-                            <td><%= game.priceHistory[i][1] + game.priceCurrency%></td>
-                        </tr>
-                        <%
-
-                    } %>
-
-                </tbody>
-            </table>
+            </tbody>
+        </table>
         </p>
         <span class="virgule center">
             - 评分历史 -
         </span>
         <p>
         <div class='full center'>
-            <img src="<%= '/zh-hans-hk/'+game.name+'/rateHistory.svg' %>">
+            <svg id="rateHistoryChart" width="600" height="400"></svg>
         </div><br>
-            <table>
-                <thead>
-                    <tr>
-                        <th>时间</th>
-                        <th>评分</th>
-                    </tr>
-                </thead>
-                <tbody>
+        <table>
+            <thead>
+                <tr>
+                    <th>时间</th>
+                    <th>评分</th>
+                </tr>
+            </thead>
+            <tbody>
 
-                    <% for (let i = 0; i < game.rateHistory.length; i++) {
-                        %>
-                        <tr>
-                            <td><%= game.rateHistory[i][0] %></td>
-                            <td><%= game.rateHistory[i][1] %></td>
-                        </tr>
-                        <%
-                    } %>
-                </tbody>
-            </table>
+                <% for (let i=0; i < game.rateHistory.length; i++) { %>
+                    <tr>
+                        <td>
+                            <%= game.rateHistory[i][0] %>
+                        </td>
+                        <td>
+                            <%= game.rateHistory[i][1] %>
+                        </td>
+                    </tr>
+                    <% } %>
+            </tbody>
+        </table>
         </p>
         <div id="tcomment">
             <div class="info center">
@@ -105,3 +123,106 @@
 
     </div>
 </div>
+<script src="https://d3js.org/d3.v7.min.js"></script>
+<script>
+    const expandList = (list) => {
+        if (list.length == 0) return [];
+        const currentDateObj = new Date();
+        const currentYear = currentDateObj.getFullYear();
+        const currentMonth = currentDateObj.getMonth();
+        const currentDay = currentDateObj.getDate();
+        const formatDate = (year, month, day) => {
+            const monthStr = month < 10 ? '0' + (month + 1) : month + 1;
+            const dayStr = day < 10 ? '0' + day : day;
+            return `${year}/${monthStr}/${dayStr}`;
+        };
+        const parseDate = (dateStr) => {
+            const parts = dateStr.split('/');
+            return new Date(parts[0], parts[1] - 1, parts[2]);
+        };
+        const findIndex = (dateStr) => {
+            for (let i = 0; i < list.length; i++) {
+                if (list[i][0] === dateStr) {
+                    return i;
+                }
+            }
+            return -1;
+        };
+        const expandedList = [];
+        let lastValue = null;
+        let lastIndex = -1;
+        let minDate = new Date(list[0][0]);
+        let maxDate = new Date(list[list.length - 1][0]);
+        for (let item of list) {
+            const date = new Date(item[0]);
+            if (date < minDate) minDate = date;
+            if (date > maxDate) maxDate = date;
+        }
+        for (
+            let date = minDate;
+            date <= new Date(currentYear, currentMonth, currentDay);
+            date.setDate(date.getDate() + 1)
+        ) {
+            const dateString = formatDate(date.getFullYear(), date.getMonth(), date.getDate());
+            const index = findIndex(dateString);
+            if (index !== -1) {
+                expandedList.push([dateString, list[index][1]]);
+                lastIndex = index;
+                lastValue = list[index][1];
+            } else {
+                if (lastIndex !== -1) {
+                    expandedList.push([dateString, lastValue]);
+                }
+            }
+        }
+
+        return expandedList;
+    };
+
+    document.addEventListener('DOMContentLoaded', function () {
+        let priceHistoryData = <%- JSON.stringify(game.priceHistory) %>;
+        let rateHistoryData = <%- JSON.stringify(game.rateHistory) %>;
+
+        priceHistoryData = expandList(priceHistoryData);
+        rateHistoryData = expandList(rateHistoryData);
+
+        function drawLineChart(svgId, data, xLabel, yLabel) {
+            const svg = document.getElementById(svgId);
+            const width = svg.clientWidth;
+            const height = svg.clientHeight;
+            const padding = 40;
+
+            const xScale = d3.scaleTime()
+                .domain(d3.extent(data, d => new Date(d[0])))
+                .range([padding, width - padding]);
+
+            const yScale = d3.scaleLinear()
+                .domain([0, d3.max(data, d => d[1])])
+                .range([height - padding, padding]);
+
+            const line = d3.line()
+                .x(d => xScale(new Date(d[0])))
+                .y(d => yScale(d[1]));
+
+            const svgSelection = d3.select(svg);
+
+            svgSelection.append("g")
+                .attr("transform", `translate(0, ${height - padding})`)
+                .call(d3.axisBottom(xScale));
+
+            svgSelection.append("g")
+                .attr("transform", `translate(${padding}, 0)`)
+                .call(d3.axisLeft(yScale));
+
+            svgSelection.append("path")
+                .datum(data)
+                .attr("fill", "none")
+                .attr("stroke", "steelblue")
+                .attr("stroke-width", 1.5)
+                .attr("d", line);
+        }
+
+        drawLineChart('priceHistoryChart', priceHistoryData, '时间', '价格');
+        drawLineChart('rateHistoryChart', rateHistoryData, '时间', '评分');
+    });
+</script>
