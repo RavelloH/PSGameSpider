@@ -30,10 +30,6 @@ jobs:
                   npm install
             - name: 'Working'
               run: node program/fetchAll.js
-            - name: 'Create Files'
-              continue-on-error: True
-              run: node program/svg.js
-
             - name: Commit files
               run: |
                   git config --local user.email "dr_hamilton@foxmail.com"
