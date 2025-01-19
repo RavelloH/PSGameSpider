@@ -1,0 +1,24 @@
+{
+    "outputDirectory": "./public/",
+    "templateDirectory": "./template/",
+    "originDirectory": "./origin/",
+    "retries": 3,
+    "jsBeautify": {
+        "indent_size": 4,
+        "indent_char": " ",
+        "indent_with_tabs": false
+    },
+    "page": {
+        "siteName": "PSGameSpider",
+        "author": "RavelloH",
+        "siteUrl": "https://psgamespider.ravelloh.top/",
+        "shareImage": "https://ravelloh.github.io/assets/images/apple-touch-icon.png",
+        "githubUserName": "RavelloH",
+        "mail": "ravelloh@outlook.com",
+        "copyrightStartTime": "2019",
+        "defaultScript": "<script>function main(){}</script>",
+        "analyticScript": "<script async src=\"/assets/js/analysis.js\" onload=\"umamiAnalytics()\"></script>",
+        "remotePath": "https://static.ravelloh.top"
+    },
+    "mainTemplate": "layout.html"
+}

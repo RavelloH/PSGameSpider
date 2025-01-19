@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="zh">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <title>{{{title}}} | {{{siteName}}}</title>
+    
+    {{static/metaData.html}}
+    {{https://raw.githubusercontent.com/RavelloH/ravelloh.github.io/master/template/static/preload.html}}
+    {{https://raw.githubusercontent.com/RavelloH/ravelloh.github.io/master/template/static/css.html}}
+    {{https://raw.githubusercontent.com/RavelloH/ravelloh.github.io/master/template/static/icons.html}}
+</head>
+
+<body>
+    <!-- viewport start -->
+    <section id="showcase">
+        {{https://raw.githubusercontent.com/RavelloH/ravelloh.github.io/master/template/static/loadingShade.html}}
+        {{layout/header.html}}
+        <div id="shade-context"></div>
+        <div id="main" class="loading">
+            <div id="viewmap">
+                {{{doc}}}
+            </div>
+        </div>
+        {{https://raw.githubusercontent.com/RavelloH/ravelloh.github.io/master/template/layout/footer.html}}
+    </section>
+    <section id="sidebar">
+        {{https://raw.githubusercontent.com/RavelloH/ravelloh.github.io/master/template/layout/sidebar.html}}
+    </section>
+    <section id="infobar">
+        {{https://raw.githubusercontent.com/RavelloH/ravelloh.github.io/master/template/layout/infobar.html}}
+    </section>
+    <section id="userbar"></section>
+    <!-- viewport end --> 
+    
+    {{https://raw.githubusercontent.com/RavelloH/ravelloh.github.io/master/template/static/javascript.html}}
+    <!-- Prefetch -->
+    <div id="page-prefetch">
+        {{{prefetch}}}
+    </div>
+</body>
+</html>
+<!-- EOF -->
