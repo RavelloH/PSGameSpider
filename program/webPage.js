@@ -251,9 +251,7 @@ rbuild.build = async function (rootPath) {
             config.url = config.siteUrl + gameList[i].lang + '/' + gameList[i].name + '/';
             config.game = gameList[i];
             config.game.info = gameList[i].info.replaceAll('\\n', '<br>');
-            config.pageJs = `<script>function main() {
-                pjax = null;
-            }</script>`;
+            config.pageJs = `<script>function main() {}</script>`;
             config.prefetch = [];
 
             doc = ejs.render(preTemplate, config);

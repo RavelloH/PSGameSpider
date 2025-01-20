@@ -31,6 +31,7 @@ jobs:
             - name: 'Working'
               run: node program/fetchAll.js
             - name: Commit files
+              continue-on-error: true
               run: |
                   git config --local user.email "dr_hamilton@foxmail.com"
                   git config --local user.name "Ravello-H"
