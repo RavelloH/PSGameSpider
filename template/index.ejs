@@ -46,7 +46,7 @@
                     if (typeof umami !== 'undefined') {
                         umami.track('search', { "keyword": name })
                     }
-                    fetch('/api/search?lang=<%= lang %>&keyword=' + name)
+                    fetch('/api/search?area=<%= lang %>&keyword=' + name)
                         .then((response) => response.json())
                         .then((data) => {
                             let gameSearchResult = '';
