@@ -14,5 +14,12 @@
                 }
             ]
         }
+    ],
+    "redirects": [
+        {
+            "source": "/",
+            "destination": "/zh-hans-hk",
+            "permanent": true
+        }
     ]
 }

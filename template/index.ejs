@@ -7,14 +7,15 @@
     </span>
     <br>
     <div class="form-control half center" style="margin: 1em auto">
-        <input type="search" required="" oninput="psSearch(this.value)" onpropertychange="psSearch(this.value)" class="half" list="gamelist">
-        <label><span
-            class="i_small ri:search-2-line" style="--i: 0;">&nbsp;</span><span
-            style="--i: 1">在</span><span style="--i: 2">S</span><span style="--i: 3">t</span><span
-            style="--i: 4">o</span><span style="--i: 5">r</span><span style="--i: 6">e</span><span
-            style="--i: 7">中</span><span style="--i: 8">搜</span><span style="--i: 9">索</span><span
-            style="--i: 10">.</span><span style="--i: 11">.</span><span style="--i: 12">.</span></label>
-    </div>
+        <input type="search" required="" oninput="psSearch(this.value)" onpropertychange="psSearch(this.value)"
+            class="half" list="gamelist">
+        <label>
+            <span class="i_small ri:search-2-line" style="--i: 0;">&nbsp;</span>
+            <% for (let i = 0; i < i18n.search.length; i++) { %>
+            <span style="--i: <%= i %>"><%= i18n.search[i] %></span>
+            <% } %>
+        </label>
+        </div>
 
 
     <div class="friends-link-box" id="ps-search-result">
@@ -23,14 +24,14 @@
     <script>
         function getstructuregameSearchResult(game) {
             return `
-            <a href="zh-hans-hk/${ game.path.split("/").pop() }" class="no-effect">
+            <a href="/${game.lang}/${game.path.split("/").pop()}" class="no-effect">
             <div class="square-img-box">
             <div class="square-img-box-img">
-            <img src="${ '/'+game.img.replace('images', 'mini') }" alt="${ game.fullname }" class="no-zoom" />
+            <img src="${'/' + game.img.replace('images', 'mini')}" alt="${game.fullname}" class="no-zoom" />
             </div>
             <div class="square-img-box-name">
-            ${ game.name } <br>
-            <span>${ game.fullname }</span>
+            ${game.name} <br>
+            <span>${game.fullname}</span>
             </div>
             </div>
             </a>`;
@@ -43,26 +44,26 @@
                 }
                 searchTimer = setTimeout(function () {
                     if (typeof umami !== 'undefined') {
-                        umami.track('search',{"keyword": name})
+                        umami.track('search', { "keyword": name })
                     }
-                    fetch('/api/search?keyword=' + name)
-                    .then((response) => response.json())
-                    .then((data) => {
-                        let gameSearchResult = '';
-                        for (let i = 0; i < data.length; i++) {
-                            gameSearchResult += getstructuregameSearchResult(data[i]);
-                        }
-                        if (!document.getElementById('ps-search-result').innerHTML == '') {
-                            switchElementContent('#ps-search-result', gameSearchResult, 200);
-                        }
-                        setTimeout(() => {
-                            loadItems('#ps-search-result');
-                            zoomPics();
-                        }, 310);
-                    })
-                    .catch((error) => {
-                        switchElementContent('#ps-search-result', structureErrorInfo(error));
-                    });
+                    fetch('/api/search?lang=<%= lang %>&keyword=' + name)
+                        .then((response) => response.json())
+                        .then((data) => {
+                            let gameSearchResult = '';
+                            for (let i = 0; i < data.length; i++) {
+                                gameSearchResult += getstructuregameSearchResult(data[i]);
+                            }
+                            if (!document.getElementById('ps-search-result').innerHTML == '') {
+                                switchElementContent('#ps-search-result', gameSearchResult, 200);
+                            }
+                            setTimeout(() => {
+                                loadItems('#ps-search-result');
+                                zoomPics();
+                            }, 310);
+                        })
+                        .catch((error) => {
+                            switchElementContent('#ps-search-result', structureErrorInfo(error));
+                        });
                 }, 1000);
             } else {
                 switchElementContent('#ps-search-result', '');
@@ -72,113 +73,128 @@
     <div class="full center flex-list">
         <a class="no-effect">
             <div>
-                <span class="virgule">当前地区</span>
-                <span class="virgule">zh-hans-hk</span>
+                <span class="virgule"><%= i18n.current_area %></span>
+                <span class="virgule">
+                    <%= lang %>
+                </span>
             </div>
         </a>
         <a class="no-effect">
             <div>
-                <span class="virgule">当前地区游戏总数</span>
-                <span><h4><%= gameList.length %></h4></span>
+                <span class="virgule"><%= i18n.current_area_game_count %></span>
+                <span>
+                    <h4>
+                        <%= gameList.length %>
+                    </h4>
+                </span>
             </div>
         </a>
         <a class="no-effect">
             <div>
-                <span class="virgule"><%= new Date(new Date().getTime() + (8 * 60 + new Date().getTimezoneOffset()) * 60000).toISOString().split('T')[0].replace(/-/g, '/')
-                    %><br>
-                    <%= new Date(new Date().getTime() + (8 * 60 + new Date().getTimezoneOffset()) * 60000).toLocaleTimeString('en-US', {
-                        timeZone: 'Asia/Shanghai', hour12: false
-                    })
-                    %></span>
+                <span class="virgule">
+                    <%= new Date(new Date().getTime() + (8 * 60 + new Date().getTimezoneOffset()) *
+                        60000).toISOString().split('T')[0].replace(/-/g, '/' ) %><br>
+                        <%= new Date(new Date().getTime() + (8 * 60 + new Date().getTimezoneOffset()) *
+                            60000).toLocaleTimeString('en-US', { timeZone: 'Asia/Shanghai' , hour12: false }) %>
+                </span>
             </div>
         </a>
+    </div>
+    <div class="full center flex-list">
+        <% for (let i=0; i < langList.length; i++) {%>
+            <a class="no-effect" href="/<%= langList[i] %>/">
+                <div>
+                    <span class="virgule"><%= i18n.switch_to %></span>
+                    <span class="virgule">
+                        <%= langList[i] %>
+                    </span>
+                </div>
+            </a>
+        <% } %>
     </div>
 
     <hr class="light">
-    <% if (discount) {
-        %>
+    <% if (discount.length> 0) { %>
         <span class="virgule center">
-            - 探索最近降价的游戏 -
+            - <%= i18n.discount_game %> -
         </span>
         <div id="friends-link-box">
-            <% for (let i = 0; i < discount.length; i++) {
-                %>
-                <a href="zh-hans-hk/<%= discount[i].path.split("/").pop() %>" class="no-effect">
+            <% for (let i=0; i < discount.length; i++) { %>
+                <a href="/<%= lang %>/<%= discount[i].path.split("/").pop() %>" class="no-effect">
                     <div class="square-img-box">
                         <div class="square-img-box-img">
-                            <img src="<%= '/'+discount[i].img.replace('images', 'mini') %>" alt="<%= discount[i].fullname %>" class="no-zoom" />
+                            <img src="<%= '/'+discount[i].img.replace('images', 'mini') %>"
+                                alt="<%= discount[i].fullname %>" class="no-zoom" />
                         </div>
                         <div class="square-img-box-name">
                             <%= discount[i].name %> <br>
-                            <span><del><%= discount[i].previousPrice %></del> <%= discount[i].price + discount[i].priceCurrency %></span>
+                                <span><del>
+                                        <%= discount[i].previousPrice %>
+                                    </del>
+                                    <%= discount[i].price + discount[i].priceCurrency %>
+                                </span>
                         </div>
                     </div>
                 </a>
-                <%
-            } %>
+                <% } %>
 
         </div>
         <br>
-        <%
-    } %>
+        <% } %>
 
-    <% if (recent) {
-        %>
-        <span class="virgule center">
-            - 探索最新发布的游戏 -
-        </span>
-        <div id="friends-link-box">
-            <% for (let i = 0; i < recent.length; i++) {
-                %>
-                <a href="zh-hans-hk/<%= recent[i].path.split("/").pop() %>" class="no-effect">
-                    <div class="square-img-box">
-                        <div class="square-img-box-img">
-                            <img src="<%= '/'+recent[i].img.replace('images', 'mini') %>" alt="<%= recent[i].fullname %>" class="no-zoom" />
-                        </div>
-                        <div class="square-img-box-name">
-                            <%= recent[i].name %> <br>
-                            <span>
-                                <%= new Date(recent[i].releaseTime).toLocaleDateString('zh-CN', {
-                                    year: 'numeric', month: '2-digit', day: '2-digit'
-                                }).replace(/\//g, '/')
-                                %>
-                            </span>
-                        </div>
-                    </div>
-                </a>
-                <%
-            } %>
+            <% if (recent.length> 0) { %>
+                <span class="virgule center">
+                    - <%= i18n.new_publish_game %> -
+                </span>
+                <div id="friends-link-box">
+                    <% for (let i=0; i < recent.length; i++) { %>
+                        <a href="/<%= lang %>/<%= recent[i].path.split("/").pop() %>" class="no-effect">
+                            <div class="square-img-box">
+                                <div class="square-img-box-img">
+                                    <img src="<%= '/'+recent[i].img.replace('images', 'mini') %>"
+                                        alt="<%= recent[i].fullname %>" class="no-zoom" />
+                                </div>
+                                <div class="square-img-box-name">
+                                    <%= recent[i].name %> <br>
+                                        <span>
+                                            <%= new Date(recent[i].releaseTime).toLocaleDateString('zh-CN', {
+                                                year: 'numeric' , month: '2-digit' , day: '2-digit'
+                                                }).replace(/\//g, '/' ) %>
+                                        </span>
+                                </div>
+                            </div>
+                        </a>
+                        <% } %>
 
-        </div>
-        <br>
-        <%
-    } %>
-    <span class="virgule center">
-        - 探索每日随机的100个游戏 -
-    </span>
-    <div id="friends-link-box">
-        <% for (let i = 0; i < randomList.length; i++) {
-            %>
-            <a href="zh-hans-hk/<%= randomList[i].path.split("/").pop() %>" class="no-effect">
-                <div class="square-img-box">
-                    <div class="square-img-box-img">
-                        <img src="<%= '/'+randomList[i].img.replace('images', 'mini') %>" alt="<%= randomList[i].fullname %>" class="no-zoom" />
-                    </div>
-                    <div class="square-img-box-name">
-                        <%= randomList[i].name %> <br>
-                        <span>
-                            <span class="i_small ri:star-fill"></span> <%= randomList[i].rate %> • <%= randomList[i].type %>
-                        </span>
-                    </div>
                 </div>
-            </a>
-            <%
-        } %>
-    </div>
+                <br>
+                <% } %>
+                    <span class="virgule center">
+                        - <%= i18n.random_game %> -
+                    </span>
+                    <div id="friends-link-box">
+                        <% for (let i=0; i < randomList.length; i++) { %>
+                            <a href="/<%= lang %>/<%= randomList[i].path.split("/").pop() %>" class="no-effect">
+                                <div class="square-img-box">
+                                    <div class="square-img-box-img">
+                                        <img src="<%= '/'+randomList[i].img.replace('images', 'mini') %>"
+                                            alt="<%= randomList[i].fullname %>" class="no-zoom" />
+                                    </div>
+                                    <div class="square-img-box-name">
+                                        <%= randomList[i].name %> <br>
+                                            <span>
+                                                <span class="i_small ri:star-fill"></span>
+                                                <%= randomList[i].rate %> • <%= randomList[i].type %>
+                                            </span>
+                                    </div>
+                                </div>
+                            </a>
+                            <% } %>
+                    </div>
 
-    <br>
-    <br>
-    <hr>
-    <h4 class="virgule center"><a href="https://github.com/ravelloh/PSGameSpider" class="no-effect">Github:RavelloH/PSGameSpider</a></h4>
-    <script src="https://d3js.org/d3.v7.min.js"></script>
+                    <br>
+                    <br>
+                    <hr>
+                    <h4 class="virgule center"><a href="https://github.com/ravelloh/PSGameSpider"
+                            class="no-effect">Github:RavelloH/PSGameSpider</a></h4>
 </div>

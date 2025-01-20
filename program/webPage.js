@@ -15,30 +15,12 @@ function getData(filepath) {
     }
 }
 
-const langList = ['zh-hans-hk', 'en-us', 'ja-jp', 'de-de'];
+const langList = ['zh-hans-hk', 'ja-jp', 'en-us', "en-gb", "ko-kr"];
 const config = getData('./config.json');
 let gameList = [];
+let isCopied = false;
 
-// 读取游戏列表
-let metaData, priceHistory, rateHistory, infoList;
-try {
-    [metaData, priceHistory, rateHistory, infoList] = [
-        'metaData',
-        'priceHistory',
-        'rateHistory',
-        'info',
-    ].map((file) => JSON.parse(fs.readFileSync(`data/${file}.json`, 'utf8')));
-} catch (err) {
-    rlog.exit(err);
-}
-
-// 重组数据
-metaData.forEach((item, index) => {
-    item.priceHistory = priceHistory[item.name];
-    item.rateHistory = rateHistory[item.name];
-    item.info = infoList[item.name];
-    gameList.push(item);
-});
+const i18n = getData('i18n.json');
 
 const getRecentlyReleasedGames = (games, daysAgo = 14) => {
     const today = new Date();
@@ -169,111 +151,146 @@ function getRandomItems(inputList) {
     return randomItems;
 }
 
-let template;
+async function starter() {
+    for (let lang of langList) {
+        gameList = [];
+        // 读取文件
+        let metaData, priceHistory, rateHistory, infoList;
+        try {
+            [metaData, priceHistory, rateHistory, infoList] = [
+                'metaData',
+                'priceHistory',
+                'rateHistory',
+                'info',
+            ].map((file) => JSON.parse(fs.readFileSync(`data/${lang}-${file}.json`, 'utf8')));
+        } catch (err) {
+            rlog.exit(err.message);
+        }
 
-// 修改默认行为
-rbuild.build = async function (rootPath) {
-    // 预检查
-    if (!(await this.init())) {
-        return;
-    }
-    rlog.log('Start building...');
-
-    let preTemplate = await rbuild.singleBuild(
-        fs.readFileSync('template/layout.html', 'utf-8'),
-        'template/',
-    );
-
-    rlog.success('Fetched templates');
-
-    // 创建函数
-    convertObjectToFile(gameList, 'data/gameList.js');
-
-    // 资源内容导入
-    rlog.log('Start copying resource files...');
-    let fileList;
-    try {
-        fs.emptyDirSync(this.config.outputDirectory);
-        fileList = this.traversePath(this.processPath(rootPath, this.config.originDirectory));
-        fileList = this.categorizeFiles(fileList);
-        fileList.otherFiles.forEach((filePath) => {
-            this.copyFiles(
-                filePath,
-                this.moveFilePath(
-                    filePath,
-                    this.config.originDirectory,
-                    this.config.outputDirectory,
-                ),
-            );
+        // 重组数据
+        metaData.forEach((item) => {
+            item.priceHistory = priceHistory[item.name];
+            item.rateHistory = rateHistory[item.name];
+            item.info = infoList[item.name];
+            gameList.push(item);
         });
-        rlog.success('File copying completed, start building...');
-    } catch (e) {
-        rlog.exit(e);
-        return;
-    }
-    // 首页构建
-    let doc = fs.readFileSync('template/index.ejs', 'utf-8');
-    let config = rbuild.config.page;
-    config.doc = doc;
-    config.title = '索引';
-    config.keywords = 'playstation';
-    config.description =
-        'PSGameSpider | 每日更新的PlayStation Store资讯站，支持查询评分记录/价格趋势等';
-    config.pagetype = 'edge';
-    config.url = rbuild.config.siteUrl;
-    config.pageJs = `<script>${fs.readFileSync('origin/index.js', 'utf-8')}</script>`;
-    config.prefetch = [];
-    config.randomList = getRandomItems(gameList);
-    config.gameList = gameList;
-    config.recent = getRecentlyReleasedGames(gameList);
-    config.discount = getRecentlyDiscountedGames(gameList);
-    doc = ejs.render(preTemplate, config);
-    doc = ejs.render(doc, config);
-    // 保存文件
-    rbuild.writeFile('public/index.html', doc);
-    rlog.log('Successfully built index');
 
-    let templateDoc = fs.readFileSync('template/item.ejs', 'utf-8');
-    config = {};
-    // 遍历构建
-    try {
-        for (let i = 0; i < gameList.length; i++) {
-            rlog.info(`Building ${gameList[i].name}...`);
+        let template;
 
-            // 配置合并
-            config = rbuild.config.page;
-            config = rbuild.mergeObjects(config, gameList[i]);
-            config.doc = templateDoc;
-            config.title = gameList[i].fullname;
-            config.keywords = gameList[i].keywords || '';
-            config.description = gameList[i].description || '';
-            config.pagetype = gameList[i].pagetype || 'edge';
-            config.url = config.siteUrl + gameList[i].lang + '/' + gameList[i].name + '/';
-            config.game = gameList[i];
-            config.game.info = gameList[i].info.replaceAll('\\n', '<br>');
-            config.pageJs = `<script>function main() {}</script>`;
+        // 修改默认行为
+        rbuild.build = async function (rootPath) {
+            // 预检查
+            if (!(await this.init())) {
+                return;
+            }
+            rlog.log('Start building...');
+
+            if (!isCopied) {
+                rlog.log('Start copying resource files...');
+                let fileList;
+                try {
+                    fs.emptyDirSync(this.config.outputDirectory);
+                    fileList = this.traversePath(
+                        this.processPath(rootPath, this.config.originDirectory),
+                    );
+                    fileList = this.categorizeFiles(fileList);
+                    fileList.otherFiles.forEach((filePath) => {
+                        this.copyFiles(
+                            filePath,
+                            this.moveFilePath(
+                                filePath,
+                                this.config.originDirectory,
+                                this.config.outputDirectory,
+                            ),
+                        );
+                    });
+                    rlog.success('File copying completed, start building...');
+                } catch (e) {
+                    rlog.exit(e);
+                    return;
+                }
+                isCopied = true;
+            }
+
+            let preTemplate = await rbuild.singleBuild(
+                fs.readFileSync('template/layout.html', 'utf-8'),
+                'template/',
+            );
+
+            rlog.success('Fetched templates');
+
+            // 创建函数
+            convertObjectToFile(gameList, `data/${lang}-gameList.js`);
+
+            // 首页构建
+            let doc = fs.readFileSync('template/index.ejs', 'utf-8');
+            let config = rbuild.config.page;
+            config.doc = doc;
+            config.title = i18n[lang].index;
+            config.keywords = 'playstation';
+            config.description =
+                'PSGameSpider | 每日更新的PlayStation Store资讯站，支持查询评分记录/价格趋势等';
+            config.pagetype = 'edge';
+            config.url = rbuild.config.siteUrl;
+            config.pageJs = `<script>function main(){setTimeout(() => {virgule(document.querySelector('#page-dest'), '${i18n[lang].platform}')}, 400)}</script>`;
             config.prefetch = [];
-
+            config.randomList = getRandomItems(gameList);
+            config.gameList = gameList;
+            config.recent = getRecentlyReleasedGames(gameList);
+            config.discount = getRecentlyDiscountedGames(gameList);
+            config.lang = lang;
+            config.langList = langList;
+            config.i18n = i18n[lang];
             doc = ejs.render(preTemplate, config);
             doc = ejs.render(doc, config);
-
             // 保存文件
-            rbuild.writeFile(
-                rbuild.processPath(
-                    rbuild.config.outputDirectory,
-                    gameList[i].lang +
-                        '/' +
-                        gameList[i].path.split("/").pop() +
-                        '/index.html',
-                ),
-                doc,
-            );
-        }
-        rlog.success('Build completed.');
-    } catch (e) {
-        rlog.exit(e);
-        return;
-    }
-};
+            rbuild.writeFileSync(`public/${lang}/index.html`, doc);
+            rlog.log('Successfully built index');
 
-rbuild.build('.');
+            let templateDoc = fs.readFileSync('template/item.ejs', 'utf-8');
+            config = {};
+            // 遍历构建
+            try {
+                for (let i = 0; i < gameList.length; i++) {
+                    rlog.info(`Building ${gameList[i].name}...`);
+
+                    // 配置合并
+                    config = rbuild.config.page;
+                    config = rbuild.mergeObjects(config, gameList[i]);
+                    config.doc = templateDoc;
+                    config.title = gameList[i].fullname;
+                    config.keywords = gameList[i].keywords || '';
+                    config.description = gameList[i].description || '';
+                    config.pagetype = gameList[i].pagetype || 'edge';
+                    config.url = config.siteUrl + gameList[i].lang + '/' + gameList[i].name + '/';
+                    config.game = gameList[i];
+                    config.game.info = gameList[i].info ? gameList[i].info.replaceAll('\\n', '<br>') : '';
+                    config.pageJs = `<script>function main() {}</script>`;
+                    config.prefetch = [];
+                    config.lang = lang;
+                    config.i18n = i18n[lang];
+
+                    doc = ejs.render(preTemplate, config);
+                    doc = ejs.render(doc, config);
+
+                    // 保存文件
+                    await rbuild.writeFileSync(
+                        rbuild.processPath(
+                            rbuild.config.outputDirectory,
+                            lang + '/' + gameList[i].path.split('/').pop() + '/index.html',
+                        ),
+                        doc,
+                    );
+                }
+                rlog.success(`Build ${lang} completed.`);
+            } catch (e) {
+                rlog.exit(e);
+                return;
+            }
+        };
+
+        await rbuild.build('.');
+    }
+}
+
+starter();

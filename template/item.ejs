@@ -1,6 +1,5 @@
 <div class="texts overflow full" style="--i: 0">
     <div class="info-header">
-
         <div class="info-info">
             <div class="info-title">
                 <h3>
@@ -38,7 +37,7 @@
             </h3>
             <div class="form-control">
                 <a class="big-button no-effect" href='<%= game.path %>'>
-                    <span>前往Store</span>
+                    <span><%= i18n.go_to_store %></span>
                 </a>
             </div>
         </div>
@@ -51,13 +50,13 @@
     <br>
     <hr>
     <div class="info-explain">
-        <span class="virgule center">- 游戏描述 -</span>
+        <span class="virgule center">- <%= i18n.description %> -</span>
         <p>
             <%- game.info %>
         </p>
         <br>
         <span class="virgule center">
-            - 价格历史 -
+            - <%= i18n.price_history %> -
         </span>
         <p>
         <div class='full center'>
@@ -66,8 +65,8 @@
         <table>
             <thead>
                 <tr>
-                    <th>时间</th>
-                    <th>价格</th>
+                    <th><%= i18n.time %></th>
+                    <th><%= i18n.price %></th>
                 </tr>
             </thead>
             <tbody>
@@ -87,7 +86,7 @@
         </table>
         </p>
         <span class="virgule center">
-            - 评分历史 -
+            - <%= i18n.rate_history %> -
         </span>
         <p>
         <div class='full center'>
@@ -96,8 +95,8 @@
         <table>
             <thead>
                 <tr>
-                    <th>时间</th>
-                    <th>评分</th>
+                    <th><%= i18n.time %></th>
+                    <th><%= i18n.rate %></th>
                 </tr>
             </thead>
             <tbody>
@@ -115,11 +114,14 @@
             </tbody>
         </table>
         </p>
-        <div id="tcomment">
-            <div class="info center">
-                <span class="i_small ri:download-cloud-line"></span> 正在加载评论...
-            </div>
-        </div>
+        <div id="tcomment"></div>
+        <script src="https://static.ravelloh.top/assets/js/lib/twikoo.all.min.js"></script>
+        <script>
+            twikoo.init({
+                envId: 'https://comment.ravelloh.top',
+                el: '#tcomment',
+            })
+        </script>
 
     </div>
 </div>
@@ -222,7 +224,7 @@
                 .attr("d", line);
         }
 
-        drawLineChart('priceHistoryChart', priceHistoryData, '时间', '价格');
-        drawLineChart('rateHistoryChart', rateHistoryData, '时间', '评分');
+        drawLineChart('priceHistoryChart', priceHistoryData, '<%= i18n.time %>', '<%= i18n.price %>');
+        drawLineChart('rateHistoryChart', rateHistoryData, '<%= i18n.time %>', '<%= i18n.rate %>');
     });
 </script>
