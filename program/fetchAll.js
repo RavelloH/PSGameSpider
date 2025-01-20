@@ -9,7 +9,7 @@ const cheerio = require('cheerio');
 const pLimit = require('p-limit');
 
 const rootPath = 'https://store.playstation.com';
-const langList = ['zh-hans-hk'];
+const langList = ['en-us'];
 
 let gameList = []; // 本次获取的游戏列表
 let gameListOld = []; // 之前获取的游戏列表
@@ -21,76 +21,80 @@ let gameListOld = []; // 之前获取的游戏列表
 // 存储文件: data/info.json - 详细信息
 
 async function starter() {
-    rlog.log('Starting fetcing all informations...');
-    rlog.log('Reading metadata.json...');
-
-    // 读取文件
-    let metaData, priceHistory, rateHistory, infoList;
-    try {
-        [metaData, priceHistory, rateHistory, infoList] = [
-            'metaData',
-            'priceHistory',
-            'rateHistory',
-            'info',
-        ].map((file) => JSON.parse(fs.readFileSync(`data/${file}.json`, 'utf8')));
-    } catch (err) {
-        rlog.warning(err.message);
-        rlog.warning('Failed to read files, reinitializing...');
-        ['metaData', 'priceHistory', 'rateHistory', 'info'].forEach((file) =>
-            fs.writeFileSync(
-                `data/${file}.json`,
-                JSON.stringify(file === 'metaData' ? [] : {}),
-                'utf8',
-            ),
-        );
-        starter();
-        return;
-    }
-
-    // 重组数据
-    metaData.forEach((item, index) => {
-        item.priceHistory = priceHistory[item.name];
-        item.rateHistory = rateHistory[item.name];
-        item.info = infoList[item.name];
-        gameListOld.push(item);
-    });
-
-    // 元数据获取
     for (let i = 0; i < langList.length; i++) {
+        const lang = langList[i];
+
+        gameList = [];
+        gameListOld = [];
+        rlog.log(`Starting fetching all informations for ${lang}...`);
+        rlog.log('Reading metadata.json...');
+
+        // 读取文件
+        let metaData, priceHistory, rateHistory, infoList;
+        try {
+            [metaData, priceHistory, rateHistory, infoList] = [
+                'metaData',
+                'priceHistory',
+                'rateHistory',
+                'info',
+            ].map((file) => JSON.parse(fs.readFileSync(`data/${lang}-${file}.json`, 'utf8')));
+        } catch (err) {
+            rlog.warning(err.message);
+            rlog.warning('Failed to read files, reinitializing...');
+            ['metaData', 'priceHistory', 'rateHistory', 'info'].forEach((file) =>
+                fs.writeFileSync(
+                    `data/${lang}-${file}.json`,
+                    JSON.stringify(file === 'metaData' ? [] : {}),
+                    'utf8',
+                ),
+            );
+            starter();
+            return;
+        }
+
+        // 重组数据
+        metaData.forEach((item) => {
+            item.priceHistory = priceHistory[item.name];
+            item.rateHistory = rateHistory[item.name];
+            item.info = infoList[item.name];
+            gameListOld.push(item);
+        });
+        
+        // 元数据获取
         resultPage = 0;
-        rlog.info(`Start fetching all games in ${langList[i]}`);
-        await getList(langList[i]);
+        rlog.info(`Start fetching all games in ${lang}`);
+        await getList(lang);
+        gameList = mergeObjects(gameListOld, gameList);
+        rlog.success('Metedata successfully fetched.');
+
+        // 封面下载
+        rlog.info('Start downloading images...');
+        let newResult = await downloadImages(gameList);
+        gameList = mergeObjects(newResult, gameListOld);
+        rlog.success('Successfully downloaded images');
+
+        // 元数据扩充
+        rlog.info('Start get more informations...');
+        let gameListNew = await getInfo(gameList);
+        gameList = mergeObjects(gameList, gameListNew);
+        rlog.success('Successfully fetched informations');
+
+        // 压缩
+        rlog.log('Start compressing...');
+        let gameListMini = [];
+        gameListNew = gameList;
+        gameListNew.forEach((item, index) => {
+            gameListMini.push([]);
+            gameListMini[index] = item;
+            gameListMini[index].rateHistory = compressPriceHistory(item.rateHistory);
+            gameListMini[index].priceHistory = compressPriceHistory(item.priceHistory);
+        });
+        rlog.success('Successfully compressed');
+
+        // 导出
+        exportGameList(gameListMini,lang);
+        rlog.success('All jobs finished');
     }
-    gameList = mergeObjects(gameListOld, gameList);
-    rlog.success('Metedata successfully fetched.');
-
-    // 封面下载
-    rlog.info('Start downloading images...');
-    let newResult = await downloadImages(gameList);
-    gameList = mergeObjects(newResult, gameListOld);
-    rlog.success('Successfully downloaded images');
-
-    // 元数据扩充
-    rlog.info('Start get more informations...');
-    let gameListNew = await getInfo(gameList);
-    gameList = mergeObjects(gameList, gameListNew);
-    rlog.success('Successfully fetched informations');
-
-    // 压缩
-    rlog.log('Start compressing...');
-    let gameListMini = [];
-    gameListNew = gameList;
-    gameListNew.forEach((item, index) => {
-        gameListMini.push([]);
-        gameListMini[index] = item;
-        gameListMini[index].rateHistory = compressPriceHistory(item.rateHistory);
-        gameListMini[index].priceHistory = compressPriceHistory(item.priceHistory);
-    });
-    rlog.success('Successfully compressed');
-
-    // 导出
-    exportGameList(gameListMini);
-    rlog.success('All jobs finished');
 }
 function convertObjectToFile(obj, outputPath) {
     const dataString = `module.exports = ${JSON.stringify(obj, null, 2)};`;
@@ -104,7 +108,7 @@ function kebabToCamel(str) {
     });
 }
 // 导出列表
-function exportGameList(gameList, filepath = 'data') {
+function exportGameList(gameList, lang) {
     try {
         const metaData = [];
         const priceHistory = {};
@@ -128,8 +132,8 @@ function exportGameList(gameList, filepath = 'data') {
         });
 
         const writeFile = (filename, data) => {
-            fs.writeFileSync(`${filepath}/${filename}.json`, JSON.stringify(data, null, 2), 'utf8');
-            rlog.success(`${filename}.json exported successfully`);
+            fs.writeFileSync(`data/${lang}-${filename}.json`, JSON.stringify(data, null, 2), 'utf8');
+            rlog.success(`${lang}-${filename}.json exported successfully`);
         };
 
         writeFile('metaData', metaData);
@@ -216,10 +220,7 @@ function compressPriceHistory(priceHistory) {
     if (!priceHistory) return [];
     let compressedPriceHistory = [];
     for (let i = 0; i < priceHistory.length; i++) {
-        if (
-            i === 0 ||
-            priceHistory[i][1] !== priceHistory[i - 1][1]
-        ) {
+        if (i === 0 || priceHistory[i][1] !== priceHistory[i - 1][1]) {
             compressedPriceHistory.push(priceHistory[i]);
         }
     }
