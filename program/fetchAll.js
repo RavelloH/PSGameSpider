@@ -9,7 +9,7 @@ const cheerio = require('cheerio');
 const pLimit = require('p-limit');
 
 const rootPath = 'https://store.playstation.com';
-const langList = ['en-gb'];
+const langList = ['ko-kr'];
 
 let gameList = []; // 本次获取的游戏列表
 let gameListOld = []; // 之前获取的游戏列表
