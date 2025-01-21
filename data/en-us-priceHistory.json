@@ -16966,7 +16966,7 @@
     ],
     [
       "2025/01/21",
-      null
+      4.99
     ]
   ],
   "Citadel: Forged With Fire": [
@@ -35697,10 +35697,6 @@
     [
       "2025/01/20",
       null
-    ],
-    [
-      "2025/01/21",
-      null
     ]
   ],
   "Super Sports Blast": [
@@ -45971,6 +45967,10 @@
     [
       "2025/01/20",
       3.99
+    ],
+    [
+      "2025/01/21",
+      null
     ]
   ],
   "Tetrack": [
@@ -61193,6 +61193,36 @@
     [
       "2025/01/21",
       null
+    ]
+  ],
+  "Ninja Five-O": [
+    [
+      "2025/01/21",
+      24.99
+    ]
+  ],
+  "Q.U.B.E. 2": [
+    [
+      "2025/01/21",
+      24.99
+    ]
+  ],
+  "Qubit's Quest": [
+    [
+      "2025/01/21",
+      19.99
+    ]
+  ],
+  "QUByte Classics: Jim Power: The Lost Dimension by PIKO": [
+    [
+      "2025/01/21",
+      9.99
+    ]
+  ],
+  "QUByte Classics - Zero Tolerance Collection by Piko": [
+    [
+      "2025/01/21",
+      9.99
     ]
   ]
 }
