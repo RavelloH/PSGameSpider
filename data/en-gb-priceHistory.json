@@ -4269,6 +4269,10 @@
     [
       "2025/01/20",
       24.99
+    ],
+    [
+      "2025/01/22",
+      34.99
     ]
   ],
   "Ride 4": [
@@ -38509,6 +38513,10 @@
     [
       "2025/01/20",
       0.29
+    ],
+    [
+      "2025/01/22",
+      null
     ]
   ],
   "Timberman VS": [
@@ -61063,6 +61071,96 @@
     [
       "2025/01/22",
       null
+    ]
+  ],
+  "THE KING OF FIGHTERS 2000™": [
+    [
+      "2025/01/22",
+      7.99
+    ]
+  ],
+  "THE KING OF FIGHTERS 2002 UNLIMITED MATCH": [
+    [
+      "2025/01/22",
+      12.99
+    ]
+  ],
+  "The King of Fighters ’98 Ultimate Match": [
+    [
+      "2025/01/22",
+      11.99
+    ]
+  ],
+  "The King of Fighters Collection: The Orochi Saga": [
+    [
+      "2025/01/22",
+      11.99
+    ]
+  ],
+  "THE KNIGHT OF QUEEN": [
+    [
+      "2025/01/22",
+      3.29
+    ]
+  ],
+  "The Knight Witch": [
+    [
+      "2025/01/22",
+      15.99
+    ]
+  ],
+  "The Land Beneath Us": [
+    [
+      "2025/01/22",
+      11.99
+    ]
+  ],
+  "The Language Of Love": [
+    [
+      "2025/01/22",
+      7.99
+    ]
+  ],
+  "The Last Blade 2": [
+    [
+      "2025/01/22",
+      11.99
+    ]
+  ],
+  "The Last Cube": [
+    [
+      "2025/01/22",
+      15.99
+    ]
+  ],
+  "THE LAST DEAD END": [
+    [
+      "2025/01/22",
+      4.49
+    ]
+  ],
+  "The Last Door - Complete Edition": [
+    [
+      "2025/01/22",
+      11.59
+    ]
+  ],
+  "The Last Guardian VR": [
+    [
+      "2025/01/22",
+      null
+    ]
+  ],
+  "The Last Show of Mr. Chardish": [
+    [
+      "2025/01/22",
+      7.99
+    ]
+  ],
+  "The Last Wind Monk": [
+    [
+      "2025/01/22",
+      15.99
     ]
   ]
 }
