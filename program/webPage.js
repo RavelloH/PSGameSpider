@@ -262,7 +262,7 @@ async function starter() {
                     config.keywords = gameList[i].keywords || '';
                     config.description = gameList[i].description || '';
                     config.pagetype = gameList[i].pagetype || 'edge';
-                    config.url = config.siteUrl + gameList[i].lang + '/' gameList[i].path.split("/").pop();
+                    config.url = config.siteUrl + gameList[i].lang + '/' + gameList[i].path.split("/").pop();
                     config.game = gameList[i];
                     config.game.info = gameList[i].info ? gameList[i].info.replaceAll('\\n', '<br>') : '';
                     config.pageJs = `<script>function main() {}</script>`;
