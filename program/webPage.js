@@ -231,7 +231,7 @@ async function starter() {
             config.description =
                 'PSGameSpider | 每日更新的PlayStation Store资讯站，支持查询评分记录/价格趋势等';
             config.pagetype = 'edge';
-            config.url = rbuild.config.siteUrl;
+            config.url = rbuild.config.siteUrl + "/" + lang;
             config.pageJs = `<script>function main(){setTimeout(() => {virgule(document.querySelector('#page-dest'), '${i18n[lang].platform}')}, 400)}</script>`;
             config.prefetch = [];
             config.randomList = getRandomItems(gameList);
@@ -262,7 +262,7 @@ async function starter() {
                     config.keywords = gameList[i].keywords || '';
                     config.description = gameList[i].description || '';
                     config.pagetype = gameList[i].pagetype || 'edge';
-                    config.url = config.siteUrl + gameList[i].lang + '/' + gameList[i].name + '/';
+                    config.url = config.siteUrl + gameList[i].lang + '/' gameList[i].path.split("/").pop();
                     config.game = gameList[i];
                     config.game.info = gameList[i].info ? gameList[i].info.replaceAll('\\n', '<br>') : '';
                     config.pageJs = `<script>function main() {}</script>`;
