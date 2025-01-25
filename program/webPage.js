@@ -231,7 +231,7 @@ async function starter() {
             config.description =
                 'PSGameSpider | 每日更新的PlayStation Store资讯站，支持查询评分记录/价格趋势等';
             config.pagetype = 'edge';
-            config.url = rbuild.config.siteUrl + "/" + lang;
+            config.url = "https://psgamespider.ravelloh.top/" + lang;
             config.pageJs = `<script>function main(){setTimeout(() => {virgule(document.querySelector('#page-dest'), '${i18n[lang].platform}')}, 400)}</script>`;
             config.prefetch = [];
             config.randomList = getRandomItems(gameList);
