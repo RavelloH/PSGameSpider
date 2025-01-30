@@ -15,7 +15,8 @@
         "random_game": "探索每日随机的100个游戏",
         "search": "在当前区域的PlayStation Store中搜索...",
         "platform": "每日定时更新的Playstation Store数据聚合平台",
-        "index": "索引"
+        "index": "索引",
+        "today_discount": "今日开始降价的游戏"
     },
     "en-us": {
         "go_to_store": "Go to Store",
@@ -33,7 +34,8 @@
         "random_game": "Explore 100 random games daily",
         "search": "Search in PlayStation Store in current area...",
         "platform": "Daily scheduled update of Playstation Store data aggregation platform",
-        "index": "Index"
+        "index": "Index",
+        "today_discount": "Today's discount games"
     },
     "en-gb": {
         "go_to_store": "Go to Store",
@@ -51,7 +53,8 @@
         "random_game": "Explore 100 random games daily",
         "search": "Search in PlayStation Store in current area...",
         "platform": "Daily scheduled update of Playstation Store data aggregation platform",
-        "index": "Index"
+        "index": "Index",
+        "today_discount": "Today's discount games"
     },
     "ja-jp": {
         "go_to_store": "ストアに行く",
@@ -69,7 +72,8 @@
         "random_game": "毎日100のランダムゲームを探索する",
         "search": "現在の地域のPlayStation Storeで検索...",
         "platform": "プレイステーションストアデータ集約プラットフォームの毎日スケジュールされた更新",
-        "index": "索引"
+        "index": "索引",
+        "today_discount": "今日の割引ゲーム"
     },
     "ko-kr": {
         "go_to_store": "상점으로 이동",
@@ -87,6 +91,7 @@
         "random_game": "매일 100개의 무작위 게임 탐색",
         "search": "현재 지역의 PlayStation Store에서 검색...",
         "platform": "플레이 스테이션 스토어 데이터 집계 플랫폼의 매일 예약된 업데이트",
-        "index": "색인"
+        "index": "색인",
+        "today_discount": "오늘의 할인 게임"
     }
 }

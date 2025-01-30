@@ -11,11 +11,13 @@
             class="half" list="gamelist">
         <label>
             <span class="i_small ri:search-2-line" style="--i: 0;">&nbsp;</span>
-            <% for (let i = 0; i < i18n.search.length; i++) { %>
-            <span style="--i: <%= i %>"><%= i18n.search[i] %></span>
-            <% } %>
+            <% for (let i=0; i < i18n.search.length; i++) { %>
+                <span style="--i: <%= i %>">
+                    <%= i18n.search[i] %>
+                </span>
+                <% } %>
         </label>
-        </div>
+    </div>
 
 
     <div class="friends-link-box" id="ps-search-result">
@@ -73,7 +75,9 @@
     <div class="full center flex-list">
         <a class="no-effect">
             <div>
-                <span class="virgule"><%= i18n.current_area %></span>
+                <span class="virgule">
+                    <%= i18n.current_area %>
+                </span>
                 <span class="virgule">
                     <%= lang %>
                 </span>
@@ -81,7 +85,9 @@
         </a>
         <a class="no-effect">
             <div>
-                <span class="virgule"><%= i18n.current_area_game_count %></span>
+                <span class="virgule">
+                    <%= i18n.current_area_game_count %>
+                </span>
                 <span>
                     <h4>
                         <%= gameList.length %>
@@ -104,23 +110,25 @@
         <% for (let i=0; i < langList.length; i++) {%>
             <a class="no-effect" href="/<%= langList[i] %>/">
                 <div>
-                    <span class="virgule"><%= i18n.switch_to %></span>
+                    <span class="virgule">
+                        <%= i18n.switch_to %>
+                    </span>
                     <span class="virgule">
                         <%= langList[i] %>
                     </span>
                 </div>
             </a>
-        <% } %>
+            <% } %>
     </div>
 
     <hr class="light">
-    <% if (discount.length> 0) { %>
+    <% if (todayDiscount.length> 0) { %>
         <span class="virgule center">
-            - <%= i18n.discount_game %> -
+            - <%= i18n.today_discount %> -
         </span>
         <div id="friends-link-box">
             <% for (let i=0; i < discount.length; i++) { %>
-                <a href="/<%= lang %>/<%= discount[i].path.split("/").pop() %>" class="no-effect">
+                <a href="/<%= lang %>/<%= discount[i].path.split(" /").pop() %>" class="no-effect">
                     <div class="square-img-box">
                         <div class="square-img-box-img">
                             <img src="<%= '/'+discount[i].img.replace('images', 'mini') %>"
@@ -142,24 +150,24 @@
         <br>
         <% } %>
 
-            <% if (recent.length> 0) { %>
+            <% if (discount.length> 0) { %>
                 <span class="virgule center">
-                    - <%= i18n.new_publish_game %> -
+                    - <%= i18n.discount_game %> -
                 </span>
                 <div id="friends-link-box">
-                    <% for (let i=0; i < recent.length; i++) { %>
-                        <a href="/<%= lang %>/<%= recent[i].path.split("/").pop() %>" class="no-effect">
+                    <% for (let i=0; i < discount.length; i++) { %>
+                        <a href="/<%= lang %>/<%= discount[i].path.split(" /").pop() %>" class="no-effect">
                             <div class="square-img-box">
                                 <div class="square-img-box-img">
-                                    <img src="<%= '/'+recent[i].img.replace('images', 'mini') %>"
-                                        alt="<%= recent[i].fullname %>" class="no-zoom" />
+                                    <img src="<%= '/'+discount[i].img.replace('images', 'mini') %>"
+                                        alt="<%= discount[i].fullname %>" class="no-zoom" />
                                 </div>
                                 <div class="square-img-box-name">
-                                    <%= recent[i].name %> <br>
-                                        <span>
-                                            <%= new Date(recent[i].releaseTime).toLocaleDateString('zh-CN', {
-                                                year: 'numeric' , month: '2-digit' , day: '2-digit'
-                                                }).replace(/\//g, '/' ) %>
+                                    <%= discount[i].name %> <br>
+                                        <span><del>
+                                                <%= discount[i].previousPrice %>
+                                            </del>
+                                            <%= discount[i].price + discount[i].priceCurrency %>
                                         </span>
                                 </div>
                             </div>
@@ -169,32 +177,61 @@
                 </div>
                 <br>
                 <% } %>
-                    <span class="virgule center">
-                        - <%= i18n.random_game %> -
-                    </span>
-                    <div id="friends-link-box">
-                        <% for (let i=0; i < randomList.length; i++) { %>
-                            <a href="/<%= lang %>/<%= randomList[i].path.split("/").pop() %>" class="no-effect">
-                                <div class="square-img-box">
-                                    <div class="square-img-box-img">
-                                        <img src="<%= '/'+randomList[i].img.replace('images', 'mini') %>"
-                                            alt="<%= randomList[i].fullname %>" class="no-zoom" />
-                                    </div>
-                                    <div class="square-img-box-name">
-                                        <%= randomList[i].name %> <br>
-                                            <span>
-                                                <span class="i_small ri:star-fill"></span>
-                                                <%= randomList[i].rate %> • <%= randomList[i].type %>
-                                            </span>
-                                    </div>
-                                </div>
-                            </a>
-                            <% } %>
-                    </div>
 
-                    <br>
-                    <br>
-                    <hr>
-                    <h4 class="virgule center"><a href="https://github.com/ravelloh/PSGameSpider"
-                            class="no-effect">Github:RavelloH/PSGameSpider</a></h4>
+                    <% if (recent.length> 0) { %>
+                        <span class="virgule center">
+                            - <%= i18n.new_publish_game %> -
+                        </span>
+                        <div id="friends-link-box">
+                            <% for (let i=0; i < recent.length; i++) { %>
+                                <a href="/<%= lang %>/<%= recent[i].path.split(" /").pop() %>" class="no-effect">
+                                    <div class="square-img-box">
+                                        <div class="square-img-box-img">
+                                            <img src="<%= '/'+recent[i].img.replace('images', 'mini') %>"
+                                                alt="<%= recent[i].fullname %>" class="no-zoom" />
+                                        </div>
+                                        <div class="square-img-box-name">
+                                            <%= recent[i].name %> <br>
+                                                <span>
+                                                    <%= new Date(recent[i].releaseTime).toLocaleDateString('zh-CN', {
+                                                        year: 'numeric' , month: '2-digit' , day: '2-digit'
+                                                        }).replace(/\//g, '/' ) %>
+                                                </span>
+                                        </div>
+                                    </div>
+                                </a>
+                                <% } %>
+
+                        </div>
+                        <br>
+                        <% } %>
+                            <span class="virgule center">
+                                - <%= i18n.random_game %> -
+                            </span>
+                            <div id="friends-link-box">
+                                <% for (let i=0; i < randomList.length; i++) { %>
+                                    <a href="/<%= lang %>/<%= randomList[i].path.split(" /").pop() %>"
+                                        class="no-effect">
+                                        <div class="square-img-box">
+                                            <div class="square-img-box-img">
+                                                <img src="<%= '/'+randomList[i].img.replace('images', 'mini') %>"
+                                                    alt="<%= randomList[i].fullname %>" class="no-zoom" />
+                                            </div>
+                                            <div class="square-img-box-name">
+                                                <%= randomList[i].name %> <br>
+                                                    <span>
+                                                        <span class="i_small ri:star-fill"></span>
+                                                        <%= randomList[i].rate %> • <%= randomList[i].type %>
+                                                    </span>
+                                            </div>
+                                        </div>
+                                    </a>
+                                    <% } %>
+                            </div>
+
+                            <br>
+                            <br>
+                            <hr>
+                            <h4 class="virgule center"><a href="https://github.com/ravelloh/PSGameSpider"
+                                    class="no-effect">Github:RavelloH/PSGameSpider</a></h4>
 </div>

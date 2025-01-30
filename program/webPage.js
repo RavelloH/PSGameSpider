@@ -15,7 +15,7 @@ function getData(filepath) {
     }
 }
 
-const langList = ['zh-hans-hk', 'ja-jp', 'en-us', "en-gb", "ko-kr"];
+const langList = ['zh-hans-hk', 'ja-jp', 'en-us', 'en-gb', 'ko-kr'];
 const config = getData('./config.json');
 let gameList = [];
 let isCopied = false;
@@ -231,13 +231,14 @@ async function starter() {
             config.description =
                 'PSGameSpider | 每日更新的PlayStation Store资讯站，支持查询评分记录/价格趋势等';
             config.pagetype = 'edge';
-            config.url = "https://psgamespider.ravelloh.top/" + lang;
+            config.url = 'https://psgamespider.ravelloh.top/' + lang;
             config.pageJs = `<script>function main(){setTimeout(() => {virgule(document.querySelector('#page-dest'), '${i18n[lang].platform}')}, 400)}</script>`;
             config.prefetch = [];
             config.randomList = getRandomItems(gameList);
             config.gameList = gameList;
             config.recent = getRecentlyReleasedGames(gameList);
             config.discount = getRecentlyDiscountedGames(gameList);
+            config.todayDiscount = getRecentlyDiscountedGames(gameList, 1);
             config.lang = lang;
             config.langList = langList;
             config.i18n = i18n[lang];
@@ -262,9 +263,12 @@ async function starter() {
                     config.keywords = gameList[i].keywords || '';
                     config.description = gameList[i].description || '';
                     config.pagetype = gameList[i].pagetype || 'edge';
-                    config.url = config.siteUrl + gameList[i].lang + '/' + gameList[i].path.split("/").pop();
+                    config.url =
+                        config.siteUrl + gameList[i].lang + '/' + gameList[i].path.split('/').pop();
                     config.game = gameList[i];
-                    config.game.info = gameList[i].info ? gameList[i].info.replaceAll('\\n', '<br>') : '';
+                    config.game.info = gameList[i].info
+                        ? gameList[i].info.replaceAll('\\n', '<br>')
+                        : '';
                     config.pageJs = `<script>function main() {}</script>`;
                     config.prefetch = [];
                     config.lang = lang;

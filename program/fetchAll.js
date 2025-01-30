@@ -9,7 +9,7 @@ const cheerio = require('cheerio');
 const pLimit = require('p-limit');
 
 const rootPath = 'https://store.playstation.com';
-const langList = ['zh-hans-hk', 'ja-jp', 'en-us', "en-gb", "ko-kr"];
+const langList = ['zh-hans-hk', 'ja-jp', 'en-us', 'en-gb', 'ko-kr'];
 
 let gameList = []; // 本次获取的游戏列表
 let gameListOld = []; // 之前获取的游戏列表
@@ -59,7 +59,7 @@ async function starter() {
             item.info = infoList[item.name];
             gameListOld.push(item);
         });
-        
+
         // 元数据获取
         resultPage = 0;
         rlog.info(`Start fetching all games in ${lang}`);
@@ -92,7 +92,7 @@ async function starter() {
         rlog.success('Successfully compressed');
 
         // 导出
-        exportGameList(gameListMini,lang);
+        exportGameList(gameListMini, lang);
         rlog.success('All jobs finished');
     }
 }
@@ -132,7 +132,11 @@ function exportGameList(gameList, lang) {
         });
 
         const writeFile = (filename, data) => {
-            fs.writeFileSync(`data/${lang}-${filename}.json`, JSON.stringify(data, null, 2), 'utf8');
+            fs.writeFileSync(
+                `data/${lang}-${filename}.json`,
+                JSON.stringify(data, null, 2),
+                'utf8',
+            );
             rlog.success(`${lang}-${filename}.json exported successfully`);
         };
 
