@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap: https://psgamespider.ravelloh.top/sitemap.xml
