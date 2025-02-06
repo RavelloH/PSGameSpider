@@ -3733,6 +3733,10 @@
     [
       "2025/01/20",
       59.99
+    ],
+    [
+      "2025/02/06",
+      39.99
     ]
   ],
   "Thank Goodness You're Here!": [
@@ -22890,7 +22894,7 @@
     ],
     [
       "2025/02/06",
-      null
+      2.99
     ]
   ],
   "Stranded Sails: Explorers of the Cursed Islands": [
@@ -74276,7 +74280,7 @@
     ],
     [
       "2025/02/06",
-      null
+      17.99
     ]
   ],
   "Moose Life": [
@@ -81156,6 +81160,18 @@
     ]
   ],
   "Quilts and Cats of Calico": [
+    [
+      "2025/02/06",
+      null
+    ]
+  ],
+  "Invasion Of Space 2": [
+    [
+      "2025/02/06",
+      1.99
+    ]
+  ],
+  "HOLYHUNT": [
     [
       "2025/02/06",
       null
