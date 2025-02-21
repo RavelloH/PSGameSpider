@@ -85325,10 +85325,6 @@
     [
       "2025/01/20",
       null
-    ],
-    [
-      "2025/02/21",
-      null
     ]
   ],
   "Radio Commander": [
@@ -87046,7 +87042,7 @@
     ],
     [
       "2025/02/21",
-      null
+      44.99
     ]
   ],
   "RPGolf Legends": [
@@ -98623,6 +98619,24 @@
     [
       "2025/02/21",
       12.99
+    ]
+  ],
+  "Fast Food Manager Simulator": [
+    [
+      "2025/02/21",
+      6.49
+    ]
+  ],
+  "Arcade Archives Othello": [
+    [
+      "2025/02/21",
+      5.79
+    ]
+  ],
+  "Care Bears: To The Rescue": [
+    [
+      "2025/02/21",
+      null
     ]
   ]
 }
