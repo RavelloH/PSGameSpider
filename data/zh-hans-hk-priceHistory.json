@@ -25443,6 +25443,10 @@
     [
       "2025/01/19",
       139
+    ],
+    [
+      "2025/02/28",
+      null
     ]
   ],
   "REPLICA": [
@@ -41364,10 +41368,6 @@
   "Guacamelee! Super Turbo Championship Edition": [
     [
       "2025/01/19",
-      null
-    ],
-    [
-      "2025/02/28",
       null
     ]
   ],
@@ -71905,6 +71905,36 @@
     [
       "2025/02/28",
       198
+    ]
+  ],
+  "Youtubers Life 2": [
+    [
+      "2025/02/28",
+      308
+    ]
+  ],
+  "The Jumping Carrot Race": [
+    [
+      "2025/02/28",
+      18
+    ]
+  ],
+  "Hot Rod Mayhem": [
+    [
+      "2025/02/28",
+      null
+    ]
+  ],
+  "Island Trouble": [
+    [
+      "2025/02/28",
+      18
+    ]
+  ],
+  "Special Forces Assault: Tactical Hostage Rainbow": [
+    [
+      "2025/02/28",
+      78
     ]
   ]
 }
