@@ -354,12 +354,12 @@ const getInfoJson = async (url, retryCount = 0) => {
             .join(', ');
         return infoJson;
     } catch (error) {
-        if (retryCount < 10) {
-            rlog.warning(`Error getting info JSON from ${url}. Retrying in 1 second...`);
+        if (retryCount < 2) {
+            rlog.warning(`Error(${error}) getting info JSON from ${url}. Retrying in 1 second...`);
             await new Promise((resolve) => setTimeout(resolve, 1000));
             return getInfoJson(url, retryCount + 1);
         } else {
-            rlog.error(`Failed to get info JSON from ${url} after 10 retries. Skipping...`);
+            rlog.error(`Failed to get info JSON from ${url} after 2 retries. Skipping...`);
             return null;
         }
     }
