@@ -437,6 +437,10 @@
     [
       "2025/01/19",
       null
+    ],
+    [
+      "2025/04/12",
+      null
     ]
   ],
   "席德·梅尔的文明®VII": [
@@ -41405,10 +41409,6 @@
     [
       "2025/01/31",
       null
-    ],
-    [
-      "2025/04/12",
-      null
     ]
   ],
   "Just Find It 2 Collector's Edition": [
@@ -64617,6 +64617,10 @@
     [
       "2025/03/25",
       35.75
+    ],
+    [
+      "2025/04/12",
+      55
     ]
   ],
   "Prismatic Solid": [
@@ -97637,5 +97641,7 @@
   "Gone Home": [],
   "Garten of Banban 0": [],
   "牧野之歌": [],
-  "World Cup Soccer 2026": []
+  "World Cup Soccer 2026": [],
+  "Sliding Cubes 2048 Mania": [],
+  "Cube Stack Ultimate": []
 }
