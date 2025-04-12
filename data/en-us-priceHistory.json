@@ -14661,6 +14661,10 @@
     [
       "2025/03/26",
       34.99
+    ],
+    [
+      "2025/04/11",
+      49.99
     ]
   ],
   "Fishing: North Atlantic": [
@@ -14808,6 +14812,10 @@
   "AdVenture Capitalist": [
     [
       "2025/01/20",
+      null
+    ],
+    [
+      "2025/04/11",
       null
     ]
   ],
@@ -147749,5 +147757,6 @@
   "Arcade Archives GANGBUSTERS": [],
   "Puzzle Wars": [],
   "Port Logistics Simulator: Dockside Harbor Handling": [],
-  "Pilo and the Holobook": []
+  "Pilo and the Holobook": [],
+  "Gone Home": []
 }
