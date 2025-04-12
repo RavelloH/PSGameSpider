@@ -7419,6 +7419,10 @@
     [
       "2025/03/26",
       11.99
+    ],
+    [
+      "2025/04/12",
+      59.99
     ]
   ],
   "Hunting Simulator 2": [
@@ -7465,11 +7469,19 @@
     [
       "2025/01/20",
       null
+    ],
+    [
+      "2025/04/12",
+      null
     ]
   ],
   "Gems of War": [
     [
       "2025/01/20",
+      null
+    ],
+    [
+      "2025/04/12",
       null
     ]
   ],
@@ -7567,6 +7579,10 @@
     [
       "2025/03/26",
       14.99
+    ],
+    [
+      "2025/04/12",
+      29.99
     ]
   ],
   "LEGO® DC Super-Villains": [
@@ -7817,6 +7833,10 @@
     [
       "2025/03/26",
       26.99
+    ],
+    [
+      "2025/04/12",
+      44.99
     ]
   ],
   "Disco Elysium - The Final Cut": [
@@ -14812,10 +14832,6 @@
   "AdVenture Capitalist": [
     [
       "2025/01/20",
-      null
-    ],
-    [
-      "2025/04/11",
       null
     ]
   ],
@@ -48041,6 +48057,10 @@
     [
       "2025/03/26",
       11.24
+    ],
+    [
+      "2025/04/12",
+      14.99
     ]
   ],
   "Knights and Bikes": [
@@ -48107,6 +48127,10 @@
     [
       "2025/03/26",
       5.99
+    ],
+    [
+      "2025/04/12",
+      19.99
     ]
   ],
   "OVRDARK: a Do Not Open story": [
@@ -48131,6 +48155,10 @@
     [
       "2025/03/26",
       4.19
+    ],
+    [
+      "2025/04/12",
+      19.99
     ]
   ],
   "Truth": [
@@ -49435,6 +49463,10 @@
     [
       "2025/03/26",
       1.99
+    ],
+    [
+      "2025/04/12",
+      9.99
     ]
   ],
   "Puyo Puyo™ Tetris®": [
@@ -84839,6 +84871,10 @@
     [
       "2025/03/26",
       2.49
+    ],
+    [
+      "2025/04/12",
+      4.99
     ]
   ],
   "Arcade Archives IKARI WARRIORS": [
@@ -85131,6 +85167,10 @@
     [
       "2025/03/26",
       6.49
+    ],
+    [
+      "2025/04/12",
+      9.99
     ]
   ],
   "Blue Rider": [
@@ -85265,6 +85305,10 @@
     [
       "2025/03/26",
       1.99
+    ],
+    [
+      "2025/04/12",
+      9.99
     ]
   ],
   "Polyturbo Drift Racing Simulator": [
@@ -85297,6 +85341,10 @@
     [
       "2025/03/26",
       2.49
+    ],
+    [
+      "2025/04/12",
+      9.99
     ]
   ],
   "2064: Read Only Memories": [
@@ -85359,6 +85407,10 @@
     [
       "2025/03/26",
       7.99
+    ],
+    [
+      "2025/04/12",
+      9.99
     ]
   ],
   "Garbage Pail Kids: Mad Mike and the Quest for Stale Gum": [
@@ -85377,6 +85429,10 @@
     [
       "2025/03/26",
       2.49
+    ],
+    [
+      "2025/04/12",
+      9.99
     ]
   ],
   "KAMITSUBAKI CITY ENSEMBLE": [
@@ -118535,6 +118591,10 @@
     [
       "2025/03/26",
       2.99
+    ],
+    [
+      "2025/04/12",
+      9.99
     ]
   ],
   "BELOW": [
@@ -118553,6 +118613,10 @@
     [
       "2025/03/26",
       7.49
+    ],
+    [
+      "2025/04/12",
+      24.99
     ]
   ],
   "Bem Feito": [
@@ -118599,6 +118663,10 @@
     [
       "2025/03/26",
       2.49
+    ],
+    [
+      "2025/04/12",
+      4.99
     ]
   ],
   "BEYOND ENEMY LINES REMASTERED EDITION": [
@@ -118687,6 +118755,10 @@
     [
       "2025/03/26",
       11.99
+    ],
+    [
+      "2025/04/12",
+      19.99
     ]
   ],
   "BICOLOR BIRD": [
@@ -118767,6 +118839,10 @@
     [
       "2025/03/26",
       1.99
+    ],
+    [
+      "2025/04/12",
+      9.99
     ]
   ],
   "Birdcakes": [
@@ -147758,5 +147834,23 @@
   "Puzzle Wars": [],
   "Port Logistics Simulator: Dockside Harbor Handling": [],
   "Pilo and the Holobook": [],
-  "Gone Home": []
+  "Gone Home": [],
+  "REMATCH": [],
+  "INAZUMA ELEVEN: Victory Road": [],
+  "Age of Empires II: Definitive Edition": [],
+  "The Last of Us™ Complete": [],
+  "JDM Pixel Street Car Racing": [],
+  "Secret": [],
+  "The Black Within": [],
+  "Brain Show": [],
+  "Donut Blast": [],
+  "Pixicharm - Jack-O-Fall": [],
+  "Mayhem Mail": [],
+  "Water Sort Challenge": [],
+  "Chopper Strike": [],
+  "Gym Lifting Hero: Tile Master": [],
+  "Beyond Memories - Tale of The Lost Souls": [],
+  "Garten of Banban 0": [],
+  "Gore Doctor": [],
+  "Lorn's Lure": []
 }

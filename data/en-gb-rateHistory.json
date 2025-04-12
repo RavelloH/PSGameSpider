@@ -82775,6 +82775,10 @@
     [
       "2025/04/03",
       "3.99"
+    ],
+    [
+      "2025/04/12",
+      "3.98"
     ]
   ],
   "KNACK™": [
@@ -92259,6 +92263,10 @@
     [
       "2025/03/17",
       "2.72"
+    ],
+    [
+      "2025/04/12",
+      "2.73"
     ]
   ],
   "Rooms: The Unsolvable Puzzle": [
@@ -258721,14 +258729,29 @@
   "Game & Console Supermarket: Business Simulator": [],
   "Anime Waifu Simulator: Sakura Garden": [],
   "Witch Rise": [],
-  "Wild & Adventure Pinball": [],
+  "Wild & Adventure Pinball": [
+    [
+      "2025/04/12",
+      "5.00"
+    ]
+  ],
   "Hole Digging Master": [],
   "Logiart Grimoire": [],
   "Pilo and the Holobook": [],
   "Among Us 3D: VR": [],
-  "Pixicharm - Jack-O-Fall": [],
+  "Pixicharm - Jack-O-Fall": [
+    [
+      "2025/04/12",
+      "4.78"
+    ]
+  ],
   "The Talos Principle: Reawakened": [],
-  "Monaco 2": [],
+  "Monaco 2": [
+    [
+      "2025/04/12",
+      "4.88"
+    ]
+  ],
   "Port Logistics Simulator: Dockside Harbor Handling": [],
   "Arcade Archives GANGBUSTERS": [],
   "The Last of Us™ Complete": [],
@@ -258736,5 +258759,19 @@
   "The Black Within": [],
   "Beyond Memories - Tale of The Lost Souls": [],
   "Polterguys: Possession Party": [],
-  "Gone Home": []
+  "Gone Home": [],
+  "INAZUMA ELEVEN: Victory Road": [],
+  "REMATCH": [],
+  "Age of Empires II: Definitive Edition": [],
+  "JDM Pixel Street Car Racing": [],
+  "Donut Blast": [],
+  "World Cup Soccer 2026": [],
+  "Gym Lifting Hero: Tile Master": [],
+  "Mayhem Mail": [],
+  "Tap Blox": [],
+  "Water Sort Challenge": [],
+  "Chopper Strike": [],
+  "Gunship: Zombie": [],
+  "Gore Doctor": [],
+  "Lorn's Lure": []
 }

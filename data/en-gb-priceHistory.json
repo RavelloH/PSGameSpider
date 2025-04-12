@@ -31,6 +31,10 @@
     [
       "2025/01/20",
       null
+    ],
+    [
+      "2025/04/12",
+      null
     ]
   ],
   "Call of Duty®": [
@@ -49,6 +53,10 @@
     [
       "2025/03/26",
       48.99
+    ],
+    [
+      "2025/04/12",
+      69.99
     ]
   ],
   "Grand Theft Auto V (PlayStation®5)": [
@@ -81,6 +89,10 @@
     [
       "2025/01/20",
       null
+    ],
+    [
+      "2025/04/12",
+      null
     ]
   ],
   "DYNASTY WARRIORS: ORIGINS": [
@@ -100,6 +112,10 @@
   "Marvel Rivals": [
     [
       "2025/01/20",
+      null
+    ],
+    [
+      "2025/04/12",
       null
     ]
   ],
@@ -125,6 +141,10 @@
     [
       "2025/03/26",
       20.99
+    ],
+    [
+      "2025/04/12",
+      69.99
     ]
   ],
   "Tom Clancy's Rainbow Six® Siege": [
@@ -145,11 +165,19 @@
     [
       "2025/01/20",
       null
+    ],
+    [
+      "2025/04/12",
+      null
     ]
   ],
   "Genshin Impact": [
     [
       "2025/01/20",
+      null
+    ],
+    [
+      "2025/04/12",
       null
     ]
   ],
@@ -171,11 +199,19 @@
     [
       "2025/01/20",
       null
+    ],
+    [
+      "2025/04/12",
+      null
     ]
   ],
   "Rocket League®": [
     [
       "2025/01/20",
+      null
+    ],
+    [
+      "2025/04/12",
       null
     ]
   ],
@@ -217,6 +253,10 @@
     [
       "2025/03/26",
       13.74
+    ],
+    [
+      "2025/04/12",
+      59.99
     ]
   ],
   "Cyberpunk 2077": [
@@ -243,6 +283,10 @@
     [
       "2025/03/26",
       19.99
+    ],
+    [
+      "2025/04/12",
+      39.99
     ]
   ],
   "HITMAN 3": [
@@ -257,6 +301,10 @@
     [
       "2025/03/26",
       23.19
+    ],
+    [
+      "2025/04/12",
+      57.99
     ]
   ],
   "UFC® 5": [
@@ -521,6 +569,10 @@
     [
       "2025/03/26",
       43.99
+    ],
+    [
+      "2025/04/12",
+      54.99
     ]
   ],
   "WWE 2K24": [
@@ -43081,6 +43133,10 @@
     [
       "2025/03/26",
       10.39
+    ],
+    [
+      "2025/04/12",
+      15.99
     ]
   ],
   "THE KING OF FIGHTERS XIII GLOBAL MATCH": [
@@ -79293,6 +79349,10 @@
     [
       "2025/03/26",
       1.64
+    ],
+    [
+      "2025/04/12",
+      4.99
     ]
   ],
   "Ed-0: Zombie Uprising": [
@@ -113823,6 +113883,10 @@
     [
       "2025/03/26",
       49.49
+    ],
+    [
+      "2025/04/12",
+      65.99
     ]
   ],
   "Indie All Star Vol 2": [
@@ -146313,14 +146377,29 @@
   "Game & Console Supermarket: Business Simulator": [],
   "Anime Waifu Simulator: Sakura Garden": [],
   "Witch Rise": [],
-  "Wild & Adventure Pinball": [],
+  "Wild & Adventure Pinball": [
+    [
+      "2025/04/12",
+      3.79
+    ]
+  ],
   "Hole Digging Master": [],
   "Logiart Grimoire": [],
   "Pilo and the Holobook": [],
   "Among Us 3D: VR": [],
-  "Pixicharm - Jack-O-Fall": [],
+  "Pixicharm - Jack-O-Fall": [
+    [
+      "2025/04/12",
+      0.79
+    ]
+  ],
   "The Talos Principle: Reawakened": [],
-  "Monaco 2": [],
+  "Monaco 2": [
+    [
+      "2025/04/12",
+      19.99
+    ]
+  ],
   "Port Logistics Simulator: Dockside Harbor Handling": [],
   "Arcade Archives GANGBUSTERS": [],
   "The Last of Us™ Complete": [],
@@ -146328,5 +146407,19 @@
   "The Black Within": [],
   "Beyond Memories - Tale of The Lost Souls": [],
   "Polterguys: Possession Party": [],
-  "Gone Home": []
+  "Gone Home": [],
+  "INAZUMA ELEVEN: Victory Road": [],
+  "REMATCH": [],
+  "Age of Empires II: Definitive Edition": [],
+  "JDM Pixel Street Car Racing": [],
+  "Donut Blast": [],
+  "World Cup Soccer 2026": [],
+  "Gym Lifting Hero: Tile Master": [],
+  "Mayhem Mail": [],
+  "Tap Blox": [],
+  "Water Sort Challenge": [],
+  "Chopper Strike": [],
+  "Gunship: Zombie": [],
+  "Gore Doctor": [],
+  "Lorn's Lure": []
 }
