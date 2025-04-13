@@ -2635,10 +2635,6 @@
     [
       "2025/01/20",
       null
-    ],
-    [
-      "2025/04/12",
-      null
     ]
   ],
   "Train Sim World® 5": [
@@ -7230,10 +7226,6 @@
   "Puzzle Quest 3: Match 3 RPG": [
     [
       "2025/01/20",
-      null
-    ],
-    [
-      "2025/04/12",
       null
     ]
   ],
@@ -16050,10 +16042,6 @@
     ],
     [
       "2025/02/24",
-      null
-    ],
-    [
-      "2025/04/12",
       null
     ]
   ],
@@ -146434,5 +146422,11 @@
   "Gunship: Zombie": [],
   "Gore Doctor": [],
   "Lorn's Lure": [],
-  "Crazy Cats vs. Crazy Cyborgs": []
+  "Crazy Cats vs. Crazy Cyborgs": [],
+  "Song Of The Prairie": [],
+  "Sliding Cubes 2048 Mania": [],
+  "Cube Stack Ultimate": [],
+  "Wild West Crops": [],
+  "Mandragora: Whispers of the Witch Tree": [],
+  "Pet The Pup At The Party": []
 }
