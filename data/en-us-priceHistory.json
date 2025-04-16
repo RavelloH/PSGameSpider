@@ -53962,7 +53962,7 @@
     ],
     [
       "2025/04/16",
-      null
+      9.99
     ]
   ],
   "LOST EPIC": [
@@ -66671,6 +66671,10 @@
     [
       "2025/02/28",
       null
+    ],
+    [
+      "2025/04/16",
+      null
     ]
   ],
   "Wolfenstein: Cyberpilot": [
@@ -74976,6 +74980,10 @@
   "Crazy Athletics - Summer Sports & Games": [
     [
       "2025/01/20",
+      null
+    ],
+    [
+      "2025/04/16",
       null
     ]
   ],
@@ -155404,7 +155412,7 @@
     ],
     [
       "2025/04/16",
-      null
+      12.99
     ]
   ],
   "KinnikuNeko: SUPER MUSCLE CAT": [
@@ -157070,7 +157078,7 @@
     ],
     [
       "2025/04/16",
-      null
+      2.99
     ]
   ],
   "Mandragora: Whispers of the Witch Tree": [
@@ -157153,6 +157161,54 @@
     [
       "2025/04/15",
       2.49
+    ]
+  ],
+  "Monument Valley 2": [
+    [
+      "2025/04/16",
+      9.99
+    ]
+  ],
+  "Chernobyl: Escape from Pripyat": [
+    [
+      "2025/04/16",
+      14.99
+    ]
+  ],
+  "Alone in the Dark 2 (1996)": [
+    [
+      "2025/04/16",
+      9.99
+    ]
+  ],
+  "War of the Monsters": [
+    [
+      "2025/04/16",
+      9.99
+    ]
+  ],
+  "Football Quiz": [
+    [
+      "2025/04/16",
+      0.99
+    ]
+  ],
+  "American Arcadia": [
+    [
+      "2025/04/16",
+      null
+    ]
+  ],
+  "Freddy Farmer": [
+    [
+      "2025/04/16",
+      null
+    ]
+  ],
+  "LSD Battlefield Simulator": [
+    [
+      "2025/04/16",
+      null
     ]
   ]
 }
