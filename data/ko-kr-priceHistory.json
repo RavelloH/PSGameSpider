@@ -90433,18 +90433,30 @@
     [
       "2025/01/20",
       5800
+    ],
+    [
+      "2025/05/01",
+      4060
     ]
   ],
   "STAR WARS Rebel Assault II - The Hidden Empire": [
     [
       "2025/01/20",
       5800
+    ],
+    [
+      "2025/05/01",
+      4060
     ]
   ],
   "STAR WARS The Clone Wars": [
     [
       "2025/01/20",
       5800
+    ],
+    [
+      "2025/05/01",
+      4060
     ]
   ],
   "Stars, Stripes, and Subgames": [
@@ -102664,7 +102676,7 @@
     ],
     [
       "2025/05/01",
-      null
+      2400
     ]
   ],
   "Farewell of Life": [
@@ -102957,6 +102969,12 @@
     [
       "2025/05/01",
       34800
+    ]
+  ],
+  "Hypermarket Simulator: Supermarket, reimagined.": [
+    [
+      "2025/05/01",
+      12600
     ]
   ]
 }
