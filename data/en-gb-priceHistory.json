@@ -999,10 +999,6 @@
     [
       "2025/04/23",
       13.74
-    ],
-    [
-      "2025/05/08",
-      54.99
     ]
   ],
   "theHunter: Call of the Wild™": [
@@ -9365,6 +9361,10 @@
     [
       "2025/01/20",
       11.99
+    ],
+    [
+      "2025/05/08",
+      19.99
     ]
   ],
   "Sky: Children of the Light": [
@@ -41440,10 +41440,6 @@
   "H1Z1: Battle Royale": [
     [
       "2025/01/20",
-      null
-    ],
-    [
-      "2025/05/08",
       null
     ]
   ],
@@ -180691,10 +180687,6 @@
     [
       "2025/03/11",
       null
-    ],
-    [
-      "2025/05/08",
-      null
     ]
   ],
   "BodyCam GangZone": [
@@ -185330,6 +185322,18 @@
     ]
   ],
   "I'm in Love With Your Dead Grandmother: Online Battle Royale": [
+    [
+      "2025/05/08",
+      null
+    ]
+  ],
+  "Alien: Rogue Incursion VR": [
+    [
+      "2025/05/08",
+      32.99
+    ]
+  ],
+  "Forgotten Fields": [
     [
       "2025/05/08",
       null
