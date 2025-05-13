@@ -4,7 +4,8 @@
 > 旧版本已存档： https://github.com/ravello-h/PSGameSpider
 
 # PSGameSpider
-自动爬取所有PlayStationStore中的所有游戏封面，支持按月分类
+自动爬取所有PlayStationStore中的所有游戏信息，包括封面、描述、价格、评分等，生成静态页面以供索引，并自动生成价格、评分历史图表。  
+包含港、日、韩、欧、美五个区域的所有游戏，且具有多语言支持。
 
 [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/RavelloH/PSGameSpider/main.yml?label=update&style=for-the-badge)](https://github.com/RavelloH/PSGameSpider/actions/workflows/main.yml)
 [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/RavelloH/PSGameSpider/releases.yml?label=releases&style=for-the-badge)](https://github.com/RavelloH/PSGameSpider/actions/workflows/releases.yml)
