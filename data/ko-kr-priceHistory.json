@@ -140661,6 +140661,10 @@
     [
       "2025/06/04",
       10800
+    ],
+    [
+      "2025/06/09",
+      null
     ]
   ],
   "Reflex Master: Sight": [
@@ -142951,6 +142955,24 @@
     [
       "2025/06/09",
       null
+    ]
+  ],
+  "Crime Scene Cleaner": [
+    [
+      "2025/06/09",
+      null
+    ]
+  ],
+  "FISHING SIMULATOR 2025": [
+    [
+      "2025/06/09",
+      16800
+    ]
+  ],
+  "POLICE BORDER CONTRABAND PATROL": [
+    [
+      "2025/06/09",
+      22800
     ]
   ]
 }
