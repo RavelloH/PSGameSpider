@@ -2653,6 +2653,10 @@
     [
       "2025/06/10",
       77.5
+    ],
+    [
+      "2025/06/12",
+      155
     ]
   ],
   "Marvel’s Spider-Man: Miles Morales": [
@@ -158718,7 +158722,7 @@
     ],
     [
       "2025/06/12",
-      null
+      108
     ]
   ],
   "关于我们尝试把似曾相见的「那些游戏」做得更加刺激，却惊觉火柴人存在极限这档事。": [
@@ -162403,6 +162407,48 @@
     [
       "2025/06/12",
       148
+    ]
+  ],
+  "The Sinking Forest - 沈んだ森": [
+    [
+      "2025/06/12",
+      null
+    ]
+  ],
+  "Collie Call: Farm of Tomorrow": [
+    [
+      "2025/06/12",
+      null
+    ]
+  ],
+  "Escaping Wonderland": [
+    [
+      "2025/06/12",
+      null
+    ]
+  ],
+  "Flying Sushi": [
+    [
+      "2025/06/12",
+      38
+    ]
+  ],
+  "Pirate Trails: Tentacles and Treasures": [
+    [
+      "2025/06/12",
+      null
+    ]
+  ],
+  "Storage Hunter Bid War Simulator": [
+    [
+      "2025/06/12",
+      148
+    ]
+  ],
+  "岛屿救援": [
+    [
+      "2025/06/12",
+      18
     ]
   ]
 }
