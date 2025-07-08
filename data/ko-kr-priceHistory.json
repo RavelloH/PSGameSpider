@@ -128805,6 +128805,10 @@
     [
       "2025/06/18",
       1200
+    ],
+    [
+      "2025/07/08",
+      null
     ]
   ],
   "Horse Tales: Emerald Valley Ranch": [
@@ -164669,6 +164673,12 @@
     [
       "2025/07/08",
       10800
+    ]
+  ],
+  "Overpowered 1 - Mars Infestation": [
+    [
+      "2025/07/08",
+      null
     ]
   ]
 }
