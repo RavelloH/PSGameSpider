@@ -178549,6 +178549,10 @@
     [
       "2025/07/02",
       9
+    ],
+    [
+      "2025/07/25",
+      null
     ]
   ],
   "Solemn Warriors": [
@@ -195122,7 +195126,7 @@
     ],
     [
       "2025/07/25",
-      null
+      18
     ]
   ],
   "Arcade Archives Super Dimension Fortress MACROSS II": [
@@ -195909,6 +195913,36 @@
     [
       "2025/07/25",
       18
+    ]
+  ],
+  "Cubes Problem": [
+    [
+      "2025/07/25",
+      18
+    ]
+  ],
+  "0xDEADRUN": [
+    [
+      "2025/07/25",
+      9
+    ]
+  ],
+  "Bunny's Falling Feast": [
+    [
+      "2025/07/25",
+      9
+    ]
+  ],
+  "Classic Solitaire": [
+    [
+      "2025/07/25",
+      18
+    ]
+  ],
+  "Ra Ra BOOM": [
+    [
+      "2025/07/25",
+      null
     ]
   ]
 }
