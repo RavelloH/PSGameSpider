@@ -129637,6 +129637,10 @@
     [
       "2025/07/16",
       16800
+    ],
+    [
+      "2025/08/06",
+      null
     ]
   ],
   "Arcade Archives AERO FIGHTERS": [
@@ -168621,6 +168625,10 @@
     [
       "2025/06/04",
       22800
+    ],
+    [
+      "2025/08/06",
+      10800
     ]
   ],
   "Puzzle Piecer: The World Below": [
@@ -184176,7 +184184,7 @@
     ],
     [
       "2025/08/06",
-      null
+      22800
     ]
   ],
   "Little Paws: Kitty Cat Simulator": [
@@ -185421,6 +185429,36 @@
     [
       "2025/08/06",
       2400
+    ]
+  ],
+  "Arcade Archives D-DAY": [
+    [
+      "2025/08/06",
+      10600
+    ]
+  ],
+  "Curse Rounds": [
+    [
+      "2025/08/06",
+      null
+    ]
+  ],
+  "Lost Twins 2": [
+    [
+      "2025/08/06",
+      null
+    ]
+  ],
+  "Natsume Ryoran -Romance of Hi-Spec Yoko-": [
+    [
+      "2025/08/06",
+      27800
+    ]
+  ],
+  "Peaked Climbing": [
+    [
+      "2025/08/06",
+      10800
     ]
   ]
 }
