@@ -22331,6 +22331,10 @@
     [
       "2025/05/07",
       3520
+    ],
+    [
+      "2025/08/12",
+      null
     ]
   ],
   "フェアリーフェンサー エフ Refrain Chord": [
@@ -217398,7 +217402,7 @@
     ],
     [
       "2025/08/12",
-      null
+      1320
     ]
   ],
   "TUNG TUNG SAHUR EXTREME": [
@@ -217562,7 +217566,7 @@
     ],
     [
       "2025/08/12",
-      null
+      330
     ]
   ],
   "Into Black": [
@@ -217611,6 +217615,30 @@
     [
       "2025/08/11",
       2200
+    ]
+  ],
+  "BOMBORDIRO CROCODILO Flight Simulator": [
+    [
+      "2025/08/12",
+      550
+    ]
+  ],
+  "Gas Station: Idle Simulator": [
+    [
+      "2025/08/12",
+      275
+    ]
+  ],
+  "Workshop Simulator VR": [
+    [
+      "2025/08/12",
+      null
+    ]
+  ],
+  "Zombie Royale io": [
+    [
+      "2025/08/12",
+      440
     ]
   ]
 }
