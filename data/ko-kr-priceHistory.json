@@ -9171,6 +9171,10 @@
     [
       "2025/08/12",
       44100
+    ],
+    [
+      "2025/08/20",
+      58800
     ]
   ],
   "MEGATON MUSASHI: WIRED": [
@@ -85659,6 +85663,10 @@
     [
       "2025/08/19",
       8400
+    ],
+    [
+      "2025/08/20",
+      16800
     ]
   ],
   "Gourmet Warriors (QUByte Classics)": [
@@ -198868,7 +198876,7 @@
     ],
     [
       "2025/08/20",
-      null
+      22800
     ]
   ],
   "Formula Legends": [
@@ -199105,6 +199113,96 @@
     [
       "2025/08/19",
       64800
+    ]
+  ],
+  "OPUS: Echo of Starsong - Full Bloom Edition": [
+    [
+      "2025/08/20",
+      39800
+    ]
+  ],
+  "ACRES": [
+    [
+      "2025/08/20",
+      16800
+    ]
+  ],
+  "S.T.A.L.K.E.R. 2: Heart of Chornobyl": [
+    [
+      "2025/08/20",
+      64800
+    ]
+  ],
+  "Anime Assault: Hentai Girls 2025": [
+    [
+      "2025/08/20",
+      16800
+    ]
+  ],
+  "Arcade Archives 2 CHOPPER 1": [
+    [
+      "2025/08/20",
+      10800
+    ]
+  ],
+  "Arcade Archives CHOPPER 1": [
+    [
+      "2025/08/20",
+      10600
+    ]
+  ],
+  "Boned Again: Survivors": [
+    [
+      "2025/08/20",
+      5800
+    ]
+  ],
+  "Cube Merge 2048": [
+    [
+      "2025/08/20",
+      2400
+    ]
+  ],
+  "Fast & Furious: Arcade Edition": [
+    [
+      "2025/08/20",
+      null
+    ]
+  ],
+  "Life in Terminal Simulator : Airport Adventures": [
+    [
+      "2025/08/20",
+      16800
+    ]
+  ],
+  "Rudolph the Red-Nosed Reindeer": [
+    [
+      "2025/08/20",
+      null
+    ]
+  ],
+  "Snoopy & The Great Mystery Club": [
+    [
+      "2025/08/20",
+      null
+    ]
+  ],
+  "Souno's Curse": [
+    [
+      "2025/08/20",
+      null
+    ]
+  ],
+  "TRIANGLE STRATEGY": [
+    [
+      "2025/08/20",
+      69800
+    ]
+  ],
+  "Where Winds Meet": [
+    [
+      "2025/08/20",
+      16800
     ]
   ]
 }
