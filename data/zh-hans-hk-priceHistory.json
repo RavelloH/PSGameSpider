@@ -220631,6 +220631,10 @@
     [
       "2025/07/25",
       18
+    ],
+    [
+      "2025/08/25",
+      null
     ]
   ],
   "Arcade Archives Super Dimension Fortress MACROSS II": [
@@ -221338,7 +221342,7 @@
     ],
     [
       "2025/08/25",
-      null
+      238
     ]
   ],
   "Alien: Rogue Incursion Evolved Edition": [
@@ -221720,7 +221724,7 @@
     ],
     [
       "2025/08/25",
-      null
+      148
     ]
   ],
   "A Little to the Left": [
@@ -222072,7 +222076,7 @@
     ],
     [
       "2025/08/25",
-      null
+      148
     ]
   ],
   "Arcade Archives D-DAY": [
@@ -223069,6 +223073,10 @@
     [
       "2025/08/22",
       238
+    ],
+    [
+      "2025/08/25",
+      null
     ]
   ],
   "BLOCKS FLYING AT ME": [
@@ -223193,6 +223201,42 @@
     [
       "2025/08/25",
       148
+    ]
+  ],
+  "迷失幻途": [
+    [
+      "2025/08/25",
+      null
+    ]
+  ],
+  "Dark burial": [
+    [
+      "2025/08/25",
+      null
+    ]
+  ],
+  "Garden Catcher": [
+    [
+      "2025/08/25",
+      9
+    ]
+  ],
+  "LEGO® Voyagers": [
+    [
+      "2025/08/25",
+      null
+    ]
+  ],
+  "Robot Warzone Tactical Assault": [
+    [
+      "2025/08/25",
+      108
+    ]
+  ],
+  "RPG Raiders: Battle of Realms": [
+    [
+      "2025/08/25",
+      38
     ]
   ]
 }
