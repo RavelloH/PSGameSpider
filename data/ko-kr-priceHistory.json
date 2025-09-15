@@ -63111,6 +63111,10 @@
     [
       "2025/09/10",
       2400
+    ],
+    [
+      "2025/09/15",
+      null
     ]
   ],
   "Tales of Zestiria™": [
@@ -215106,7 +215110,7 @@
     ],
     [
       "2025/09/15",
-      null
+      27800
     ]
   ],
   "Robot Warzone Tactical Assault": [
@@ -216182,7 +216186,7 @@
     ],
     [
       "2025/09/15",
-      null
+      34800
     ]
   ],
   "Ambidextro": [
@@ -216219,6 +216223,30 @@
     [
       "2025/09/14",
       16800
+    ]
+  ],
+  "Dunk Trickster 2": [
+    [
+      "2025/09/15",
+      null
+    ]
+  ],
+  ">start ai": [
+    [
+      "2025/09/15",
+      null
+    ]
+  ],
+  "BOUNCY BREAD": [
+    [
+      "2025/09/15",
+      null
+    ]
+  ],
+  "Harvest Moon®: Home Sweet Home Special Edition": [
+    [
+      "2025/09/15",
+      44800
     ]
   ]
 }
