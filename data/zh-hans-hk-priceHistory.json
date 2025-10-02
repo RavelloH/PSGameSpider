@@ -67069,6 +67069,10 @@
     [
       "2025/09/03",
       78
+    ],
+    [
+      "2025/10/02",
+      null
     ]
   ],
   "Rooms: The Unsolvable Puzzle": [
@@ -125048,7 +125052,7 @@
     ],
     [
       "2025/10/02",
-      null
+      117
     ]
   ],
   "Circus Pocus": [
@@ -141868,7 +141872,7 @@
     ],
     [
       "2025/10/02",
-      null
+      117
     ]
   ],
   "Legendary Heroes": [
@@ -167105,6 +167109,10 @@
     [
       "2025/08/27",
       108
+    ],
+    [
+      "2025/10/02",
+      78
     ]
   ],
   "SUSHI BREAK": [
@@ -170697,6 +170705,10 @@
     [
       "2025/01/19",
       308
+    ],
+    [
+      "2025/10/02",
+      null
     ]
   ],
   "The Halloween Story": [
@@ -194495,6 +194507,10 @@
     [
       "2025/09/24",
       238
+    ],
+    [
+      "2025/10/02",
+      198
     ]
   ],
   "Bridge Constructor: The Walking Dead": [
@@ -204218,7 +204234,7 @@
     ],
     [
       "2025/10/02",
-      null
+      38
     ]
   ],
   "My Little Prince - A jigsaw puzzle tale": [
@@ -236978,7 +236994,7 @@
     ],
     [
       "2025/10/02",
-      null
+      108
     ]
   ],
   "Water Sort Challenge": [
@@ -253462,7 +253478,7 @@
     ],
     [
       "2025/10/02",
-      null
+      78
     ]
   ],
   "HOTEL BARCELONA": [
@@ -254383,6 +254399,54 @@
     [
       "2025/10/02",
       null
+    ]
+  ],
+  "Bloodshed": [
+    [
+      "2025/10/02",
+      null
+    ]
+  ],
+  "Pixicharm - Goo Patrol": [
+    [
+      "2025/10/02",
+      9
+    ]
+  ],
+  "FatalZone": [
+    [
+      "2025/10/02",
+      78
+    ]
+  ],
+  "Memory Holder: Scent of Life": [
+    [
+      "2025/10/02",
+      18
+    ]
+  ],
+  "Cloud to Gold": [
+    [
+      "2025/10/02",
+      null
+    ]
+  ],
+  "Comic Store Arcade": [
+    [
+      "2025/10/02",
+      18
+    ]
+  ],
+  "Contraband Border Police Simulator": [
+    [
+      "2025/10/02",
+      78
+    ]
+  ],
+  "The Witch’s Redemption": [
+    [
+      "2025/10/02",
+      108
     ]
   ]
 }
