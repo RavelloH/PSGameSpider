@@ -238231,6 +238231,10 @@
     [
       "2025/02/03",
       null
+    ],
+    [
+      "2025/11/07",
+      null
     ]
   ],
   "Spacepunk Survival": [
@@ -290346,7 +290350,7 @@
     ],
     [
       "2025/11/07",
-      null
+      238
     ]
   ],
   "Grayland Remastered": [
@@ -291311,6 +291315,36 @@
     [
       "2025/11/07",
       38
+    ]
+  ],
+  "Dark Deity 2": [
+    [
+      "2025/11/07",
+      198
+    ]
+  ],
+  "Fantasy Desire: Anime Girls Saga": [
+    [
+      "2025/11/07",
+      38
+    ]
+  ],
+  "Police Chase Simulator: Highway Racers Pursuit": [
+    [
+      "2025/11/07",
+      null
+    ]
+  ],
+  "Retro Motel Simulator": [
+    [
+      "2025/11/07",
+      null
+    ]
+  ],
+  "ZOO MANAGER SIMULATOR": [
+    [
+      "2025/11/07",
+      null
     ]
   ]
 }
