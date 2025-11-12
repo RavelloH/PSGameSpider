@@ -6597,6 +6597,10 @@
     [
       "2025/06/18",
       69800
+    ],
+    [
+      "2025/11/12",
+      null
     ]
   ],
   "Call of Duty®: Modern Warfare® Remastered": [
@@ -259708,7 +259712,7 @@
     ],
     [
       "2025/11/12",
-      null
+      5800
     ]
   ],
   "Urban Driver Simulator: City Explorer Challenge": [
@@ -260256,7 +260260,7 @@
     ],
     [
       "2025/11/12",
-      null
+      16800
     ]
   ],
   "Monster House Racing": [
@@ -260762,7 +260766,7 @@
     ],
     [
       "2025/11/12",
-      null
+      2400
     ]
   ],
   "Ambulance Simulator 911 RESCUE": [
@@ -260784,7 +260788,7 @@
     ],
     [
       "2025/11/12",
-      null
+      16800
     ]
   ],
   "Harvest Life": [
@@ -260877,6 +260881,18 @@
     [
       "2025/11/12",
       34800
+    ]
+  ],
+  "Morsels": [
+    [
+      "2025/11/12",
+      null
+    ]
+  ],
+  "Arc Seed": [
+    [
+      "2025/11/12",
+      22800
     ]
   ]
 }
