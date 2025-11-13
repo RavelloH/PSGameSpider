@@ -69671,6 +69671,10 @@
     [
       "2025/09/30",
       null
+    ],
+    [
+      "2025/11/13",
+      null
     ]
   ],
   "Assassin’s Creed® Chronicles: Trilogy Pack": [
@@ -75156,6 +75160,10 @@
     ],
     [
       "2025/09/30",
+      null
+    ],
+    [
+      "2025/11/13",
       null
     ]
   ],
@@ -313273,6 +313281,30 @@
     [
       "2025/11/13",
       8360
+    ]
+  ],
+  "Sophia’s Animal Clinic - Mission Wildlife Park": [
+    [
+      "2025/11/13",
+      null
+    ]
+  ],
+  "RIDE 6": [
+    [
+      "2025/11/13",
+      8910
+    ]
+  ],
+  "Mage Arena: Voice of Magic": [
+    [
+      "2025/11/13",
+      1100
+    ]
+  ],
+  "World is Lava": [
+    [
+      "2025/11/13",
+      330
     ]
   ]
 }
