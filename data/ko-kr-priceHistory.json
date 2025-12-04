@@ -138929,10 +138929,6 @@
     [
       "2025/12/01",
       10200
-    ],
-    [
-      "2025/12/04",
-      6120
     ]
   ],
   "Purpose 1951": [
@@ -282360,7 +282356,7 @@
     ],
     [
       "2025/12/04",
-      null
+      10800
     ]
   ],
   "Just a Little Purr Suit": [
@@ -284314,7 +284310,7 @@
     ],
     [
       "2025/12/04",
-      null
+      5800
     ]
   ],
   "Pixicharm - Orunex": [
@@ -284635,6 +284631,49 @@
     [
       "2025/12/03",
       16800
+    ]
+  ],
+  "Puzzle Piecer: The Holiday Spirit": [
+    [
+      "2025/12/04",
+      2400
+    ]
+  ],
+  "Christmas Store: Santa's Supermarket Simulator": [],
+  "Christmas Tree: Holiday Decorate Simulator": [
+    [
+      "2025/12/04",
+      5800
+    ]
+  ],
+  "I'm on Observation Duty 8": [
+    [
+      "2025/12/04",
+      null
+    ]
+  ],
+  "Mini Golf Quest": [
+    [
+      "2025/12/04",
+      2400
+    ]
+  ],
+  "Pixicharm Collection 7": [
+    [
+      "2025/12/04",
+      5800
+    ]
+  ],
+  "ReSetna": [
+    [
+      "2025/12/04",
+      16800
+    ]
+  ],
+  "Sacrifice For Sale": [
+    [
+      "2025/12/04",
+      10800
     ]
   ]
 }
