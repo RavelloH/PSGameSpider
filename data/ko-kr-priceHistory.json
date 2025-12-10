@@ -178541,6 +178541,10 @@
     [
       "2025/06/04",
       22000
+    ],
+    [
+      "2025/12/10",
+      22800
     ]
   ],
   "Christmas Race": [
@@ -283124,7 +283128,7 @@
     ],
     [
       "2025/12/10",
-      null
+      16800
     ]
   ],
   "ZOO MANAGER SIMULATOR": [
@@ -284198,7 +284202,7 @@
     ],
     [
       "2025/12/10",
-      null
+      22800
     ]
   ],
   "Mind Twist": [
@@ -284612,7 +284616,7 @@
     ],
     [
       "2025/12/10",
-      null
+      22800
     ]
   ],
   "Mobile Suit Gundam: Silver Phantom": [
@@ -284991,6 +284995,72 @@
     [
       "2025/12/10",
       1200
+    ]
+  ],
+  "The Sinking City Remastered": [
+    [
+      "2025/12/10",
+      54800
+    ]
+  ],
+  "잊혀진 땅 4": [
+    [
+      "2025/12/10",
+      null
+    ]
+  ],
+  "Cloudberry Kingdom 클라우드베리 킹덤": [
+    [
+      "2025/12/10",
+      null
+    ]
+  ],
+  "Coinfields": [
+    [
+      "2025/12/10",
+      5800
+    ]
+  ],
+  "Mini Ghost": [
+    [
+      "2025/12/10",
+      null
+    ]
+  ],
+  "크리스마스 뮤티레이터(Christmas Mutilator)": [
+    [
+      "2025/12/10",
+      10800
+    ]
+  ],
+  "Arcade Archives 2 ROC'N ROPE": [
+    [
+      "2025/12/10",
+      10800
+    ]
+  ],
+  "Labubu Battle Royale": [
+    [
+      "2025/12/10",
+      5800
+    ]
+  ],
+  "Military Logistics Simulator": [
+    [
+      "2025/12/10",
+      null
+    ]
+  ],
+  "THE EXIT: LIMINAL SUPERMARKET HORROR": [
+    [
+      "2025/12/10",
+      5800
+    ]
+  ],
+  "툼 레이더 IV-VI 리마스터": [
+    [
+      "2025/12/10",
+      49800
     ]
   ]
 }
