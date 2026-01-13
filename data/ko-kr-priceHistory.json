@@ -315253,6 +315253,10 @@
     [
       "2025/11/30",
       10800
+    ],
+    [
+      "2026/01/13",
+      5800
     ]
   ],
   "StrikeCam: FPS Ops": [
@@ -316312,7 +316316,7 @@
     ],
     [
       "2026/01/13",
-      null
+      5800
     ]
   ],
   "Hextreme Void": [
@@ -317453,6 +317457,60 @@
     [
       "2026/01/12",
       16800
+    ]
+  ],
+  "Escape from Ever After": [
+    [
+      "2026/01/13",
+      null
+    ]
+  ],
+  "Bounty Star": [
+    [
+      "2026/01/13",
+      27800
+    ]
+  ],
+  "I Hate This Place": [
+    [
+      "2026/01/13",
+      null
+    ]
+  ],
+  "Soulslinger: Envoy of Death": [
+    [
+      "2026/01/13",
+      null
+    ]
+  ],
+  "Star Trek™: Voyager® - Across the Unknown": [
+    [
+      "2026/01/13",
+      44800
+    ]
+  ],
+  "Dustland Delivery": [
+    [
+      "2026/01/13",
+      null
+    ]
+  ],
+  "OneTry": [
+    [
+      "2026/01/13",
+      16800
+    ]
+  ],
+  "UFL": [
+    [
+      "2026/01/13",
+      null
+    ]
+  ],
+  "Pixel Puzzles Anime Jigsaws": [
+    [
+      "2026/01/13",
+      5800
     ]
   ]
 }
