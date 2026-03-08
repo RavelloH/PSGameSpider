@@ -17,7 +17,7 @@
         "mail": "ravelloh@outlook.com",
         "copyrightStartTime": "2019",
         "defaultScript": "<script>function main(){}</script>",
-        "analyticScript": "<script async src=\"/assets/js/analysis.js\" onload=\"umamiAnalytics()\"></script>",
+        "analyticScript": "<script defer src=\"https://insight.ravelloh.com/script.js?siteId=12f27cea-19af-44e6-a99c-20cc7b292ec0\"></script>>",
         "remotePath": "https://static.ravelloh.top"
     },
     "mainTemplate": "layout.html"
