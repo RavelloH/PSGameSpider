@@ -30839,6 +30839,10 @@
     [
       "2026/07/29",
       310
+    ],
+    [
+      "2026/08/05",
+      308.88
     ]
   ],
   "NieR:Automata": [
@@ -160292,10 +160296,6 @@
   "探险家斯皮兰卡": [
     [
       "2025/01/19",
-      null
-    ],
-    [
-      "2026/08/05",
       null
     ]
   ],
@@ -539228,5 +539228,8 @@
   "The Walking Dead: Streets of Survival": [],
   "Dungeon Of Dragon Knight REMAKE": [],
   "Akatori": [],
-  "超翼战骑艾斯提克": []
+  "超翼战骑艾斯提克": [],
+  "Arcade Archives 2 COMBAT SCHOOL": [],
+  "Console Archives UFO -A day in the life-": [],
+  "魔神少女 Episode 4 传达思念": []
 }
