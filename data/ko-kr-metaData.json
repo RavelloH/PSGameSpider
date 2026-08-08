@@ -65,7 +65,7 @@
     "fullname": "붕괴: 스타레일 (중국어(간체자), 한국어, 태국어, 영어, 일본어, 중국어(번체자))",
     "description": "은하 판타지 RPG",
     "publisher": "COGNOSPHERE PTE. LTD.",
-    "rate": "4.44",
+    "rate": "4.43",
     "releaseTime": "10/10/2023",
     "platform": "PS5",
     "type": "어드벤처, 롤플레잉 게임",
@@ -125,7 +125,7 @@
     "fullname": "Monster Hunter Wilds (중국어(간체자), 한국어, 태국어, 영어, 일본어, 중국어(번체자))",
     "category": "제품판",
     "description": "거칠고 치열한 자연의 습격.  시시각각 역동적으로 그 모습을 바꾸는 필드. 양면성을 지닌 세계를 살아가는 몬스터와 사람들의 이야기.  당신은 강력하고 거대한 몬스터를 사냥하는 것을 업으로 삼는 헌터가 되어, 사냥을 통해 얻은 소재로 보다 더 강한 무기와 방어구를 제작하고, 그 세계와 사람들 사이의 관계를 풀어가야 한다.  더욱더 발전한 헌팅 액션과 끊임없는 몰입감을 추구하는 궁극의 사냥 체험이 당신을 기다리고 있다.  STORY 수년 전, 길드가 조사한 적이 없는 미지의 영역 「금지된 땅」과의 경계에서 「나타」라는 한 소년이 보호되었다. 의문의 몬스터의 습격으로부터 홀로 도망쳐 나온 그의 말을 단서로 길드는 조사대를 결정. 「하얀 그림자」라 불리는 몬스터의 조사와, 습격당한 수호자 일족의 구조를 임명 받은 헌터들 「조사대｣의 여정이 지금 시작된다.  A　LIVING WORLD  살아 숨쉬는 세계 굶주린 몬스터가 무리 지어 다투는 가혹한 ｢황폐기｣와, ｢기상 이변｣을 통해 맞이하는 생명이 넘처 흐르는 ｢풍요기｣라는 양면성을 지니고 있어, 같은 장소에 있더라도 때에 따라 전혀 다른 모습을 보이게 된다.  MONSTERS  몬스터 저마다 독특한 특징을 지닌 몬스터들이 등장. 각 특징을 살려 환경에 적응하고 있다. 「기상 이변」이 발생하면 그 생태계의 정점에 군림하는 강력한 몬스터까지 모습을 보인다.  HUNTING  헌팅 다채로운 무기와 장비, 그리고 새로운 액션. 몬스터의 행동이나 환경을 이용한 사냥은 새로운 진화를 맞이한다. 신규 액션 「집중 모드」는 목표를 조준해 공격과 가드를 할 수 있다. 몬스터의 약점을 노리면 특별한 파생으로 이어져 큰 대미지를 줄 수 있다.  CHARACTERS  등장인물 든든한 파트너와 조사대의 동료 등, 헌터의 사냥 생활을 돕는 존재가 다수 등장. ",
-    "price": 84800,
+    "price": 45800,
     "priceCurrency": "KRW",
     "publisher": "CAPCOM ASIA",
     "rate": "4.10",
@@ -235,7 +235,7 @@
     "fullname": "퍼스트 디센던트 (중국어(간체자), 한국어, 영어, 일본어, 중국어(번체자))",
     "description": "언리얼 엔진5 기반 크로스플레이가 가능한 free-to-play 차세대 3인칭 루트슈터",
     "publisher": "NEXON",
-    "rate": "3.97",
+    "rate": "3.96",
     "releaseTime": "30/6/2024",
     "platform": "PS5",
     "type": "슈팅",
@@ -768,7 +768,7 @@
     "fullname": "소닉×섀도우 제너레이션즈 PS4 & PS5 (중국어(간체자), 한국어, 태국어, 영어, 일본어, 중국어(번체자))",
     "description": "두 가지 하이 스피드 액션을 하나로",
     "publisher": "SEGA CORPORATION",
-    "rate": "4.63",
+    "rate": "4.62",
     "releaseTime": "24/10/2024",
     "platform": "PS4, PS5",
     "type": "액션",
@@ -1187,14 +1187,14 @@
     "img": "images/885df71ef245b81dcd0ec322fdb9a0c2.jpg",
     "path": "https://store.playstation.com/ko-kr/concept/10003168",
     "lang": "ko-kr",
-    "fullname": "시드 마이어의 문명® VII (중국어(간체자), 한국어, 영어, 일본어, 중국어(번체자))",
+    "fullname": "시드 마이어의 문명® VII 디럭스 에디션 (중국어(간체자), 한국어, 영어, 일본어, 중국어(번체자))",
     "category": "게임 번들",
     "description": "당신의 믿음을 실현하세요",
-    "price": 83000,
+    "price": 59450,
     "priceCurrency": "KRW",
     "publisher": "Take-Two",
     "rate": "2.84",
-    "releaseTime": "10/2/2025",
+    "releaseTime": "5/2/2025",
     "platform": "PS4, PS5",
     "type": "전략"
   },
@@ -1273,7 +1273,7 @@
     "price": 69800,
     "priceCurrency": "KRW",
     "publisher": "Bandai Namco Entertainment",
-    "rate": "4.68",
+    "rate": "4.67",
     "releaseTime": "24/8/2023",
     "platform": "PS4, PS5",
     "type": "액션, 어드벤처"
@@ -1457,7 +1457,7 @@
     "lang": "ko-kr",
     "fullname": "World of Tanks Modern Armor (영어, 일본어)",
     "category": "제품판",
-    "description": "기간 한정 마스터 오브 메이헴 애초에 안전하게 플레이할 운명이 아니었습니다. 마스터 오브 메이헴에서 혼돈을 해방하고 전투를 통해 골드, 실버, 프리미엄 계정 등의 보상으로 가득한 단계 100개를 돌파하십시오. 강력한 신규 전차를 획득하고, 한정 콘텐츠를 받고, 적군에게 대혼란이 전장을 휩쓸면 어떻게 되는지 제대로 보여 주십시오.  전장의 부름  World of Tanks Modern Armor에서는 현대 전차 및 전설로 남은 전차를 도합 1,000대 이상 만나볼 수 있습니다. 전략적인 15 대 15 팀 전투에서 실력을 시험해 보십시오. 현대적 분위기에서 빠른 페이스로 진행되는 냉전 시대 전투와 진중한 전략 전술이 가미된 제2차 세계대전 시대 전투 중 하나를 선택하여 참여할 수 있습니다. 전장을 그대로 가져다 놓은듯 세밀한 지도를 만나 보십시오    역사를 대표하는 막강한 병기  Sherman 등 제2차 세계대전을 대표하는 전차와 M1 Abrams와 같은 현대 전차를 운용하여 역사를 재현해 보십시오. 전차를 수집하고, 강화하고, 위장을 적용하고, 더더욱 강력한 전차를 해제해 보십시오. 다양한 3D 전차장 중 한 명을 선택하여 군함에 배치할 수 있습니다.   전 세계적인 경쟁  게임을 무료로 플레이하면서 도전과 보상으로 가득한 주간 콘텐츠, 특별 콜라보레이션, 새로운 시즌을 즐겨 보십시오. PvP 모드와 PvE 모드를 모두 플레이할 수 있습니다. 친구와 함께 팀을 구성하여 World of Tanks Modern Armor에 참전하고 실력을 시험해 보십시오.   전차가 기다립니다. 전장에서 뵙겠습니다  세부 정보는 WoTModernArmor.com에서 확인할 수 있습니다.  © 2026 Merchenaries LLC Under License to Global Merchandising Services Ltd. ",
+    "description": "기간 한정 FIVE FINGER DEATH PUNCH 멀티 플래티넘을 달성한 강력한 메탈 밴드의 등장을 기념하여 특별 콘텐츠를 준비했습니다. Five Finger Death Punch 테마 신규 전차 2대, 밴드에서 영감을 받은 신규 3D 전차장 등 다양한 기간 한정 상품을 만나보십시오.  전장의 부름  World of Tanks Modern Armor에서는 현대 전차 및 전설로 남은 전차를 도합 1,000대 이상 만나볼 수 있습니다. 전략적인 15 대 15 팀 전투에서 실력을 시험해 보십시오. 현대적 분위기에서 빠른 페이스로 진행되는 냉전 시대 전투와 진중한 전략 전술이 가미된 제2차 세계대전 시대 전투 중 하나를 선택하여 참여할 수 있습니다. 전장을 그대로 가져다 놓은듯 세밀한 지도를 만나 보십시오    역사를 대표하는 막강한 병기  Sherman 등 제2차 세계대전을 대표하는 전차와 M1 Abrams와 같은 현대 전차를 운용하여 역사를 재현해 보십시오. 전차를 수집하고, 강화하고, 위장을 적용하고, 더더욱 강력한 전차를 해제해 보십시오. 다양한 3D 전차장 중 한 명을 선택하여 군함에 배치할 수 있습니다.   전 세계적인 경쟁  게임을 무료로 플레이하면서 도전과 보상으로 가득한 주간 콘텐츠, 특별 콜라보레이션, 새로운 시즌을 즐겨 보십시오. PvP 모드와 PvE 모드를 모두 플레이할 수 있습니다. 친구와 함께 팀을 구성하여 World of Tanks Modern Armor에 참전하고 실력을 시험해 보십시오.   전차가 기다립니다. 전장에서 뵙겠습니다  세부 정보는 WoTModernArmor.com에서 확인할 수 있습니다.  © 2026 Merchenaries LLC Under License to Global Merchandising Services Ltd. ",
     "publisher": "WARGAMING WORLD LIMITED",
     "rate": "4.07",
     "releaseTime": "26/10/2021",
@@ -1777,7 +1777,7 @@
     "price": 16200,
     "priceCurrency": "KRW",
     "publisher": "Activision",
-    "rate": "4.34",
+    "rate": "4.35",
     "releaseTime": "2/11/2017",
     "platform": "PS4",
     "type": "슈팅, 슈팅"
@@ -3053,7 +3053,7 @@
     "price": 41880,
     "priceCurrency": "KRW",
     "publisher": "KOEI TECMO GAMES CO., LTD.",
-    "rate": "3.75",
+    "rate": "3.76",
     "releaseTime": "23/10/2024",
     "platform": "PS4, PS5",
     "type": "전략, 시뮬레이션"
@@ -3671,7 +3671,7 @@
     "fullname": "Warhammer 40,000: Darktide (중국어(간체자), 한국어, 영어, 일본어, 중국어(번체자))",
     "description": "테르티움이 몰락하면 이교도들이 일어날 것입니다",
     "publisher": "FATSHARK AB",
-    "rate": "4.05",
+    "rate": "4.04",
     "releaseTime": "3/12/2024",
     "platform": "PS5",
     "type": "액션",
@@ -4525,7 +4525,7 @@
     "fullname": "DayZ (중국어(간체자), 영어, 일본어, 중국어(번체자))",
     "description": "DayZ는 수단과 방법을 가리지 않고 살아남아야 하는 하드코어 오픈월드 서바이벌 게임입니다. 하지만 사방에 수많은 위협이 도사리고 있으니, 생존이 말만큼 쉬운 일은 아닙니다...  주요 특징  • 체크포인트나 저장이 없으므로 죽으면 모든 것을 잃고 처음부터 다시 시작해야 합니다.  • 사냥, 제작, 건설, 체력 보존, 자원 관리를 포함하여 복잡하고 실감 나는 생존 시스템을 갖추었습니다.  • 다른 플레이어들과의 예측할 수 없는 대립과 때로는 감동적인 만남을 통해 무한하고 새로운 게임 플레이를 즐길 수 있습니다.  • 230km2에 이르는 방대한 맵에 실제 장소를 바탕으로 만들어진 아름다운 지형지물이 펼쳐집니다.  • 최대 60명의 플레이어가 모든 수단을 동원해서 생존을 꾀합니다. 친구가 되거나, 보이는 즉시 사살하거나, 낯선 이를 납치하거나, 적을 굴복시키거나, 콩 통조림 하나에 상대를 배신하세요. 이곳에선 무엇이든 가능합니다.  • 다양한 환경적 위협 요소가 당신의 생존 능력을 테스트합니다. 변덕스러운 날씨와 위험한 야생동물부터, 칠흑 같은 밤과 분노에 휩싸인 감염자까지 말이죠.  리보니아에 진입하세요. 야생동물, 폐허, 숨겨진 지역으로 가득한 리보니아는 163km2에 이르는 들판, 숲, 그리고 초보자와 DayZ 베테랑 모두에게 흥미롭고 특별한 경험을 선사하는 수수께끼의 지형지물을 제공합니다.  지형을 탐험하세요. 다양하고 흥미진진한 미지의 장소가 용감하고 모험심 강한 이들을 기다리고 있습니다. 탁한 늪, 버려진 산장, 제재소, 벌채 지역, 폭발물이 잔뜩 남아 있는 거대한 채석장을 탐험하세요.   곰을 따라가세요. 리보니아는 식량이 부족합니다. 생존하려면 혹독한 야생 환경 속에서 사냥하고, 낚시하고, 먹이를 찾는 법을 습득해야 합니다. 다행히도 이 땅은 대종말 이전보다 훨씬 더 강한 생명력으로 되살아나고 있습니다.  비밀을 파헤치세요. 남쪽으로 가서 수수께끼의 지하 시설로 이어지는 비밀 입구를 찾으세요. 입구를 찾을 때는 꼭 친구와 함께 가세요. 보급 물자와 손전등도 꼭 챙겨야 합니다. 그렇지 않으면 칠흑처럼 깜깜한 미로 속에서 길을 잃게 될 수도 있으니까요. ",
     "publisher": "BOHEMIA INTERACTIVE STUDIO",
-    "rate": "3.56",
+    "rate": "3.57",
     "releaseTime": "23/8/2020",
     "platform": "PS4",
     "type": "어드벤처, 슈팅, 롤플레잉 게임",
@@ -4541,7 +4541,7 @@
     "fullname": "SUPER BOMBERMAN R 2 PS4 & PS5 (중국어(간체자), 한국어, 영어, 일본어, 중국어(번체자))",
     "description": "파티 배틀 게임 「슈퍼 봄버맨  R」 시리즈 최신작",
     "publisher": "KONAMI",
-    "rate": "3.57",
+    "rate": "3.58",
     "releaseTime": "13/9/2023",
     "platform": "PS4, PS5",
     "type": "파티, 액션",
@@ -4589,7 +4589,7 @@
     "fullname": "성탑신기 트리니티 트리거 (한국어, 일본어, 중국어(번체자))",
     "description": "셋이서 함께라면 운명도 바꿀 수 있어 왕도 판타지의 세계를 모험하고 발견함으로써 강해지는 액션 RPG.",
     "publisher": "Arc System Works Co., Ltd.",
-    "rate": "3.74",
+    "rate": "3.75",
     "releaseTime": "18/1/2023",
     "platform": "PS4, PS5",
     "type": "액션",
@@ -5242,7 +5242,7 @@
     "price": 59800,
     "priceCurrency": "KRW",
     "publisher": "Bandai Namco Entertainment",
-    "rate": "4.58",
+    "rate": "4.57",
     "releaseTime": "26/10/2017",
     "platform": "PS4",
     "type": "음악/리듬"
@@ -5713,7 +5713,7 @@
     "price": 27800,
     "priceCurrency": "KRW",
     "publisher": "Dear Villagers",
-    "rate": "3.72",
+    "rate": "3.73",
     "releaseTime": "6/2/2025",
     "platform": "PS5",
     "type": "액션"
@@ -6078,7 +6078,7 @@
     "fullname": "MechWarrior 5: Clans (영어, 일본어)",
     "description": "MECHWARRIOR 5 CLANS에서 플레이어는 새 Smoke Jaguar 파일럿이 되어 이너 스피어의 Clan 침공 현장에서 활약합니다. Mech 다섯 대로 구성된 Star 분대를 이끌고 다양한 행성을 누비며 몰입도 높은 게임플레이와 복잡한 전투가 펼쳐지는 광활한 캠페인에 참여하세요. 최첨단 기술로 BattleMechs를 커스터마이징하고 전략적 옵션을 탐구하세요. Clan Smoke Jaguar의 시점에서 Clan 침공을 경험하며 흥미진진한 미션과 전투를 통해 Star 분대를 이끌고 MechWarrior에서 지금껏 본 적 없는 시네마틱 영상을 확인하세요. 전략적 적응은 승리의 열쇠입니다. 새로운 전투 그리드, 커맨드 휠, 간소화된 컨트롤로 그 어느 때보다 쉽게 접근해 보세요 첨단 Clan 무기 시스템, 장비, 업그레이드로 Mechs를 커스터마이징하여 미션별 전투에 대비하고 새로운 파일럿 성장 시스템으로 파일럿을 성장시켜 나가세요 최신 Unreal Engine과 새로운 기술 업데이트로 구현한 상세한 환경과 역동적 파괴가 돋보이는 독립형 캠페인으로 지금껏 경험해 보지 못한 MechWarrior를 만나 보세요 다른 플레이어 최대 4명과 함께 Star 분대를 지키고 이끌며 복잡한 미션과 짜릿한 전투를 진행하세요 ",
     "publisher": "Piranha Games Inc.",
-    "rate": "4.10",
+    "rate": "4.09",
     "releaseTime": "17/10/2024",
     "platform": "PS5",
     "type": "슈팅",
@@ -6305,7 +6305,7 @@
     "price": 34800,
     "priceCurrency": "KRW",
     "publisher": "Kepler Interactive Limited",
-    "rate": "4.06",
+    "rate": "4.05",
     "releaseTime": "21/2/2024",
     "platform": "PS5",
     "type": "드라이빙/레이싱, 액션"
@@ -6385,7 +6385,7 @@
     "price": 29120,
     "priceCurrency": "KRW",
     "publisher": "KOEI TECMO GAMES CO., LTD.",
-    "rate": "4.36",
+    "rate": "4.35",
     "releaseTime": "27/9/2023",
     "platform": "PS4, PS5",
     "type": "액션, 롤플레잉 게임"
@@ -6762,7 +6762,7 @@
     "price": 34800,
     "priceCurrency": "KRW",
     "publisher": "H2 INTERACTIVE CO., LTD.",
-    "rate": "4.34",
+    "rate": "4.33",
     "releaseTime": "3/10/2024",
     "platform": "PS5",
     "type": "슈팅, 액션, 음악/리듬"
@@ -7861,7 +7861,7 @@
     "price": 8964,
     "priceCurrency": "KRW",
     "publisher": "Bandai Namco Entertainment",
-    "rate": "3.89",
+    "rate": "3.88",
     "releaseTime": "11/3/2020",
     "platform": "PS4",
     "type": "액션"
@@ -8000,7 +8000,7 @@
     "fullname": "스파이 패밀리 오퍼레이션 다이어리 PS4 & PS5 (중국어(간체자), 한국어, 중국어(번체자))",
     "description": "위장 가족이 그리는 일상의 한 페이지",
     "publisher": "Bandai Namco Entertainment",
-    "rate": "4.54",
+    "rate": "4.55",
     "releaseTime": "26/6/2024",
     "platform": "PS4, PS5",
     "type": "어드벤처",
@@ -8381,7 +8381,7 @@
     "fullname": "타이니 티나의 원더랜드: 넥스트 레벨 에디션 (중국어(간체자), 한국어, 영어, 일본어, 중국어(번체자))",
     "description": "기발하고도 놀라우며, 초강력 무기로 가득한 전설적인 모험을 떠나세요 타이니 티나가 창조한 엉뚱한 판타지 월드에서 총알과 마법 그리고 검이 서로 격돌합니다. 여러분만의 멀티클래스 영웅을 만들고, 포악한 용의 군주를 막을 퀘스트를 하며 기이한 몬스터와 아이템으로 가득한 던전을 탐색하고, 쏘고, 베고, 줍고, 발사하며 나아가세요. 환상의 파티에서 모두를 환영합니다. 모험에 떠날 채비를 하고 엉뚱한 판타지에 들어오세요   에디션 구성품 -기본 게임 -PlayStation®5 콘솔에 최적화 -용의 군주 팩 보너스 콘텐츠로 여러분의 사악함을 드러내세요   예측할 수 없는 판타지 월드 규칙이 적용되는 법이 드문, 끝내주는 보드게임 왕국에서 여러분을 안내할 엉망진창 가이드는 바로 타이니 티나입니다. 웅장한 도시, 습기로 가득한 버섯 숲, 불길한 요새가 있는 넓디넓은 세계를 탐험해 보세요   총, 마법 그리고 그 이상 일인칭 시점에서 펼쳐지는 정신없는 전투 속에서 악당들을 강력한 총과 무시무시한 주문으로 터뜨려 버리세요. 뒷담화하는 해골들, 땅을 헤엄치는 상어들, 거대한 보스들을 포함한 적 군단을 태워 버리세요. 그리고 전설급 아이템을 찾아 위험한 던전 속으로 뛰어드세요 그리고 전설적인 아이템을 찾아 위험한 던전 속으로 뛰어드세요   파티를 맺고 악을 물리치세요 보드게임에는 고집불통 선장 밸런타인과 룰에 집착하는 로봇 프렛이 여러분과 함께합니다. 용의 군주를 물리칠 퀘스트를 진행하며 여러분은 류트를 든 야만시인이나 여러분만의 펀치파더 요정과 같은, 사랑스러운 사회 부적응자를 만날 것입니다.   영웅을 원하는 대로 꾸미세요 여섯 개의 캐릭터 스킬 트리를 원하는 대로 조합할 수 있는 멀티클래스 시스템과 깊이 있는 캐릭터 커스터마이제이션으로 완벽한 영웅을 만드세요. 레벨 업을 하고, 빌드를 다듬고, 무기를 수집해 궁극의 모험가가 되세요.   혼란스러운 협동 플레이로 뭉치세요 혼자 플레이하거나, 최대 3명의 친구와 함께 심리스 온라인 멀티플레이를 하거나, 스크린 분할로 한자리에서 스토리를 즐기세요. 아이템을 서로 나누거나 서둘러 가장 귀한 아이템을 집으세요. 어떻게 플레이할지는 여러분의 몫입니다 ",
     "publisher": "Take-Two",
-    "rate": "4.00",
+    "rate": "4.01",
     "releaseTime": "24/3/2022",
     "platform": "PS4, PS5",
     "type": "슈팅",
@@ -9462,7 +9462,7 @@
     "fullname": "왕국과 성 (중국어(간체자), 한국어, 영어, 일본어, 중국어(번체자))",
     "description": "왕국과 성 는 작은 마을에서 거대한 도시와 웅장한 성으로 왕국을 키우는 도시 건설 시뮬레이션 게임입니다.  여러분의 왕국은 살아 있고 위험한 세상에서 살아남아야 합니다. 바이킹 약탈자들이 마을 사람들을 훔쳐갔을까요 아니면 성문에서 화살로 가득 찬 채로 멈췄을까요 용이 여러분의 곡물 창고에 불을 지르고, 겨울에 사람들이 굶어 죽을까요 아니면 짐승을 물리칠 수 있을까요 왕국의 성공은 도시와 성 계획자로서의 여러분의 기술에 전적으로 달려 있습니다.  여러분의 선택이 영역의 번영과 생존을 결정하는 매혹적인 도시 건설 모험인 왕국과 성 에서 왕국의 운명을 개척하세요. ",
     "publisher": "BLITWORKS SL",
-    "rate": "4.50",
+    "rate": "4.49",
     "releaseTime": "23/12/2024",
     "platform": "PS4, PS5",
     "type": "전략, 시뮬레이터",
@@ -9494,7 +9494,7 @@
     "fullname": "SNK 40th ANNIVERSARY COLLECTION (한국어판)",
     "description": "■ 수록 타이틀 리스트 일본어 버전, 해외 버전영어 모두 수록  ・Alpha Mission ArcadeConsole ・Athena ArcadeConsole ・Beast Busters Arcade ・Bermuda Triangle Arcade ・Chopper I Arcade ・Crystalis Console ・Fantasy Arcade ・Guerrilla War ArcadeConsole ・Ikari III ArcadeConsole ・Ikari Warriors ArcadeConsole ・Munch Mobile Arcade ・Ozma Wars Arcade ・P.O.W. ArcadeConsole ・Paddle Mania Arcade ・Prehistoric Isle Arcade ・Psycho Soldier Arcade ・SAR Search and Rescue Arcade ・Sasuke vs. Commander Arcade ・Street Smart Arcade ・T.N.K. III ArcadeConsole ・Time Soldiers Arcade ・Vanguard Arcade ・Victory Road ArcadeConsole ・World Wars Arcade  2018년은 전설적인 게임 스튜디오 SNK의 브랜드 40주년을 기념하는 해입니다. 이를 기념하여 SNK의 황금 시대를 빛낸 아케이드, 가정용 게임이 하나의 콜렉션 타이틀로서 PS4™로 부활 SNK 40th ANNIVERSARY COLLECTION에는 다양한 추억의 게임과 함께 새로운 기능도 다수 탑재되어 있습니다  ※ 본 작의 유저 인터페이스 및 게임 내‘뮤지엄 모드’에서는 중국어번체자한국어 자막을 지원합니다.  권리표기 ©SNK CORPORATION ALL RIGHTS RESERVED. ",
     "publisher": "SNK CORPORATION",
-    "rate": "4.39",
+    "rate": "4.40",
     "releaseTime": "24/4/2019",
     "platform": "PS4",
     "type": "아케이드, 아케이드, 액션",
@@ -9881,7 +9881,7 @@
     "price": 27800,
     "priceCurrency": "KRW",
     "publisher": "A2D Software Inc.",
-    "rate": "3.83",
+    "rate": "3.82",
     "releaseTime": "19/12/2024",
     "platform": "PS5",
     "type": "시뮬레이션"
@@ -10487,7 +10487,7 @@
     "price": 34800,
     "priceCurrency": "KRW",
     "publisher": "Smilegate",
-    "rate": "3.99",
+    "rate": "4.00",
     "releaseTime": "29/8/2023",
     "platform": "PS5",
     "type": "슈팅"
@@ -10836,7 +10836,7 @@
     "price": 34800,
     "priceCurrency": "KRW",
     "publisher": "2 POINT 21 SAS",
-    "rate": "3.89",
+    "rate": "3.88",
     "releaseTime": "13/11/2024",
     "platform": "PS5",
     "type": "어드벤처"
@@ -10927,7 +10927,7 @@
     "price": 59800,
     "priceCurrency": "KRW",
     "publisher": "H2 Interactive Co., Ltd.",
-    "rate": "2.91",
+    "rate": "2.92",
     "releaseTime": "1/12/2023",
     "platform": "PS5",
     "type": "액션"
@@ -11180,7 +11180,7 @@
     "fullname": "Warm Snow (중국어(간체자), 한국어, 영어, 일본어, 중국어(번체자))",
     "description": "백련을 파괴하여 역병을 끝내세요",
     "publisher": "BILIBILI HK LIMITED",
-    "rate": "4.11",
+    "rate": "4.12",
     "releaseTime": "19/10/2023",
     "platform": "PS4, PS5",
     "type": "액션",
@@ -11640,7 +11640,7 @@
     "price": 20880,
     "priceCurrency": "KRW",
     "publisher": "AEROSOFT GMBH",
-    "rate": "2.82",
+    "rate": "2.83",
     "releaseTime": "9/12/2024",
     "platform": "PS5",
     "type": "시뮬레이터, 시뮬레이션"
@@ -11672,7 +11672,7 @@
     "price": 34800,
     "priceCurrency": "KRW",
     "publisher": "Microids",
-    "rate": "3.76",
+    "rate": "3.77",
     "releaseTime": "5/6/2024",
     "platform": "PS4, PS5",
     "type": "파티"
@@ -12008,7 +12008,7 @@
     "price": 22800,
     "priceCurrency": "KRW",
     "publisher": "Hipster Whale Pty Ltd",
-    "rate": "3.70",
+    "rate": "3.71",
     "releaseTime": "11/9/2024",
     "platform": "PS5",
     "type": "가족, 아케이드, 파티"
@@ -134590,7 +134590,7 @@
     "fullname": "Death Howl (중국어(간체자), 영어, 일본어)",
     "description": "나만의 덱을 만들고, 고유한 카드를 제작하고, 그리드 기반 전투에 참여하세요",
     "publisher": "11 BIT STUDIOS",
-    "rate": "4.62",
+    "rate": "4.63",
     "releaseTime": "19/2/2026",
     "platform": "PS5",
     "type": "전략",
@@ -134907,7 +134907,7 @@
     "fullname": "Pogui PS4 & PS5 (중국어(간체자), 영어)",
     "description": "기상천외한 플랫폼 스테이지에서 사랑스러운 강아지를 안전하게 안내해서, 평온한 낮잠 시간을 되찾아주세요",
     "publisher": "eastasiasoft",
-    "rate": "4.50",
+    "rate": "4.44",
     "releaseTime": "24/2/2026",
     "platform": "PS4, PS5",
     "type": "캐주얼, 어드벤처, 액션",
@@ -134923,7 +134923,7 @@
     "fullname": "Corner Kitchen Fast Food Simulator (중국어(간체자), 영어)",
     "description": "요리. 서빙. 확장. 패스트푸드 세계 지배하기",
     "publisher": "ULTIMATE GAMES",
-    "rate": "4.20",
+    "rate": "4.19",
     "releaseTime": "10/2/2026",
     "platform": "PS5",
     "type": "시뮬레이터, 캐주얼",
@@ -135036,7 +135036,7 @@
     "category": "제품판",
     "description": "명예와 영광을 꿈꿔본 적이 있나요 당신의 시간이 왔습니다 새로운 TV 쇼인 유물 찾기에서 스포트라이트 아래에서 사는 것을 시도해 보세요. 모험의 모든 시즌이 당신에게 깊은 인상을 남길 준비가 되어 있습니다. 다른 플레이어와 대결하여 관객의 사랑을 받으세요. 신중하게 설계된 장소를 탐험하고, 도우미와 대화하고, 어려운 퍼즐을 풀어보세요. 지능을 사용하여 별을 최대한 많이 획득하고 인내심을 보여주는 퀘스트 목표에 도달하세요. 쇼의 시청자들이 좋아할 것입니다 ",
     "publisher": "FIVE-BN STUDIO LLC",
-    "rate": "2.55",
+    "rate": "2.56",
     "releaseTime": "28/1/2026",
     "platform": "PS5",
     "type": "어드벤처"
@@ -135084,7 +135084,7 @@
     "price": 55090,
     "priceCurrency": "KRW",
     "publisher": "CLOUDED LEOPARD ENTERTAINMENT INC.",
-    "rate": "3.03",
+    "rate": "3.02",
     "releaseTime": "28/1/2026",
     "platform": "PS5",
     "type": "액션"
@@ -135305,7 +135305,7 @@
     "fullname": "Under The Island (중국어(간체자), 영어, 일본어, 중국어(번체자))",
     "description": "섬 아래에 숨겨진 전설을 발견하라",
     "publisher": "TOP HAT STUDIOS, INC.",
-    "rate": "4.39",
+    "rate": "4.38",
     "releaseTime": "17/2/2026",
     "platform": "PS4, PS5",
     "type": "어드벤처, 액션",
@@ -135417,7 +135417,7 @@
     "fullname": "Revenge On Gold Diggers (중국어(간체자), 영어, 중국어(번체자))",
     "description": "감정 사기 예방에 초점을 맞춘 최초의 인터랙티브 영화형 게임",
     "publisher": "NiuGamer Co., Ltd.",
-    "rate": "4.49",
+    "rate": "4.48",
     "releaseTime": "1/4/2026",
     "platform": "PS5",
     "type": "시뮬레이션, 액션",
@@ -135817,7 +135817,7 @@
     "fullname": "Ereban: Shadow Legacy (중국어(간체자), 한국어, 영어, 일본어)",
     "description": "그림자 속으로 뛰어들어라",
     "publisher": "Rainy Frog Co. Ltd",
-    "rate": "3.85",
+    "rate": "3.84",
     "releaseTime": "15/4/2026",
     "platform": "PS5",
     "type": "액션",
@@ -135945,7 +135945,7 @@
     "fullname": "Bubblegum Galaxy (영어)",
     "description": "Bubblegum Galaxy는 타일 하나하나씩 갤럭시를 재건하는 아늑한 내러티브 빌딩 게임입니다. 새로운 행성을 발견하고 디자인하며, 미션을 완료하고, 사무실을 탐험하고, 동료들과 친구가 되어 보세요… 그 모든 동안 갤럭시를 삭제한 사람이 누구인지 알아내려고 노력합니다  행성 건축가가 되어 보세요 작지만 믿을 수 있는 컴퓨터로 타일을 배치하여 행성을 설계할 수 있습니다. 효율적인 행성을 만들기 위해 소프트웨어는 비슷한 색의 타일을 연결하거나 특정 수의 나무를 심는 등의 미션을 제안합니다. 각 행성은 고유한 특성과 규칙을 가지고 있어, 이를 마스터해야 최고의 작업을 할 수 있습니다  동료들과 친구가 되세요 행성 디자인 세션 사이에 자유롭게 사무실을 돌아다니며, 주변을 살펴보고 동료들과 대화할 수 있습니다. 이 독특한 캐릭터들과 함께 수백 개의 특별한 이야기 이벤트를 경험해 보세요.  누가 갤럭시를 삭제했는지 알아보세요 인턴십을 시작한 날, 차원 간 우주 서버가 알 수 없는 이유로 다운되어 Bubblegum 갤럭시 전체가 삭제되었습니다. 행성 건축가로서의 능력을 증명하면 갤럭시가 삭제된 이유에 대한 진실을 밝혀낼 수 있을지도 모릅니다... ",
     "publisher": "Astrolabe Games",
-    "rate": "3.61",
+    "rate": "3.58",
     "releaseTime": "11/3/2026",
     "platform": "PS5",
     "type": "전략",
@@ -135977,7 +135977,7 @@
     "fullname": "이스 X -프라우드 노딕스- 무삭제판 (중국어(간체자), 한국어, 중국어(번체자))",
     "description": "긍지Proud를 가슴에 품고 새로운 모험의 무대로",
     "publisher": "CLOUDED LEOPARD ENTERTAINMENT INC.",
-    "rate": "4.51",
+    "rate": "4.47",
     "releaseTime": "25/2/2026",
     "platform": "PS5",
     "type": "롤플레잉 게임",
@@ -136103,7 +136103,7 @@
     "fullname": "Incantation (중국어(간체자), 한국어, 영어, 일본어, 중국어(번체자))",
     "description": "소중한 딸을 찾기 위해 저주받은 마을의 어둠 속으로 뛰어드세요",
     "publisher": "eastasiasoft",
-    "rate": "3.93",
+    "rate": "3.91",
     "releaseTime": "7/4/2026",
     "platform": "PS5",
     "type": "어드벤처, 공포, 액션",
@@ -136293,7 +136293,7 @@
     "fullname": "RUBATO (영어)",
     "description": "RUBATO, 실험적인 2D 물리 기반 수집형 게임",
     "publisher": "Headcannon",
-    "rate": "4.10",
+    "rate": "4.11",
     "releaseTime": "19/3/2026",
     "platform": "PS5",
     "type": "어드벤처, 유니크",
@@ -136312,7 +136312,7 @@
     "price": 23000,
     "priceCurrency": "KRW",
     "publisher": "Arc System Works Co., Ltd.",
-    "rate": "4.00",
+    "rate": "3.99",
     "releaseTime": "26/3/2026",
     "platform": "PS4, PS5",
     "type": "액션"
@@ -136616,7 +136616,7 @@
     "price": 10800,
     "priceCurrency": "KRW",
     "publisher": "YASH FUTURE TECH SOLUTIONS PVT LTD",
-    "rate": "3.66",
+    "rate": "3.65",
     "releaseTime": "14/2/2026",
     "platform": "PS4",
     "type": "시뮬레이션, 드라이빙/레이싱"
@@ -136648,7 +136648,7 @@
     "price": 2400,
     "priceCurrency": "KRW",
     "publisher": "Dinomore Games Yazilim Oyun Teknolojileri Limited Sirketi",
-    "rate": "3.89",
+    "rate": "3.90",
     "releaseTime": "14/2/2026",
     "platform": "PS4",
     "type": "교육, 퍼즐, 두뇌개발"
@@ -136805,7 +136805,7 @@
     "fullname": "Car Dealer Simulator (중국어(간체자), 한국어, 태국어, 영어, 일본어)",
     "description": "중고차 판매의 꿈을 현실로 만드세요  Car Dealer Simulator에서는 기발한 사장님, 리틀 샘에게서 사업 운영의 모든 노하우를 배울 수 있습니다. 그는 정리정돈에 능하지 않기 때문에, 당신의 임무는 저렴하게 구매하고, 수리한 후 높은 가격에 판매하는 것입니다. 초기 도전을 마스터하면, 결국 회사를 완전히 인수할 기회가 주어집니다. 그리고…  모든 것이 당신의 손안에 있습니다  고객의 자동차 꿈을 실현시킬 회사를 구축하세요. 저가형 자동차부터 고급 모델까지, 기회를 포착하고, 최고의 인재를 고용하며, 뛰어난 서비스를 제공하고, 수익을 극대화하세요. 회사를 하루하루 성장시키세요.  협상  높은 수익을 얻는 핵심은 중고차를 구매할 때의 협상입니다. 좋은 거래를 찾고, 가격 협상 시에는 단호하고 전문적으로 임하세요.  차량 운송  구입한 모든 차량이 운행 가능한 상태는 아니므로, 두 가지 종류의 견인차 중 하나를 사용하여 운송해야 합니다.  수리  모든 차량은 판매 전에 진단과 준비가 필요합니다. 기계 수리, 차체 작업, 도장, 작은 손질이 판매 가격을 크게 높여줍니다.  차량 준비  고객에게 차량을 보여주려면 몇 가지 요령이 필요합니다. 세차, 좋은 사진, 매력적인 광고가 당신의 아군이 될 것입니다. 광고에서는 차량의 장점을 강조하되, 모든 차량에는 숨겨진 결함이 있다는 점을 기억하세요. 고객은 눈으로 구매하므로, 도장 광택, 가득 찬 연료통, 고품질 사진을 활용하세요.  사업 개발  수익을 통해 회사를 지속적으로 성장시킬 수 있습니다. 도구, 수리 구역, 고객 서비스 사무실을 업그레이드하세요. 효율성을 높이기 위해 직원을 고용하세요. 재정을 현명하게 관리하고 회사 평판을 유지하세요. 하지만 경계를 늦추지 마세요 — 경쟁자와 “도움이 되는 이웃”도 결코 쉬지 않습니다. 힘들게 구축한 회사를 잠재적 위협으로부터 보호하세요. ",
     "publisher": "Garage Monkeys S.A.",
-    "rate": "4.16",
+    "rate": "4.15",
     "releaseTime": "18/2/2026",
     "platform": "PS5",
     "type": "시뮬레이터",
@@ -137109,7 +137109,7 @@
     "price": 69800,
     "priceCurrency": "KRW",
     "publisher": "Sony Interactive Entertainment",
-    "rate": "4.49",
+    "rate": "4.48",
     "releaseTime": "6/8/2026",
     "platform": "PS5",
     "type": "격투"
@@ -137539,7 +137539,7 @@
     "price": 840,
     "priceCurrency": "KRW",
     "publisher": "OÜ Enningture Game Temple",
-    "rate": "4.32",
+    "rate": "4.33",
     "releaseTime": "23/2/2026",
     "platform": "PS4",
     "type": "액션"
@@ -138632,7 +138632,7 @@
     "fullname": "Bubsy 4D (중국어(간체자), 영어, 일본어, 중국어(번체자))",
     "description": "버비시가 돌아왔다 무슨 일이 생길 수 있을까",
     "publisher": "ATARI",
-    "rate": "4.30",
+    "rate": "4.29",
     "releaseTime": "22/5/2026",
     "platform": "PS4, PS5",
     "type": "액션",
@@ -138651,7 +138651,7 @@
     "price": 79800,
     "priceCurrency": "KRW",
     "publisher": "Bandai Namco Entertainment Inc.",
-    "rate": "3.58",
+    "rate": "3.57",
     "releaseTime": "8/7/2026",
     "platform": "PS5",
     "type": "액션, 롤플레잉 게임"
@@ -139350,7 +139350,7 @@
     "price": 10800,
     "priceCurrency": "KRW",
     "publisher": "Revolt Games SRL",
-    "rate": "3.65",
+    "rate": "3.63",
     "releaseTime": "12/3/2026",
     "platform": "PS5",
     "type": "롤플레잉 게임, 액션"
@@ -139491,7 +139491,7 @@
     "fullname": "Temtem: Swarm (중국어(간체자), 한국어, 태국어, 영어, 일본어, 중국어(번체자))",
     "description": "템템을 고르고, 자신만의 빌드를 만들고, 군단으로부터 살아남으세요",
     "publisher": "CREMAGAMES S.L",
-    "rate": "4.38",
+    "rate": "4.39",
     "releaseTime": "2/4/2026",
     "platform": "PS5",
     "type": "액션",
@@ -139910,7 +139910,7 @@
     "price": 10800,
     "priceCurrency": "KRW",
     "publisher": "PLAYISM",
-    "rate": "4.59",
+    "rate": "4.61",
     "releaseTime": "18/3/2026",
     "platform": "PS4, PS5",
     "type": "어드벤처"
@@ -140608,7 +140608,7 @@
     "fullname": "윙스 클럽: 마법이 돌아왔다 (영어)",
     "description": "신작 어드벤처 게임에서 좋아하는 윙스가 되어 보세요.",
     "publisher": "Maximum Entertainment France SAS",
-    "rate": "2.90",
+    "rate": "2.89",
     "releaseTime": "30/4/2026",
     "platform": "PS5",
     "type": "액션",
@@ -140879,7 +140879,7 @@
     "price": 16800,
     "priceCurrency": "KRW",
     "publisher": "GOOSE GAME LTD",
-    "rate": "1.73",
+    "rate": "2.00",
     "releaseTime": "26/3/2026",
     "platform": "PS4",
     "type": "전략, 시뮬레이션, 캐주얼"
@@ -152602,5 +152602,149 @@
     "releaseTime": "13/8/2026",
     "platform": "",
     "type": "퍼즐, 공포, 어드벤처"
+  },
+  {
+    "name": "진격의거인３",
+    "img": "images/277626421e2acfe7e4ba10d70f659950.jpg",
+    "path": "https://store.playstation.com/ko-kr/concept/10012189",
+    "lang": "ko-kr"
+  },
+  {
+    "name": "Moonlighter 2: The Endless Vault",
+    "img": "images/8cf745c71971124fd5195ba7182e3d8e.jpg",
+    "path": "https://store.playstation.com/ko-kr/concept/10008133",
+    "lang": "ko-kr"
+  },
+  {
+    "name": "Back to the Dawn ～브레이크 더 애니멀 프리즌～",
+    "img": "images/3a3ab88cb56744e706495dc2769afaf0.jpg",
+    "path": "https://store.playstation.com/ko-kr/concept/10016994",
+    "lang": "ko-kr"
+  },
+  {
+    "name": "Super Bunny Man",
+    "img": "images/94526db6dc2f31746dd5dc46fdd654b1.jpg",
+    "path": "https://store.playstation.com/ko-kr/concept/10011479",
+    "lang": "ko-kr"
+  },
+  {
+    "name": "Console Archives UFO -A day in the life-",
+    "img": "images/18152dbcaf5be0f68c032c19da4ad135.jpg",
+    "path": "https://store.playstation.com/ko-kr/concept/10017994",
+    "lang": "ko-kr"
+  },
+  {
+    "name": "Arcade Archives 2 COMBAT SCHOOL",
+    "img": "images/b837746ea39069b1568155a64855fce2.jpg",
+    "path": "https://store.playstation.com/ko-kr/concept/10018060",
+    "lang": "ko-kr"
+  },
+  {
+    "name": "마신소녀 에피소드4 전하는 마음",
+    "img": "images/2ea5361c65f166dd2f34f9174589ce62.jpg",
+    "path": "https://store.playstation.com/ko-kr/concept/10014847",
+    "lang": "ko-kr"
+  },
+  {
+    "name": "Changeable Guardian ESTIQUE",
+    "img": "images/8b767bd579094efa8d2f3b1c680139d3.jpg",
+    "path": "https://store.playstation.com/ko-kr/concept/10017894",
+    "lang": "ko-kr"
+  },
+  {
+    "name": "I Am Titan",
+    "img": "images/d992279efa99414e2d8b10df237d5d2b.jpg",
+    "path": "https://store.playstation.com/ko-kr/concept/10019532",
+    "lang": "ko-kr"
+  },
+  {
+    "name": "Akatori",
+    "img": "images/e818c1c868ca48f1e369a65fd44107c0.jpg",
+    "path": "https://store.playstation.com/ko-kr/concept/10019019",
+    "lang": "ko-kr"
+  },
+  {
+    "name": "Asdivine Knot",
+    "img": "images/57a9670d3b9a7d92a038adfcf317b82c.jpg",
+    "path": "https://store.playstation.com/ko-kr/concept/10019473",
+    "lang": "ko-kr"
+  },
+  {
+    "name": "Sklime - 고난도 등반 어드벤처",
+    "img": "images/1d359d8aafe2c5a17b2678ee34c6b9b7.jpg",
+    "path": "https://store.playstation.com/ko-kr/concept/10012927",
+    "lang": "ko-kr"
+  },
+  {
+    "name": "Super Woden Rally Edge",
+    "img": "images/e8bf5eac59363cc9d07ee6416390dc7f.jpg",
+    "path": "https://store.playstation.com/ko-kr/concept/10018518",
+    "lang": "ko-kr"
+  },
+  {
+    "name": "Threshold Warden",
+    "img": "images/fef5bc818b63aa9b464a63a430eaa9d9.jpg",
+    "path": "https://store.playstation.com/ko-kr/concept/10020252",
+    "lang": "ko-kr"
+  },
+  {
+    "name": "1998: The Toll Keeper Story",
+    "img": "images/4a2aa69c4cd3eafacddf7797e93662f3.jpg",
+    "path": "https://store.playstation.com/ko-kr/concept/10018178",
+    "lang": "ko-kr"
+  },
+  {
+    "name": "Blood Dungeon",
+    "img": "images/84de29c7f3ddf849ba7d31ba79e61c9d.jpg",
+    "path": "https://store.playstation.com/ko-kr/concept/10019522",
+    "lang": "ko-kr"
+  },
+  {
+    "name": "Berry Bury Berry",
+    "img": "images/062776891f333cf9bce444f684f8c36b.jpg",
+    "path": "https://store.playstation.com/ko-kr/concept/10019099",
+    "lang": "ko-kr"
+  },
+  {
+    "name": "Dark Reflection",
+    "img": "images/cb8b9c707d2d818ac59ecebfa4412efd.jpg",
+    "path": "https://store.playstation.com/ko-kr/concept/10020187",
+    "lang": "ko-kr"
+  },
+  {
+    "name": "Fractured Worlds",
+    "img": "images/22fc1bb8bb488495768cb2873f470b90.jpg",
+    "path": "https://store.playstation.com/ko-kr/concept/10017408",
+    "lang": "ko-kr"
+  },
+  {
+    "name": "Grounded 2",
+    "img": "images/e7f8c651ab4c6dcbdb96f56a42992c87.jpg",
+    "path": "https://store.playstation.com/ko-kr/concept/10016651",
+    "lang": "ko-kr"
+  },
+  {
+    "name": "Gummy Invaders",
+    "img": "images/45b69fec2c93f72b17f023f39a5f0021.jpg",
+    "path": "https://store.playstation.com/ko-kr/concept/10019946",
+    "lang": "ko-kr"
+  },
+  {
+    "name": "Island Farmer",
+    "img": "images/bd5b36f4257b427acbc3f41a2c857595.jpg",
+    "path": "https://store.playstation.com/ko-kr/concept/10016291",
+    "lang": "ko-kr"
+  },
+  {
+    "name": "Lou's Lagoon",
+    "img": "images/7c9eb36348fd3aa97bcbceba91d1d8b1.jpg",
+    "path": "https://store.playstation.com/ko-kr/concept/10012807",
+    "lang": "ko-kr"
+  },
+  {
+    "name": "Way of the Hunter 2",
+    "img": "images/0e0849e1c868d6cbdfd6cb3b7443a3c5.jpg",
+    "path": "https://store.playstation.com/ko-kr/concept/10008946",
+    "lang": "ko-kr"
   }
 ]
