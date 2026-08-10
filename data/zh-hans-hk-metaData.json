@@ -7081,7 +7081,7 @@
     "fullname": "Orbital Bullet (日语, 韩语, 简体中文, 繁体中文, 英语)",
     "description": "《环形子弹（Orbital Bullet）》是一款rogue-lite快节奏360°平台动作游戏，所有的战斗都在循环场景中展开。",
     "publisher": "ASSEMBLE ENTERTAINMENT GMBH",
-    "rate": "4.30",
+    "rate": "4.28",
     "releaseTime": "2023/6/8",
     "platform": "PS4",
     "type": "动作",
@@ -7676,7 +7676,7 @@
     "fullname": "Blasphemous 2 (日语, 韩语, 简体中文, 繁体中文, 英语)",
     "description": "忏悔永无止境",
     "publisher": "Team17 Digital Ltd",
-    "rate": "4.44",
+    "rate": "4.45",
     "releaseTime": "2023/10/25",
     "platform": "PS5",
     "type": "动作",
@@ -9450,7 +9450,7 @@
     "price": 228,
     "priceCurrency": "HKD",
     "publisher": "Ubisoft",
-    "rate": "2.60",
+    "rate": "2.59",
     "releaseTime": "2024/9/25",
     "platform": "PS4, PS5",
     "type": "派对, 休闲"
@@ -11603,7 +11603,7 @@
     "price": 9,
     "priceCurrency": "HKD",
     "publisher": "Aristo Studio s.r.o.",
-    "rate": "4.24",
+    "rate": "4.25",
     "releaseTime": "2025/1/18",
     "platform": "PS5",
     "type": "益智, 拼图"
@@ -169729,5 +169729,11 @@
     "releaseTime": "2026/9/29",
     "platform": "PS5",
     "type": "动作"
+  },
+  {
+    "name": "尘埃终须落定",
+    "img": "images/5a0f62a3ab8df41b4f4c305576190349.jpg",
+    "path": "https://store.playstation.com/zh-hans-hk/concept/10019342",
+    "lang": "zh-hans-hk"
   }
 ]
