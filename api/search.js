@@ -4,6 +4,16 @@ let resultList = [];
 const collator = new Intl.Collator('zh-Hans-CN', {
     numeric: true,
 });
+// Keep these imports static so Vercel traces only the compact search indexes.
+// A dynamic require of the complete game data makes the serverless bundle exceed
+// Vercel's 250 MB uncompressed limit.
+const gameLists = {
+    'zh-hans-hk': require('../data/zh-hans-hk-searchIndex'),
+    'ja-jp': require('../data/ja-jp-searchIndex'),
+    'en-us': require('../data/en-us-searchIndex'),
+    'en-gb': require('../data/en-gb-searchIndex'),
+    'ko-kr': require('../data/ko-kr-searchIndex'),
+};
 
 function HTMLEncode(str) {
     var s = '';
@@ -92,7 +102,10 @@ function addToResultList(arr, attribute) {
 
 module.exports = (req, res) => {
     let { keyword,area } = req.query;
-    const gameList = require(`../data/${area}-gameList`);
+    const gameList = gameLists[area];
+    if (!gameList) {
+        return res.status(400).json({ error: 'Unsupported area' });
+    }
     let reg = new RegExp(keyword, 'ig');
     if (keyword == '' || keyword == '.') {
         return false;

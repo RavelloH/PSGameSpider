@@ -219,8 +219,16 @@ async function starter() {
 
             rlog.success('Fetched templates');
 
-            // 创建函数
-            convertObjectToFile(gameList, `data/${lang}-gameList.js`);
+            // 创建搜索索引。搜索结果页只使用这些字段；不要把完整的游戏详情、价格和评分历史
+            // 打包进 Vercel Function。
+            const searchIndex = gameList.map(({ path, img, name, fullname }) => ({
+                lang,
+                path,
+                img,
+                name,
+                fullname,
+            }));
+            convertObjectToFile(searchIndex, `data/${lang}-searchIndex.js`);
 
             // 首页构建
             let doc = fs.readFileSync('template/index.ejs', 'utf-8');
