@@ -347,7 +347,7 @@
     "fullname": "浪人崛起™ (泰语, 日语, 韩语, 简体中文, 繁体中文, 英语)",
     "description": "开拓自己的命运",
     "publisher": "Sony Interactive Entertainment",
-    "rate": "4.10",
+    "rate": "4.09",
     "releaseTime": "2024/3/21",
     "platform": "PS5",
     "type": "动作, 冒险",
@@ -382,7 +382,7 @@
     "price": 398,
     "priceCurrency": "HKD",
     "publisher": "Sony Interactive Entertainment",
-    "rate": "4.63",
+    "rate": "4.62",
     "releaseTime": "2022/2/17",
     "platform": "PS4, PS5",
     "type": "动作"
@@ -2688,7 +2688,7 @@
     "platform": "PS4, PS5",
     "type": "派对, 音乐/节奏, 家庭",
     "category": "制品版游戏",
-    "price": 238,
+    "price": 148,
     "priceCurrency": "HKD"
   },
   {
@@ -7239,7 +7239,7 @@
     "price": 60,
     "priceCurrency": "HKD",
     "publisher": "505 GAMES S.R.L.",
-    "rate": "4.00",
+    "rate": "3.99",
     "releaseTime": "2021/9/28",
     "platform": "PS4, PS5",
     "type": "动作"
@@ -7775,7 +7775,7 @@
     "price": 460,
     "priceCurrency": "HKD",
     "publisher": "CLOUDED LEOPARD ENTERTAINMENT INC.",
-    "rate": "4.83",
+    "rate": "4.84",
     "releaseTime": "2020/8/26",
     "platform": "PS4",
     "type": "角色扮演游戏"
@@ -9242,7 +9242,7 @@
     "price": 148,
     "priceCurrency": "HKD",
     "publisher": "Untold Tales S.A.",
-    "rate": "3.24",
+    "rate": "3.22",
     "releaseTime": "2025/1/9",
     "platform": "PS4, PS5",
     "type": "动作, 冒险, 休闲"
@@ -11603,7 +11603,7 @@
     "price": 9,
     "priceCurrency": "HKD",
     "publisher": "Aristo Studio s.r.o.",
-    "rate": "4.25",
+    "rate": "4.21",
     "releaseTime": "2025/1/18",
     "platform": "PS5",
     "type": "益智, 拼图"
@@ -12183,7 +12183,7 @@
     "fullname": "《神之浩劫2》 (英语)",
     "description": "进入众神的战场",
     "publisher": "Hi-Rez Studios",
-    "rate": "3.09",
+    "rate": "3.08",
     "releaseTime": "2025/1/14",
     "platform": "PS5",
     "type": "战略, 动作",
@@ -169787,5 +169787,23 @@
     "releaseTime": "",
     "platform": "",
     "type": "运动"
+  },
+  {
+    "name": "Bootstrap Island",
+    "img": "images/33786a59d1c71d3d1df1c38bfe0099e6.jpg",
+    "path": "https://store.playstation.com/zh-hans-hk/concept/10016753",
+    "lang": "zh-hans-hk"
+  },
+  {
+    "name": "Nightmare Circus",
+    "img": "images/5a082b3248bdc12c692e4d582c26770c.jpg",
+    "path": "https://store.playstation.com/zh-hans-hk/concept/10018539",
+    "lang": "zh-hans-hk"
+  },
+  {
+    "name": "Princess of the Water Lilies",
+    "img": "images/4eb1c68a630f0d98e8b49aa7afc7ab2d.jpg",
+    "path": "https://store.playstation.com/zh-hans-hk/concept/10018537",
+    "lang": "zh-hans-hk"
   }
 ]
