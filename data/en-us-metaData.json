@@ -218225,7 +218225,7 @@
     "price": 1.99,
     "priceCurrency": "USD",
     "publisher": "AUTO SLAVIC d.o.o.",
-    "rate": "4.47",
+    "rate": "4.48",
     "releaseTime": "2026/10/2",
     "platform": "PS4, PS5",
     "type": "Family"
@@ -218369,7 +218369,7 @@
     "price": 17.99,
     "priceCurrency": "USD",
     "publisher": "Forklift Interactive Inc.",
-    "rate": "4.40",
+    "rate": "4.41",
     "releaseTime": "2026/11/2",
     "platform": "PS5",
     "type": "Simulation"
@@ -218577,7 +218577,7 @@
     "price": 9.74,
     "priceCurrency": "USD",
     "publisher": "Lu Ming",
-    "rate": "2.05",
+    "rate": "2.02",
     "releaseTime": "2026/12/2",
     "platform": "PS4",
     "type": "Action, Simulation, Casual"
@@ -218657,7 +218657,7 @@
     "price": 19.99,
     "priceCurrency": "USD",
     "publisher": "Ubisoft",
-    "rate": "3.93",
+    "rate": "3.94",
     "releaseTime": "2026/13/2",
     "platform": "PS5",
     "type": "Action"
@@ -218865,7 +218865,7 @@
     "price": 9.99,
     "priceCurrency": "USD",
     "publisher": "Benoit Varasse trading as Pix Arts",
-    "rate": "2.33",
+    "rate": "2.28",
     "releaseTime": "2026/13/2",
     "platform": "PS5",
     "type": "Simulation"
@@ -218929,7 +218929,7 @@
     "price": 1.49,
     "priceCurrency": "USD",
     "publisher": "KCI SOFT WORKS INC.",
-    "rate": "4.27",
+    "rate": "4.26",
     "releaseTime": "2026/14/2",
     "platform": "PS5",
     "type": "Casual"
@@ -219025,7 +219025,7 @@
     "price": 26.99,
     "priceCurrency": "USD",
     "publisher": "Mash Games Corp.",
-    "rate": "4.30",
+    "rate": "4.29",
     "releaseTime": "2026/16/2",
     "platform": "PS5",
     "type": "Simulation"
@@ -219121,7 +219121,7 @@
     "price": 19.99,
     "priceCurrency": "USD",
     "publisher": "TOP HAT STUDIOS, INC.",
-    "rate": "4.38",
+    "rate": "4.39",
     "releaseTime": "2026/17/2",
     "platform": "PS4, PS5",
     "type": "Adventure, Action"
@@ -219137,7 +219137,7 @@
     "price": 14.99,
     "priceCurrency": "USD",
     "publisher": "ULTIMATE GAMES",
-    "rate": "4.55",
+    "rate": "4.56",
     "releaseTime": "2026/17/2",
     "platform": "PS5",
     "type": "Simulation, Adventure"
@@ -219185,7 +219185,7 @@
     "price": 9.74,
     "priceCurrency": "USD",
     "publisher": "Christopher Ikeda",
-    "rate": "1.87",
+    "rate": "1.86",
     "releaseTime": "2026/17/2",
     "platform": "PS5",
     "type": "Adventure, Driving/Racing, Simulation"
@@ -219201,7 +219201,7 @@
     "price": 0.79,
     "priceCurrency": "USD",
     "publisher": "Nextgo24 UG",
-    "rate": "3.34",
+    "rate": "3.39",
     "releaseTime": "2026/17/2",
     "platform": "PS5",
     "type": "Casual"
@@ -219838,7 +219838,7 @@
     "price": 9.99,
     "priceCurrency": "USD",
     "publisher": "Revolt Games SRL",
-    "rate": "2.77",
+    "rate": "2.78",
     "releaseTime": "2026/22/2",
     "platform": "PS5",
     "type": "Simulator, Simulation"
@@ -219884,7 +219884,7 @@
     "price": 0.99,
     "priceCurrency": "USD",
     "publisher": "OÜ Enningture Game Temple",
-    "rate": "4.35",
+    "rate": "4.30",
     "releaseTime": "2026/23/2",
     "platform": "PS4",
     "type": "Action"
@@ -219996,7 +219996,7 @@
     "price": 1.74,
     "priceCurrency": "USD",
     "publisher": "BIG WAY LLC",
-    "rate": "4.68",
+    "rate": "4.66",
     "releaseTime": "2026/25/2",
     "platform": "PS5",
     "type": "Adult, Puzzle"
@@ -220233,7 +220233,7 @@
     "price": 14.99,
     "priceCurrency": "USD",
     "publisher": "Christopher Ikeda",
-    "rate": "1.43",
+    "rate": "1.42",
     "releaseTime": "2026/26/2",
     "platform": "PS4",
     "type": "Simulation, Strategy, Casual"
@@ -226129,7 +226129,7 @@
     "price": 59.99,
     "priceCurrency": "USD",
     "publisher": "KONAMI",
-    "rate": "4.21",
+    "rate": "4.20",
     "releaseTime": "2026/15/7",
     "platform": "PS5",
     "type": "Sport"
@@ -226161,7 +226161,7 @@
     "price": 13.39,
     "priceCurrency": "USD",
     "publisher": "Kwalee Ltd",
-    "rate": "4.68",
+    "rate": "4.67",
     "releaseTime": "2026/16/4",
     "platform": "PS5",
     "type": "Horror"
@@ -226305,7 +226305,7 @@
     "price": 19.99,
     "priceCurrency": "USD",
     "publisher": "ULTIMATE GAMES",
-    "rate": "4.52",
+    "rate": "4.47",
     "releaseTime": "2026/16/4",
     "platform": "PS5",
     "type": "Action, Simulation, Adventure"
@@ -226894,7 +226894,7 @@
     "fullname": "Drop Duchy - Complete Edition",
     "description": "Build your duchy piece by piece",
     "publisher": "DOTEMU",
-    "rate": "4.60",
+    "rate": "4.61",
     "releaseTime": "2026/21/4",
     "platform": "PS5",
     "type": "Puzzle, Strategy",
@@ -227469,7 +227469,7 @@
     "price": 29.99,
     "priceCurrency": "USD",
     "publisher": "BANDAI NAMCO ENTERTAINMENT EUROPE",
-    "rate": "4.64",
+    "rate": "4.63",
     "releaseTime": "2026/23/4",
     "platform": "PS5",
     "type": "Horror, Adventure"
@@ -227837,7 +227837,7 @@
     "price": 7.49,
     "priceCurrency": "USD",
     "publisher": "Dinomore Games Yazilim Oyun Teknolojileri Limited Sirketi",
-    "rate": "3.33",
+    "rate": "3.32",
     "releaseTime": "2026/9/5",
     "platform": "PS5",
     "type": "Simulation, Action, Arcade"
@@ -228029,7 +228029,7 @@
     "price": 29.99,
     "priceCurrency": "USD",
     "publisher": "PRODIGY DESIGN LIMITED",
-    "rate": "4.39",
+    "rate": "4.40",
     "releaseTime": "2026/28/4",
     "platform": "PS5",
     "type": "Sport, Simulation"
@@ -228045,7 +228045,7 @@
     "price": 10.49,
     "priceCurrency": "USD",
     "publisher": "Rainy Frog Co. Ltd",
-    "rate": "4.30",
+    "rate": "4.32",
     "releaseTime": "2026/28/4",
     "platform": "PS5",
     "type": "Action"
@@ -228730,7 +228730,7 @@
     "price": 4.99,
     "priceCurrency": "USD",
     "publisher": "BIG WAY LLC",
-    "rate": "3.92",
+    "rate": "3.84",
     "releaseTime": "2026/2/5",
     "platform": "PS5",
     "type": "Adventure, Adult"
@@ -228874,7 +228874,7 @@
     "price": 19.99,
     "priceCurrency": "USD",
     "publisher": "TOP HAT STUDIOS, INC.",
-    "rate": "4.54",
+    "rate": "4.55",
     "releaseTime": "2026/5/5",
     "platform": "PS5",
     "type": "Action, Action"
@@ -230461,7 +230461,7 @@
     "price": 3.49,
     "priceCurrency": "USD",
     "publisher": "Ratalaika Games SL",
-    "rate": "2.00",
+    "rate": "2.40",
     "releaseTime": "2026/22/5",
     "platform": "PS4, PS5",
     "type": "Casual, Arcade, Action"
@@ -231085,7 +231085,7 @@
     "fullname": "Mistfall Hunter",
     "description": "Dark Fantasy Extraction ARPG",
     "publisher": "Skystone Games Pte. Ltd.",
-    "rate": "3.40",
+    "rate": "3.39",
     "releaseTime": "2026/30/7",
     "platform": "PS5",
     "type": "Action, Role Playing Games",
@@ -231104,7 +231104,7 @@
     "price": 1.49,
     "priceCurrency": "USD",
     "publisher": "Cube Games",
-    "rate": "2.77",
+    "rate": "2.86",
     "releaseTime": "2026/21/5",
     "platform": "PS5",
     "type": "Action, Shooter"
@@ -231216,7 +231216,7 @@
     "price": 27.99,
     "priceCurrency": "USD",
     "publisher": "Cyan Worlds, Inc.",
-    "rate": "4.72",
+    "rate": "4.70",
     "releaseTime": "2026/19/5",
     "platform": "PS5",
     "type": "Adventure"
@@ -231341,7 +231341,7 @@
     "fullname": "Panzer Knights: Commander's Edition",
     "description": "Lead your tank platoon to victory across the battlefields of World War II.",
     "publisher": "PQUBE LTD",
-    "rate": "4.35",
+    "rate": "4.34",
     "releaseTime": "2026/13/8",
     "platform": "PS5",
     "type": "Shooter, Driving/Racing",
@@ -231700,7 +231700,7 @@
     "price": 19.99,
     "priceCurrency": "USD",
     "publisher": "ANKAMA GAMES S.A.S",
-    "rate": "4.20",
+    "rate": "4.21",
     "releaseTime": "2026/20/5",
     "platform": "PS5",
     "type": "Role Playing Games, Action"
@@ -232214,7 +232214,7 @@
     "fullname": "Gurei",
     "description": "Face the Kami",
     "publisher": "Astrolabe Games",
-    "rate": "3.72",
+    "rate": "3.70",
     "releaseTime": "2026/23/7",
     "platform": "PS5",
     "type": "Action",
