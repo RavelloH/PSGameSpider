@@ -709,7 +709,7 @@
     "rate": "4.50",
     "releaseTime": "16/1/2019",
     "platform": "PS4",
-    "type": "动作, 模拟, 射击",
+    "type": "模拟, 动作, 射击",
     "category": "游戏套装",
     "price": 489,
     "priceCurrency": "HKD"
@@ -805,7 +805,7 @@
     "price": 549,
     "priceCurrency": "HKD",
     "publisher": "Electronic Arts Inc.",
-    "rate": "3.19",
+    "rate": "3.18",
     "releaseTime": "31/10/2024",
     "platform": "PS5",
     "type": "角色扮演游戏"
@@ -1689,7 +1689,7 @@
     "rate": "4.44",
     "releaseTime": "26/9/2018",
     "platform": "PS4",
-    "type": "动作, 休闲, 家庭",
+    "type": "家庭, 休闲, 动作",
     "category": "制品版游戏",
     "price": 196,
     "priceCurrency": "HKD"
@@ -2635,7 +2635,7 @@
     "rate": "4.25",
     "releaseTime": "19/1/2023",
     "platform": "PS4, PS5",
-    "type": "动作, 角色扮演游戏"
+    "type": "角色扮演游戏, 动作"
   },
   {
     "name": "大富翁11",
@@ -2648,7 +2648,7 @@
     "rate": "3.41",
     "releaseTime": "18/4/2024",
     "platform": "PS4, PS5",
-    "type": "休闲, 家庭, 派对",
+    "type": "派对, 家庭, 休闲",
     "category": "制品版游戏",
     "price": 128,
     "priceCurrency": "HKD"
@@ -3063,7 +3063,7 @@
     "rate": "4.75",
     "releaseTime": "27/1/2022",
     "platform": "PS5",
-    "type": "动作, 冒险"
+    "type": "冒险, 动作"
   },
   {
     "name": "《彩虹六号：围攻》",
@@ -3231,7 +3231,7 @@
     "rate": "3.95",
     "releaseTime": "11/11/2020",
     "platform": "PS4, PS5",
-    "type": "动作, 冒险, 独特游戏"
+    "type": "独特游戏, 冒险, 动作"
   },
   {
     "name": "The Elder Scrolls Online",
@@ -3263,7 +3263,7 @@
     "rate": "4.34",
     "releaseTime": "25/5/2020",
     "platform": "PS4",
-    "type": "动作, 冒险, 角色扮演游戏"
+    "type": "冒险, 动作, 角色扮演游戏"
   },
   {
     "name": "奇异人生：双重曝光",
@@ -3672,7 +3672,7 @@
     "rate": "4.61",
     "releaseTime": "5/3/2018",
     "platform": "PS4",
-    "type": "角色扮演游戏, 动作, 冒险",
+    "type": "角色扮演游戏, 冒险, 动作",
     "category": "制品版游戏",
     "price": 390,
     "priceCurrency": "HKD"
@@ -4448,7 +4448,7 @@
     "rate": "4.64",
     "releaseTime": "31/7/2018",
     "platform": "PS4",
-    "type": "动作, 冒险",
+    "type": "冒险, 动作",
     "category": "制品版游戏",
     "price": 148,
     "priceCurrency": "HKD"
@@ -4477,7 +4477,7 @@
     "fullname": "RoboCop: Rogue City (日语, 韩语, 简体中文, 繁体中文, 英语)",
     "description": "成为标志性的半人半机械英雄警察，努力为犯罪猖獗且危险的旧底特律带来正义。  以任何必要的手段维护法律：  使用强大的 Auto-9 或其余二十种武器，在这场一触即发的第一人称冒险中根除罪犯。你强大的机械力量与神经机械能力让你成为了在维护法律方面最为高效的的警察，而这些能力还可随着剧情的推进进一步升级。  完成首要指令的方式由你自行决定：  探索开放区域，凭自己内心的正义感完成目标。作为一名警察，寻找证据、盘问目击者以及维持公共秩序只是你日常工作的一部分。但不要轻易做出抉择：你的选择将决定市民的命运与自己任务的结局。  《机械战警》世界中的原创故事：  底特律城发生了一系列的犯罪事件，一名新的敌人正威胁着公共秩序。你的调查将带领你深入一个神秘项目的核心，让你细细品味一段发生于《机械战警 2》与《机械战警 3》之间的原创故事。探索机械战警世界中的标志性地点，并与其中的老面孔相见。原版电影主演 Peter Weller 甚至重回岗位，为我们的赛博警察献声。  做好准备……  保护无辜者，维护法律 ",
     "publisher": "NACON SA",
-    "rate": "4.05",
+    "rate": "4.04",
     "releaseTime": "2/11/2023",
     "platform": "PS5",
     "type": "动作",
@@ -4627,7 +4627,7 @@
     "rate": "4.37",
     "releaseTime": "26/3/2018",
     "platform": "PS4",
-    "type": "动作, 冒险, 射击"
+    "type": "冒险, 动作, 射击"
   },
   {
     "name": "超级机器人大战Ｔ",
@@ -4705,7 +4705,7 @@
     "rate": "4.05",
     "releaseTime": "15/2/2023",
     "platform": "PS4",
-    "type": "模拟, 模拟, 模拟器"
+    "type": "模拟, 模拟器, 模拟"
   },
   {
     "name": "JOJO的奇妙冒险 天国之眼",
@@ -4734,7 +4734,7 @@
     "rate": "4.46",
     "releaseTime": "9/10/2017",
     "platform": "PS4",
-    "type": "动作, 角色扮演游戏",
+    "type": "角色扮演游戏, 动作",
     "category": "制品版游戏",
     "price": 390,
     "priceCurrency": "HKD"
@@ -4750,7 +4750,7 @@
     "rate": "4.38",
     "releaseTime": "26/2/2018",
     "platform": "PS4",
-    "type": "动作, 恐怖, 射击",
+    "type": "射击, 恐怖, 动作",
     "category": "制品版游戏",
     "price": 38.75,
     "priceCurrency": "HKD"
@@ -4830,7 +4830,7 @@
     "rate": "4.35",
     "releaseTime": "24/9/2020",
     "platform": "PS4",
-    "type": "动作, 独特游戏",
+    "type": "独特游戏, 动作",
     "category": "游戏套装",
     "price": 468,
     "priceCurrency": "HKD"
@@ -4921,7 +4921,7 @@
     "path": "https://store.playstation.com/zh-hans-hk/concept/10002466",
     "lang": "zh-hans-hk",
     "fullname": "迪士尼梦幻星谷 (日语, 简体中文, 英语)",
-    "description": "内含8000枚月亮石 《迪士尼梦幻星谷》是一款生活模拟和冒险游戏的结合体，拥有丰富的任务、探索、以及引人入胜的活动，迪士尼和皮克斯的新老朋友均会登场。  梦幻星谷曾是一片梦幻田园之地，迪士尼和皮克斯的角色们在这里和睦相处——直到“大遗忘”来临。暗夜荆棘在各处肆意生长，切断了与这个神奇之地相连的美好回忆。梦幻星谷中绝望的居民们无处可去，躲进了大门紧锁的梦幻城堡里。  现在，将由你来发现这个世界的故事，把魔法带回梦幻星谷！  探索梦幻星谷的秘密 将梦幻城堡从“大遗忘”的魔爪中解救出来，解锁各位深受喜爱的迪士尼和皮克斯角色的专属王国，包括安娜和辛巴等伟大女王和国王的各个王国。每个王国都包含独特的挑战，解开谜题，完成任务，把友谊带回星谷。 你将在星谷中开始冒险，但你的旅程将带你迈向无限……超越无限！探索潜伏在勇气森林中秘密，勇敢进入最深的洞窟，迎接迪士尼和皮克斯标志性英雄和反派的挑战——无人知道什么在等待着你的发现。  与迪士尼和皮克斯角色们建立友谊  和瓦力一起做园艺，和小米一起做饭，或是和高飞一起钓鱼。还有什么能比和朋友一起收集、制作和重建星谷更棒的呢？从美丽的公主到邪恶的反派，每位梦幻星谷的居民都有属于自己的故事线、任务和奖励。每天相聚在一起，和你最喜欢的迪士尼和皮克斯角色交朋友。  让星谷重现昔日的辉煌  解救星谷脱离“大遗忘”的掌控，亲手打造梦幻星谷，让它回归昔日的伟大。在梦幻星谷中，你可以完全自定义布局、创造性景观和数千件装饰品，打造专属于你的完美社区。 你是愿意住在莫阿娜旁边的海滩上，还是在广场上和巴斯光年做邻居呢？   展现你的迪士尼风采  展现你内心的公主风、反派风或其他迪士尼搭配风格吧！搭配独特的服装，用数千件神奇物品装饰你的家。你甚至可以使用“魔法之触”工具，用迪士尼和皮克斯贴纸创造自己的设计！  使用游戏中相机，和米拉贝一起在夕阳下自拍，拍下小米的烹饪作品，或只是简单记录下每一个珍贵时刻。  不断推陈出新的游戏  新内容意味着总有新鲜的东西可探索。在星谷中结识新角色，在史高治商店中查看最新的服装和家具系列，完成极具挑战性的游戏赛事！记得经常回来梦幻星谷，探索新的冒险！ ",
+    "description": "《迪士尼梦幻星谷》是一款轻松悠闲的生活模拟冒险游戏，拥有丰富的任务、探索、以及引人入胜的活动，包括钓鱼、采矿和制作，迪士尼和皮克斯的新老朋友均会登场。  梦幻星谷曾是一片田园乐土，迪士尼和皮克斯的角色们在这里和睦相处——直到“大遗忘”来临。暗夜荆棘蔓延大地，在各处肆意生长，切断了你与这个神奇之地相连的美好回忆。走投无路之下，梦幻星谷的居民们退入梦幻城堡中紧锁的大门后，等待着你的归来。  现在，将由你来发现这个世界的故事，把魔法带回梦幻星谷！  与50多位迪士尼和皮克斯角色们建立友谊  和瓦力一起打理花园，和小米一起做菜，或跟高飞一起悠闲钓鱼。与乐乐和忧忧一起感受情绪，缩小到玩具大小去见胡迪和巴斯光年！还有什么能比和朋友一起收集、制作和重建星谷更棒的事呢？ 从灰姑娘、茉莉公主这样的勇敢公主，到刀疤、乌苏拉这样邪恶的反派，每位梦幻星谷的居民都有属于自己的故事线、任务和奖励。  定制你的世界，展现你的风格 打造属于你的完美星谷，拥有可高度自定义的布局、富有创意的景观设计，以及数千件迪士尼和皮克斯主题的装饰物品。释放你内心的公主或女巫本色，拥抱梦幻的田园风幻想！搭配独特服装，用数千件精美物品装饰你的家，尽情展现你的创造力。 使用游戏内相机，准备好与米拉贝来一张日落自拍，拍下你的烹饪杰作，或参加“梦幻美图秀”——一项每周摄影挑战，展示你的创意！你是愿意住在莫阿娜旁边的海滩上，还是在广场上和骷髅杰克做邻居呢？   踏上冒险之旅 你的冒险将从星谷开始，但旅程将带你去往无限……更远的地方！和宝嘉康蒂一起探索勇气森林中的秘密，随爱丽儿勇闯炫丽海滩最深的洞穴，并发现星谷高空之上的魔法浮岛。 通过星谷游览站，最多可与三名其他玩家连线，造访好友的星谷、交换资源等！  探索星谷的秘密 解救星谷脱离“大遗忘”的掌控，解锁深受喜爱的迪士尼和皮克斯角色的王国，包括安娜、辛巴等备受尊敬的王室成员，大眼仔和毛怪等经典搭档，以及爱丽丝和妙妙猫等奇趣伙伴。每个王国中都有特殊挑战，完成任务解开谜题，将友谊带回星谷吧。  不断推陈出新的游戏  新内容意味着总有新鲜的东西可探索。在星谷中结识新角色，在史高治商店中查看最新的服装和家具系列，完成精彩刺激的游戏赛事！记得常回梦幻星谷，发现新的冒险！ ",
     "publisher": "Gameloft K.K.",
     "rate": "4.37",
     "releaseTime": "6/9/2022",
@@ -5070,7 +5070,7 @@
     "rate": "4.67",
     "releaseTime": "17/11/2016",
     "platform": "PS4",
-    "type": "动作, 冒险",
+    "type": "冒险, 动作",
     "category": "制品版游戏",
     "price": 268,
     "priceCurrency": "HKD"
@@ -6493,7 +6493,7 @@
     "rate": "",
     "releaseTime": "14/10/2014",
     "platform": "PS4",
-    "type": "冒险, 恐怖"
+    "type": "恐怖, 冒险"
   },
   {
     "name": "风帆纪元",
@@ -6570,7 +6570,7 @@
     "rate": "4.33",
     "releaseTime": "4/9/2017",
     "platform": "PS4",
-    "type": "动作, 冒险"
+    "type": "冒险, 动作"
   },
   {
     "name": "Arise: A simple story",
@@ -6778,7 +6778,7 @@
     "rate": "4.43",
     "releaseTime": "6/12/2020",
     "platform": "PS4, PS5",
-    "type": "动作, 冒险, 角色扮演游戏"
+    "type": "角色扮演游戏, 冒险, 动作"
   },
   {
     "name": "WATCH_DOGS™",
@@ -6839,7 +6839,7 @@
     "rate": "4.61",
     "releaseTime": "26/6/2019",
     "platform": "PS4",
-    "type": "动作, 格斗, 格斗",
+    "type": "格斗, 动作, 格斗",
     "category": "制品版游戏",
     "price": 469,
     "priceCurrency": "HKD"
@@ -6887,7 +6887,7 @@
     "rate": "",
     "releaseTime": "20/9/2017",
     "platform": "PS4",
-    "type": "动作, 格斗",
+    "type": "格斗, 动作",
     "category": "组合包",
     "price": 37.44,
     "priceCurrency": "HKD"
@@ -7160,7 +7160,7 @@
     "rate": "4.06",
     "releaseTime": "27/11/2018",
     "platform": "PS4",
-    "type": "动作, 动作, 角色扮演游戏"
+    "type": "动作, 角色扮演游戏, 动作"
   },
   {
     "name": "Titan Quest",
@@ -7931,7 +7931,7 @@
     "rate": "4.27",
     "releaseTime": "16/2/2020",
     "platform": "PS4",
-    "type": "动作, 冒险, 动作"
+    "type": "冒险, 动作, 动作"
   },
   {
     "name": "Untitled Goose Game",
@@ -8459,7 +8459,7 @@
     "rate": "",
     "releaseTime": "29/5/2018",
     "platform": "PS4",
-    "type": "街机, 街机, 格斗"
+    "type": "街机, 格斗, 街机"
   },
   {
     "name": "LEGO®  Harry Potter™ Collection",
@@ -8707,7 +8707,7 @@
     "rate": "4.11",
     "releaseTime": "5/7/2017",
     "platform": "PS4",
-    "type": "动作, 格斗",
+    "type": "格斗, 动作",
     "category": "制品版游戏",
     "price": 509,
     "priceCurrency": "HKD"
@@ -9200,7 +9200,7 @@
     "rate": "4.46",
     "releaseTime": "26/1/2022",
     "platform": "PS4, PS5",
-    "type": "动作, 动作, 冒险",
+    "type": "动作, 冒险, 动作",
     "category": "制品版游戏",
     "price": 319,
     "priceCurrency": "HKD"
@@ -9264,7 +9264,7 @@
     "price": 238,
     "priceCurrency": "HKD",
     "publisher": "Jyamma Games Srl",
-    "rate": "3.37",
+    "rate": "3.36",
     "releaseTime": "18/9/2024",
     "platform": "PS5",
     "type": "角色扮演游戏"
@@ -9347,7 +9347,7 @@
     "rate": "3.31",
     "releaseTime": "3/11/2022",
     "platform": "PS4, PS5",
-    "type": "驾驶/赛车, 模拟"
+    "type": "模拟, 驾驶/赛车"
   },
   {
     "name": "King Arthur: Knight's Tale",
@@ -9702,15 +9702,15 @@
     "img": "images/5a5f22c2877deba2105d6d35046f7d51.jpg",
     "path": "https://store.playstation.com/zh-hans-hk/concept/232879",
     "lang": "zh-hans-hk",
-    "fullname": "END OF ETERNITY 4K/HD EDITION (中日英韩文版)",
-    "description": "「枪与羁绊的故事」，将现身渐行凋零的世界。 用无数子弹改变世界的命运  以4KHD Edition翻新呈现的「枪击多重奏RPG」 《END OF ETERNITY》  遥远的未来，地球受到严重污染逐渐衰败，也使人类迎来存亡危机。 因此人类制造了巨大环境维持装置「巴塞尔」，将生死循环托付给机械。   不断运转的机械、引领众人的支配者阶级、以佣兵为业的主角们。 多条命运交织的故事，如今将再次揭幕。  以人类衰退期为背景展开的「命运」为主题深度的故事！ 融合了战略性和畅快感，迄今为止未体验过的对战系统！ 由樱庭统和田中公平作曲的气势磅礴且优美的音乐！  将2010年贩售的《END OF ETERNITY》以4KHD Edition高画质翻新。 用高画质图像来体验，以荒废的地球为舞台所描绘的故事还有驰骋战场挥洒枪弹的战斗吧。 在支援4K分辨率的环境中进行游戏，能以更高画质体验到命运交织的故事。  Copyright： ©SEGAtri-Ace Inc. Published by ARC SYSTEM WORKS ",
-    "publisher": "Arc System Works Co., Ltd.",
+    "fullname": "End of Eternity™ ENHANCED REMASTER (日语, 韩语, 简体中文, 繁体中文, 英语)",
+    "description": "遥远的未来，地球受到严重污染逐渐衰败，也使人类迎来存亡危机。 因此人类制造了巨大环境维持装置「巴塞尔」，将生死循环托付给机械。   不断运转的机械、引领众人的支配者阶级、以佣兵为业的主角们。 多条命运交织的故事，如今将再次揭幕。  在走向终结的世界中谱写的“枪与羁绊的故事” 无数子弹将改变世界的命运——  2010年发售的《END OF ETERNITY》曾于2018年推出“4KHD Editon”重制版。 本次“ENHANCED REMASTER”进一步扩展了原生4K输出和HDR支持等图像选项。 以更高品质、更高分辨率的画面，尽情体验以荒废地球为舞台展开的故事，以及在空中驰骋、纵横扫射的战斗。  以人类衰退期为背景展开的「命运」为主题深度的故事。 融合了战略性和畅快感，迄今为止未体验过的对战系统。 此外，由樱庭统与田中公平打造的壮丽乐曲，也为这个世界增添了鲜明色彩。 配合更加精美的画面，您将能更深刻、更鲜活地体验这段围绕命运展开的故事。 ",
+    "publisher": "tri-Ace, Inc.",
     "rate": "4.75",
-    "releaseTime": "4/12/2019",
-    "platform": "PS4",
-    "type": "角色扮演游戏, 角色扮演游戏, 角色扮演游戏",
+    "releaseTime": "30/10/2026",
+    "platform": "PS5",
+    "type": "角色扮演游戏, 角色扮演游戏",
     "category": "制品版游戏",
-    "price": 358,
+    "price": 268,
     "priceCurrency": "HKD"
   },
   {
@@ -9786,7 +9786,7 @@
     "category": "制品版游戏",
     "description": "怀着温暖的心一同冒险吧",
     "publisher": "thatgamecompany, Inc.",
-    "rate": "4.25",
+    "rate": "4.26",
     "releaseTime": "6/12/2022",
     "platform": "PS4",
     "type": "冒险, 角色扮演游戏"
@@ -9869,7 +9869,7 @@
     "rate": "4.72",
     "releaseTime": "21/8/2018",
     "platform": "PS4",
-    "type": "动作, 冒险, 角色扮演游戏"
+    "type": "角色扮演游戏, 冒险, 动作"
   },
   {
     "name": "UNCHARTED: The Nathan Drake Collection™",
@@ -10170,7 +10170,7 @@
     "rate": "4.25",
     "releaseTime": "26/1/2016",
     "platform": "PS4",
-    "type": "动作, 家庭",
+    "type": "家庭, 动作",
     "category": "制品版游戏",
     "price": 465,
     "priceCurrency": "HKD"
@@ -10730,7 +10730,7 @@
     "rate": "4.01",
     "releaseTime": "29/8/2023",
     "platform": "PS4, PS5",
-    "type": "动作, 冒险, 恐怖",
+    "type": "恐怖, 冒险, 动作",
     "category": "制品版游戏",
     "price": 198,
     "priceCurrency": "HKD"
@@ -10762,7 +10762,7 @@
     "rate": "4.64",
     "releaseTime": "10/12/2018",
     "platform": "PS4",
-    "type": "动作, 动作, 射击",
+    "type": "动作, 射击, 动作",
     "category": "制品版游戏",
     "price": 308,
     "priceCurrency": "HKD"
@@ -11286,7 +11286,7 @@
     "rate": "4.35",
     "releaseTime": "16/11/2017",
     "platform": "PS4",
-    "type": "动作, 冒险, 射击"
+    "type": "射击, 冒险, 动作"
   },
   {
     "name": "Flint: Treasure of Oblivion",
@@ -11473,7 +11473,7 @@
     "rate": "4.28",
     "releaseTime": "15/3/2023",
     "platform": "PS5",
-    "type": "恐怖, 射击, 动作"
+    "type": "射击, 恐怖, 动作"
   },
   {
     "name": "Two Point Campus",
@@ -11832,7 +11832,7 @@
     "rate": "4.62",
     "releaseTime": "12/2/2020",
     "platform": "PS4",
-    "type": "动作, 角色扮演游戏",
+    "type": "角色扮演游戏, 动作",
     "category": "制品版游戏",
     "price": 438,
     "priceCurrency": "HKD"
@@ -12398,7 +12398,7 @@
     "rate": "4.63",
     "releaseTime": "10/11/2015",
     "platform": "PS4",
-    "type": "动作, 冒险",
+    "type": "冒险, 动作",
     "category": "制品版游戏",
     "price": 74,
     "priceCurrency": "HKD"
@@ -12686,7 +12686,7 @@
     "rate": "4.50",
     "releaseTime": "2/4/2015",
     "platform": "PS4",
-    "type": "冒险, 角色扮演游戏, 角色扮演游戏",
+    "type": "角色扮演游戏, 冒险, 角色扮演游戏",
     "category": "制品版游戏",
     "price": 239,
     "priceCurrency": "HKD"
@@ -12910,7 +12910,7 @@
     "rate": "4.39",
     "releaseTime": "8/1/2014",
     "platform": "PS4",
-    "type": "动作, 冒险",
+    "type": "冒险, 动作",
     "category": "制品版游戏",
     "price": 29,
     "priceCurrency": "HKD"
@@ -13151,7 +13151,7 @@
     "rate": "4.56",
     "releaseTime": "2/2/2022",
     "platform": "PS4",
-    "type": "休闲, 家庭, 模拟"
+    "type": "模拟, 家庭, 休闲"
   },
   {
     "name": "Job Simulator",
@@ -13164,7 +13164,7 @@
     "rate": "4.06",
     "releaseTime": "21/2/2023",
     "platform": "PS4, PS5",
-    "type": "休闲, 模拟, 动作",
+    "type": "模拟, 休闲, 动作",
     "category": "制品版游戏",
     "price": 148,
     "priceCurrency": "HKD"
@@ -13228,7 +13228,7 @@
     "rate": "4.55",
     "releaseTime": "26/2/2018",
     "platform": "PS4",
-    "type": "动作, 恐怖"
+    "type": "恐怖, 动作"
   },
   {
     "name": "Heavenly Bodies",
@@ -13689,7 +13689,7 @@
     "rate": "4.41",
     "releaseTime": "5/12/2016",
     "platform": "PS4",
-    "type": "动作, 冒险",
+    "type": "冒险, 动作",
     "category": "制品版游戏",
     "price": 308,
     "priceCurrency": "HKD"
@@ -13788,7 +13788,7 @@
     "rate": "4.62",
     "releaseTime": "19/6/2019",
     "platform": "PS4",
-    "type": "动作, 冒险"
+    "type": "冒险, 动作"
   },
   {
     "name": "Team Sonic Racing",
@@ -13980,7 +13980,7 @@
     "rate": "4.01",
     "releaseTime": "4/3/2024",
     "platform": "PS5",
-    "type": "冒险, 休闲, 动作"
+    "type": "休闲, 冒险, 动作"
   },
   {
     "name": "Killing Floor 2",
@@ -14279,7 +14279,7 @@
     "price": 238,
     "priceCurrency": "HKD",
     "publisher": "RIPPLES ASIA VENTURE PTE LTD",
-    "rate": "3.46",
+    "rate": "3.45",
     "releaseTime": "3/12/2023",
     "platform": "PS4, PS5",
     "type": "冒险"
@@ -15201,7 +15201,7 @@
     "rate": "",
     "releaseTime": "19/1/2016",
     "platform": "PS4",
-    "type": "动作, 恐怖, 恐怖",
+    "type": "恐怖, 动作, 恐怖",
     "category": "组合包",
     "price": 39.25,
     "priceCurrency": "HKD"
@@ -15508,7 +15508,7 @@
     "rate": "4.80",
     "releaseTime": "14/10/2021",
     "platform": "PS4",
-    "type": "动作, 街机, 动作"
+    "type": "街机, 动作, 动作"
   },
   {
     "name": "Soulstice",
@@ -16097,7 +16097,7 @@
     "price": 198,
     "priceCurrency": "HKD",
     "publisher": "Good Shepherd Entertainment",
-    "rate": "4.15",
+    "rate": "4.16",
     "releaseTime": "25/7/2024",
     "platform": "PS5",
     "type": "战略"
@@ -16180,7 +16180,7 @@
     "rate": "4.27",
     "releaseTime": "14/11/2017",
     "platform": "PS4",
-    "type": "动作, 冒险"
+    "type": "冒险, 动作"
   },
   {
     "name": "复仇猎手",
@@ -16452,7 +16452,7 @@
     "rate": "4.19",
     "releaseTime": "8/10/2020",
     "platform": "PS4",
-    "type": "动作, 冒险"
+    "type": "冒险, 动作"
   },
   {
     "name": "银魂乱舞",
@@ -16817,7 +16817,7 @@
     "rate": "4.11",
     "releaseTime": "2/2/2023",
     "platform": "PS4, PS5",
-    "type": "冒险, 动作, 恐怖",
+    "type": "冒险, 恐怖, 动作",
     "category": "制品版游戏",
     "price": 198,
     "priceCurrency": "HKD"
@@ -16852,7 +16852,7 @@
     "rate": "4.46",
     "releaseTime": "17/10/2018",
     "platform": "PS4",
-    "type": "格斗, 动作, 格斗"
+    "type": "格斗, 格斗, 动作"
   },
   {
     "name": "轩辕剑柒",
@@ -16910,7 +16910,7 @@
     "fullname": "Medieval Dynasty (日语, 韩语, 简体中文, 英语)",
     "description": "狩猎、生存、建设和在严酷的中世纪保持领先地位",
     "publisher": "Toplitz Productions",
-    "rate": "4.45",
+    "rate": "4.44",
     "releaseTime": "6/10/2022",
     "platform": "PS5",
     "type": "模拟, 角色扮演游戏, 冒险",
@@ -16964,7 +16964,7 @@
     "rate": "4.20",
     "releaseTime": "21/2/2023",
     "platform": "PS4, PS5",
-    "type": "动作, 冒险"
+    "type": "冒险, 动作"
   },
   {
     "name": "Tchia",
@@ -17246,7 +17246,7 @@
     "rate": "4.77",
     "releaseTime": "26/2/2018",
     "platform": "PS4",
-    "type": "恐怖, 动作, 恐怖",
+    "type": "恐怖, 恐怖, 动作",
     "category": "制品版游戏",
     "price": 39,
     "priceCurrency": "HKD"
@@ -17596,7 +17596,7 @@
     "rate": "4.01",
     "releaseTime": "9/11/2017",
     "platform": "PS4",
-    "type": "模拟, 战略, 模拟",
+    "type": "战略, 模拟, 模拟",
     "category": "制品版游戏",
     "price": 208,
     "priceCurrency": "HKD"
@@ -17660,7 +17660,7 @@
     "price": 479,
     "priceCurrency": "HKD",
     "publisher": "Bandai Namco Entertainment",
-    "rate": "3.95",
+    "rate": "3.96",
     "releaseTime": "14/11/2019",
     "platform": "PS4",
     "type": "动作"
@@ -17994,7 +17994,7 @@
     "price": 398,
     "priceCurrency": "HKD",
     "publisher": "CLOUDED LEOPARD ENTERTAINMENT INC.",
-    "rate": "3.91",
+    "rate": "3.90",
     "releaseTime": "22/5/2024",
     "platform": "PS4, PS5",
     "type": "动作"
@@ -18039,7 +18039,7 @@
     "fullname": "3D Billiards - Pool & Snooker (英语)",
     "description": "走上虚拟球台，展示您可以用球杆做什么！ 除了台球馆经典的八球，还可以玩九球、十球甚至斯诺克！ 无论是单独对抗 AI 还是在同一个控制台上与真实玩家决斗，您都可以在四个可选择的、高度详细的房间中将球抛过桌子，同时您也可以在当地的高分榜上排名靠前。  当您与不同难度级别的 AI 对手决斗时，您可以从 10 个有吸引力的头像中进行选择。 引人入胜的台球配乐让您精神振奋。 仔细聆听真实的音效，例如球的咔哒声、碰撞声、断裂声以及球在桌子上滚动的特有方式。 瞄准，在你的射门上加点技巧，像真正的职业选手一样打球！  • 4 个不同的房间 • 4 种游戏类型（撞球：八球、九球、十球和斯诺克） • 3 个球皮 • 3 个球杆皮肤 • 多个难度级别 • 单人和多人游戏模式（1-2 名玩家） ",
     "publisher": "Joindots GmbH",
-    "rate": "2.72",
+    "rate": "2.73",
     "releaseTime": "18/5/2023",
     "platform": "PS5",
     "type": "运动, 模拟, 家庭",
@@ -18109,7 +18109,7 @@
     "rate": "4.68",
     "releaseTime": "27/4/2016",
     "platform": "PS4",
-    "type": "动作, 冒险, 角色扮演游戏"
+    "type": "角色扮演游戏, 冒险, 动作"
   },
   {
     "name": "勇者斗恶龙　英雄集结Ⅱ　双子之王与预言的终焉",
@@ -18234,7 +18234,7 @@
     "price": 198,
     "priceCurrency": "HKD",
     "publisher": "astragon Entertainment GmbH",
-    "rate": "2.87",
+    "rate": "2.86",
     "releaseTime": "10/11/2020",
     "platform": "PS4",
     "type": "驾驶/赛车, 模拟, 模拟器"
@@ -18317,7 +18317,7 @@
     "rate": "3.73",
     "releaseTime": "3/12/2020",
     "platform": "PS4",
-    "type": "冒险, 拼图"
+    "type": "拼图, 冒险"
   },
   {
     "name": "Ride 2",
@@ -18551,7 +18551,7 @@
     "price": 198,
     "priceCurrency": "HKD",
     "publisher": "SOFT SOURCE PTE LTD",
-    "rate": "3.58",
+    "rate": "3.57",
     "releaseTime": "10/4/2024",
     "platform": "PS4, PS5",
     "type": "家庭, 休闲, 冒险"
@@ -18602,7 +18602,7 @@
     "rate": "",
     "releaseTime": "25/2/2020",
     "platform": "PS4",
-    "type": "动作, 角色扮演游戏"
+    "type": "角色扮演游戏, 动作"
   },
   {
     "name": "女神异闻录５ 战略版",
@@ -18650,7 +18650,7 @@
     "rate": "4.58",
     "releaseTime": "7/12/2016",
     "platform": "PS4",
-    "type": "动作, 格斗, 冒险"
+    "type": "格斗, 动作, 冒险"
   },
   {
     "name": "宵星传奇 REMASTER",
@@ -18807,7 +18807,7 @@
     "rate": "4.49",
     "releaseTime": "30/8/2017",
     "platform": "PS4",
-    "type": "动作, 角色扮演游戏"
+    "type": "角色扮演游戏, 动作"
   },
   {
     "name": "Dragon Marked For Death",
@@ -18914,7 +18914,7 @@
     "price": 468,
     "priceCurrency": "HKD",
     "publisher": "CLOUDED LEOPARD ENTERTAINMENT INC.",
-    "rate": "3.71",
+    "rate": "3.70",
     "releaseTime": "23/3/2022",
     "platform": "PS4, PS5",
     "type": "角色扮演游戏, 战略, 模拟"
@@ -19010,7 +19010,7 @@
     "rate": "4.29",
     "releaseTime": "28/8/2017",
     "platform": "PS4",
-    "type": "模拟, 运动",
+    "type": "运动, 模拟",
     "category": "制品版游戏",
     "price": 134,
     "priceCurrency": "HKD"
@@ -19170,7 +19170,7 @@
     "price": 159.46,
     "priceCurrency": "HKD",
     "publisher": "Joindots GmbH",
-    "rate": "3.10",
+    "rate": "3.17",
     "releaseTime": "13/4/2023",
     "platform": "PS5",
     "type": "驾驶/赛车, 休闲, 街机"
@@ -19202,7 +19202,7 @@
     "price": 178,
     "priceCurrency": "HKD",
     "publisher": "H2 INTERACTIVE CO., LTD.",
-    "rate": "4.09",
+    "rate": "4.11",
     "releaseTime": "11/9/2024",
     "platform": "PS5",
     "type": "动作"
@@ -19381,7 +19381,7 @@
     "rate": "4.54",
     "releaseTime": "10/4/2024",
     "platform": "PS4",
-    "type": "动作, 冒险, 射击"
+    "type": "射击, 冒险, 动作"
   },
   {
     "name": "学园构想家",
@@ -19394,7 +19394,7 @@
     "price": 148,
     "priceCurrency": "HKD",
     "publisher": "NiuGamer Co., Ltd.",
-    "rate": "3.28",
+    "rate": "3.27",
     "releaseTime": "16/7/2024",
     "platform": "PS5",
     "type": "模拟, 休闲"
@@ -19871,7 +19871,7 @@
     "fullname": "乐高®大乱斗 (日语, 韩语, 简体中文, 繁体中文, 英语)",
     "description": "在这任何事都可能发生的轻松愉快的团队行动争斗中一往直前。",
     "publisher": "LEGO System A/S",
-    "rate": "3.91",
+    "rate": "3.92",
     "releaseTime": "1/9/2022",
     "platform": "PS4, PS5",
     "type": "动作",
@@ -20114,7 +20114,7 @@
     "rate": "",
     "releaseTime": "25/2/2019",
     "platform": "PS4",
-    "type": "街机, 街机, 驾驶/赛车",
+    "type": "街机, 驾驶/赛车, 街机",
     "category": "组合包",
     "price": 140,
     "priceCurrency": "HKD"
@@ -20658,7 +20658,7 @@
     "price": 59.5,
     "priceCurrency": "HKD",
     "publisher": "Trailmark Games, LLC",
-    "rate": "3.80",
+    "rate": "3.81",
     "releaseTime": "27/6/2024",
     "platform": "PS4, PS5",
     "type": "动作"
@@ -20768,7 +20768,7 @@
     "rate": "4.43",
     "releaseTime": "1/8/2016",
     "platform": "PS4",
-    "type": "冒险, 拼图, 独特游戏",
+    "type": "独特游戏, 拼图, 冒险",
     "category": "制品版游戏",
     "price": 155,
     "priceCurrency": "HKD"
@@ -20830,7 +20830,7 @@
     "rate": "",
     "releaseTime": "13/9/2016",
     "platform": "PS4",
-    "type": "动作, 恐怖",
+    "type": "恐怖, 动作",
     "category": "组合包",
     "price": 39,
     "priceCurrency": "HKD"
@@ -20846,7 +20846,7 @@
     "rate": "",
     "releaseTime": "13/9/2016",
     "platform": "PS4",
-    "type": "动作, 恐怖",
+    "type": "恐怖, 动作",
     "category": "组合包",
     "price": 39,
     "priceCurrency": "HKD"
@@ -20929,7 +20929,7 @@
     "rate": "4.41",
     "releaseTime": "26/10/2017",
     "platform": "PS4",
-    "type": "动作, 射击, 动作"
+    "type": "射击, 动作, 动作"
   },
   {
     "name": "Skull Island: Rise of Kong",
@@ -21038,7 +21038,7 @@
     "rate": "3.81",
     "releaseTime": "28/10/2019",
     "platform": "PS4",
-    "type": "动作, 冒险",
+    "type": "冒险, 动作",
     "category": "制品版游戏",
     "price": 168,
     "priceCurrency": "HKD"
@@ -21576,7 +21576,7 @@
     "price": 198,
     "priceCurrency": "HKD",
     "publisher": "Deck13 Interactive GmbH",
-    "rate": "4.28",
+    "rate": "4.29",
     "releaseTime": "15/12/2022",
     "platform": "PS4",
     "type": "角色扮演游戏"
@@ -21707,7 +21707,7 @@
     "rate": "3.84",
     "releaseTime": "15/6/2021",
     "platform": "PS4, PS5",
-    "type": "动作, 射击, 射击"
+    "type": "射击, 动作, 射击"
   },
   {
     "name": "守望者编年史",
