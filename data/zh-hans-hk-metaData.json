@@ -474,7 +474,7 @@
     "rate": "4.25",
     "releaseTime": "11/11/2020",
     "platform": "PS4, PS5",
-    "type": "家庭, 模拟"
+    "type": "模拟, 家庭"
   },
   {
     "name": "永劫无间",
@@ -501,7 +501,7 @@
     "rate": "3.89",
     "releaseTime": "15/11/2023",
     "platform": "PS4, PS5",
-    "type": "动作, 格斗, 冒险",
+    "type": "格斗, 动作, 冒险",
     "category": "制品版游戏",
     "price": 479,
     "priceCurrency": "HKD"
@@ -517,7 +517,7 @@
     "rate": "4.71",
     "releaseTime": "26/6/2019",
     "platform": "PS4",
-    "type": "动作, 冒险",
+    "type": "冒险, 动作",
     "category": "制品版游戏",
     "price": 148,
     "priceCurrency": "HKD"
@@ -805,7 +805,7 @@
     "price": 549,
     "priceCurrency": "HKD",
     "publisher": "Electronic Arts Inc.",
-    "rate": "3.18",
+    "rate": "3.19",
     "releaseTime": "31/10/2024",
     "platform": "PS5",
     "type": "角色扮演游戏"
@@ -944,7 +944,7 @@
     "fullname": "过山车之星 2 (日语, 韩语, 简体中文, 繁体中文, 英语)",
     "description": "奔涛戏浪",
     "publisher": "FRONTIER DEVELOPMENTS PLC",
-    "rate": "3.59",
+    "rate": "3.60",
     "releaseTime": "6/11/2024",
     "platform": "PS5",
     "type": "模拟",
@@ -1469,7 +1469,7 @@
     "rate": "4.15",
     "releaseTime": "22/3/2018",
     "platform": "PS4",
-    "type": "动作, 冒险",
+    "type": "冒险, 动作",
     "category": "制品版游戏",
     "price": 210,
     "priceCurrency": "HKD"
@@ -1864,7 +1864,7 @@
     "rate": "4.58",
     "releaseTime": "27/10/2016",
     "platform": "PS4",
-    "type": "动作, 冒险, 射击"
+    "type": "射击, 冒险, 动作"
   },
   {
     "name": "Shadow of the Tomb Raider",
@@ -1896,7 +1896,7 @@
     "rate": "4.51",
     "releaseTime": "20/10/2016",
     "platform": "PS4",
-    "type": "动作, 动作, 射击"
+    "type": "动作, 射击, 动作"
   },
   {
     "name": "真人快打 1",
@@ -3643,7 +3643,7 @@
     "rate": "4.30",
     "releaseTime": "9/6/2018",
     "platform": "PS4",
-    "type": "冒险, 拼图"
+    "type": "拼图, 冒险"
   },
   {
     "name": "Star Wars Outlaws",
@@ -3815,7 +3815,7 @@
     "rate": "4.53",
     "releaseTime": "31/8/2022",
     "platform": "PS4, PS5",
-    "type": "动作, 格斗"
+    "type": "格斗, 动作"
   },
   {
     "name": "World War Z: Aftermath",
@@ -3943,7 +3943,7 @@
     "rate": "4.36",
     "releaseTime": "18/11/2020",
     "platform": "PS4",
-    "type": "冒险, 冒险, 射击"
+    "type": "冒险, 射击, 冒险"
   },
   {
     "name": "Test Drive Unlimited Solar Crown",
@@ -4066,7 +4066,7 @@
     "rate": "4.38",
     "releaseTime": "21/2/2023",
     "platform": "PS5",
-    "type": "动作, 冒险",
+    "type": "冒险, 动作",
     "category": "制品版游戏",
     "price": 468,
     "priceCurrency": "HKD"
@@ -4117,7 +4117,7 @@
     "rate": "4.77",
     "releaseTime": "11/11/2020",
     "platform": "PS5",
-    "type": "动作, 独特游戏"
+    "type": "独特游戏, 动作"
   },
   {
     "name": "《幽灵行动：断点》",
@@ -4133,7 +4133,7 @@
     "rate": "4.14",
     "releaseTime": "3/10/2019",
     "platform": "PS4",
-    "type": "动作, 射击, 射击"
+    "type": "射击, 动作, 射击"
   },
   {
     "name": "Call of Duty®: Black Ops 4",
@@ -4275,7 +4275,7 @@
     "rate": "3.71",
     "releaseTime": "18/10/2023",
     "platform": "PS4, PS5",
-    "type": "街机, 驾驶/赛车"
+    "type": "驾驶/赛车, 街机"
   },
   {
     "name": "Arizona Sunshine® 2",
@@ -4897,7 +4897,7 @@
     "rate": "4.41",
     "releaseTime": "18/3/2020",
     "platform": "PS4",
-    "type": "动作, 冒险, 拼图"
+    "type": "冒险, 动作, 拼图"
   },
   {
     "name": "魔法使之夜",
@@ -5433,7 +5433,7 @@
     "rate": "4.56",
     "releaseTime": "11/12/2019",
     "platform": "PS4",
-    "type": "动作, 冒险, 角色扮演游戏",
+    "type": "角色扮演游戏, 冒险, 动作",
     "category": "制品版游戏",
     "price": 428,
     "priceCurrency": "HKD"
@@ -5559,7 +5559,7 @@
     "rate": "4.64",
     "releaseTime": "22/4/2021",
     "platform": "PS5",
-    "type": "冒险, 动作, 独特游戏",
+    "type": "冒险, 独特游戏, 动作",
     "category": "制品版游戏",
     "price": 138,
     "priceCurrency": "HKD"
@@ -5658,7 +5658,7 @@
     "rate": "4.56",
     "releaseTime": "16/12/2013",
     "platform": "PS4",
-    "type": "动作, 动作, 射击"
+    "type": "动作, 射击, 动作"
   },
   {
     "name": "World of Tanks Modern Armor",
@@ -5685,7 +5685,7 @@
     "rate": "3.82",
     "releaseTime": "21/11/2019",
     "platform": "PS4",
-    "type": "战略, 角色扮演游戏, 独特游戏",
+    "type": "战略, 独特游戏, 角色扮演游戏",
     "category": "制品版游戏",
     "price": 238,
     "priceCurrency": "HKD"
@@ -6144,7 +6144,7 @@
     "rate": "4.81",
     "releaseTime": "25/7/2018",
     "platform": "PS4",
-    "type": "动作, 冒险"
+    "type": "冒险, 动作"
   },
   {
     "name": "Disney Epic Mickey: Rebrushed",
@@ -6205,7 +6205,7 @@
     "rate": "4.81",
     "releaseTime": "20/2/2019",
     "platform": "PS4",
-    "type": "动作, 角色扮演游戏",
+    "type": "角色扮演游戏, 动作",
     "category": "制品版游戏",
     "price": 308,
     "priceCurrency": "HKD"
@@ -6256,7 +6256,7 @@
     "rate": "4.70",
     "releaseTime": "23/1/2019",
     "platform": "PS4",
-    "type": "角色扮演游戏, 冒险, 角色扮演游戏"
+    "type": "角色扮演游戏, 角色扮演游戏, 冒险"
   },
   {
     "name": "Grounded PS4® & PS5®",
@@ -6509,7 +6509,7 @@
     "rate": "4.17",
     "releaseTime": "19/7/2023",
     "platform": "PS4, PS5",
-    "type": "角色扮演游戏, 模拟"
+    "type": "模拟, 角色扮演游戏"
   },
   {
     "name": "ARK: Survival Evolved",
@@ -6714,7 +6714,7 @@
     "rate": "4.38",
     "releaseTime": "6/7/2022",
     "platform": "PS4, PS5",
-    "type": "动作, 冒险"
+    "type": "冒险, 动作"
   },
   {
     "name": "7 Days to Die - 主机版",
@@ -6791,7 +6791,7 @@
     "rate": "4.45",
     "releaseTime": "25/7/2018",
     "platform": "PS4",
-    "type": "动作, 角色扮演游戏",
+    "type": "角色扮演游戏, 动作",
     "category": "制品版游戏",
     "price": 37,
     "priceCurrency": "HKD"
@@ -6938,7 +6938,7 @@
     "rate": "4.08",
     "releaseTime": "30/10/2018",
     "platform": "PS4",
-    "type": "模拟, 运动"
+    "type": "运动, 模拟"
   },
   {
     "name": "Capcom Arcade Stadium",
@@ -7016,7 +7016,7 @@
     "rate": "4.24",
     "releaseTime": "6/6/2016",
     "platform": "PS4",
-    "type": "动作, 冒险"
+    "type": "冒险, 动作"
   },
   {
     "name": "火影忍者 疾风传 终极风暴 三部曲",
@@ -7467,7 +7467,7 @@
     "fullname": "Neon Abyss (日语, 简体中文, 繁体中文, 英语)",
     "description": "《Neon Abyss》是一个狂热的 roguelike 平台动作游戏。在这个游戏中，您会加入哈迪斯创建的“死神小队”，在奔跑与射击中深入深渊。游戏拥有无穷无尽的物品协同效果，独特的地牢演化系统，令每次进入体验各不相同，而您的每个选择都会改变游戏的规则。做好准备，地狱就在前方！  关于游戏 将跑酷射击的爽快动作与深邃的 roguelike 机制结合，你将在《Neon Abyss》担任哈迪斯亲手创办特种部队“死神小队”的一员，潜入深渊之中，击败新生之神。在这里，死亡并不是终点 - 每次死亡，你都会比以前更为强大。  不断进化的地牢 每次进行游戏，你都能解锁全新的房间、物品、头目、特殊规则，甚至于新的结局！这意味着每个地牢都是独一无二，充满扩展可能性，能够为你的游玩风格进行专属定制。  无限的物品协同 随着在各个地牢中推进，随机掉落的物品将成为你成功潜入深渊的关键。它们的被动效果能够相互叠加，同时还没有适用的上限限制。各种各样的组合，将会令每场游戏都与众不同。  孵化和进化宠物 在深入深渊的路上，如果需要伙伴，或者想来些额外的火力或协助，你大可去找枚蛋来 - 它们能够变为一只随机宠物，拥有特殊的能力，甚至还会根据你存活的时间进行进化。   迷你游戏 从屠杀怪物中歇口气，参加到随机的迷你游戏中来 - 从它们中也能获得战利品！来加入钢琴演奏、冥想挑战、舞力比拼... 活下来，可是会越来越有趣！ ",
     "publisher": "Team17 Digital Ltd",
-    "rate": "4.14",
+    "rate": "4.15",
     "releaseTime": "13/7/2020",
     "platform": "PS4",
     "type": "射击",
@@ -8692,7 +8692,7 @@
     "rate": "4.14",
     "releaseTime": "14/2/2019",
     "platform": "PS4",
-    "type": "动作, 动作, 射击",
+    "type": "动作, 射击, 动作",
     "price": 315,
     "priceCurrency": "HKD"
   },
@@ -8931,7 +8931,7 @@
     "rate": "4.64",
     "releaseTime": "23/7/2020",
     "platform": "PS4",
-    "type": "动作, 街机, 动作",
+    "type": "街机, 动作, 动作",
     "category": "制品版游戏",
     "price": 198,
     "priceCurrency": "HKD"
@@ -9187,7 +9187,7 @@
     "rate": "4.44",
     "releaseTime": "1/3/2016",
     "platform": "PS4",
-    "type": "动作, 冒险"
+    "type": "冒险, 动作"
   },
   {
     "name": "Monster Boy and the Cursed Kingdom",
@@ -9264,7 +9264,7 @@
     "price": 238,
     "priceCurrency": "HKD",
     "publisher": "Jyamma Games Srl",
-    "rate": "3.36",
+    "rate": "3.37",
     "releaseTime": "18/9/2024",
     "platform": "PS5",
     "type": "角色扮演游戏"
@@ -9331,7 +9331,7 @@
     "rate": "4.05",
     "releaseTime": "7/11/2017",
     "platform": "PS4",
-    "type": "动作, 角色扮演游戏"
+    "type": "角色扮演游戏, 动作"
   },
   {
     "name": "WRC Generations – The FIA WRC Official Game",
@@ -9740,7 +9740,7 @@
     "rate": "4.11",
     "releaseTime": "9/7/2020",
     "platform": "PS4",
-    "type": "动作, 冒险, 家庭",
+    "type": "家庭, 冒险, 动作",
     "category": "制品版游戏",
     "price": 107.1,
     "priceCurrency": "HKD"
@@ -9786,7 +9786,7 @@
     "category": "制品版游戏",
     "description": "怀着温暖的心一同冒险吧",
     "publisher": "thatgamecompany, Inc.",
-    "rate": "4.26",
+    "rate": "4.25",
     "releaseTime": "6/12/2022",
     "platform": "PS4",
     "type": "冒险, 角色扮演游戏"
@@ -9885,7 +9885,7 @@
     "rate": "4.62",
     "releaseTime": "21/11/2018",
     "platform": "PS4",
-    "type": "动作, 冒险"
+    "type": "冒险, 动作"
   },
   {
     "name": "Wizard of Legend",
@@ -9981,7 +9981,7 @@
     "rate": "4.38",
     "releaseTime": "5/2/2018",
     "platform": "PS4",
-    "type": "动作, 冒险"
+    "type": "冒险, 动作"
   },
   {
     "name": "KAMEN RIDER 英雄寻忆",
@@ -10007,7 +10007,7 @@
     "fullname": "《[REDACTED]》 (日语, 韩语, 简体中文, 英语)",
     "description": "你的任务很简单：抢先找到最后的逃生舱，活着离开这里。",
     "publisher": "KRAFTON, Inc.",
-    "rate": "4.53",
+    "rate": "4.52",
     "releaseTime": "27/10/2024",
     "platform": "PS5",
     "type": "动作",
@@ -10074,7 +10074,7 @@
     "rate": "4.44",
     "releaseTime": "18/4/2018",
     "platform": "PS4",
-    "type": "动作, 街机, 射击",
+    "type": "射击, 街机, 动作",
     "category": "制品版游戏",
     "price": 77,
     "priceCurrency": "HKD"
@@ -10301,7 +10301,7 @@
     "rate": "",
     "releaseTime": "25/9/2017",
     "platform": "PS4",
-    "type": "独特游戏, 冒险, 独特游戏"
+    "type": "独特游戏, 独特游戏, 冒险"
   },
   {
     "name": "MARVEL vs. CAPCOM Fighting Collection: Arcade Classics",
@@ -10333,7 +10333,7 @@
     "rate": "4.45",
     "releaseTime": "26/4/2016",
     "platform": "PS4",
-    "type": "射击, 动作, 射击"
+    "type": "射击, 射击, 动作"
   },
   {
     "name": "合金弹头：战略版",
@@ -10621,7 +10621,7 @@
     "rate": "3.66",
     "releaseTime": "1/5/2024",
     "platform": "PS4, PS5",
-    "type": "动作, 模拟, 独特游戏"
+    "type": "动作, 独特游戏, 模拟"
   },
   {
     "name": "Dragon's Dogma: Dark Arisen",
@@ -10637,7 +10637,7 @@
     "rate": "4.66",
     "releaseTime": "3/10/2017",
     "platform": "PS4",
-    "type": "动作, 冒险"
+    "type": "冒险, 动作"
   },
   {
     "name": "热血三国志 乱世风云",
@@ -10893,7 +10893,7 @@
     "rate": "4.72",
     "releaseTime": "9/12/2015",
     "platform": "PS4",
-    "type": "动作, 冒险"
+    "type": "冒险, 动作"
   },
   {
     "name": "Cat Quest II",
@@ -10909,7 +10909,7 @@
     "rate": "4.60",
     "releaseTime": "5/2/2020",
     "platform": "PS4",
-    "type": "动作, 冒险, 角色扮演游戏"
+    "type": "角色扮演游戏, 冒险, 动作"
   },
   {
     "name": "The Plucky Squire (勇敢小骑士)",
@@ -11189,7 +11189,7 @@
     "rate": "4.49",
     "releaseTime": "28/9/2023",
     "platform": "PS5",
-    "type": "街机, 家庭",
+    "type": "家庭, 街机",
     "category": "制品版游戏",
     "price": 54,
     "priceCurrency": "HKD"
@@ -11270,7 +11270,7 @@
     "rate": "4.22",
     "releaseTime": "30/1/2018",
     "platform": "PS4",
-    "type": "动作, 格斗, 角色扮演游戏"
+    "type": "格斗, 动作, 角色扮演游戏"
   },
   {
     "name": "STAR WARS™ Battlefront™ II",
@@ -11419,7 +11419,7 @@
     "fullname": "Commandos 3 - HD Remaster (日语, 韩语, 简体中文, 繁体中文, 英语)",
     "description": "集合，士兵！",
     "publisher": "H2 Interactive Co., Ltd.",
-    "rate": "3.83",
+    "rate": "3.82",
     "releaseTime": "30/8/2022",
     "platform": "PS4",
     "type": "动作, 战略",
@@ -11547,7 +11547,7 @@
     "rate": "4.55",
     "releaseTime": "12/10/2017",
     "platform": "PS4",
-    "type": "动作, 冒险, 恐怖",
+    "type": "恐怖, 冒险, 动作",
     "category": "制品版游戏",
     "price": 310,
     "priceCurrency": "HKD"
@@ -11954,7 +11954,7 @@
     "fullname": "Inscryption (日语, 韩语, 简体中文, 繁体中文, 英语)",
     "description": "本游戏可谓《小马岛Pony Island》和《六角疑云The Hex》的原创作者对电子游戏的头脑熔解、自我毁灭般的情书。  《邪恶冥刻Inscryption》是一部墨黑色卡片主题的冒险史诗，融合了Roguelike牌组构建、密室逃脱以及心理恐怖元素，为玩家献上一杯血腥的冰沙奶昔。比玩法更黑暗的，是卡牌上冥刻的内容……  在《邪恶冥刻》中，玩家可以……  通过抽牌、手术和自残行为获得由林间生物组成的牌组  解开隐藏在莱西小屋墙壁之后的秘密  踏上意想不到又令人深感不安的冒险史诗 ",
     "publisher": "Devolver Digital",
-    "rate": "4.73",
+    "rate": "4.72",
     "releaseTime": "30/8/2022",
     "platform": "PS4, PS5",
     "type": "冒险, 战略",
@@ -12069,7 +12069,7 @@
     "rate": "4.65",
     "releaseTime": "23/2/2023",
     "platform": "PS4, PS5",
-    "type": "动作, 射击"
+    "type": "射击, 动作"
   },
   {
     "name": "√Letter-方根书简",
@@ -12253,7 +12253,7 @@
     "fullname": "SEASON: A letter to the future PS4 & PS5 (日语, 简体中文, 繁体中文, 英语)",
     "description": "购买该产品后，您可以同时下载该游戏的 PS4™ 数字版和 PS5™ 数字版。  在神秘的大灾难抹去一切之前，你将第一次离开家门去收集记忆。探索、记录、结识新朋友，慢慢揭开这个陌生世界的面纱。沉浸在《Season》的世界中吧，这款第三人称视角冒险游戏将带你展开一场身临其境的骑行之旅。  游戏的玩法主要为探索、记录、结识他人、以及解开陌生世界的谜团。在任何时候，你都可以从自行车上跳下来，并使用工具进行记录。每一个工具都用以捕捉不同的元素，包括声音和音乐，艺术品以及建筑，人们的对话，消失的宗教习俗，以及岁月的痕迹。运用好工具可以帮助你更全面地了解这个世界，直到你能掌握一切事物背后的故事。  游戏特色：  - 自行车公路旅行：玩家将可以骑着自行车穿越迷人的风景；  - 探索神秘新世界： 旅途中玩家将会遇到各种各样的角色，他们将会改变你的故事进程；  - 录音，拍照和记录：玩家可以收集人们的故事并以各种方式记录下来， 在季节结束之前发掘出世界的秘密。  在遥远的群山中，有一个远离季节变化的村庄。在Estelle之前，没有人离开过这里，去探索 外面的世界。如今，季节即将结束，Estelle离开了舒适的家，骑着自行车前往未知的世界， 试图记录下这个季节的所有，在她的认知里，一个季节就是一段历史、一个时代。她穿梭于 陌生而又熟悉的山群中，观察着人们的生活，倾听着他们的故事，在即将发生神秘变化的季 节尾声。  如您已经拥有该游戏的 PS4™ 数字版，则可免费获得其 PS5™ 数字版，无需额外付费购买。如您拥有 PS4™ 制品版游戏，则需在下载游戏和每次游玩时将光盘放入 PS5™ 主机内。如您拥有 PS4™ 制品版游戏，但购买了无光驱的 PS5™ 数字版主机，则无法免费获得该游戏的 PS5™ 版本。 ",
     "publisher": "COVALENT MEDIA",
-    "rate": "3.89",
+    "rate": "3.88",
     "releaseTime": "31/1/2023",
     "platform": "PS4, PS5",
     "type": "独特游戏, 休闲, 冒险",
@@ -12593,7 +12593,7 @@
     "rate": "4.42",
     "releaseTime": "20/4/2016",
     "platform": "PS4",
-    "type": "格斗, 动作, 格斗"
+    "type": "格斗, 格斗, 动作"
   },
   {
     "name": "LANGRISSERⅠ&Ⅱ",
@@ -12769,7 +12769,7 @@
     "rate": "4.49",
     "releaseTime": "25/7/2018",
     "platform": "PS4",
-    "type": "动作, 动作, 冒险"
+    "type": "动作, 冒险, 动作"
   },
   {
     "name": "ARK Park",
@@ -12993,7 +12993,7 @@
     "rate": "4.33",
     "releaseTime": "1/12/2015",
     "platform": "PS4",
-    "type": "动作, 冒险"
+    "type": "冒险, 动作"
   },
   {
     "name": "Tools Up! - Ultimate Edition",
@@ -13070,7 +13070,7 @@
     "rate": "4.03",
     "releaseTime": "10/10/2023",
     "platform": "PS5",
-    "type": "休闲, 家庭, 拼图",
+    "type": "休闲, 拼图, 家庭",
     "category": "制品版游戏",
     "price": 148,
     "priceCurrency": "HKD"
@@ -14054,7 +14054,7 @@
     "fullname": "Scorn (泰语, 日语, 韩语, 简体中文, 繁体中文, 英语)",
     "description": "迎接恐惧，直面噩梦。",
     "publisher": "Kepler Interactive Limited",
-    "rate": "4.17",
+    "rate": "4.16",
     "releaseTime": "2/10/2023",
     "platform": "PS5",
     "type": "恐怖, 拼图",
@@ -14218,7 +14218,7 @@
     "rate": "3.97",
     "releaseTime": "14/12/2023",
     "platform": "PS4, PS5",
-    "type": "动作, 格斗, 动作"
+    "type": "格斗, 动作, 动作"
   },
   {
     "name": "Gungrave G.O.R.E",
@@ -14311,7 +14311,7 @@
     "rate": "3.50",
     "releaseTime": "17/10/2023",
     "platform": "PS5",
-    "type": "健身, 音乐/节奏",
+    "type": "音乐/节奏, 健身",
     "category": "制品版游戏",
     "price": 108,
     "priceCurrency": "HKD"
@@ -14404,7 +14404,7 @@
     "rate": "3.82",
     "releaseTime": "4/12/2023",
     "platform": "PS5",
-    "type": "独特游戏, 冒险, 模拟",
+    "type": "独特游戏, 模拟, 冒险",
     "category": "制品版游戏",
     "price": 148,
     "priceCurrency": "HKD"
@@ -14423,7 +14423,7 @@
     "rate": "4.20",
     "releaseTime": "3/11/2021",
     "platform": "PS4, PS5",
-    "type": "动作, 拼图"
+    "type": "拼图, 动作"
   },
   {
     "name": "Saints Row®: The Third™ Remastered",
@@ -14535,7 +14535,7 @@
     "rate": "4.27",
     "releaseTime": "25/7/2018",
     "platform": "PS4",
-    "type": "冒险, 射击"
+    "type": "射击, 冒险"
   },
   {
     "name": "Empire of Sin 罪恶帝国",
@@ -14583,7 +14583,7 @@
     "rate": "4.60",
     "releaseTime": "23/11/2015",
     "platform": "PS4",
-    "type": "动作, 冒险"
+    "type": "冒险, 动作"
   },
   {
     "name": "关键奇异鸟 (KeyWe)",
@@ -14740,7 +14740,7 @@
     "rate": "4.03",
     "releaseTime": "27/9/2022",
     "platform": "PS4, PS5",
-    "type": "冒险, 恐怖",
+    "type": "恐怖, 冒险",
     "category": "制品版游戏",
     "price": 74.5,
     "priceCurrency": "HKD"
@@ -14836,7 +14836,7 @@
     "rate": "4.04",
     "releaseTime": "6/4/2017",
     "platform": "PS4",
-    "type": "模拟, 战略, 模拟器",
+    "type": "模拟, 模拟器, 战略",
     "category": "制品版游戏",
     "price": 310,
     "priceCurrency": "HKD"
@@ -14951,7 +14951,7 @@
     "rate": "",
     "releaseTime": "5/12/2017",
     "platform": "PS4",
-    "type": "动作, 冒险, 恐怖"
+    "type": "恐怖, 冒险, 动作"
   },
   {
     "name": "Farming Simulator 22",
@@ -15380,7 +15380,7 @@
     "rate": "3.95",
     "releaseTime": "19/5/2016",
     "platform": "PS4",
-    "type": "动作, 动作, 射击"
+    "type": "动作, 射击, 动作"
   },
   {
     "name": "讨鬼传２",
@@ -15969,7 +15969,7 @@
     "rate": "3.88",
     "releaseTime": "28/5/2021",
     "platform": "PS4",
-    "type": "动作, 家庭, 角色扮演游戏",
+    "type": "角色扮演游戏, 家庭, 动作",
     "category": "制品版游戏",
     "price": 238,
     "priceCurrency": "HKD"
@@ -16337,7 +16337,7 @@
     "rate": "3.08",
     "releaseTime": "8/5/2023",
     "platform": "PS4, PS5",
-    "type": "动作, 街机",
+    "type": "街机, 动作",
     "category": "制品版游戏",
     "price": 198,
     "priceCurrency": "HKD"
@@ -16372,7 +16372,7 @@
     "rate": "4.57",
     "releaseTime": "6/10/2015",
     "platform": "PS4",
-    "type": "动作, 角色扮演游戏"
+    "type": "角色扮演游戏, 动作"
   },
   {
     "name": "Halloween Pumpkin Brawl",
@@ -16596,7 +16596,7 @@
     "rate": "4.01",
     "releaseTime": "28/9/2022",
     "platform": "PS4, PS5",
-    "type": "动作, 角色扮演游戏"
+    "type": "角色扮演游戏, 动作"
   },
   {
     "name": "SaGa Emerald Beyond",
@@ -17807,7 +17807,7 @@
     "rate": "4.58",
     "releaseTime": "13/5/2015",
     "platform": "PS4",
-    "type": "动作, 动作, 角色扮演游戏"
+    "type": "动作, 角色扮演游戏, 动作"
   },
   {
     "name": "热血硬派国夫君外传 热血少女2",
@@ -17935,7 +17935,7 @@
     "rate": "4.58",
     "releaseTime": "25/2/2015",
     "platform": "PS4",
-    "type": "动作, 角色扮演游戏"
+    "type": "角色扮演游戏, 动作"
   },
   {
     "name": "CYGNI: All Guns Blazing",
@@ -17994,7 +17994,7 @@
     "price": 398,
     "priceCurrency": "HKD",
     "publisher": "CLOUDED LEOPARD ENTERTAINMENT INC.",
-    "rate": "3.90",
+    "rate": "3.89",
     "releaseTime": "22/5/2024",
     "platform": "PS4, PS5",
     "type": "动作"
@@ -18125,7 +18125,7 @@
     "rate": "4.44",
     "releaseTime": "3/8/2016",
     "platform": "PS4",
-    "type": "动作, 角色扮演游戏, 动作"
+    "type": "角色扮演游戏, 动作, 动作"
   },
   {
     "name": "Figment 2: Creed Valley",
@@ -18138,7 +18138,7 @@
     "rate": "4.16",
     "releaseTime": "9/3/2023",
     "platform": "PS5",
-    "type": "冒险, 拼图",
+    "type": "拼图, 冒险",
     "category": "制品版游戏",
     "price": 198,
     "priceCurrency": "HKD"
@@ -18237,7 +18237,7 @@
     "rate": "2.86",
     "releaseTime": "10/11/2020",
     "platform": "PS4",
-    "type": "驾驶/赛车, 模拟, 模拟器"
+    "type": "模拟, 驾驶/赛车, 模拟器"
   },
   {
     "name": "Little Big Adventure – Twinsen’s Quest",
@@ -18791,7 +18791,7 @@
     "rate": "4.25",
     "releaseTime": "12/12/2017",
     "platform": "PS4",
-    "type": "动作, 角色扮演游戏, 射击"
+    "type": "动作, 射击, 角色扮演游戏"
   },
   {
     "name": "Ys Origin",
@@ -18917,7 +18917,7 @@
     "rate": "3.70",
     "releaseTime": "23/3/2022",
     "platform": "PS4, PS5",
-    "type": "角色扮演游戏, 战略, 模拟"
+    "type": "战略, 角色扮演游戏, 模拟"
   },
   {
     "name": "Swordsman VR",
@@ -18975,7 +18975,7 @@
     "fullname": "Emergency Call - The Attack Squad (英语)",
     "description": "扮演攻击小队的角色，探索现场并以合理的方式应对挑战。 无论是火灾、人员救援还是技术援助，每个场景开始时都会出现不明确的破坏情况，这需要您注意。请记住，在探索和行动时，选择正确的工具和决定合理的战术顺序同样重要。  游戏特色  - 扮演攻击小队，完成各种令人兴奋的任务 - 探索行动地点，决定战术方法并完成任务  - 您的战术决定会影响任务的后续进程   - 每次任务都会进行评估，以便不断提高自己的能力 - 使用烟幕、哈里根工具、云梯或各种灭火剂等设备 - 以第一人称视角进行游戏，管理库存并与游戏中的角色互动 ",
     "publisher": "AEROSOFT GMBH",
-    "rate": "2.70",
+    "rate": "2.69",
     "releaseTime": "14/12/2023",
     "platform": "PS4, PS5",
     "type": "模拟器",
@@ -19125,7 +19125,7 @@
     "rate": "3.30",
     "releaseTime": "16/6/2022",
     "platform": "PS5",
-    "type": "恐怖, 动作, 冒险"
+    "type": "恐怖, 冒险, 动作"
   },
   {
     "name": "ZONE OF THE ENDERS THE 2nd RUNNER : M∀RS",
@@ -19237,7 +19237,7 @@
     "rate": "4.53",
     "releaseTime": "20/11/2022",
     "platform": "PS4, PS5",
-    "type": "拼图, 拼图, 射击"
+    "type": "拼图, 射击, 拼图"
   },
   {
     "name": "Crow Country",
@@ -19634,7 +19634,7 @@
     "rate": "4.73",
     "releaseTime": "23/2/2023",
     "platform": "PS4, PS5",
-    "type": "动作, 街机, 射击",
+    "type": "射击, 街机, 动作",
     "category": "制品版游戏",
     "price": 214,
     "priceCurrency": "HKD"
@@ -19714,7 +19714,7 @@
     "price": 238,
     "priceCurrency": "HKD",
     "publisher": "REBELLION INTERACTIVE",
-    "rate": "3.38",
+    "rate": "3.37",
     "releaseTime": "8/7/2021",
     "platform": "PS4",
     "type": "射击"
@@ -19733,7 +19733,7 @@
     "rate": "4.22",
     "releaseTime": "2/5/2024",
     "platform": "PS4",
-    "type": "冒险, 角色扮演游戏, 模拟"
+    "type": "模拟, 角色扮演游戏, 冒险"
   },
   {
     "name": "Jusant",
@@ -19858,7 +19858,7 @@
     "rate": "4.26",
     "releaseTime": "19/11/2020",
     "platform": "PS4",
-    "type": "动作, 派对",
+    "type": "派对, 动作",
     "category": "制品版游戏",
     "price": 148,
     "priceCurrency": "HKD"
@@ -19890,7 +19890,7 @@
     "rate": "4.49",
     "releaseTime": "23/5/2023",
     "platform": "PS4, PS5",
-    "type": "动作, 格斗",
+    "type": "格斗, 动作",
     "category": "制品版游戏",
     "price": 148,
     "priceCurrency": "HKD"
@@ -19954,7 +19954,7 @@
     "rate": "4.48",
     "releaseTime": "8/2/2016",
     "platform": "PS4",
-    "type": "冒险, 冒险, 拼图",
+    "type": "冒险, 拼图, 冒险",
     "category": "制品版游戏",
     "price": 160,
     "priceCurrency": "HKD"
@@ -20338,7 +20338,7 @@
     "price": 37,
     "priceCurrency": "HKD",
     "publisher": "505 GAMES S.R.L.",
-    "rate": "3.22",
+    "rate": "3.23",
     "releaseTime": "15/6/2023",
     "platform": "PS5",
     "type": "射击"
@@ -20610,7 +20610,7 @@
     "rate": "3.66",
     "releaseTime": "10/4/2019",
     "platform": "PS4",
-    "type": "动作, 动作, 射击",
+    "type": "动作, 射击, 动作",
     "category": "制品版游戏",
     "price": 428,
     "priceCurrency": "HKD"
@@ -20741,7 +20741,7 @@
     "rate": "4.40",
     "releaseTime": "12/9/2019",
     "platform": "PS4",
-    "type": "动作, 射击, 动作"
+    "type": "射击, 动作, 动作"
   },
   {
     "name": "Trackmania®",
@@ -20800,7 +20800,7 @@
     "rate": "4.71",
     "releaseTime": "20/1/2015",
     "platform": "PS4",
-    "type": "动作, 恐怖",
+    "type": "恐怖, 动作",
     "category": "制品版游戏",
     "price": 39.25,
     "priceCurrency": "HKD"
@@ -20990,7 +20990,7 @@
     "rate": "4.47",
     "releaseTime": "26/3/2020",
     "platform": "PS4",
-    "type": "动作, 冒险",
+    "type": "冒险, 动作",
     "category": "制品版游戏",
     "price": 148,
     "priceCurrency": "HKD"
@@ -21134,7 +21134,7 @@
     "rate": "3.01",
     "releaseTime": "31/10/2018",
     "platform": "PS4",
-    "type": "冒险, 恐怖, 冒险",
+    "type": "恐怖, 冒险, 冒险",
     "category": "制品版游戏",
     "price": 133,
     "priceCurrency": "HKD"
@@ -21659,7 +21659,7 @@
     "rate": "4.30",
     "releaseTime": "12/10/2016",
     "platform": "PS4",
-    "type": "动作, 冒险, 独特游戏"
+    "type": "独特游戏, 冒险, 动作"
   },
   {
     "name": "Spike Volleyball",
@@ -21675,7 +21675,7 @@
     "rate": "3.01",
     "releaseTime": "5/2/2019",
     "platform": "PS4",
-    "type": "模拟, 运动"
+    "type": "运动, 模拟"
   },
   {
     "name": "This Is the Police",
@@ -21720,7 +21720,7 @@
     "rate": "4.41",
     "releaseTime": "26/9/2022",
     "platform": "PS5",
-    "type": "动作, 角色扮演游戏",
+    "type": "角色扮演游戏, 动作",
     "category": "制品版游戏",
     "price": 148,
     "priceCurrency": "HKD"
@@ -21829,7 +21829,7 @@
     "rate": "3.73",
     "releaseTime": "18/1/2024",
     "platform": "PS4",
-    "type": "模拟, 模拟器",
+    "type": "模拟器, 模拟",
     "category": "制品版游戏",
     "price": 51.8,
     "priceCurrency": "HKD"
@@ -21986,7 +21986,7 @@
     "fullname": "Overland (日语, 韩语, 简体中文, 繁体中文, 英语)",
     "description": "并非每个人都能坚持走到世界的尽头。",
     "publisher": "LAST CHANCE MEDIA (DBA FINJI GAMES)",
-    "rate": "4.08",
+    "rate": "4.09",
     "releaseTime": "12/12/2022",
     "platform": "PS4, PS5",
     "type": "战略, 战略",
@@ -22320,7 +22320,7 @@
     "fullname": "蓝精灵卡丁车 (日语, 韩语, 简体中文, 繁体中文, 英语)",
     "description": "谁是镇上速度最快的蓝精灵？",
     "publisher": "RIPPLES ASIA VENTURE PTE LTD",
-    "rate": "3.84",
+    "rate": "3.85",
     "releaseTime": "30/11/2023",
     "platform": "PS4, PS5",
     "type": "驾驶/赛车",
@@ -22630,7 +22630,7 @@
     "rate": "4.38",
     "releaseTime": "6/12/2015",
     "platform": "PS4",
-    "type": "动作, 冒险, 角色扮演游戏"
+    "type": "角色扮演游戏, 冒险, 动作"
   },
   {
     "name": "Fight'N Rage",
@@ -22838,7 +22838,7 @@
     "rate": "4.42",
     "releaseTime": "8/1/2014",
     "platform": "PS4",
-    "type": "动作, 音乐/节奏"
+    "type": "音乐/节奏, 动作"
   },
   {
     "name": "天使帝国IV",
