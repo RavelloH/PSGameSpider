@@ -2416,7 +2416,7 @@
     "fullname": "Planet Coaster: Console Edition",
     "description": "Surprise and delight crowds as you build the coaster park of your dreams and manage a truly living world with unparalleled attention to detail.  Whatever your skill level, bring your ideas to life. Take advantage of Blueprints to quickly place over 700 pre-made objects, including coasters, facilities and scenery; build from the ground up with detailed piece-by-piece construction; or transform the ground itself with terrain-altering tools.  Running your park is just as easy. Guests react in realtime as you set prices, place scenery, and install exciting new attractions. Keep them entertained so attendance figures – and profits – skyrocket.  Looking for inspiration Discover the Frontier Workshop and harness the world’s best designs in your expanding empire. Download coasters, scenery, buildings, and entire parks,   or grow a following by uploading your own creations. From stunning firework displays to sprawling cruise ships, there’s no limit to the creativity.  Your park, your way Take on a deep, rewarding career mode, tackle challenging scenarios, or construct your dream coaster park in an unrestricted sandbox.  Pick up and play Hundreds of pre-built Blueprints allow players of all skill levels to quickly create thriving parks. Jump in and make what you want, when you want.  Unleash your creativity Sculpt landscapes, customise scenery, and flex your creative muscles  with piece-by-piece construction. Craft your perfect coaster park with ease.  Inspire and be inspired Visit the Frontier Workshop and download an unending source of incredible creations, or share your own designs with the world. ",
     "publisher": "FRONTIER DEVELOPMENTS PLC",
-    "rate": "4.21",
+    "rate": "4.20",
     "releaseTime": "2020/11/12",
     "platform": "PS4, PS5",
     "type": "Strategy, Simulation",
@@ -3768,7 +3768,7 @@
     "fullname": "Taxi Life: A City Driving Simulator",
     "description": "Create your own taxi company and become the best chauffeur in Barcelona",
     "publisher": "NACON SA",
-    "rate": "2.99",
+    "rate": "3.00",
     "releaseTime": "2024/3/7",
     "platform": "PS5",
     "type": "Simulation, Driving/Racing",
@@ -4793,7 +4793,7 @@
     "fullname": "Call of the Wild: The Angler™",
     "category": "Full Game",
     "description": "Enjoy a unique open world fishing experience  Feel the thrill and challenge of landing Legendary fish species as you embark on your journey to become a master angler. From the creators of theHunter Call of the Wild, The Angler delivers nature’s most breathtaking backdrops with true-to-life settings in an authentic fishing experience. Enjoy complete freedom to fish, explore, and relax on your own in solo mode or with friends in online co-op multiplayer mode.  Discover a variety of fish species  Each lake, river, and pond offer unique challenges, most notably to find the most impressive catches. With an array of fish species occupying these waters, this is your chance to explore the depths where every species holds its own behaviors and traits. Observe their preferences in bait and strategize to outsmart their attempts to evade your tactics.  Choose from a range of rods, reels, and lures, and combine them to entice the fish to bite. Make your catch in style by customizing your gear and apparel to fit your fishing finesse. Complete missions and reel in the rewards to tailor your tacklebox to your liking.  Ride the open waters and fish with friends  Play with or compete against up to 11 other Anglers. Create fishing parties and share your secret hotspots to increase your chances of snagging a Diamond catch Relish a variety of challenges as you travel unrestricted by boat, off-road 4x4 vehicle, or on foot, and discover the perfect fishing spot to relax and unwind. ",
-    "price": 5.49,
+    "price": 24.99,
     "priceCurrency": "GBP",
     "publisher": "Avalanche Studios Group AB",
     "rate": "4.08",
@@ -7148,7 +7148,7 @@
     "price": 4.99,
     "priceCurrency": "GBP",
     "publisher": "ASPYR MEDIA, INC",
-    "rate": "4.16",
+    "rate": "4.17",
     "releaseTime": "2024/2/14",
     "platform": "PS4, PS5",
     "type": "Action"
@@ -9563,7 +9563,7 @@
     "price": 5.24,
     "priceCurrency": "GBP",
     "publisher": "MILESTONE SRL",
-    "rate": "3.60",
+    "rate": "3.59",
     "releaseTime": "2024/5/1",
     "platform": "PS4, PS5",
     "type": "Sport, Driving/Racing"
@@ -11561,7 +11561,7 @@
     "fullname": "Atari 50: The Anniversary Celebration",
     "category": "Full Game",
     "description": "An interactive journey through 50 years of Atari and video games",
-    "price": 34.99,
+    "price": 13.99,
     "priceCurrency": "GBP",
     "publisher": "ATARI EUROPE S.A.S.U.",
     "rate": "4.22",
@@ -12735,7 +12735,7 @@
     "fullname": "Necromunda: Hired Gun",
     "description": "Pick your contracts. Hunt your targets. Collect the bounty.",
     "publisher": "Focus Entertainment",
-    "rate": "3.44",
+    "rate": "3.45",
     "releaseTime": "2021/6/1",
     "platform": "PS4, PS5",
     "type": "Shooter",
@@ -14855,7 +14855,7 @@
     "price": 5.59,
     "priceCurrency": "GBP",
     "publisher": "Devolver Digital",
-    "rate": "4.73",
+    "rate": "4.72",
     "releaseTime": "2022/8/30",
     "platform": "PS4, PS5",
     "type": "Adventure, Strategy"
@@ -15823,7 +15823,9 @@
     "releaseTime": "2020/12/18",
     "platform": "PS4",
     "type": "Strategy, Adventure, Action",
-    "category": "Full Game"
+    "category": "Full Game",
+    "price": 7.99,
+    "priceCurrency": "GBP"
   },
   {
     "name": "Darksiders II Deathinitive Edition",
@@ -16040,7 +16042,7 @@
     "price": 7.99,
     "priceCurrency": "GBP",
     "publisher": "GAMEMILL ENTERTAINMENT",
-    "rate": "3.75",
+    "rate": "3.76",
     "releaseTime": "2024/9/26",
     "platform": "PS4, PS5",
     "type": "Sport"
@@ -16514,7 +16516,7 @@
     "fullname": "Tomb Raider: Definitive Survivor Trilogy",
     "description": "Tomb Raider Definitive Survivor Trilogy is the complete edition of the award-winning Tomb Raider origin games. This collection contains all the definitive edition content from each critically acclaimed prequel title—Tomb Raider Definitive Edition, Rise of the Tomb Raider 20 Year Celebration, and Shadow of the Tomb Raider Definitive Edition. Follow Lara on her formative journey across the world, starting in Tomb Raider trapped on the shrouded island of Yamatai off the coast of Japan, to the harsh Siberian tundra hiding an immortal secret in Rise of the Tomb Raider, and finally to the mountainous landscape of Peru to uncover a cataclysmic power in Shadow of the Tomb Raider. With all the definitive edition content from each game, this Trilogy promises dozens of hours of breathtaking exploration, challenging puzzle-solving, and survival combat with Lara as she becomes the Tomb Raider she was destined to become.   Supported Languages per Product Tomb Raider Definitive Edition - Text Languages Arabic, English, French, German, Italian, Polish, Russian, Spanish, Portuguese - Audio Languages Arabic, English, French, German, Italian, Polish, Russian, Spanish  Rise of the Tomb Raider 20 Year Celebration - Text Languages English, French, German, Iberian Spanish, Italian, Polish, Portuguese. Russian. Dutch - Audio Languages English, French, German, Iberian Spanish, Italian, Polish, Portuguese. Russian  Shadow of the Tomb Raider Definitive Edition - Text Languages English, French, German, Iberian Spanish, Italian, Spanish, Polish, Portuguese, Russian - Audio Languages English, French, German, Iberian Spanish, Italian, Spanish, Polish, Portuguese, Russian  Shadow of the Tomb Raider - Original Soundtrack - Text Languages English, French, German, Iberian Spanish, Italian, Spanish, Polish, Portuguese, Russian ",
     "publisher": "CRYSTAL DYNAMICS",
-    "rate": "4.70",
+    "rate": "4.71",
     "releaseTime": "2021/3/18",
     "platform": "PS4",
     "type": "Adventure, Action",
@@ -17576,7 +17578,7 @@
     "price": 2.49,
     "priceCurrency": "GBP",
     "publisher": "NACON SA",
-    "rate": "4.04",
+    "rate": "4.03",
     "releaseTime": "2023/9/14",
     "platform": "PS5",
     "type": "Horror"
@@ -18442,7 +18444,7 @@
     "fullname": "NieR Replicant ver.1.22474487139…",
     "description": "A thousand-year lie that would live on for eternity...  NieR Replicant ver.1.22474487139... is an updated version of NieR Replicant, originally released in Japan in April 2010. Discover the one-of-a-kind prequel of the critically-acclaimed masterpiece NieRAutomata. Now with a modern upgrade, experience masterfully revived visuals, a fascinating storyline and more   The protagonist is a kind young man living in a remote village. In order to save his sister Yonah, who fell terminally ill to the Black Scrawl, he sets out with Grimoire Weiss, a strange talking tome, to search for the Sealed verses.  Experience the NieR Replicant story for the first time in the west through the eyes of the protagonist as a brother. ",
     "publisher": "Square Enix LTD",
-    "rate": "4.57",
+    "rate": "4.56",
     "releaseTime": "2021/4/22",
     "platform": "PS4",
     "type": "Role Playing Games",
@@ -21066,7 +21068,7 @@
     "price": 3.99,
     "priceCurrency": "GBP",
     "publisher": "Prime Matter",
-    "rate": "3.85",
+    "rate": "3.84",
     "releaseTime": "2022/11/3",
     "platform": "PS5",
     "type": "Horror"
@@ -21818,7 +21820,7 @@
     "price": 19.99,
     "priceCurrency": "GBP",
     "publisher": "Team 17 Digital LTD",
-    "rate": "4.19",
+    "rate": "4.18",
     "releaseTime": "2020/10/8",
     "platform": "PS4",
     "type": "Adventure, Action"
@@ -23725,7 +23727,7 @@
     "price": 2.39,
     "priceCurrency": "GBP",
     "publisher": "11 Bit Studios S.A.",
-    "rate": "4.35",
+    "rate": "4.34",
     "releaseTime": "2018/5/28",
     "platform": "PS4",
     "type": "Adventure, Action, Action"
@@ -27009,7 +27011,7 @@
     "price": 19.99,
     "priceCurrency": "GBP",
     "publisher": "DECK13 INTERACTIVE GMBH",
-    "rate": "4.29",
+    "rate": "4.28",
     "releaseTime": "2022/12/8",
     "platform": "PS4",
     "type": "Role Playing Games"
@@ -29304,7 +29306,7 @@
     "fullname": "Neverwinter Nights: Enhanced Edition",
     "description": "The award-winning Dungeons  Dragons RPG returns, with classic adventures for modern heroes Dive into a rich fantasy world with 100 hours of play, including the original campaign, expansions, and more  CUSTOMIZE YOUR HERO Slink through the shadows as a deadly half-elven rogue, wield fearsome magics as a powerful gnomish sorcerer, vanquish your foes as an armor-clad dwarven paladin... whatever hero you create, incredible adventures await.  SOLO AND CO-OP GAME MODES Play solo or team up with friends for a grand adventure in the Forgotten Realms  - CONTENT -  Neverwinter Nights Enhanced Edition comes with an EPIC amount of free content. In addition to the original campaign and expansions, enjoy free downloads of premium adventures, plus a portrait pack to customize your heroes.  BASE GAME  EXPANSIONS • Original Neverwinter Nights Campaign You find yourself at the center of intrigue, betrayal, and dark magic in Neverwinter Nights. Journey through dangerous cities, monster-filled dungeons, and deep into uncharted wilderness in search of the cure for a cursed plague ravaging the city of Neverwinter. • Shadows of Undrentide Expansion Another adventure begins in Shadows of Undrentide Charged by your master to recover four ancient artifacts, travel from the Silver Marches to unravel mysteries of a long-dead magical civilization. • Hordes of the Underdark Expansion Continue the adventure started in Shadows of Undrentide and journey into the ever-more bizarre and hostile depths of Undermountain to challenge a gathering evil.  FREE DOWNLOADABLE ADVENTURES • Darkness Over Daggerford Ossian Studios’ enhanced update to the award-winning original premium adventure. The Duke of Daggerford has been mysteriously killed, a new power has taken over the town, bandits rove the Trade Way unhindered, and mysterious things stir in a fabled ancient citadel, yet all is not as it seems. • Pirates of the Sword Coast • Wyvern Crown of Cormyr • Kingmaker • Witch’s Wake • The Dark Rangers Treasure • The Winds of Eremor • To Heir is Human • Contest of Champions • Adventurers of Neverwinter Portrait Pack ",
     "publisher": "BEAMDOG",
-    "rate": "4.01",
+    "rate": "4.00",
     "releaseTime": "2019/12/3",
     "platform": "PS4",
     "type": "Role Playing Games, Role Playing Games, Role Playing Games",
@@ -33308,7 +33310,7 @@
     "fullname": "Time Trap: Hidden Objects",
     "description": "Unravel the mystery of a missing journalist by investigating an apocalyptic zone",
     "publisher": "Two Cakes Studio OÜ",
-    "rate": "3.64",
+    "rate": "3.58",
     "releaseTime": "2024/8/21",
     "platform": "PS4, PS5",
     "type": "Adventure, Adventure, Puzzle",
@@ -33629,7 +33631,7 @@
     "price": 7.19,
     "priceCurrency": "GBP",
     "publisher": "PlayWay plc",
-    "rate": "2.66",
+    "rate": "2.65",
     "releaseTime": "2024/12/5",
     "platform": "PS5",
     "type": "Simulator"
@@ -33743,7 +33745,7 @@
     "platform": "PS4",
     "type": "Role Playing Games",
     "category": "Full Game",
-    "price": 26.99,
+    "price": 8.09,
     "priceCurrency": "GBP"
   },
   {
@@ -34900,7 +34902,7 @@
     "lang": "en-gb",
     "fullname": "Hyper Light Drifter®",
     "description": "Echoes of a dark and violent past resonate throughout a savage land, steeped in treasure and blood. Hyper Light Drifter is an action adventure RPG in the vein of the best 16­bit classics, with modernized mechanics and designs on a much grander scale.  Drifters of this world are the collectors of forgotten knowledge, lost technologies and broken histories. Our Drifter is haunted by an insatiable illness, traveling further into the lands of Buried Time, hoping to discover a way to quiet the vicious disease.  • From each character to subtle background elements, everything is lovingly hand-animated. • Easy to pick up, difficult to master enemies are vicious and numerous, hazards will easily crush your frail body, and friendly faces remain rare. • Upgrade weapons, learn new skills, discover equipment and traverse a dark, detailed world with branching paths and secrets abound. ",
-    "publisher": "Heart Machine LLC",
+    "publisher": "Fictions",
     "rate": "4.70",
     "releaseTime": "2016/7/25",
     "platform": "PS4",
@@ -35602,7 +35604,7 @@
     "price": 5.49,
     "priceCurrency": "GBP",
     "publisher": "EA Swiss Sarl",
-    "rate": "3.86",
+    "rate": "3.87",
     "releaseTime": "2023/6/2",
     "platform": "PS4, PS5",
     "type": "Sport"
@@ -36329,7 +36331,7 @@
     "fullname": "Selfloss",
     "description": "Embark on a journey to heal the soul",
     "publisher": "Silver Lining Interactive LTD",
-    "rate": "3.83",
+    "rate": "3.84",
     "releaseTime": "2024/9/12",
     "platform": "PS5",
     "type": "Adventure, Action",
@@ -38047,7 +38049,7 @@
     "fullname": "Ragnarock",
     "description": "Lead your viking ship to victory in this VR rhythm game Pound your drums to the sound of epic music, from celtic rock to viking power metal, and set sail against your rivals in multiplayer mode. Will you outrace them all and carve your name on top of the leaderboard  Are you ready to rock Ragnarock is a solomultiplayer VR rhythm game in which you play a viking captain competing in a longship race. With your two hammers, crush the incoming runes in sync with epic viking music.  Ragnarock is easy to play, hard to master. Only the most experienced players will be able to collect all the gold medals, beat the high scores and sign their name on the leaderboard  - VIKING MUSIC Unleash the drummer in you and play to the epic rock and metal tracks of Alestorm, Gloryhammer, Saltatio Mortis, Wind Rose and many more  - MULTIPLAYER MODE up to 6 players Beat them all to finish in first place In solo, you can also race against ghost ships to add some competition.  - MYTHOLOGICAL ENVIRONMENTS Travel through stylized environments inspired by norse mythology. ",
     "publisher": "WANADEV EURL",
-    "rate": "4.10",
+    "rate": "4.11",
     "releaseTime": "2023/2/22",
     "platform": "PS5",
     "type": "Party, Music/Rhythm",
@@ -38864,7 +38866,7 @@
     "price": 4.79,
     "priceCurrency": "GBP",
     "publisher": "Draknek Limited",
-    "rate": "4.45",
+    "rate": "4.46",
     "releaseTime": "2022/5/19",
     "platform": "PS4, PS5",
     "type": "Puzzle"
@@ -39229,7 +39231,7 @@
     "price": 12.99,
     "priceCurrency": "GBP",
     "publisher": "Poppy Works",
-    "rate": "4.33",
+    "rate": "4.34",
     "releaseTime": "2023/11/9",
     "platform": "PS4, PS5",
     "type": "Arcade"
@@ -40364,7 +40366,9 @@
     "rate": "3.16",
     "releaseTime": "2022/1/26",
     "platform": "PS5",
-    "type": "Horror, Adventure, Puzzle"
+    "type": "Horror, Adventure, Puzzle",
+    "price": 15.99,
+    "priceCurrency": "GBP"
   },
   {
     "name": "The Hong Kong Massacre",
@@ -41556,7 +41560,7 @@
     "price": 19.99,
     "priceCurrency": "GBP",
     "publisher": "Raw Fury AB",
-    "rate": "2.89",
+    "rate": "2.90",
     "releaseTime": "2022/11/29",
     "platform": "PS5",
     "type": "Unique, Adventure"
@@ -45696,7 +45700,7 @@
     "fullname": "THE LAST REMNANT Remastered",
     "description": "The Last Remnant told the story of a world filled with mysterious, ancient artefacts known only as “Remnants.” Nobody knew who created the Remnants, or for what purpose, but they drew on the staggering power they possessed for use in their everyday lives. However, the excesses of that power began to form a rift between those who ruled and those who obeyed, plunging the world into a long age of war and chaos. Our story begins nearly a thousand years since those ancient conflicts ended, with the journey of Rush, a young man, determined to uncover the truth.brbrBuy the game and receive a newly designed THE LAST REMNANT Remastered Static Theme as a free giftbrbrHD Video Output 720p,1080i,1080pbrbrDownload of this product is subject to the PlayStation Network Terms of Service and our Software Usage Terms plus any specific additional conditions applying to this product. If you do not wish to accept these terms, do not download this product. See Terms of Service for more important information.br One-time licence fee to download to multiple PS4 systems. Sign in to PlayStation Network is not required to use this on your primary PS4, but is required for use on other PS4 systems.brSee Health Warnings for important health information before using this product.br Library programs ©Sony Interactive Entertainment Inc. exclusively licensed to Sony Interactive Entertainment Europe. Software Usage Terms apply, See eu.playstation.comlegal for full usage rights.brbr©2008, 2018 SQUARE ENIX CO., LTD. All Rights Reserved.",
     "publisher": "Square Enix LTD",
-    "rate": "4.55",
+    "rate": "4.54",
     "releaseTime": "2018/12/6",
     "platform": "PS4",
     "type": "Role Playing Games",
@@ -46424,7 +46428,7 @@
     "fullname": "Puzzle Bobble™2X/BUST-A-MOVE™2 Arcade Edition & Puzzle Bobble™3/BUST-A-MOVE™3 S-Tribute",
     "description": "Enjoy new features in Puzzle Bobble 2X and Puzzle Bobble 3. Pop those bubbles",
     "publisher": "CITY-CONNECTION CO., LTD.",
-    "rate": "4.40",
+    "rate": "4.41",
     "releaseTime": "2023/2/1",
     "platform": "PS4",
     "type": "Puzzle",
@@ -48448,7 +48452,7 @@
     "price": 1.59,
     "priceCurrency": "GBP",
     "publisher": "NACON SA",
-    "rate": "2.71",
+    "rate": "2.70",
     "releaseTime": "2020/11/12",
     "platform": "PS4",
     "type": "Unique"
@@ -57482,7 +57486,7 @@
     "fullname": "Fight of Animals",
     "description": "Legend of the strongest creature",
     "publisher": "DIGITAL CRAFTER",
-    "rate": "4.23",
+    "rate": "4.24",
     "releaseTime": "2020/9/23",
     "platform": "PS4",
     "type": "Fighting, Arcade",
@@ -57501,7 +57505,7 @@
     "price": 6.99,
     "priceCurrency": "GBP",
     "publisher": "DEZVOLT APP & IDEI SRL",
-    "rate": "2.59",
+    "rate": "2.58",
     "releaseTime": "2024/8/8",
     "platform": "PS4",
     "type": "Family, Casual, Simulator"
@@ -58020,7 +58024,7 @@
     "fullname": "Project 13: Taxidermy Trails",
     "description": "Welcome to Project 13 Taxidermy Trails, a Walking Simulator set in a mesmerizing Taxidermy Museum. In this immersive experience, you assume the role of an kidnapped Probant forced to find a way to escape. Complete all 13 Walks to get out of this Nightmare.  Your mission is clear report any anomalies you encounter during your walks. But beware, a single misstep means starting over. Only by consistently reporting accurately will lead to the real Exit.  Features - Repeating Museum Corridor Explore a hauntingly repetitive environment, where each step could lead to discovery or deception amidst the eerie displays of taxidermy. - Over 35 Anomalies Uncover the secrets hidden within the museum as you encounter over 35 unique anomalies. Stay very vigilant, as every detail holds significance. - Confirmation After Each Walk After each walk, confirm whether you experienced any anomalies. Your precision determines your progress. - Escape on the 13th Walk Success lies in your ability to navigate the corridors and accurately report anomalies. Reach the 13th walk unscathed, and you may find the exit. ",
     "publisher": "Dolores Entertainment S.L.",
-    "rate": "",
+    "rate": "3.74",
     "releaseTime": "2024/11/22",
     "platform": "PS5",
     "type": "Horror, Casual",
@@ -60915,7 +60919,7 @@
     "fullname": "Demon Skin",
     "description": "hack-n-slash action-platformer",
     "publisher": "ESDigital Games LTD",
-    "rate": "3.57",
+    "rate": "3.53",
     "releaseTime": "2023/5/5",
     "platform": "PS4",
     "type": "Fighting, Action, Action",
@@ -60950,7 +60954,7 @@
     "price": 3.19,
     "priceCurrency": "GBP",
     "publisher": "Dolores Entertainment S.L.",
-    "rate": "3.67",
+    "rate": "3.68",
     "releaseTime": "2024/10/24",
     "platform": "PS5",
     "type": "Adventure"
@@ -62312,7 +62316,7 @@
     "price": 7.99,
     "priceCurrency": "GBP",
     "publisher": "Gamuzumi",
-    "rate": "",
+    "rate": "4.48",
     "releaseTime": "2021/11/19",
     "platform": "PS4, PS5",
     "type": "Adventure, Adult"
@@ -62329,7 +62333,9 @@
     "releaseTime": "2021/12/10",
     "platform": "PS4",
     "type": "Adventure, Action",
-    "category": "Full Game"
+    "category": "Full Game",
+    "price": 1.99,
+    "priceCurrency": "GBP"
   },
   {
     "name": "Yakuza Shadows of New York",
@@ -63486,7 +63492,7 @@
     "category": "Full Game",
     "description": "BLINDFIRE LIGHTS OUT. The Pitch Black Awaits.  Blindfire is an intense online multiplayer shooter where the lights are off and the stakes are high. Set in a neon-drenched underworld, the game pits contestants against each other in illicit firefights where every shot fired is a gamble. In the pitch black of the arena, you must rely on your hearing and tactical gadgets, rather than your sight, to survive.  MASTER THE DARK Light is your greatest enemy. In these close-quarter arenas, every muzzle flash risks exposing your position to the pack. You will need to master the Echo mechanic to navigate the environment and hunt down your opponents. Scan the room to reveal the silhouettes of your enemies without giving yourself away, but be careful because the shadows hide more than just players.  INTENSE  INCLUSIVE COMBAT Whether you are a seasoned pro or a new contender, Blindfire offers a unique twist on the FPS genre. Use an arsenal of specialized weapons including pistols, shotguns and precision rifles to eliminate the competition. With additional features like Audio Aim Assist, the game is built to ensure more players can compete effectively in the dark, providing clear cues to help you stay oriented and find your targets regardless of your level of vision.  INFLUENCE THE MATCH FROM THE SIDELINES In Blindfire, death is not the end. Eliminated players gain access to cutting-edge night vision cameras that reveal the surviving contestants and vibrant blacklight designs of the arena. While you wait for the next round, you can take control of environmental traps to mess with the survivors and exact some revenge. From the Jack in the Box to the Confetti Cannon, even when you are out you can still have a massive impact on the outcome.  KEY FEATURES - Lethal Game Modes Test your skills in Bodycount, Spotlight, Touchdown, Last Man Standing, Kill Race and more. - Unique Arenas Battle through a variety of pitch-black environments riddled with traps. - Master the Arsenal Choose from 9 different weapons tailored for stealth, power or precision. - Deep Customization Unlock a massive range of blacklight skins and masks as you climb through the 50 level progression system. - Tactical Gadgets Use your tools and environmental traps to outmanoeuvre and outthink your opponents.  Step into the darkness and see if you have what it takes to survive the fight.  LIGHT THEM UP. ",
     "publisher": "Double Eleven Limited",
-    "rate": "3.09",
+    "rate": "3.08",
     "releaseTime": "2024/11/21",
     "platform": "PS5",
     "type": "Shooter"
@@ -64376,7 +64382,7 @@
     "fullname": "Save The World PS4® & PS5®",
     "description": "Influence the outcome of a world-shattering conflict",
     "publisher": "Gamuzumi",
-    "rate": "",
+    "rate": "3.76",
     "releaseTime": "2023/12/8",
     "platform": "PS4, PS5",
     "type": "Adventure, Adventure, Adult",
@@ -64424,7 +64430,7 @@
     "fullname": "Sea Horizon PS4 & PS5",
     "description": "Embark on a perilous role-playing adventure",
     "publisher": "eastasiasoft",
-    "rate": "3.83",
+    "rate": "3.79",
     "releaseTime": "2023/7/11",
     "platform": "PS4, PS5",
     "type": "Role Playing Games, Adventure, Role Playing Games",
@@ -65218,7 +65224,7 @@
     "price": 15.99,
     "priceCurrency": "GBP",
     "publisher": "KEMCO",
-    "rate": "4.29",
+    "rate": "4.28",
     "releaseTime": "2020/8/4",
     "platform": "PS4",
     "type": "Role Playing Games"
@@ -65345,7 +65351,7 @@
     "description": "Rediscover an indie classic, recharged",
     "price": 7.99,
     "priceCurrency": "GBP",
-    "publisher": "Maximum Entertainment",
+    "publisher": "Maximum Entertainment France SAS",
     "rate": "3.92",
     "releaseTime": "2023/4/19",
     "platform": "PS4, PS5",
@@ -65460,7 +65466,7 @@
     "platform": "PS4",
     "type": "Arcade, Action",
     "category": "Full Game",
-    "price": 3.99,
+    "price": 1.59,
     "priceCurrency": "GBP"
   },
   {
@@ -65501,7 +65507,7 @@
     "fullname": "DARQ Ultimate Edition",
     "category": "Full Game",
     "description": "Psychological horror in a lucid dream, unique artstyle, physics bending puzzles",
-    "price": 19.99,
+    "price": 5.99,
     "priceCurrency": "GBP",
     "publisher": "Feardemic",
     "rate": "4.61",
@@ -65578,7 +65584,7 @@
     "fullname": "Megadimension Neptunia VII",
     "category": "Full Game",
     "description": "A new group has replaced Gamindustri’s CPUs seemingly overnight, and Neptune’s nowhere in sight Warped into a decimated new dimension, the Nep sisters join a mysterious CPU’s fight against a massive new threat to save the Zero Dimension.  Can they save multiple dimensions and restore order to Gamindustri  Key Features 1.\tNew battle features let characters link up for stronger attacks, break enemy parts to disable special attacks, and introduce a challenging new battle type 2.\tBreak those baddies with a second transformation, NEXT mode, with new special skills and a new costume for the CPUs 3.\tFight through 3 dimensions and 3 stories with new CPUs and characters by your side to save Gamindustri 4.\tGet special items in a new dungeon minigame pays homage to the classic “Spelunker.”  This product supports the following languages English ",
-    "price": 15.99,
+    "price": 7.19,
     "priceCurrency": "GBP",
     "publisher": "Idea Factory International Inc.",
     "rate": "4.73",
@@ -65629,7 +65635,7 @@
     "price": 7.39,
     "priceCurrency": "GBP",
     "publisher": "Chorus Worldwide Games",
-    "rate": "4.48",
+    "rate": "4.47",
     "releaseTime": "2020/12/17",
     "platform": "PS4",
     "type": "Adventure"
@@ -65695,7 +65701,7 @@
     "platform": "PS4",
     "type": "Casual, Arcade",
     "category": "Full Game",
-    "price": 6.49,
+    "price": 3.89,
     "priceCurrency": "GBP"
   },
   {
@@ -65727,7 +65733,7 @@
     "platform": "PS4",
     "type": "Sport",
     "category": "Full Game",
-    "price": 6.49,
+    "price": 4.54,
     "priceCurrency": "GBP"
   },
   {
@@ -65821,7 +65827,7 @@
     "price": 6.49,
     "priceCurrency": "GBP",
     "publisher": "WINLIGHT Co.,Ltd.",
-    "rate": "3.80",
+    "rate": "3.81",
     "releaseTime": "2021/1/26",
     "platform": "PS4",
     "type": "Role Playing Games"
@@ -65850,10 +65856,10 @@
     "fullname": "Epic Word Search Collection",
     "category": "Full Game",
     "description": "Epic Word Search puzzles are enormous There are more than 1,500 words hidden in each massive, scrollable grid.  This collection contains Epic Food Word Search Epic Journeys Word Search Epic Animals Word Search Epic Sports Word Search ",
-    "price": 6.49,
+    "price": 3.24,
     "priceCurrency": "GBP",
     "publisher": "Lightwood Games",
-    "rate": "4.21",
+    "rate": "4.20",
     "releaseTime": "2020/3/19",
     "platform": "PS4",
     "type": "Puzzle, Family, Casual"
@@ -65871,7 +65877,7 @@
     "platform": "PS4",
     "type": "Puzzle, Family, Casual",
     "category": "Full Game",
-    "price": 6.49,
+    "price": 3.24,
     "priceCurrency": "GBP"
   },
   {
@@ -65898,7 +65904,7 @@
     "fullname": "Hitman GO: Definitive Edition",
     "category": "Full Game",
     "description": "Hitman GO is a simple to play, but difficult to master turn-based strategy game set in a stunning interpretation of the Hitman universe. You will strategically navigate fixed spaces on a grid to avoid enemies and take out your target or infiltrate well-guarded locations. This award-winning, beautifully rendered diorama-style turn-based strategy game focuses on forward thinking to progress through challenging levels and stylish freeze frame environments, to challenge even the most accomplished Hitman fan. ",
-    "price": 6.49,
+    "price": 1.29,
     "priceCurrency": "GBP",
     "publisher": "CRYSTAL DYNAMICS",
     "rate": "4.33",
@@ -66010,7 +66016,7 @@
     "fullname": "One Word by POWGI",
     "category": "Full Game",
     "description": "The word search puzzle with a difference - theres only one word to find Complete each series of puzzles to reveal the words that complete a quote.  There are more than 600 puzzles to complete, and 120 popular, funny and inspirational quotes.  ",
-    "price": 6.49,
+    "price": 3.24,
     "priceCurrency": "GBP",
     "publisher": "Lightwood Games",
     "rate": "4.17",
@@ -66042,10 +66048,10 @@
     "fullname": "Pic-a-Pix Color 2",
     "category": "Full Game",
     "description": "The popular picture crossword series is back for seconds  Pic-a-Pix is a picture logic game, sometimes known as Picross, Nonogram or Hanjie, where whimsical pixel-art pictures are created by solving puzzles.  Pic-a-Pix Color 2 features 150 new puzzles, from 10x10 up to 20x20 grids  ",
-    "price": 6.49,
+    "price": 3.24,
     "priceCurrency": "GBP",
     "publisher": "Lightwood Games",
-    "rate": "4.32",
+    "rate": "4.34",
     "releaseTime": "2019/7/8",
     "platform": "PS4",
     "type": "Puzzle, Family, Casual"
@@ -66063,7 +66069,7 @@
     "platform": "PS4",
     "type": "Role Playing Games, Puzzle",
     "category": "Full Game",
-    "price": 6.49,
+    "price": 1.62,
     "priceCurrency": "GBP"
   },
   {
@@ -66249,7 +66255,7 @@
     "platform": "PS5",
     "type": "Simulator",
     "category": "Full Game",
-    "price": 3.29,
+    "price": 2.63,
     "priceCurrency": "GBP"
   },
   {
@@ -66409,7 +66415,7 @@
     "platform": "PS5",
     "type": "Arcade, Casual",
     "category": "Full Game",
-    "price": 6.49,
+    "price": 3.89,
     "priceCurrency": "GBP"
   },
   {
@@ -66489,7 +66495,7 @@
     "platform": "PS4",
     "type": "Strategy",
     "category": "Full Game",
-    "price": 17.99,
+    "price": 3.59,
     "priceCurrency": "GBP"
   },
   {
@@ -66537,7 +66543,7 @@
     "platform": "PS5",
     "type": "Casual, Arcade",
     "category": "Full Game",
-    "price": 2.99,
+    "price": 2.09,
     "priceCurrency": "GBP"
   },
   {
@@ -66553,7 +66559,7 @@
     "platform": "PS5",
     "type": "Family, Adventure, Casual",
     "category": "Game Bundle",
-    "price": 32.99,
+    "price": 22.1,
     "priceCurrency": "GBP"
   },
   {
@@ -66564,7 +66570,7 @@
     "fullname": "Underworld Ascendant",
     "category": "Full Game",
     "description": "You are summoned by a mysterious figure to The Stygian Abyss, a dangerous dungeon world imperiled by the beast Typhon. To save this world, and yours, you must find your way through the Abyss, uncover lost secrets and overcome many challenges.   KEY FEATURES DEEPLY IMMERSIVE WORLD Explore a fully-realized dungeon realm, from the outpost of Marcaul to the depths of the Vault of Nyx. Interact with useful flora and fantastic creatures, while surviving dynamic enemies and a degrading world state.  HERO OF YOUR OWN Tailor your skillset with over 75 combat, stealth and magic skills. Craft over a hundred different spells using the runic spell crafting system.   LOOMING THREAT Set out on more than 70 quests and numerous Side Bounties that reward you for avoiding detection, going unarmed and more.   UNIQUE REWARDS SYSTEM Earn rewards and unlock skills through resourceful, unboxed gameplay and ingenious performance. Solve challenges in unique ways and push yourself to experiment. ",
-    "price": 24.99,
+    "price": 6.24,
     "priceCurrency": "GBP",
     "publisher": "505 GAMES S.R.L.",
     "rate": "3.09",
@@ -66596,7 +66602,7 @@
     "fullname": "Storm Boy",
     "category": "Full Game",
     "description": "Based on Colin Thieles 1964 children’s book of the same name, Storm Boy takes place on the beaches of South Australia near the mouth of the Murray River, where the titular protagonist rescues orphaned pelican chicks, one of whom later becomes the child’s pet and faithful companion, Mr. Percival.  Experience an interactive retelling of the classic tale by taking control of both Storm Boy and Mr. Percival in key moments, such as when the pair rescued stranded sailors during a storm. Relive their friendship and enjoy seaside activities across a wide assortment of fun and relaxing mini-games, including sand drawing, sailing, cockle hunting, playing fetch, sand surfing, pelican feeding, and more.  This product supports the following languages English   ",
-    "price": 4.99,
+    "price": 1.49,
     "priceCurrency": "GBP",
     "publisher": "Blowfish Studios Pty Ltd",
     "rate": "4.06",
@@ -66628,10 +66634,10 @@
     "fullname": "A Building Full of Cats",
     "category": "Full Game",
     "description": "Look for, find, and pet all the cats in this adorable and relaxing game",
-    "price": 2.49,
+    "price": 0.99,
     "priceCurrency": "GBP",
     "publisher": "SILESIA GAMES SP. Z O.O.",
-    "rate": "4.56",
+    "rate": "4.54",
     "releaseTime": "2023/5/31",
     "platform": "PS5",
     "type": "Puzzle, Casual, Brain Training"
@@ -66871,7 +66877,7 @@
     "price": 7.99,
     "priceCurrency": "GBP",
     "publisher": "EA Swiss Sarl",
-    "rate": "3.92",
+    "rate": "3.93",
     "releaseTime": "2020/10/30",
     "platform": "PS4",
     "type": "Sport"
@@ -66889,7 +66895,7 @@
     "platform": "PS4",
     "type": "Adventure",
     "category": "Full Game",
-    "price": 15.99,
+    "price": 1.59,
     "priceCurrency": "GBP"
   },
   {
@@ -66932,7 +66938,7 @@
     "fullname": "Empire of Angels IV",
     "description": "Restore peace to the kingdom",
     "publisher": "eastasiasoft",
-    "rate": "4.13",
+    "rate": "4.11",
     "releaseTime": "2021/12/24",
     "platform": "PS5",
     "type": "Strategy, Role Playing Games",
@@ -66999,7 +67005,7 @@
     "price": 15.99,
     "priceCurrency": "GBP",
     "publisher": "TOP HAT STUDIOS, INC.",
-    "rate": "4.10",
+    "rate": "4.09",
     "releaseTime": "2023/6/7",
     "platform": "PS4, PS5",
     "type": "Action, Puzzle"
@@ -67538,7 +67544,7 @@
     "price": 11.99,
     "priceCurrency": "GBP",
     "publisher": "Ratalaika Games SL",
-    "rate": "",
+    "rate": "3.90",
     "releaseTime": "2022/8/11",
     "platform": "PS4, PS5",
     "type": "Adventure, Adventure, Adventure"
@@ -121902,7 +121908,7 @@
     "fullname": "Dusty Raging Fist",
     "description": "When the occurrence of the dark moons began, Dusty, Darg and Kitsune knew that something was amiss. An ancient evil from a faraway land threatened the peace of Double Bill Town. Prompted by a visit from the helpless Elijah, the trio set off to seek the Iron Knights help. Along the way, they have to battle rogue villains, encounter ancient powers and face the battle of their lives.brbr1-3 playersbr3GB minimum save sizebrDUALSHOCK®4 Vibration FunctionbrHD Video Output 720p,1080i,1080pbrbrDownload of this product is subject to the PlayStation Network Terms of Service and our Software Usage Terms plus any specific additional conditions applying to this product. If you do not wish to accept these terms, do not download this product. See Terms of Service for more important information.br One-time licence fee to download to multiple PS4 systems. Sign in to PlayStation Network is not required to use this on your primary PS4, but is required for use on other PS4 systems.brSee Health Warnings for important health information before using this product.brLibrary programs ©Sony Interactive Entertainment Inc. exclusively licensed to Sony Interactive Entertainment Europe. Software Usage Terms apply, See eu.playstation.comlegal for full usage rights.brbrCopyright PD Design Studio Pte Ltd",
     "publisher": "PD Design Studio Pte Ltd",
-    "rate": "3.26",
+    "rate": "3.27",
     "releaseTime": "2018/4/12",
     "platform": "PS4",
     "type": "Action",
@@ -122206,7 +122212,7 @@
     "price": 0.79,
     "priceCurrency": "GBP",
     "publisher": "SOURCE BYTE SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
-    "rate": "3.25",
+    "rate": "3.29",
     "releaseTime": "2024/3/31",
     "platform": "PS4",
     "type": "Unique, Party"
@@ -124310,13 +124316,16 @@
     "img": "images/aa276c7d8c2c43152d8b9bf219ca5b4f.jpg",
     "path": "https://store.playstation.com/en-gb/concept/227118",
     "lang": "en-gb",
-    "fullname": "",
-    "description": "",
+    "fullname": "Flying Bunny",
+    "description": "- Gravity-bound shooting runnerbr- Cute Anime Characters with cool Abilitiesbr- Over 25 Stage Bosses with powerful Attack Patternsbr- Never-ending Stagesbr- Competition based on Total Game Score with other PSN Users​​​brbrThis product supports the following languages Englishbrbr1 playerbr2GB minimum save sizebrHD Video Output 720pbrbrDownload of this product is subject to the PlayStation Network Terms of Service and our Software Usage Terms plus any specific additional conditions applying to this product. If you do not wish to accept these terms, do not download this product. See Terms of Service for more important information.br One-time licence fee to download to multiple PS4 systems. Sign in to PlayStation Network is not required to use this on your primary PS4, but is required for use on other PS4 systems.brSee Health Warnings for important health information before using this product.brLibrary programs ©Sony Interactive Entertainment Inc. exclusively licensed to Sony Interactive Entertainment Europe. Software Usage Terms apply, See eu.playstation.comlegal for full usage rights.brbrCopyright@ 2016. ZEPETTO Co.,Ltd. All Rights Reserved",
     "publisher": "Zepetto Co.",
-    "rate": "",
+    "rate": "3.64",
     "releaseTime": "2017/4/3",
     "platform": "PS4",
-    "type": "Action, Arcade"
+    "type": "Action, Arcade",
+    "category": "Full Game",
+    "price": 6.49,
+    "priceCurrency": "GBP"
   },
   {
     "name": "Flying Soldiers",
@@ -127959,7 +127968,7 @@
     "platform": "PS4",
     "type": "Role Playing Games, Role Playing Games",
     "category": "Full Game",
-    "price": 32.99,
+    "price": 11.54,
     "priceCurrency": "GBP"
   },
   {
@@ -128272,7 +128281,7 @@
     "fullname": "Hillbilly Doomsday",
     "category": "Full Game",
     "description": "Retro-inspired platformer about the hero from the village. Yee haw",
-    "price": 3.99,
+    "price": 0.99,
     "priceCurrency": "GBP",
     "publisher": "Sometimes You",
     "rate": "3.57",
@@ -128435,10 +128444,10 @@
     "price": 1.49,
     "priceCurrency": "GBP",
     "publisher": "Ratalaika Games SL",
-    "rate": "3.88",
+    "rate": "3.89",
     "releaseTime": "2021/4/15",
     "platform": "PS4, PS5",
-    "type": "Adventure, Casual, Adventure"
+    "type": "Casual, Adventure, Adventure"
   },
   {
     "name": "Heart of the Woods",
@@ -128560,7 +128569,7 @@
     "fullname": "Her Majesty's SPIFFING",
     "category": "Full Game",
     "description": "The Empire Staggers Back In the wake of political developments during the summer of 2016 and the events that followed, Britain found itself increasingly isolated from global society. Frustrated by the demise of this once great nation Her Majesty the Queen concluded that the elected representatives at Westminster were no longer fit to govern her United Kingdom.  Establishing S.P.I.F.F.I.N.G. Special Planetary Investigative Force For Inhabiting New Galaxies Her Majesty has turned to the stars in a bid to establish a new, Galactic British Empire  Assuming command of the near futuristic space ship HMSS Imperialise and her crew distinguished veteran and gentleman Captain Frank Lee English and Aled, his mild-mannered South Walean colleague YOU will venture into the cosmos, solving puzzles, engaging in witty banter, deal with crippling claustrophobia, gradually succumb to the sustained exposure of cosmic radiation and so on, all for Queen and Country. ",
-    "price": 15.99,
+    "price": 2.39,
     "priceCurrency": "GBP",
     "publisher": "Secret Mode Limited",
     "rate": "4.11",
@@ -128910,7 +128919,7 @@
     "fullname": "Hand of Fate",
     "description": "Beyond the thirteen gates at the end of the world, the game of life and death is played. Draw your cards, play your hand, and discover your fate. Hand of Fate is a hybrid roguelikeaction-RPGdeck builder, in which the player builds a set of cards into a deck, which is then used to deal out the dungeon floors through which they adventure. All of the cards the player has collected fly into their hands as fully modelled 3D assets and combat begins.brbrbr1 playerbrDUALSHOCK®4 Vibration FunctionbrRemote Play SupportedbrHD Video Output 720p,1080i,1080pbrbrDownload of this product is subject to the PlayStation Network Terms of Service and our Software Usage Terms plus any specific additional conditions applying to this product. If you do not wish to accept these terms, do not download this product. See Terms of Service for more important information.br One-time licence fee to download to multiple PS4 systems. Sign in to PlayStation Network is not required to use this on your primary PS4, but is required for use on other PS4 systems.brSee Health Warnings for important health information before using this product.brLibrary programs ©Sony Computer Entertainment Inc. exclusively licensed to Sony Computer Entertainment Europe. Software Usage Terms apply, See eu.playstation.comlegal for full usage rights.brbrCopyright Defiant Development 2015",
     "publisher": "DEFIANT DEVELOPMENT",
-    "rate": "",
+    "rate": "4.40",
     "releaseTime": "2015/2/18",
     "platform": "PS4",
     "type": "Action, Adventure",
@@ -128995,7 +129004,7 @@
     "platform": "PS4",
     "type": "Shooter",
     "category": "Full Game",
-    "price": 18.99,
+    "price": 1.89,
     "priceCurrency": "GBP"
   },
   {
@@ -129027,7 +129036,7 @@
     "platform": "PS5",
     "type": "Simulation, Family, Casual",
     "category": "Full Game",
-    "price": 24.99,
+    "price": 16.74,
     "priceCurrency": "GBP"
   },
   {
@@ -129262,7 +129271,7 @@
     "fullname": "Globs & Ghosts",
     "category": "Full Game",
     "description": "Innovative arcade game with frantic action",
-    "price": 3.99,
+    "price": 2.79,
     "priceCurrency": "GBP",
     "publisher": "Benoit Varasse trading as Pix Arts",
     "rate": "2.33",
@@ -129470,7 +129479,7 @@
     "fullname": "Hindsight",
     "category": "Full Game",
     "description": "What if the physical objects of everyday life, the possessions we hold close, were actual windows to the past Peer into distant memories and unseen futures in Hindsight.  From the creator of Prune, Hindsight is a narrative exploration game spanning the entirety of a womans life, from birth to present day, as she tries to make sense of it all. Revisit her childhood home, sort through personal belongings, and step through windows to memories frozen in time.  Hindsight asks you to slow down and pay attention to the little things left behind. Piece these things together and shift your viewpoint until you find just the right perspective to pull you deeper into the past.   Long forgotten memories and dreams cascade into one another. Linger as long as you wish, but sooner or later you must come back to the present.  What will you take with you And what will you leave behind ",
-    "price": 12.99,
+    "price": 3.89,
     "priceCurrency": "GBP",
     "publisher": "Annapurna Interactive",
     "rate": "4.27",
@@ -129505,7 +129514,7 @@
     "rate": "3.75",
     "releaseTime": "2023/12/15",
     "platform": "PS4, PS5",
-    "type": "Action, Arcade, Casual",
+    "type": "Casual, Arcade, Action",
     "category": "Full Game",
     "price": 7.99,
     "priceCurrency": "GBP"
@@ -129694,7 +129703,7 @@
     "rate": "4.40",
     "releaseTime": "2023/2/16",
     "platform": "PS4",
-    "type": "Action, Puzzle",
+    "type": "Puzzle, Action",
     "category": "Full Game",
     "price": 18.99,
     "priceCurrency": "GBP"
@@ -129793,7 +129802,7 @@
     "rate": "2.85",
     "releaseTime": "2022/5/11",
     "platform": "PS4",
-    "type": "Casual, Simulation"
+    "type": "Simulation, Casual"
   },
   {
     "name": "Horror Break Head to Head",
@@ -129933,7 +129942,7 @@
     "platform": "PS4, PS5",
     "type": "Family, Adventure",
     "category": "Full Game",
-    "price": 34.99,
+    "price": 6.99,
     "priceCurrency": "GBP"
   },
   {
@@ -129979,7 +129988,7 @@
     "rate": "3.95",
     "releaseTime": "2018/9/17",
     "platform": "PS4",
-    "type": "Action, Arcade, Adventure",
+    "type": "Arcade, Action, Adventure",
     "category": "Full Game",
     "price": 19.99,
     "priceCurrency": "GBP"
@@ -129992,7 +130001,7 @@
     "fullname": "Hover Racer",
     "category": "Full Game",
     "description": "Hovercrafts racing game",
-    "price": 3.99,
+    "price": 2.79,
     "priceCurrency": "GBP",
     "publisher": "Benoit Varasse trading as Pix Arts",
     "rate": "3.56",
@@ -130008,10 +130017,10 @@
     "fullname": "Howl",
     "category": "Full Game",
     "description": "A TACTICAL FOLKTALE",
-    "price": 8.99,
+    "price": 2.69,
     "priceCurrency": "GBP",
     "publisher": "Mi'pu'mi Games GmbH",
-    "rate": "4.18",
+    "rate": "4.20",
     "releaseTime": "2024/1/23",
     "platform": "PS5",
     "type": "Strategy, Puzzle"
@@ -130285,7 +130294,7 @@
     "platform": "PS4, PS5",
     "type": "Adventure",
     "category": "Full Game",
-    "price": 15.99,
+    "price": 3.99,
     "priceCurrency": "GBP"
   },
   {
@@ -130360,7 +130369,7 @@
     "fullname": "I Expect You To Die 2",
     "category": "Full Game",
     "description": "Become an elite super spy ready for espionage, explosives, and gadgets galore.",
-    "price": 19.99,
+    "price": 11.99,
     "priceCurrency": "GBP",
     "publisher": "Schell Games LLC",
     "rate": "4.69",
@@ -130682,7 +130691,7 @@
     "platform": "PS4",
     "type": "Role Playing Games, Role Playing Games",
     "category": "Full Game",
-    "price": 34.99,
+    "price": 8.74,
     "priceCurrency": "GBP"
   },
   {
@@ -130709,7 +130718,7 @@
     "fullname": "Itadaki Smash",
     "category": "Full Game",
     "description": "Itadaki Smash™ is a Beat em Up that pays tribute to the classics of the genre",
-    "price": 11.99,
+    "price": 2.39,
     "priceCurrency": "GBP",
     "publisher": "RELEVO VIDEOGAMES SL",
     "rate": "3.86",
@@ -130741,7 +130750,7 @@
     "fullname": "I, Zombie",
     "category": "Full Game",
     "description": "In I, Zombie you play as the leader of a zombie horde and your goal is to infect all humans on the map. Whenever you infect a human you turn him into a one of your kind and you can use him against armed soldiers. You’re also able to command your horde to either attack the enemies, follow you or wait for orders. Each scenario requires tactical approach and careful planning to achieve success.  This product supports the following languages English ",
-    "price": 3.69,
+    "price": 0.73,
     "priceCurrency": "GBP",
     "publisher": "Awesome Games Studio Sp. z o.o.",
     "rate": "3.48",
@@ -130757,10 +130766,10 @@
     "fullname": "Jack Move",
     "category": "Full Game",
     "description": "Cyberpunk JRPG with turn-based battles and beautiful modern pixel art.",
-    "price": 15.99,
+    "price": 4.79,
     "priceCurrency": "GBP",
     "publisher": "HYPETRAIN DIGITAL LTD",
-    "rate": "4.32",
+    "rate": "4.33",
     "releaseTime": "2022/9/20",
     "platform": "PS4",
     "type": "Role Playing Games, Adventure, Action"
@@ -130946,7 +130955,7 @@
     "fullname": "Jump Stars",
     "category": "Full Game",
     "description": "Introducing Jump Stars, the bonkers new local multiplayer party game which pits player against player in a bizarre, violent game show - whilst they collectively compete to save their skins.  Jump Stars is a two to four player party game that blurs the lines between cooperative and competitive play.  Cooperate as a team to get as much score as you can, then jump, punch, break, munch, explode, and crunch your teammates out the way to steal first place  Try to reach The Gauntlet by getting enough team score in each of four random mini-games chosen by the ominously cuckoo host, in Tournament Or, build your very own line-up, choosing from a array of unique mini-games across 25 different settings, in My Show. Then pick one of 24 different cosplaying Cubee contestants to play as ",
-    "price": 7.99,
+    "price": 0.79,
     "priceCurrency": "GBP",
     "publisher": "Curve Digital",
     "rate": "3.25",
@@ -130983,7 +130992,7 @@
     "platform": "PS4",
     "type": "Puzzle, Family, Casual",
     "category": "Full Game",
-    "price": 6.49,
+    "price": 3.24,
     "priceCurrency": "GBP"
   },
   {
@@ -131202,7 +131211,7 @@
     "fullname": "Katana Kata",
     "category": "Full Game",
     "description": "Indie souls-like with innovative fight system",
-    "price": 11.99,
+    "price": 2.99,
     "priceCurrency": "GBP",
     "publisher": "Samustai LTD",
     "rate": "2.96",
@@ -131237,7 +131246,7 @@
     "price": 4.99,
     "priceCurrency": "GBP",
     "publisher": "JANDUSOFT S.L.",
-    "rate": "4.13",
+    "rate": "4.11",
     "releaseTime": "2022/12/15",
     "platform": "PS4, PS5",
     "type": "Shooter"
@@ -131383,7 +131392,7 @@
     "platform": "PS4, PS5",
     "type": "Unique",
     "category": "Full Game",
-    "price": 15.99,
+    "price": 4.79,
     "priceCurrency": "GBP"
   },
   {
@@ -131474,7 +131483,7 @@
     "fullname": "Labyrinth",
     "category": "Full Game",
     "description": "Race for Treasures in a Moving Maze",
-    "price": 15.99,
+    "price": 7.99,
     "priceCurrency": "GBP",
     "publisher": "Markt+Technik Verlag GmbH",
     "rate": "3.47",
@@ -131490,7 +131499,7 @@
     "fullname": "Labyrinth of Zangetsu",
     "category": "Full Game",
     "description": "Atmospheric turn-based dungeon crawler with Japanese yokai folklore reimagined",
-    "price": 24.99,
+    "price": 6.24,
     "priceCurrency": "GBP",
     "publisher": "PQube Ltd",
     "rate": "3.84",
@@ -131506,7 +131515,7 @@
     "fullname": "Ladders by POWGI PS4 & PS5",
     "category": "Full Game",
     "description": "This product entitles you to download both the digital PS4™ version and the digital PS5™ version of this game.  Make new words by changing one letter at a time. The goal is to turn one word into another using only a limited number of steps.  Your reward A free dad joke with each puzzle solved  If you already own the PS4™ version of this game, you can get the PS5™ digital version at no extra cost and you do not need to purchase this product. Owners of a PS4™ disc copy must insert it into the PS5™ every time they want to download or play the PS5™ digital version. PS4™ game disc owners who buy the PS5™ Digital Edition disc-free console will not be able to get the PS5™ version at no extra cost. ",
-    "price": 6.49,
+    "price": 3.24,
     "priceCurrency": "GBP",
     "publisher": "Lightwood Games",
     "rate": "4.26",
@@ -131607,7 +131616,7 @@
     "platform": "PS4",
     "type": "Adventure, Role Playing Games, Strategy",
     "category": "Full Game",
-    "price": 39.99,
+    "price": 9.99,
     "priceCurrency": "GBP"
   },
   {
@@ -131714,7 +131723,7 @@
     "fullname": "In Celebration of Violence",
     "category": "Full Game",
     "description": "In Celebration of Violence is a fantasy action roguelike of exploration and murder. The methodical combat requires that you plan your attacks, dodges, blocks, and parries while considering your opponents and the environment. Death is permanent but you can improve your stats and purchase items to aid future lives. And if things get too tough then up to four local friends can grab controllers and aid the hero as player-controlled monsters, zombies, and bandits.  The World Large, procedurally generated, and interconnected lands range from plains to swamps, to cities, to dungeons. These lands offer multiple paths to reach the variety of final bosses. Dungeons are a dangerous but rewarding risk. In dungeons, you will have to move slowly and be on the lookout for traps and secrets while searching for the exit.  Elements interact with each other and the environment. Fire reacts to the temperature, weather, and any flammable objects, especially people. Electricity will arc towards entities and is especially dangerous around water. The chances of rain or snow adjust organically to the area’s climate and can become both a hindrance and an advantage.  The shrines of multiple gods litter the land. Players can choose to pray to shrines they come across to receive a variety of favors, bonuses, and items. One must choose carefully though; every god has a different price and some become displeased when their rival is the subject of worship. Some gods may also become angered by actions the player takes while adventuring, such as destroying foliage or killing civilians.  Variety Scores of weapons, items, spells, and mementos are scattered throughout the world to find. One may acquire a powerful enchanted ballista early into one life, only for the next to yield nothing more than a couple of wooden clubs.  Mementos represent objects remembered from past lives and change the rules of gameplay. You may discover a memento that summons spiders from enemy corpses, improves your stats while on fire, or reverses the effects of death.  There are multiple paths to victory. One could be nimble and stealthy, charge in waving a hammer, raise an army of undead, harness a variety of spells, manipulate enemies into traps or flames, amass resources to acquire the most powerful items, or simply play it safe with a sword and a shield. The various characters simply offer different starting points, every decision is your own.  Challenge No life is predetermined for success. The cheery graphics disguise a brutal and unyielding experience. Unforeseen obstacles will need to be dealt with in real time and even a regular enemy will be deadly if you’re not careful. To reach the end, players will need to demonstrate that they are able to consistently overcome these obstacles. Failure can halt or even reverse progress.  As you accumulate experience, discover schematics, and defeat bosses you can become permanently better prepared to tackle future challenges. The choices and advantages a player has at the beginning of a playthrough will dramatically increase as they play. New characters, items, and bonuses are unlocked in ways that are only hinted at during gameplay. ",
-    "price": 9.99,
+    "price": 2.99,
     "priceCurrency": "GBP",
     "publisher": "Dolores Entertainment S.L.",
     "rate": "3.44",
@@ -131799,7 +131808,7 @@
     "platform": "PS4, PS5",
     "type": "Action",
     "category": "Game Bundle",
-    "price": 32.99,
+    "price": 24.74,
     "priceCurrency": "GBP"
   },
   {
@@ -131845,7 +131854,7 @@
     "price": 3.19,
     "priceCurrency": "GBP",
     "publisher": "HEADUP GAMES GMBH CO. KG",
-    "rate": "3.63",
+    "rate": "3.64",
     "releaseTime": "2022/6/9",
     "platform": "PS5",
     "type": "Action"
@@ -131874,7 +131883,7 @@
     "fullname": "Inertial Drift",
     "category": "Full Game",
     "description": "Forget everything you know about drifting. Set in a 90s retro future, Inertial Drift is an Arcade Racer with a devastatingly unique handling model and unbelievably satisfying twin-stick drift mechanics. Inertial Drift offers a whole new level of accessibility and challenge to the arcade racing genre - for a driving experience genuinely unlike anything youve played before. ",
-    "price": 15.99,
+    "price": 3.99,
     "priceCurrency": "GBP",
     "publisher": "PQube Ltd",
     "rate": "4.24",
@@ -132034,7 +132043,7 @@
     "fullname": "Infinite Links",
     "category": "Full Game",
     "description": "Embark on an adventure of magic Talismans to save your sister from a curse",
-    "price": 11.99,
+    "price": 5.99,
     "priceCurrency": "GBP",
     "publisher": "KEMCO",
     "rate": "4.27",
@@ -132066,7 +132075,7 @@
     "fullname": "Injection π23 'No Name, No Number' - Complete Edition",
     "category": "Full Game",
     "description": "Classic survival horror oriented to solving puzzles",
-    "price": 7.99,
+    "price": 6.15,
     "priceCurrency": "GBP",
     "publisher": "Abramelin Games",
     "rate": "3.18",
@@ -132082,7 +132091,7 @@
     "fullname": "Injection π23 'No Name, No Number' - Expansion Events",
     "category": "Full Game",
     "description": "Classic survival horror. Injection π23 Expansion",
-    "price": 3.99,
+    "price": 3.07,
     "priceCurrency": "GBP",
     "publisher": "Abramelin Games",
     "rate": "3.38",
@@ -132146,7 +132155,7 @@
     "fullname": "Kick it, Bunny!",
     "category": "Full Game",
     "description": "Solve block puzzles in the Bunny world by kicking it",
-    "price": 7.99,
+    "price": 0.79,
     "priceCurrency": "GBP",
     "publisher": "Volkov Konstantin Sergeevich",
     "rate": "4.06",
@@ -132242,7 +132251,7 @@
     "platform": "PS4",
     "type": "Arcade, Action, Fighting",
     "category": "Full Game",
-    "price": 15.99,
+    "price": 1.59,
     "priceCurrency": "GBP"
   },
   {
@@ -132395,7 +132404,7 @@
     "fullname": "Kingdom's Dungeon Rage",
     "category": "Full Game",
     "description": "The king have been taken hostage and locked inside a Dungeon",
-    "price": 4.99,
+    "price": 1.24,
     "priceCurrency": "GBP",
     "publisher": "Samustai LTD",
     "rate": "4.10",
@@ -132464,7 +132473,7 @@
     "platform": "PS4",
     "type": "Adventure, Family, Puzzle",
     "category": "Full Game",
-    "price": 11.99,
+    "price": 3.59,
     "priceCurrency": "GBP"
   },
   {
@@ -132665,10 +132674,10 @@
     "fullname": "Knight vs Giant: The Broken Excalibur",
     "category": "Full Game",
     "description": "During their quest to retrieve the Holy Grail for the venerable wizard Merlin, the noble Knights of the Round Table inadvertently unleash the calamitous Void Giant upon Camelot King Arthur valiantly leads his Knights into battle, but they are swiftly dispatched by the terrible creature. With the realm’s protectors slain, and the legendary sword Excalibur broken, Merlin weaves a powerful incantation to transport the Void Giant back to the Astral Dimension from whence it came. Unfortunately, the spell doesn’t quite go to plan, and the entire kingdom is brought along for the ride…   With the power to revive just one Knight, Merlin resurrects the heroic monarch and promptly tasks him with defeating three colossal aspects of the Void Giant’s soul, each more powerful than the last To complicate matters, the kingdom’s citizens have been scattered across the dimension, and Arthur must rescue them all before Merlin can safely transport everyone home.   In this fantasy action roguelite, you’ll play as King Arthur and utilise the Broken Excalibur to channel the unique powers of your fallen Knights as you battle through hordes of dire foes and face off against challenging giant bosses. Explore vibrant, procedurally generated dungeons, receive blessings and customise your skills. Rescue the kingdom’s loyal citizens and call upon their unique talents to restore your seat at Castle Camelot to glory  FEATURES  Battle hordes of vicious monsters - Venture into the leafy Brochalant Forest, scorching Sarrache Desert, and fiery Suidhe Volcano, and fight against a huge variety of enemy types.  Harness the powers of your fallen knights - Take up legendary weapons, including Lancelot’s mighty Arondight, and unleash devastating skills, such as Tristan’s deadly Thousand Blossom Slash.  Receive blessings and enhance your abilities - Strengthen your Knights’ weapons and skills with potent effects and discover 100 active and passive abilities to bolster your arsenal.   Engage in epic duels with colossal giants - Encounter formidable Giants and utilise your size and agility to avoid their catastrophic attacks.  Rescue Camelot’s citizens and restore the Castle - Visit the Builder’s Guild and construct shops and amenities to raise your kingdom level and call upon the talents of your citizens.  No two runs are the same - Explore procedurally generated realms and meet unique NPCs. Strike a deal with Assam, face the Pan Piper’s challenge, and accept Morgana’s ‘gifts’. ",
-    "price": 15.99,
+    "price": 1.59,
     "priceCurrency": "GBP",
     "publisher": "PQube Ltd",
-    "rate": "4.10",
+    "rate": "4.08",
     "releaseTime": "2023/10/4",
     "platform": "PS5",
     "type": "Action"
@@ -132697,7 +132706,7 @@
     "fullname": "Knowledge Keeper",
     "category": "Full Game",
     "description": "Destroy, move and combine objects on the levels to get to divine crystals.",
-    "price": 3.99,
+    "price": 0.79,
     "priceCurrency": "GBP",
     "publisher": "Sometimes You",
     "rate": "4.07",
@@ -132750,7 +132759,7 @@
     "platform": "PS4",
     "type": "Puzzle, Action, Action",
     "category": "Full Game",
-    "price": 7.99,
+    "price": 2.79,
     "priceCurrency": "GBP"
   },
   {
@@ -132793,7 +132802,7 @@
     "fullname": "KONOSUBA - God's Blessing on this Wonderful World! Love For These Clothes Of Desire!",
     "category": "Full Game",
     "description": "An Isekai Visual Novel Adventure.",
-    "price": 44.99,
+    "price": 11.24,
     "priceCurrency": "GBP",
     "publisher": "PQube Ltd",
     "rate": "4.63",
@@ -132838,7 +132847,7 @@
     "fullname": "KOWLOON HIGHSCHOOL CHRONICLE",
     "category": "Full Game",
     "description": "Masterpiece Dungeon Crawler now available on PlayStation®4 Unveil the great mysteries and treasure hidden in the ruins beneath your school.  Kowloon High-School Chronicle is a hybrid RPG, adventure, and first-person simulation game originally released in 2004 in Japan. The classic Japanese adventure has been remastered in HD for PlayStation®4  Treasure Hunters -  Adventurers who search for buried treasure scattered around the world.  In Shinjuku, Tokyo, a young man appears as a transfer student at Kamiyoshi Academy. While he seems like a normal student, he is actually a treasure hunter. His mission is to discover a mysterious ruin hidden deep beneath the school. Accompanied by his new friends from school, he sets out to discover the mysteries of a super ancient civilization. However, numerous traps, monsters called Kehito that lurk within the ruins, and the clutches of the student council stand in his way  Build your relationship with friends, solve puzzles, dodge traps, defeat enemies, and discover the great mysteries and treasure sealed beneath the school ",
-    "price": 15.99,
+    "price": 1.59,
     "priceCurrency": "GBP",
     "publisher": "PQube Ltd",
     "rate": "4.50",
@@ -132854,10 +132863,10 @@
     "fullname": "Jet Kave Adventure",
     "category": "Full Game",
     "description": "Jetpack through the prehistoric world in this action packed Adventure Platformer",
-    "price": 11.99,
+    "price": 2.39,
     "priceCurrency": "GBP",
     "publisher": "7LEVELS S.A.",
-    "rate": "4.16",
+    "rate": "4.17",
     "releaseTime": "2024/2/22",
     "platform": "PS5",
     "type": "Adventure, Action"
@@ -133144,7 +133153,7 @@
     "platform": "PS4",
     "type": "Action, Adventure, Unique",
     "category": "Full Game",
-    "price": 11.99,
+    "price": 1.79,
     "priceCurrency": "GBP"
   },
   {
@@ -133251,7 +133260,7 @@
     "fullname": "InkSplosion",
     "description": "Inspired by both modern and old school shooters and from the developers behind Midnight Deluxe, InkSplosion is an arcade delight that is simple to learn, yet hard to master, thanks to endless levels that are decorated only by your colourful ammunition.brbrShould you rise to the challenge and emerge experience, it only means it is time to bid “farewell” to Normal mode and say “hello” to Arena and Hard, 2 brutal modes that would offer even the most gung-ho of players a worthy conquestbrbrOnce you start playing, it becomes really hard to stopbrbrFeatures br  3 Game Modes Normal, Arena  Hardbr  Endless Levelsbr  5 Different Weapon Typesbr  In-game achievementsbr  Original Soundtrack by Levi Bondbr  Voice over by Barry DunnebrbrThis Cross-Buy product entitles you to download both PS4™ and PS Vita versions.brbrPS4™  PS VitabrbrDownload of this product is subject to the PlayStation Network Terms of Service and our Software Usage Terms plus any specific additional conditions applying to this product. If you do not wish to accept these terms, do not download this product. See Terms of Service for more important information.br PS4 One-time licence fee to download to multiple PS4 systems. Sign in to PlayStation Network is not required to use this on your primary PS4, but is required for use on other PS4 systems.brPS Vita One-time fee for use of downloads on up to 3 activated compatible Portable Console systems.brSee Health Warnings for important health information before using this product.br Library programs ©Sony Interactive Entertainment Inc. exclusively licensed to Sony Interactive Entertainment Europe. Software Usage Terms apply, See eu.playstation.comlegal for full usage rights.brbr© 2018 Ratalaika Games S.L.br© 2018 Petite Games",
     "publisher": "Ratalaika Games SL",
-    "rate": "2.74",
+    "rate": "2.73",
     "releaseTime": "2018/5/9",
     "platform": "PS4",
     "type": "Action, Arcade, Shooter",
@@ -133430,7 +133439,7 @@
     "platform": "PS4",
     "type": "Sport",
     "category": "Full Game",
-    "price": 3.99,
+    "price": 2.79,
     "priceCurrency": "GBP"
   },
   {
@@ -133537,7 +133546,7 @@
     "fullname": "iO",
     "description": "iO is a physics platformer in which you control a ball. By growing or shrinking the ball you can influence its speed and weight. Use these mechanics to gain momentum and make your way through the levels. Toy with the laws of physics, solve the puzzles and reach the exit as quickly as possible. Can you win the gold medal in all levelsbrbrFeaturesbrbr- 225 challenging levels to solve, including the extra tough Impossiball Levels. br- Crafty mechanics like inversed gravity, portals, tricycles and movable objects. br- Leaderboards in all levels to race against your friends and other iO players. br- Bronze, Silver and Gold medals to earn. br- Dual Stick controlsbrbrPurchasing this content entitles you to both the PS4™ system and “PS Vita” system versionsbrbrDownload of this product is subject to the PlayStation Network Terms of Service and our Software Usage Terms plus any specific additional conditions applying to this product. If you do not wish to accept these terms, do not download this product. See Terms of Service for more important information.br PS4 One-time licence fee to download to multiple PS4 systems. Sign in to PlayStation Network is not required to use this on your primary PS4, but is required for use on other PS4 systems.brPS Vita One-time fee for use of downloads on up to 3 activated compatible Portable Console systems.brSee Health Warnings for important health information before using this product.brLibrary programs ©Sony Interactive Entertainment Inc. exclusively licensed to Sony Interactive Entertainment Europe. Software Usage Terms apply, See eu.playstation.comlegal for full usage rights.brbr© Gamious. All Rights Reserved.",
     "publisher": "GAMIOUS B.V.",
-    "rate": "4.00",
+    "rate": "4.02",
     "releaseTime": "2017/2/14",
     "platform": "PS4",
     "type": "Action",
@@ -133614,7 +133623,7 @@
     "fullname": "Root Letter",
     "category": "Full Game",
     "description": "Root Letter is the first in a brand new ‘Kadokawa Game Mystery’ series - a collection of Visual Novels with exceptionally high production values. brSet in Shimane prefecture - a place rich in history, culture and natural beauty - Root Letter revolves around the mystery of Fumino Aya, your old high school pen friend who went missing 15 years ago.brbrThis product supports the following languages Englishbrbrbr1 playerbr4GB minimum save sizebrHD Video Output 720p,1080i,1080pbrbrDownload of this product is subject to the PlayStation Network Terms of Service and our Software Usage Terms plus any specific additional conditions applying to this product. If you do not wish to accept these terms, do not download this product. See Terms of Service for more important information.br One-time licence fee to download to multiple PS4 systems. Sign in to PlayStation Network is not required to use this on your primary PS4, but is required for use on other PS4 systems.brSee Health Warnings for important health information before using this product.brLibrary programs ©Sony Interactive Entertainment Inc. exclusively licensed to Sony Interactive Entertainment Europe. Software Usage Terms apply, See eu.playstation.comlegal for full usage rights.brbr©2016 KADOKAWA GAMES. Published by PQUBE LIMITED.",
-    "price": 15.99,
+    "price": 3.99,
     "priceCurrency": "GBP",
     "publisher": "PQube Ltd",
     "rate": "4.33",
@@ -133635,7 +133644,7 @@
     "platform": "PS4, PS5",
     "type": "Strategy, Puzzle, Brain Training",
     "category": "Full Game",
-    "price": 6.49,
+    "price": 3.24,
     "priceCurrency": "GBP"
   },
   {
@@ -133726,7 +133735,7 @@
     "fullname": "Liege Dragon",
     "category": "Full Game",
     "description": "Find the Dragon Tools of legend to stand up to the Evil Dragon in a fantasy RPG",
-    "price": 11.99,
+    "price": 5.99,
     "priceCurrency": "GBP",
     "publisher": "KEMCO",
     "rate": "4.10",
@@ -133758,7 +133767,7 @@
     "fullname": "Life in Willowdale: Farm Adventures",
     "category": "Full Game",
     "description": "Your life in Willowdale starts here",
-    "price": 15.99,
+    "price": 3.99,
     "priceCurrency": "GBP",
     "publisher": "MINDSCAPE BV",
     "rate": "1.93",
@@ -133838,7 +133847,7 @@
     "fullname": "Life of Slime",
     "category": "Full Game",
     "description": "Help Slami find his special path in life.",
-    "price": 3.99,
+    "price": 0.79,
     "priceCurrency": "GBP",
     "publisher": "Sometimes You",
     "rate": "3.00",
@@ -133873,7 +133882,7 @@
     "price": 1.99,
     "priceCurrency": "GBP",
     "publisher": "miyu.works",
-    "rate": "4.31",
+    "rate": "4.30",
     "releaseTime": "2019/11/26",
     "platform": "PS4",
     "type": "Role Playing Games, Adventure, Role Playing Games"
@@ -133902,10 +133911,10 @@
     "fullname": "Light of Life PS4™ & PS5™",
     "description": "Take aim and light up in this 2D platformer",
     "publisher": "Ratalaika Games SL",
-    "rate": "3.67",
+    "rate": "3.62",
     "releaseTime": "2023/4/20",
     "platform": "PS4, PS5",
-    "type": "Action, Casual, Puzzle",
+    "type": "Puzzle, Casual, Action",
     "category": "Full Game",
     "price": 1.19,
     "priceCurrency": "GBP"
@@ -133924,7 +133933,7 @@
     "rate": "3.91",
     "releaseTime": "2017/9/26",
     "platform": "PS4",
-    "type": "Adventure, Adventure, Puzzle"
+    "type": "Adventure, Puzzle, Adventure"
   },
   {
     "name": "Light Up The Room",
@@ -133982,13 +133991,13 @@
     "fullname": "Link-a-Pix Deluxe",
     "category": "Full Game",
     "description": "Link-a-Pix is a clue-linking puzzle where every grid has a picture hidden inside. The aim is to reveal the picture by painting paths to link clues which have the same color and number. The number shows the length of the line which will connect them.  If you like picross games, you’ll love Link-a-Pix ",
-    "price": 6.49,
+    "price": 3.24,
     "priceCurrency": "GBP",
     "publisher": "Lightwood Games",
     "rate": "4.26",
     "releaseTime": "2020/1/7",
     "platform": "PS4",
-    "type": "Brain Training, Family, Puzzle"
+    "type": "Puzzle, Family, Brain Training"
   },
   {
     "name": "Last Night of Winter",
@@ -134019,7 +134028,7 @@
     "platform": "PS4, PS5",
     "type": "Adventure",
     "category": "Full Game",
-    "price": 19.99,
+    "price": 3.99,
     "priceCurrency": "GBP"
   },
   {
@@ -134049,7 +134058,7 @@
     "rate": "3.51",
     "releaseTime": "2023/7/16",
     "platform": "PS5",
-    "type": "Adventure, Action, Adventure",
+    "type": "Adventure, Adventure, Action",
     "category": "Full Game",
     "price": 4.29,
     "priceCurrency": "GBP"
@@ -134065,7 +134074,7 @@
     "price": 8.79,
     "priceCurrency": "GBP",
     "publisher": "CITY-CONNECTION CO., LTD.",
-    "rate": "4.31",
+    "rate": "4.30",
     "releaseTime": "2022/4/27",
     "platform": "PS4",
     "type": "Shooter"
@@ -135029,13 +135038,16 @@
     "img": "images/dcefdd9d1babacabaa5570a26996d4b2.jpg",
     "path": "https://store.playstation.com/en-gb/concept/227162",
     "lang": "en-gb",
-    "fullname": "",
-    "description": "",
+    "fullname": "Lock's Quest",
+    "description": "Build Defenses and Battle against the Clockwork horde in this 2D Action RPG  Tower Defense hybrid. Experience a gripping story, which unfolds as you progress through 75 Days of warfare, aided by a collection of turrets, traps and special attacks.  • Place Kingdom Force units to defend your capitol in a brand new Endless Mode - Antonia Defense • Build up your fortifications each day to defend against a timed Clockwork assault. Use dozens of Turrets, Traps and Helpers to stop the advance. • Fight alongside your defenses, using context sensitive Special Attacks, and devastating Super Attacks, which impact a wide range of enemies. • Unlock the secrets of Kingdom Force and the Archineers via an engrossing story with a multi character cast, told via hand drawn cinematics and cutscenes. ",
     "publisher": "THQ NORDIC GMBH",
     "rate": "3.28",
     "releaseTime": "2017/6/5",
     "platform": "PS4",
-    "type": "Strategy, Strategy, Strategy"
+    "type": "Strategy, Strategy, Strategy",
+    "category": "Full Game",
+    "price": 15.99,
+    "priceCurrency": "GBP"
   },
   {
     "name": "LogiKing",
@@ -135778,7 +135790,7 @@
     "price": 0.79,
     "priceCurrency": "GBP",
     "publisher": "Sometimes You",
-    "rate": "",
+    "rate": "4.20",
     "releaseTime": "2024/8/20",
     "platform": "PS5",
     "type": "Action"
@@ -136194,7 +136206,7 @@
     "price": 15.74,
     "priceCurrency": "GBP",
     "publisher": "Kalypso Media GMBH",
-    "rate": "3.79",
+    "rate": "3.80",
     "releaseTime": "2022/7/6",
     "platform": "PS4, PS5",
     "type": "Sport"
@@ -136364,7 +136376,7 @@
     "fullname": "Mech Mechanic Simulator",
     "category": "Full Game",
     "description": "Powerful, destructive and strong...  They are used in sports, at war; for you, they are moneymakers… Live in an age of enormous machines, become Mech Mechanic and open your own workshop to dismantle, fix and rebuild gigantic robots. Earn good reputation among your clientele and compete with the largest corporations of this world. Develop your business and challenge yourself to build the most advanced robot of all time.  Every mech has its own special purpose and as a Mech Mechanic you’ll diagnose, repair and change the parts as well as paint, update and prepare the mechs for their new job.  Even if you’re the best Mech Mechanic in the world, you’ll find the parts that are unfixable. Do what you can with what you’ve got, but if you find some junk among your parts… dismount it and order new ones. If you don’t like wasting things, don’t worry Mech Mechanic Simulator lets you remanufacture and renew the parts. It’s your choice sell, recast or restore your parts You’ll have a lot of expenses. Raw materials and equipment are not cheap, the quality of your parts can drop rapidly, and some of the customers have really high demands.  Try to maintain good reputation, build yourself an empire and become an expert in your field ",
-    "price": 7.99,
+    "price": 0.79,
     "priceCurrency": "GBP",
     "publisher": "PlayWay plc",
     "rate": "2.99",
@@ -136575,10 +136587,10 @@
     "price": 24.99,
     "priceCurrency": "GBP",
     "publisher": "CE EUROPE LIMITED",
-    "rate": "4.69",
+    "rate": "4.70",
     "releaseTime": "2020/2/25",
     "platform": "PS4",
-    "type": "Action, Action, Role Playing Games"
+    "type": "Action, Role Playing Games, Action"
   },
   {
     "name": "Mega Party - A Tootuff Adventure",
@@ -136591,7 +136603,7 @@
     "rate": "3.70",
     "releaseTime": "2023/8/29",
     "platform": "PS4",
-    "type": "Casual, Family, Party",
+    "type": "Party, Family, Casual",
     "category": "Full Game",
     "price": 2.59,
     "priceCurrency": "GBP"
@@ -136764,7 +136776,7 @@
     "fullname": "Miden Tower",
     "description": "RPG of a soul-stirring story of tragedy and revenge, and a wall maiden",
     "publisher": "KEMCO",
-    "rate": "4.61",
+    "rate": "4.62",
     "releaseTime": "2025/10/30",
     "platform": "PS4, PS5",
     "type": "Role Playing Games",
@@ -136796,7 +136808,7 @@
     "fullname": "Mighty Aphid 2",
     "description": "Its World War Worm Victoria is under siege at the battle front. After a two-year absence, Mighty Aphid returns to battle Lady Bug and her evil horde once again. This time, the villainess has created her own Mighty warriors to take on the pint-sized hero.  Run, shoot, swim, dash, and fly. Rescue the innocent. Fight mighty bosses. Earn powerful upgrades. ",
     "publisher": "Cascadia Games LLC",
-    "rate": "2.68",
+    "rate": "2.62",
     "releaseTime": "2024/2/2",
     "platform": "PS4, PS5",
     "type": "Action",
@@ -136969,10 +136981,10 @@
     "fullname": "MilitAnt",
     "description": "MilitAnt™ is an action-packed side-scrolling platformshooter. Set in a world ruled by insects, a lone soldier ant must defend his home colony at all costs from a brutal invasion by the termite infantry, the wasp airforce and other enemy bug nations.  Packed with customizable weapon load-outs, a large variety of enemies and challenging boss battles, MilitAnt™ takes you into a rich stylized insect world, blending novel 2.5D shooter gameplay with epic platforming action.   Test your reflexes and prove your might in the biggest action adventure any player or ant has ever seen. Jump to the battlefield world of MilitAnt™ for a completely original experience of “Epic-tiny proportions”. ",
     "publisher": "XIBALBA STUDIOS",
-    "rate": "4.32",
+    "rate": "4.31",
     "releaseTime": "2016/7/13",
     "platform": "PS4",
-    "type": "Action, Shooter, Action",
+    "type": "Shooter, Action, Action",
     "category": "Full Game",
     "price": 7.99,
     "priceCurrency": "GBP"
@@ -137174,13 +137186,16 @@
     "img": "images/c5512112a7d68d6eadaeb4395d4c0a9d.jpg",
     "path": "https://store.playstation.com/en-gb/concept/10002457",
     "lang": "en-gb",
-    "fullname": "",
-    "description": "",
+    "fullname": "Merchant of the Skies",
+    "description": "Sell items, gather resources and build your own trade company in the clouds",
     "publisher": "Plug In Digital",
     "rate": "4.32",
     "releaseTime": "2021/6/6",
     "platform": "PS5",
-    "type": "Strategy, Simulation"
+    "type": "Strategy, Simulation",
+    "category": "Full Game",
+    "price": 11.99,
+    "priceCurrency": "GBP"
   },
   {
     "name": "Mermaidio",
@@ -139213,7 +139228,7 @@
     "price": 3.74,
     "priceCurrency": "GBP",
     "publisher": "Microids",
-    "rate": "3.31",
+    "rate": "3.29",
     "releaseTime": "2020/12/3",
     "platform": "PS4",
     "type": "Party"
@@ -139231,7 +139246,7 @@
     "platform": "PS4",
     "type": "Arcade",
     "category": "Full Game",
-    "price": 15.99,
+    "price": 3.99,
     "priceCurrency": "GBP"
   },
   {
@@ -139248,7 +139263,7 @@
     "rate": "4.24",
     "releaseTime": "2014/10/29",
     "platform": "PS4",
-    "type": "Action, Arcade, Shooter"
+    "type": "Shooter, Arcade, Action"
   },
   {
     "name": "NAPE RETROVERSE COLLECTION",
@@ -139274,7 +139289,7 @@
     "fullname": "Napoleon Maiden Episode.1 A maiden without the word impossible",
     "category": "Full Game",
     "description": "Doki Doki Pretty Girl Napoleon",
-    "price": 19.99,
+    "price": 15.99,
     "priceCurrency": "GBP",
     "publisher": "Moesoft Limited",
     "rate": "4.54",
@@ -139290,7 +139305,7 @@
     "fullname": "Narcosis",
     "description": "This first person survival story unfolds from inside a “walking coffin” —   a half-ton, high-tech deep-sea dive suit — following an industrial catastrophe. Influenced and inspired by a growing appetite for unconventional horror and narrative-driven games, Narcosis is rooted in reality, but steeped in the surreal.brbr1 playerbr8GB minimum save sizebrDUALSHOCK®4 Vibration FunctionbrRemote Play SupportedbrHD Video Output 720p,1080i,1080pbrbrDownload of this product is subject to the PlayStation Network Terms of Service and our Software Usage Terms plus any specific additional conditions applying to this product. If you do not wish to accept these terms, do not download this product. See Terms of Service for more important information.br One-time licence fee to download to multiple PS4 systems. Sign in to PlayStation Network is not required to use this on your primary PS4, but is required for use on other PS4 systems.brSee Health Warnings for important health information before using this product.br Library programs ©Sony Interactive Entertainment Inc. exclusively licensed to Sony Interactive Entertainment Europe. Software Usage Terms apply, See eu.playstation.comlegal for full usage rights.brbr© 2018 Honor Code, Inc.",
     "publisher": "HONOR CODE, INC.",
-    "rate": "3.59",
+    "rate": "3.58",
     "releaseTime": "2018/7/24",
     "platform": "PS4",
     "type": "Horror",
@@ -139306,7 +139321,7 @@
     "fullname": "Narita Boy",
     "description": "Become symphonic in Narita Boy",
     "publisher": "Team 17 Digital LTD",
-    "rate": "4.39",
+    "rate": "4.40",
     "releaseTime": "2021/3/29",
     "platform": "PS4",
     "type": "Action",
@@ -139327,7 +139342,7 @@
     "platform": "PS4",
     "type": "Adventure, Adventure, Role Playing Games",
     "category": "Full Game",
-    "price": 2.49,
+    "price": 0.74,
     "priceCurrency": "GBP"
   },
   {
@@ -139360,7 +139375,7 @@
     "rate": "4.16",
     "releaseTime": "2020/7/15",
     "platform": "PS4",
-    "type": "Action, Adventure, Puzzle"
+    "type": "Puzzle, Adventure, Action"
   },
   {
     "name": "New Lands 2",
@@ -139642,7 +139657,7 @@
     "fullname": "Ninja Shodown",
     "description": "It’s every ninja for themselves in the ultimate battle for the Jade Katana Fight alone, team up or take on friends in brutal arena-based combat where the mighty prevail and the weak pay the ultimate price death and dishonour  The year is 199X and the world teeters on the brink of total destruction. The mystical Jade Katana, stolen Its power, so lethal In the wrong hands, humanity will fall And so the Viper Clan, sworn guardians of the Jade Katana, prepare to embark on their most perilous mission yet retrieve the sword at all costs Use katanas, shurikens, bombs, machine guns, shotguns, bazookas and more as you battle your way through a variety of locations to become the ultimate ninja and fulfill the ancient vow of the Viper Clan. ",
     "publisher": "Bitmap Bureau Ltd",
-    "rate": "",
+    "rate": "4.25",
     "releaseTime": "2017/9/25",
     "platform": "PS4",
     "type": "Action",
@@ -140042,7 +140057,7 @@
     "price": 9.99,
     "priceCurrency": "GBP",
     "publisher": "IBAR EZKERRAR IKASTOLA S. COOP.",
-    "rate": "",
+    "rate": "3.13",
     "releaseTime": "2021/11/30",
     "platform": "PS4",
     "type": "Action, Arcade, Arcade"
@@ -140930,13 +140945,16 @@
     "img": "images/662162824f03dac296cd7b9a3eb7ba2d.jpg",
     "path": "https://store.playstation.com/en-gb/concept/10008101",
     "lang": "en-gb",
-    "fullname": "",
-    "description": "",
+    "fullname": "Ominous Tales: The Forsaken Isle - Collectors Edition",
+    "description": "Youll need your wits to face the dark forces that surround you",
     "publisher": "Joindots GmbH",
     "rate": "3.91",
     "releaseTime": "2024/1/18",
     "platform": "PS5",
-    "type": "Adventure, Family, Casual"
+    "type": "Adventure, Family, Casual",
+    "category": "Full Game",
+    "price": 15.99,
+    "priceCurrency": "GBP"
   },
   {
     "name": "O! My Genesis VR",
@@ -141301,7 +141319,7 @@
     "price": 17.99,
     "priceCurrency": "GBP",
     "publisher": "D-Pad Studio",
-    "rate": "",
+    "rate": "4.28",
     "releaseTime": "2018/4/9",
     "platform": "PS4",
     "type": "Adventure, Action, Action"
@@ -141554,13 +141572,13 @@
     "fullname": "Panda Punch PS4™ & PS5™",
     "category": "Full Game",
     "description": "A bionic panda hero must save the world from evil alien robots",
-    "price": 3.99,
+    "price": 1.19,
     "priceCurrency": "GBP",
     "publisher": "Ratalaika Games SL",
     "rate": "3.05",
     "releaseTime": "2022/12/16",
     "platform": "PS4, PS5",
-    "type": "Action, Adventure, Casual"
+    "type": "Casual, Adventure, Action"
   },
   {
     "name": "Pandaty",
@@ -141980,13 +141998,16 @@
     "img": "images/736c29db1d02dffe5f1eca78d1605907.jpg",
     "path": "https://store.playstation.com/en-gb/concept/10005478",
     "lang": "en-gb",
-    "fullname": "",
-    "description": "",
+    "fullname": "NeverAwake",
+    "description": "A girl who never wakes up. She has been fighting monsters in her dreams...",
     "publisher": "Phoenixx Inc.",
     "rate": "4.65",
     "releaseTime": "2023/1/19",
     "platform": "PS4, PS5",
-    "type": "Shooter"
+    "type": "Shooter",
+    "category": "Full Game",
+    "price": 19.99,
+    "priceCurrency": "GBP"
   },
   {
     "name": "Party Hard 2",
@@ -142095,10 +142116,10 @@
     "price": 7.99,
     "priceCurrency": "GBP",
     "publisher": "Hidden Trap",
-    "rate": "3.92",
+    "rate": "3.91",
     "releaseTime": "2019/6/26",
     "platform": "PS4",
-    "type": "Adventure, Puzzle, Adventure"
+    "type": "Puzzle, Adventure, Adventure"
   },
   {
     "name": "Path to Purge",
@@ -142377,7 +142398,7 @@
     "fullname": "Pharaonic",
     "category": "Full Game",
     "description": "Pharaonic is an unforgiving sidescrolling Action-RPG set in Ancient Egypt. Explore a vast kingdom full of dangers and brutal enemies while you find the truth behind Ahmosis I, the Red Pharaoh.brbrOnly the most audacious warriors will have any chance of success. The Pharaohs army and countless dangerous creatures will stand in your way.brbrPolish your combat skills to the finest and loot the best gear possible to even have the slightest chance of overcoming this difficult endeavor. Will you opt for lightweight equipment, trusting on your agility to avoid death Or will you prefer to take the blow and strike back even harder The decision is entirely yours to make.brbrThroughout your path you will find help from the Daughters of Ishtar, as well as the oppresed countrymen. Learn new skills and subdue divine powers to overcome your opponents. Drink from your life-water canteen to heal your wounds, and acquire new equipment that will help you avoid death one more day.brbr1 playerbr3MB minimum save sizebrDUALSHOCK®4 Vibration FunctionbrHD Video Output 720p,1080pbrbrDownload of this product is subject to the PlayStation Network Terms of Service and our Software Usage Terms plus any specific additional conditions applying to this product. If you do not wish to accept these terms, do not download this product. See Terms of Service for more important information.br One-time licence fee to download to multiple PS4 systems. Sign in to PlayStation Network is not required to use this on your primary PS4, but is required for use on other PS4 systems.brSee Health Warnings for important health information before using this product.brLibrary programs ©Sony Computer Entertainment Inc. exclusively licensed to Sony Computer Entertainment Europe. Software Usage Terms apply, See eu.playstation.comlegal for full usage rights.brbr© Milkstone Studios 2016",
-    "price": 12.99,
+    "price": 2.59,
     "priceCurrency": "GBP",
     "publisher": "Milkstone Studios",
     "rate": "3.88",
@@ -142441,7 +142462,7 @@
     "fullname": "Pic-a-Pix Color",
     "category": "Full Game",
     "description": "Pic-a-Pix are exciting logic puzzles that form whimsical pixel-art pictures when solved. Challenging, deductive and artistic, this original Japanese invention offers the ultimate mix of logic, art and fun while providing solvers with many hours of mentally stimulating entertainment.  Pic-a-Pix are sometimes known by other names, such as Picross, Nonogram, Paint by Numbers, Griddlers, Hanjie and many more.  Pic-a-Pix Color adds a new dimension to this popular puzzle by using colored clues to indicate which color each block should be painted. The new rules add a unique twist to the games logic and the puzzles produce beautiful, colorful pixel art.  This game contains 150 exclusive puzzles, designed by Conceptis Ltd - the worlds leading supplier of logic puzzles. Puzzles range in difficulty and size from introductory 5x5 pictures up to huge 20x20 grids   This Cross-Buy product entitles you to download both PS4™ and PS Vita versions.  ",
-    "price": 6.49,
+    "price": 3.24,
     "priceCurrency": "GBP",
     "publisher": "Lightwood Games",
     "rate": "4.14",
@@ -142473,12 +142494,12 @@
     "fullname": "Pic-a-Pix Pieces 2",
     "description": "The latest instalment in the popular picture crossword series contains 20 new, massive picross mosaics  Pic-a-Pix Pieces 2 features more than 400 new puzzle grids that come together to form spectacular pixel-art masterpieces.  This Cross-Buy product entitles you to download both PS4™ and PS Vita versions.  ",
     "publisher": "Lightwood Games",
-    "rate": "4.36",
+    "rate": "4.38",
     "releaseTime": "2020/6/29",
     "platform": "PS4",
     "type": "Puzzle, Family, Brain Training",
     "category": "Full Game",
-    "price": 6.49,
+    "price": 3.24,
     "priceCurrency": "GBP"
   },
   {
@@ -142633,7 +142654,7 @@
     "fullname": "Pillar",
     "description": "Lost in an intimate snowy town, a palette of individuals are in search of a mysterious artifact said to bring great knowledge and understanding. Lead each character through their quest in this collection of minigames, each with unique personalities and challenges... maybe their paths arent so different after all.brbrA Little Bit About Pillarbrbr- A collection of minigames, each representing different personality traits introversion, extroversion etc. through gameplay mechanics.brbr- Different people, different gameplay each part of the game will challenge you in a unique way.brbr- Explore an intimate snowy town, beautifully hand-painted with attention to every detail.brbr- A distinct soundtrack, composed hand in hand with the games design, by the games designer, to ensure a cohesive experience.brbrbrThis product supports the following languages Englishbrbrbr1 playerbrHD Video Output 720p,1080i,1080pbrbrDownload of this product is subject to the PlayStation Network Terms of Service and our Software Usage Terms plus any specific additional conditions applying to this product. If you do not wish to accept these terms, do not download this product. See Terms of Service for more important information.br One-time licence fee to download to multiple PS4 systems. Sign in to PlayStation Network is not required to use this on your primary PS4, but is required for use on other PS4 systems.brSee Health Warnings for important health information before using this product.brLibrary programs ©Sony Computer Entertainment Inc. exclusively licensed to Sony Computer Entertainment Europe. Software Usage Terms apply, See eu.playstation.comlegal for full usage rights.brbr©2015 MichaelArts, LLC",
     "publisher": "MichaelArts, LLC",
-    "rate": "3.90",
+    "rate": "3.89",
     "releaseTime": "2015/2/18",
     "platform": "PS4",
     "type": "Puzzle",
@@ -142681,7 +142702,7 @@
     "fullname": "Pinball Frenzy",
     "category": "Full Game",
     "description": "Frantic Pinballs game",
-    "price": 3.99,
+    "price": 2.79,
     "priceCurrency": "GBP",
     "publisher": "Benoit Varasse trading as Pix Arts",
     "rate": "2.91",
@@ -142985,7 +143006,7 @@
     "fullname": "Paperman: Adventure Delivered",
     "category": "Full Game",
     "description": "Explore colorful worlds, uncover secrets and defeat the greedy dragon",
-    "price": 8.99,
+    "price": 1.79,
     "priceCurrency": "GBP",
     "publisher": "MINDSCAPE BV",
     "rate": "2.84",
@@ -143046,13 +143067,16 @@
     "img": "images/8fecad083bfb56552a7bd228d31d37fe.jpg",
     "path": "https://store.playstation.com/en-gb/concept/10009251",
     "lang": "en-gb",
-    "fullname": "",
-    "description": "",
+    "fullname": "Paper Trail",
+    "description": "A puzzle adventure set in a foldable, paper world.",
     "publisher": "Newfangled Games Ltd",
     "rate": "4.39",
     "releaseTime": "2024/5/21",
     "platform": "PS5",
-    "type": "Puzzle, Adventure"
+    "type": "Puzzle, Adventure",
+    "category": "Full Game",
+    "price": 3.87,
+    "priceCurrency": "GBP"
   },
   {
     "name": "Paradox Error",
@@ -143190,7 +143214,7 @@
     "fullname": "Please Fix The Road",
     "category": "Full Game",
     "description": "Possibly the prettiest, most relaxing road-fixing puzzle game ever",
-    "price": 7.39,
+    "price": 2.21,
     "priceCurrency": "GBP",
     "publisher": "SILESIA GAMES SP. Z O.O.",
     "rate": "3.77",
@@ -143307,7 +143331,7 @@
     "platform": "PS5",
     "type": "Horror",
     "category": "Full Game",
-    "price": 29.99,
+    "price": 5.99,
     "priceCurrency": "GBP"
   },
   {
@@ -143402,7 +143426,9 @@
     "releaseTime": "2021/3/4",
     "platform": "PS4",
     "type": "Simulation, Strategy, Adventure",
-    "category": "Full Game"
+    "category": "Full Game",
+    "price": 4.99,
+    "priceCurrency": "GBP"
   },
   {
     "name": "POCKET LEAGUE STORY",
@@ -143699,7 +143725,7 @@
     "price": 3.99,
     "priceCurrency": "GBP",
     "publisher": "VICTORY ROAD",
-    "rate": "",
+    "rate": "3.23",
     "releaseTime": "2019/12/23",
     "platform": "PS4",
     "type": "Action, Action"
@@ -143920,7 +143946,7 @@
     "fullname": "Primal Carnage: Evolution",
     "description": "Unleash your inner dinosaur, or make them extinct",
     "publisher": "CIRCLE 5 PUBLISHING LLC",
-    "rate": "4.30",
+    "rate": "4.31",
     "releaseTime": "2023/12/31",
     "platform": "PS4",
     "type": "Action, Action",
@@ -144613,7 +144639,7 @@
     "fullname": "PRAEY FOR THE GODS",
     "description": "Your only chance to survive is to destroy the very gods you believe in.",
     "publisher": "No Matter Studios LLC",
-    "rate": "",
+    "rate": "3.92",
     "releaseTime": "2021/12/14",
     "platform": "PS4, PS5",
     "type": "Unique",
@@ -144728,7 +144754,7 @@
     "price": 8.99,
     "priceCurrency": "GBP",
     "publisher": "JANDUSOFT S.L.",
-    "rate": "",
+    "rate": "4.29",
     "releaseTime": "2024/7/11",
     "platform": "PS4, PS5",
     "type": "Puzzle"
@@ -145729,7 +145755,7 @@
     "platform": "PS5",
     "type": "Action",
     "category": "Full Game",
-    "price": 15.99,
+    "price": 4.79,
     "priceCurrency": "GBP"
   },
   {
@@ -148091,7 +148117,7 @@
     "fullname": "Rogue Sentry PS4 & PS5",
     "description": "Save the last remnants of humanity and attempt to reverse the apocalypse",
     "publisher": "eastasiasoft",
-    "rate": "",
+    "rate": "5.00",
     "releaseTime": "2024/10/8",
     "platform": "PS4, PS5",
     "type": "Arcade, Shooter, Action",
@@ -148224,7 +148250,7 @@
     "platform": "PS4",
     "type": "Arcade",
     "category": "Full Game",
-    "price": 14.99,
+    "price": 5.24,
     "priceCurrency": "GBP"
   },
   {
@@ -148254,9 +148280,9 @@
     "rate": "3.86",
     "releaseTime": "2022/12/9",
     "platform": "PS4",
-    "type": "Adventure, Horror",
+    "type": "Horror, Adventure",
     "category": "Full Game",
-    "price": 3.99,
+    "price": 0.79,
     "priceCurrency": "GBP"
   },
   {
@@ -148457,7 +148483,7 @@
     "fullname": "RPG MAKER WITH PS4 & PS5",
     "description": "Making games is more fun WITH everyone",
     "publisher": "NIS America",
-    "rate": "3.86",
+    "rate": "3.85",
     "releaseTime": "2025/2/21",
     "platform": "PS4, PS5",
     "type": "Unique, Role Playing Games",
@@ -148492,7 +148518,7 @@
     "price": 7.99,
     "priceCurrency": "GBP",
     "publisher": "Revie Studios LLC",
-    "rate": "3.24",
+    "rate": "3.27",
     "releaseTime": "2024/4/15",
     "platform": "PS5",
     "type": "Action"
@@ -148556,7 +148582,7 @@
     "price": 1.19,
     "priceCurrency": "GBP",
     "publisher": "HEADUP GAMES GMBH CO. KG",
-    "rate": "4.09",
+    "rate": "4.10",
     "releaseTime": "2018/7/3",
     "platform": "PS4",
     "type": "Action, Puzzle"
@@ -148697,13 +148723,13 @@
     "fullname": "Runnyk PS4® & PS5®",
     "category": "Full Game",
     "description": "Embark on a viking’s heroic quest to save his true love",
-    "price": 3.99,
+    "price": 1.19,
     "priceCurrency": "GBP",
     "publisher": "Ratalaika Games SL",
-    "rate": "4.40",
+    "rate": "4.41",
     "releaseTime": "2023/11/17",
     "platform": "PS4, PS5",
-    "type": "Action, Adventure, Casual"
+    "type": "Casual, Adventure, Action"
   },
   {
     "name": "Run Tekila Run!",
@@ -148716,7 +148742,7 @@
     "price": 7.99,
     "priceCurrency": "GBP",
     "publisher": "Making Port",
-    "rate": "2.61",
+    "rate": "2.62",
     "releaseTime": "2024/11/7",
     "platform": "PS5",
     "type": "Action"
@@ -148735,7 +148761,7 @@
     "rate": "3.48",
     "releaseTime": "2022/12/9",
     "platform": "PS5",
-    "type": "Brain Training, Puzzle"
+    "type": "Puzzle, Brain Training"
   },
   {
     "name": "Rush Rover",
@@ -148761,7 +148787,7 @@
     "fullname": "Russian Pinocchio",
     "description": "Immerse yourself in the adventure",
     "publisher": "Volkov Konstantin Sergeevich",
-    "rate": "4.03",
+    "rate": "4.04",
     "releaseTime": "2023/10/5",
     "platform": "PS4",
     "type": "Casual",
@@ -148780,7 +148806,7 @@
     "price": 15.99,
     "priceCurrency": "GBP",
     "publisher": "PLAYISM",
-    "rate": "3.59",
+    "rate": "3.60",
     "releaseTime": "2024/6/19",
     "platform": "PS5",
     "type": "Action"
@@ -148911,7 +148937,7 @@
     "rate": "4.32",
     "releaseTime": "2019/8/6",
     "platform": "PS4",
-    "type": "Adventure, Horror, Adventure"
+    "type": "Horror, Adventure, Adventure"
   },
   {
     "name": "Sail Forth",
@@ -148937,7 +148963,7 @@
     "fullname": "Saint Kotar",
     "description": "Uncover the mysteries of Sveti Kotar  In this story-and-choice driven psychological horror detective game, you play as Benedek and Nikolay – two troubled godly men in search for their missing relative in an ancient God-devoted town called Sveti Kotar. Here, an unknown presence preys upon the weak and sways on devil worship and witchcraft. Evidence points to your missing relative being involved in the grisly murders and the occult, but what is the truth Are you also to blame for what happened  Will you put the pieces together and unravel the truth behind the town’s centuries-old horrid presence Or is madness going to be your fate  This version of Saint Kotar now includes The Void update  The Ritual DLC.   About The Void update This update contains lots of new cutscenes, endings, animations, achievements , and several bug fixes and improvements.   About The Ritual DLC The Ritual is a free DLC that introduces new intriguing characters, new puzzles, and Viktoria as a new playable character.  Why Saint Kotar will terrify you  - Solve the mystery behind your relatives involvement with the towns bizarre and morbid rituals  - Switch between two realities to get to the bottom of the town’s horrifying secrets - Take caution as your choices will affect both story and gameplay - Discover hidden locations and complete side tasks to uncover the whole story ",
     "publisher": "SOEDESCO PUBLISHING B.V.",
-    "rate": "3.93",
+    "rate": "3.90",
     "releaseTime": "2022/11/22",
     "platform": "PS5",
     "type": "Horror, Horror",
@@ -149006,7 +149032,7 @@
     "platform": "PS4",
     "type": "Action, Shooter, Action",
     "category": "Full Game",
-    "price": 12.99,
+    "price": 1.94,
     "priceCurrency": "GBP"
   },
   {
@@ -149020,7 +149046,7 @@
     "rate": "4.54",
     "releaseTime": "2023/10/12",
     "platform": "PS4, PS5",
-    "type": "Adventure, Adventure, Adult",
+    "type": "Adventure, Adult, Adventure",
     "category": "Full Game",
     "price": 3.24,
     "priceCurrency": "GBP"
@@ -149039,7 +149065,7 @@
     "rate": "4.51",
     "releaseTime": "2023/11/10",
     "platform": "PS4, PS5",
-    "type": "Adventure, Adventure, Adult"
+    "type": "Adventure, Adult, Adventure"
   },
   {
     "name": "Sakura MMO",
@@ -149150,7 +149176,7 @@
     "platform": "PS4, PS5",
     "type": "Adventure, Adult",
     "category": "Full Game",
-    "price": 7.99,
+    "price": 3.99,
     "priceCurrency": "GBP"
   },
   {
@@ -149241,7 +149267,7 @@
     "fullname": "Samurai Kento PS4® & PS5®",
     "category": "Full Game",
     "description": "Help Kento eradicate the evil monsters, even as an old man",
-    "price": 3.99,
+    "price": 1.59,
     "priceCurrency": "GBP",
     "publisher": "Ratalaika Games SL",
     "rate": "4.08",
@@ -149257,7 +149283,7 @@
     "fullname": "SAMURAI SHODOWN NEOGEO COLLECTION",
     "description": "The ULTIMATE collection is here It all began in 93, and now, the weapon-based fighting game series that swept the world is ready to be taken home in a new stellar collection Six NEOGEO titles as well as one mysterious, unreleased game are featured Each game features Online VS Battle Modes, as well as a Museum Mode and Music Player. This collection is a must-have for all SAMURAI SHODOWN fans across the globe  ■ Seven SAMURAI SHODOWN titles in total SAMURAI SHODOWN was originally released on the NEOGEO in 1993, followed by its sequel SAMURAI SHODOWN II in 1994. The series became a trilogy in 1995 with SAMURAI SHODOWN III, followed soon after by SAMURAI SHODOWN IV AMAKUSA’S REVENGE released in 1996. Seven years later the series returned with 2003’s SAMURAI SHODOWN V, and SAMURAI SHODOWN V SPECIAL was released the following year on the NEOGEO... The new SAMURAI SHODOWN NEOGEO COLLECTION also includes a title never before released to the public. SAMURAI SHODOWN V PERFECT is a mysterious final version of SAMURAI SHODOWN V SPECIAL. Players can select between either Japanese or English MVS arcade versions for each title in the collection. Other features include retro scanlines, save functions, and an Arcade Mode with adjustable settings and no more game overs  ■ Each title comes with Online Versus Battle Modes Get paired up with warriors of a similar level with Ranked Match, or just blow off some steam with Casual Match. Invite your friends for a beat-down in Challenge Friend. Now you can take on SAMURAI SHODOWN fans across the world with the push of a button.   ■ A Museum Mode brimming with content The Museum is packed with over 2,000 precious development documents and images; it is everything a SamSho fan could want There are even hours worth of candid videotaped interviews with the developers, as they discuss what happened during development back in the day. Prepare to dive straight into the world of SAMURAI SHODOWN with this collection   ■ Over 200 tracks in the Sound Player Relive the excitement of the SAMURAI SHODOWN series by listening to all of the individual titles’ soundtracks. In the Music Player found inside the Museum, there are over 200 tracks to choose from, spanning all six titles.  ",
     "publisher": "SNK CORPORATION",
-    "rate": "4.62",
+    "rate": "4.61",
     "releaseTime": "2020/7/27",
     "platform": "PS4",
     "type": "Fighting",
@@ -149276,7 +149302,7 @@
     "price": 11.99,
     "priceCurrency": "GBP",
     "publisher": "SNK CORPORATION",
-    "rate": "4.41",
+    "rate": "4.40",
     "releaseTime": "2016/11/25",
     "platform": "PS4",
     "type": "Action, Arcade"
@@ -149324,7 +149350,7 @@
     "rate": "2.93",
     "releaseTime": "2021/3/23",
     "platform": "PS4",
-    "type": "Adventure, Horror",
+    "type": "Horror, Adventure",
     "category": "Full Game",
     "price": 11.99,
     "priceCurrency": "GBP"
@@ -149342,7 +149368,7 @@
     "platform": "PS4",
     "type": "Arcade",
     "category": "Full Game",
-    "price": 4.99,
+    "price": 3.74,
     "priceCurrency": "GBP"
   },
   {
@@ -149385,7 +149411,7 @@
     "fullname": "Santa's Xmas Adventure",
     "description": "Christmas based fun for the whole family",
     "publisher": "FUNBOX MEDIA LIMITED",
-    "rate": "3.40",
+    "rate": "3.42",
     "releaseTime": "2020/10/29",
     "platform": "PS4",
     "type": "Puzzle, Puzzle",
@@ -149406,7 +149432,7 @@
     "platform": "PS5",
     "type": "Adventure",
     "category": "Full Game",
-    "price": 11.99,
+    "price": 2.39,
     "priceCurrency": "GBP"
   },
   {
@@ -149484,10 +149510,10 @@
     "price": 3.99,
     "priceCurrency": "GBP",
     "publisher": "QUBYTE",
-    "rate": "4.27",
+    "rate": "4.26",
     "releaseTime": "2021/4/14",
     "platform": "PS4",
-    "type": "Adventure, Shooter"
+    "type": "Shooter, Adventure"
   },
   {
     "name": "Savannah Runnah",
@@ -149532,7 +149558,7 @@
     "price": 4.74,
     "priceCurrency": "GBP",
     "publisher": "Deneos SAS",
-    "rate": "4.17",
+    "rate": "4.08",
     "releaseTime": "2024/5/2",
     "platform": "PS4",
     "type": "Action"
@@ -149545,13 +149571,13 @@
     "fullname": "Save the Ninja Clan",
     "category": "Full Game",
     "description": "Save the Ninja Clan is a platformer for casual players as well as speed runners. There are two ways to play this game play through the normal story mode or find secretsbugs in the game to annoy the Game Manager watching.   Story An evil ninja kidnapped your friends. You must collect scrolls in order to find your friends and save them. You will play as different ninjas as the journey progresses. Each ninja has a different ability Green ninja has a double jump, Purple Ninja has a sprint, and the Grey Ninja has a dash with temporary invincibility.   Alternate Story You can annoy the Game Manager by finding secretsbugs in the game. Eventually he will get tired of you breaking the current level and send you off to the next one.   Features - 30 Unique Levels. - SecretsBugs in all non boss levels. - 3 Ninja types with different abilities. - 3 Boss Fights. - Game too hard or too easy Adjust the game speed. - Replays that show previous attempts. - Secret ending which unlocks something secret.  This product supports the following languages English ",
-    "price": 2.49,
+    "price": 0.74,
     "priceCurrency": "GBP",
     "publisher": "Sometimes You",
     "rate": "3.95",
     "releaseTime": "2017/9/5",
     "platform": "PS4",
-    "type": "Action, Adventure, Arcade"
+    "type": "Arcade, Adventure, Action"
   },
   {
     "name": "Saviorless",
@@ -149564,7 +149590,7 @@
     "rate": "4.07",
     "releaseTime": "2024/4/2",
     "platform": "PS5",
-    "type": "Adventure, Puzzle",
+    "type": "Puzzle, Adventure",
     "category": "Full Game",
     "price": 9.99,
     "priceCurrency": "GBP"
@@ -149644,7 +149670,7 @@
     "rate": "4.18",
     "releaseTime": "2019/9/17",
     "platform": "PS4",
-    "type": "Adventure, Horror, Adventure",
+    "type": "Horror, Adventure, Adventure",
     "category": "Full Game",
     "price": 3.99,
     "priceCurrency": "GBP"
@@ -149814,7 +149840,7 @@
     "fullname": "Secret Agent: Cold War Espionage",
     "description": "Get ready for a wild ride, spy-lovers As a top-secret agent, youll embark on thrilling mini-missions to stop an evil masterminds plan for global domination  With seven pulse-pounding missions to complete, youll jet-set to exotic locations all over the globe, from luxurious hotels to swanky casinos, all while hot on the trail of the infamous Royale Diamond ",
     "publisher": "Kungfu Takeaway",
-    "rate": "3.60",
+    "rate": "3.61",
     "releaseTime": "2024/4/24",
     "platform": "PS4",
     "type": "Adventure, Action",
@@ -149849,7 +149875,7 @@
     "price": 3.19,
     "priceCurrency": "GBP",
     "publisher": "Ratalaika Games SL",
-    "rate": "4.35",
+    "rate": "4.39",
     "releaseTime": "2023/9/7",
     "platform": "PS4, PS5",
     "type": "Adventure, Adventure, Adventure"
@@ -149910,7 +149936,7 @@
     "fullname": "Self-Delusion",
     "category": "Full Game",
     "description": "These monsters have no mercy for you...",
-    "price": 11.99,
+    "price": 2.39,
     "priceCurrency": "GBP",
     "publisher": "Sometimes You",
     "rate": "3.65",
@@ -149931,7 +149957,7 @@
     "platform": "PS4",
     "type": "Adventure",
     "category": "Full Game",
-    "price": 7.99,
+    "price": 0.79,
     "priceCurrency": "GBP"
   },
   {
@@ -149963,7 +149989,7 @@
     "platform": "PS4",
     "type": "Action, Action, Shooter",
     "category": "Full Game",
-    "price": 34.99,
+    "price": 8.74,
     "priceCurrency": "GBP"
   },
   {
@@ -149974,7 +150000,7 @@
     "fullname": "SENSE - A CYBERPUNK GHOST STORY",
     "description": "Dystopian sci-fi gets a survival horror twist",
     "publisher": "TOP HAT STUDIOS, INC.",
-    "rate": "4.35",
+    "rate": "4.34",
     "releaseTime": "2021/2/11",
     "platform": "PS4",
     "type": "Unique",
@@ -150087,7 +150113,7 @@
     "rate": "3.39",
     "releaseTime": "2018/11/2",
     "platform": "PS4",
-    "type": "Action, Adventure, Shooter",
+    "type": "Shooter, Adventure, Action",
     "category": "Full Game",
     "price": 0.64,
     "priceCurrency": "GBP"
@@ -150106,7 +150132,7 @@
     "rate": "4.24",
     "releaseTime": "2016/5/16",
     "platform": "PS4",
-    "type": "Action, Adventure, Action"
+    "type": "Adventure, Action, Action"
   },
   {
     "name": "Shadow Samurai Revenge",
@@ -150154,7 +150180,7 @@
     "rate": "3.89",
     "releaseTime": "2016/5/16",
     "platform": "PS4",
-    "type": "Action, Adventure, Action"
+    "type": "Adventure, Action, Action"
   },
   {
     "name": "Shakedown: Hawaii™",
@@ -150167,7 +150193,7 @@
     "rate": "4.66",
     "releaseTime": "2019/5/12",
     "platform": "PS4",
-    "type": "Action, Adventure, Driving/Racing",
+    "type": "Action, Driving/Racing, Adventure",
     "category": "Full Game",
     "price": 15.99,
     "priceCurrency": "GBP"
@@ -150183,7 +150209,7 @@
     "rate": "4.63",
     "releaseTime": "2020/12/15",
     "platform": "PS4, PS5",
-    "type": "Action, Adventure, Driving/Racing",
+    "type": "Action, Driving/Racing, Adventure",
     "category": "Full Game",
     "price": 15.99,
     "priceCurrency": "GBP"
@@ -150263,7 +150289,7 @@
     "rate": "3.91",
     "releaseTime": "2021/7/13",
     "platform": "PS4, PS5",
-    "type": "Adventure, Casual, Action",
+    "type": "Casual, Adventure, Action",
     "category": "Full Game",
     "price": 11.99,
     "priceCurrency": "GBP"
@@ -150421,7 +150447,7 @@
     "price": 15.99,
     "priceCurrency": "GBP",
     "publisher": "We Dig Games sp. z o.o.",
-    "rate": "4.31",
+    "rate": "4.30",
     "releaseTime": "2021/3/18",
     "platform": "PS4, PS5",
     "type": "Arcade"
@@ -150600,7 +150626,7 @@
     "rate": "4.16",
     "releaseTime": "2021/2/11",
     "platform": "PS4",
-    "type": "Action, Arcade, Shooter"
+    "type": "Arcade, Action, Shooter"
   },
   {
     "name": "Shooting Blocks",
@@ -150663,7 +150689,7 @@
     "platform": "PS4",
     "type": "Action, Adventure, Shooter",
     "category": "Full Game",
-    "price": 15.99,
+    "price": 3.99,
     "priceCurrency": "GBP"
   },
   {
@@ -150832,12 +150858,15 @@
     "path": "https://store.playstation.com/en-gb/concept/232518",
     "lang": "en-gb",
     "fullname": "Sigi - A Fart for Melusina",
-    "description": "Join Knight Sigi as he runs, jumps, and battles in a flatulent quest to save Melusina, the love of his life  Take down hordes of goofy enemies and crazy bosses. Earn riches, find long lost holy artefacts and make your way up to the top of Mount Stinkup  Super tight gameplay and wonderful pixel graphics make Sigi a light-hearted and loving 8-bit adventure to enjoy.  - 8-bit pixel graphics and chiptune soundtrack Saskrotch  - Detailed animation, parallax backgrounds, and solid game design. - Hordes of goofy enemies and unforgettable boss fights. - Secret caverns full of loot to collect and long lost artefacts to find.  Collect all letters and hidden treasures to complete 100 of the game Platformer junkies and speedrunners could finish Sigi in around 30 minutes For everyone else, completing the story mode will take roughly 1 hour.  But beware Aiming for a score of 100 will put you to the test Are you a standard player or a gamepad master",
+    "description": "Join Knight Sigi as he runs, jumps, and battles in a flatulent quest to save Melusina, the love of his life  Take down hordes of goofy enemies and crazy bosses. Earn riches, find long lost holy artefacts and make your way up to the top of Mount Stinkup  Super tight gameplay and wonderful pixel graphics make Sigi a light-hearted and loving 8-bit adventure to enjoy.  - 8-bit pixel graphics and chiptune soundtrack Saskrotch  - Detailed animation, parallax backgrounds, and solid game design. - Hordes of goofy enemies and unforgettable boss fights. - Secret caverns full of loot to collect and long lost artefacts to find.  Collect all letters and hidden treasures to complete 100 of the game Platformer junkies and speedrunners could finish Sigi in around 30 minutes For everyone else, completing the story mode will take roughly 1 hour.  But beware Aiming for a score of 100 will put you to the test Are you a standard player or a gamepad master ",
     "publisher": "Sometimes You",
-    "rate": "",
-    "releaseTime": "2018/9/6",
-    "platform": "",
-    "type": "Arcade, Adventure, Action"
+    "rate": "3.77",
+    "releaseTime": "2026/10/30",
+    "platform": "PS5",
+    "type": "Arcade, Adventure, Action",
+    "category": "Full Game",
+    "price": 1.19,
+    "priceCurrency": "GBP"
   },
   {
     "name": "SILENT HILL: The Short Message",
@@ -150867,7 +150896,7 @@
     "rate": "2.91",
     "releaseTime": "2022/2/5",
     "platform": "PS4",
-    "type": "Adventure, Role Playing Games"
+    "type": "Role Playing Games, Adventure"
   },
   {
     "name": "Silver Axe - The Honest Elf",
@@ -150877,7 +150906,7 @@
     "fullname": "Silver Axe - The Honest Elf",
     "description": "A fairy-tale epic adventure",
     "publisher": "HAPPY PLAYER PTE. LTD.",
-    "rate": "3.84",
+    "rate": "3.80",
     "releaseTime": "2024/9/24",
     "platform": "PS5",
     "type": "Adventure, Action, Role Playing Games",
@@ -150896,7 +150925,7 @@
     "rate": "3.65",
     "releaseTime": "2021/1/29",
     "platform": "PS4",
-    "type": "Adventure, Horror",
+    "type": "Horror, Adventure",
     "category": "Full Game",
     "price": 1.99,
     "priceCurrency": "GBP"
@@ -150925,7 +150954,7 @@
     "fullname": "Silver Screen Story",
     "category": "Full Game",
     "description": "Movie Studio Management SimulationProduce blockbusters and earn world-wide fame",
-    "price": 9.99,
+    "price": 4.99,
     "priceCurrency": "GBP",
     "publisher": "KAIROSOFT CO.,LTD",
     "rate": "4.55",
@@ -150989,7 +151018,7 @@
     "fullname": "Sir Lovelot",
     "category": "Full Game",
     "description": "Sir Lovelot is on a quest to find the love of his life.",
-    "price": 7.99,
+    "price": 2.39,
     "priceCurrency": "GBP",
     "publisher": "pixel games SARL-S",
     "rate": "4.36",
@@ -151005,12 +151034,12 @@
     "fullname": "Sixty Words by POWGI PS4 & PS5",
     "description": "POWGI’s unique word search puzzle returns - and now it’s even bigger There’s no grid, no word list and no wrong letters - just 60 intertwined words for you to paint while you create blended colour art. ",
     "publisher": "Lightwood Games",
-    "rate": "4.12",
+    "rate": "4.15",
     "releaseTime": "2022/6/27",
     "platform": "PS4, PS5",
-    "type": "Brain Training, Casual, Puzzle",
+    "type": "Puzzle, Casual, Brain Training",
     "category": "Full Game",
-    "price": 6.49,
+    "price": 3.24,
     "priceCurrency": "GBP"
   },
   {
@@ -151056,7 +151085,7 @@
     "price": 12.99,
     "priceCurrency": "GBP",
     "publisher": "RED ART GAMES",
-    "rate": "3.94",
+    "rate": "3.95",
     "releaseTime": "2024/10/3",
     "platform": "PS4, PS5",
     "type": "Shooter"
@@ -151123,7 +151152,7 @@
     "rate": "3.78",
     "releaseTime": "2019/5/21",
     "platform": "PS4",
-    "type": "Action, Action, Shooter"
+    "type": "Action, Shooter, Action"
   },
   {
     "name": "Ski game",
@@ -151155,7 +151184,7 @@
     "rate": "2.78",
     "releaseTime": "2019/12/6",
     "platform": "PS4",
-    "type": "Casual, Simulation, Sport"
+    "type": "Sport, Simulation, Casual"
   },
   {
     "name": "Skorecery",
@@ -151265,7 +151294,7 @@
     "rate": "4.11",
     "releaseTime": "2021/4/30",
     "platform": "PS4, PS5",
-    "type": "Adventure, Casual, Puzzle"
+    "type": "Adventure, Puzzle, Casual"
   },
   {
     "name": "Sky Oceans: Wings For Hire",
@@ -151278,7 +151307,7 @@
     "price": 6.99,
     "priceCurrency": "GBP",
     "publisher": "PQube Ltd",
-    "rate": "",
+    "rate": "2.88",
     "releaseTime": "2024/10/10",
     "platform": "PS5",
     "type": "Role Playing Games"
@@ -151525,13 +151554,16 @@
     "img": "images/900ee7a1d23863a6797c2eea7c8dfab6.jpg",
     "path": "https://store.playstation.com/en-gb/concept/221789",
     "lang": "en-gb",
-    "fullname": "",
-    "description": "",
+    "fullname": "Small Radios Big Televisions",
+    "description": "Descend into abandoned factories in search of lost cassette tapes that hold boundless virtual worlds. Explore, manipulate, and distort the tapes to make them reveal their secrets. Solve mechanical puzzles and map the winding halls of these empty monoliths. Will you be able to find the way out, or what has happened  Key Features Collect More than 30 different tapes and distorted versions to explore.  Listen Distinctive soundtrack that changes along with each tape that is warped.  Search Find items within the tapes to help you continue on your journey.  This product supports the following languages English ",
     "publisher": "Fire Face Corporation",
     "rate": "3.71",
     "releaseTime": "2016/11/8",
     "platform": "PS4",
-    "type": "Adventure, Puzzle, Adventure"
+    "type": "Adventure, Puzzle, Adventure",
+    "category": "Full Game",
+    "price": 10.49,
+    "priceCurrency": "GBP"
   },
   {
     "name": "Smash Hit Plunder",
@@ -154106,7 +154138,7 @@
     "price": 6.24,
     "priceCurrency": "GBP",
     "publisher": "Klabater",
-    "rate": "",
+    "rate": "3.33",
     "releaseTime": "2021/8/5",
     "platform": "PS4",
     "type": "Strategy"
@@ -154183,7 +154215,7 @@
     "fullname": "Streets of Red - Devil's Dare Deluxe",
     "description": "In Streets of Red Devils Dare Deluxe, the only thing scarier than being eaten alive is running out of quarters A permadeath multiplayer horror beatem up that bestows players with the skills of retro gaming heroes in a fight against a legion of undead monstrosities. brStreets of Red was designed to be played over and over again, with each run offering up the potential for new content. Six unique playable characters and an ever-growing level selection work to keep the gameplay from getting old and rotten, while the easy to learn but hard to master combat system allows for plenty of depth. brWith every kill, you earn cash that can be spent on upgrades, or to revive yourself when you die. You better learn how to make cash fast and spend it smart in Streets of Red because when youre dead, your save data dies with you. The chills, thrills, bills, and opportunity to learn new skills here wont stop until every street runs red with blood Are you up for the challenge of an anti-lifetime brbrThis product supports the following languages Englishbrbr1-4 playersbr758MB minimum save sizebrDUALSHOCK®4 Vibration FunctionbrHD Video Output 720pbrbrDownload of this product is subject to the PlayStation Network Terms of Service and our Software Usage Terms plus any specific additional conditions applying to this product. If you do not wish to accept these terms, do not download this product. See Terms of Service for more important information.br One-time licence fee to download to multiple PS4 systems. Sign in to PlayStation Network is not required to use this on your primary PS4, but is required for use on other PS4 systems.brSee Health Warnings for important health information before using this product.brLibrary programs ©Sony Interactive Entertainment Inc. exclusively licensed to Sony Interactive Entertainment Europe. Software Usage Terms apply, See eu.playstation.comlegal for full usage rights.brbrCopyright©2018, Secret Base Pte Ltd",
     "publisher": "Ratloop Asia Pte Ltd",
-    "rate": "",
+    "rate": "4.36",
     "releaseTime": "2018/4/12",
     "platform": "PS4",
     "type": "Arcade, Fighting, Horror",
@@ -155643,7 +155675,9 @@
     "releaseTime": "2023/4/25",
     "platform": "PS5",
     "type": "Family, Action",
-    "category": "Full Game"
+    "category": "Full Game",
+    "price": 24.99,
+    "priceCurrency": "GBP"
   },
   {
     "name": "Super Geisha Neon",
@@ -156576,13 +156610,16 @@
     "img": "images/4a4b4166df8955c9af27e253483e4d3e.jpg",
     "path": "https://store.playstation.com/en-gb/concept/10002377",
     "lang": "en-gb",
-    "fullname": "",
-    "description": "",
+    "fullname": "The Caligula Effect 2",
+    "description": "Escape your regret, Redo to forget",
     "publisher": "NIS America",
     "rate": "4.65",
     "releaseTime": "2021/10/22",
     "platform": "PS4",
-    "type": "Role Playing Games"
+    "type": "Role Playing Games",
+    "category": "Full Game",
+    "price": 44.99,
+    "priceCurrency": "GBP"
   },
   {
     "name": "The Caligula Effect: Overdose",
@@ -157040,7 +157077,7 @@
     "fullname": "The First Tree",
     "description": "The First Tree is a third-person exploration game centered around two parallel stories a fox trying to find her missing family, and a son reconnecting with his estranged father in Alaska. Players take control of the fox on a poignant and beautiful journey that crescendos at the source of life, and perhaps result in an understanding of death. Along the way, players can uncover artifacts and stories from the sons life as he becomes intertwined in the fox’s journey towards The First Tree.brbrFeaturesbr● Not a fox simulator, but an emotional, intimate story by a one-man team with an ending you wont soon forget.br● Featuring a gorgeous, orchestral soundtrack by acclaimed artists like Message to Bears, Lowercase Noises, and Josh Kramer.br● A short story-driven game about 2 hours long with some light puzzle solving, platforming, and no enemies.brbr1 playerbr5MB minimum save sizebrDUALSHOCK®4 Vibration FunctionbrHD Video Output 720p,1080pbrbrDownload of this product is subject to the PlayStation Network Terms of Service and our Software Usage Terms plus any specific additional conditions applying to this product. If you do not wish to accept these terms, do not download this product. See Terms of Service for more important information.br One-time licence fee to download to multiple PS4 systems. Sign in to PlayStation Network is not required to use this on your primary PS4, but is required for use on other PS4 systems.brSee Health Warnings for important health information before using this product.br Library programs ©Sony Interactive Entertainment Inc. exclusively licensed to Sony Interactive Entertainment Europe. Software Usage Terms apply, See eu.playstation.comlegal for full usage rights.",
     "publisher": "David Wehle, LLC",
-    "rate": "",
+    "rate": "3.89",
     "releaseTime": "2018/11/30",
     "platform": "PS4",
     "type": "Adventure",
@@ -157982,7 +158019,7 @@
     "fullname": "Terra Lander",
     "description": "A homage to the classic early days of arcade retro, we hope you enjoy",
     "publisher": "FUNBOX MEDIA LIMITED",
-    "rate": "",
+    "rate": "3.53",
     "releaseTime": "2020/7/6",
     "platform": "PS4",
     "type": "Shooter, Casual",
@@ -158126,7 +158163,7 @@
     "fullname": "Tilt Brush by Google",
     "description": "PAINTING FROM A NEW PERSPECTIVE  Tilt Brush by Google lets you paint in 3D space with virtual reality. Unleash your creativity with three-dimensional brushstrokes and walk around your art. Your room is your canvas. Your palette is your imagination. The possibilities are endless.  Experience painting as you never have before •Dynamic brushes from ink and smoke to snow, stars, light and fire, explore the wonders of a virtual palette. •Intuitive interface doodler or expert – unleash your creativity in no time. ",
     "publisher": "Sony Interactive Entertainment",
-    "rate": "",
+    "rate": "3.89",
     "releaseTime": "2020/3/27",
     "platform": "PS4",
     "type": "Adventure, Adventure",
@@ -160289,7 +160326,7 @@
     "fullname": "We Sing Pop",
     "description": "Featuring the hottest sounds from the world’s biggest artists, including chart-topping hits from The Chainsmokers, Bruno Mars, Lorde, Beyoncé, Sia and Sean Paul along with their official HD music videos.brWe Sing Pop brings the award-winning party experience, direct to the comfort of your living room. Sing together or sing-off with up to 4 friends at the same time, or go solo to top the online leaderboards and become the star you were born to bebrbrbr1-4 playersbr7GB minimum save sizebrDUALSHOCK®4 Vibration FunctionbrHD Video Output 720p,1080i,1080pbrSingStar® Mic CompatiblebrbrDownload of this product is subject to the PlayStation Network Terms of Service and our Software Usage Terms plus any specific additional conditions applying to this product. If you do not wish to accept these terms, do not download this product. See Terms of Service for more important information.br One-time licence fee to download to multiple PS4 systems. Sign in to PlayStation Network is not required to use this on your primary PS4, but is required for use on other PS4 systems.brSee Health Warnings for important health information before using this product.brLibrary programs ©Sony Interactive Entertainment Inc. exclusively licensed to Sony Interactive Entertainment Europe. Software Usage Terms apply, See eu.playstation.comlegal for full usage rights.brbr© 2017 We Sing Productions. Published by THQ Nordic, produced by Wired Productions and developed by Le Cortex. The We Sing name and logo are brregistered trademarks of We Sing Company AB. All music, artwork and artist names are copyrights of their respective owners. All rights reserved.",
     "publisher": "THQ NORDIC GMBH",
-    "rate": "",
+    "rate": "2.48",
     "releaseTime": "2017/10/24",
     "platform": "PS4",
     "type": "Casual, Party",
@@ -161258,7 +161295,7 @@
     "fullname": "The Ramen Sensei",
     "description": "Build the ultimate bowl to leap past yourramen rivals and achieve greatness",
     "publisher": "KAIROSOFT CO.,LTD",
-    "rate": "",
+    "rate": "4.02",
     "releaseTime": "2021/2/18",
     "platform": "PS4",
     "type": "Simulation, Strategy, Casual",
@@ -161988,7 +162025,7 @@
     "price": 3.99,
     "priceCurrency": "GBP",
     "publisher": "JANDUSOFT S.L.",
-    "rate": "",
+    "rate": "3.97",
     "releaseTime": "2022/4/28",
     "platform": "PS4, PS5",
     "type": "Shooter"
@@ -162967,7 +163004,7 @@
     "rate": "4.51",
     "releaseTime": "2023/11/30",
     "platform": "PS4",
-    "type": "Arcade, Family"
+    "type": "Family, Arcade"
   },
   {
     "name": "World Soccer Strikers '91",
@@ -163047,7 +163084,7 @@
     "rate": "4.03",
     "releaseTime": "2018/9/17",
     "platform": "PS4",
-    "type": "Adventure, Puzzle"
+    "type": "Puzzle, Adventure"
   },
   {
     "name": "Tour de France 2023",
@@ -163432,7 +163469,7 @@
     "fullname": "Urban Street Fighting",
     "category": "Full Game",
     "description": "Solo and Multiplayer Fighting Game",
-    "price": 3.99,
+    "price": 2.79,
     "priceCurrency": "GBP",
     "publisher": "Benoit Varasse trading as Pix Arts",
     "rate": "2.53",
@@ -163469,7 +163506,7 @@
     "platform": "PS5",
     "type": "Unique, Arcade",
     "category": "Full Game",
-    "price": 7.99,
+    "price": 1.59,
     "priceCurrency": "GBP"
   },
   {
@@ -163480,12 +163517,12 @@
     "fullname": "Treasure Rangers",
     "description": "Treasure Rangers is a fun puzzle and platforming challenge where youll need to combine the unique skills of all the characters to advance. Meet Lucy, Eric, Roxy  Randy, a kid with autism, and experience an incredible adventure. Anything can be achieved with teamwork Theres something strange in the neighborhood Sinkholes are appearing everywhere and not even the firefighters can stop it. This is a job for the Treasure Rangers, wholl discover a magic filled underground caverns beneath the neighborhood free your friends, join the squad and solve the mysterybrbr· 16 levels filled with puzzles await youbr· 4 different cave areas to explorebr· Play with the 4 Treasure Rangers and master their unique skills.br· Defeat the giant Big Bossesbr· Use the Energy Zones to replay levels and complete every challenge.br· A movie-like soundtrackbrbr1 playerbrDUALSHOCK®4 Vibration FunctionbrHD Video Output 720p,1080i,1080pbrbrDownload of this product is subject to the PlayStation Network Terms of Service and our Software Usage Terms plus any specific additional conditions applying to this product. If you do not wish to accept these terms, do not download this product. See Terms of Service for more important information.br One-time licence fee to download to multiple PS4 systems. Sign in to PlayStation Network is not required to use this on your primary PS4, but is required for use on other PS4 systems.brSee Health Warnings for important health information before using this product.br Library programs ©Sony Interactive Entertainment Inc. exclusively licensed to Sony Interactive Entertainment Europe. Software Usage Terms apply, See eu.playstation.comlegal for full usage rights.brbr© 2019 Relevo.",
     "publisher": "RELEVO VIDEOGAMES SL",
-    "rate": "2.66",
+    "rate": "2.65",
     "releaseTime": "2019/12/17",
     "platform": "PS4",
     "type": "Action",
     "category": "Full Game",
-    "price": 15.99,
+    "price": 3.19,
     "priceCurrency": "GBP"
   },
   {
@@ -163515,9 +163552,9 @@
     "rate": "3.13",
     "releaseTime": "2020/2/26",
     "platform": "PS4",
-    "type": "Adventure, Adventure, Unique",
+    "type": "Adventure, Unique, Adventure",
     "category": "Full Game",
-    "price": 3.99,
+    "price": 0.99,
     "priceCurrency": "GBP"
   },
   {
@@ -163534,7 +163571,7 @@
     "rate": "3.82",
     "releaseTime": "2019/5/28",
     "platform": "PS4",
-    "type": "Adventure, Puzzle"
+    "type": "Puzzle, Adventure"
   },
   {
     "name": "AFL Evolution 2",
@@ -163612,12 +163649,12 @@
     "fullname": "Girlfriend from Hell",
     "description": "He didnt want to marry me Ill spice up his life",
     "publisher": "Sometimes You",
-    "rate": "3.50",
+    "rate": "3.42",
     "releaseTime": "2025/2/14",
     "platform": "PS5",
     "type": "Puzzle",
     "category": "Full Game",
-    "price": 3.99,
+    "price": 1.59,
     "priceCurrency": "GBP"
   },
   {
@@ -163750,12 +163787,12 @@
     "fullname": "Cat Plus",
     "description": "Pounce into Adventure with Cat Plus",
     "publisher": "SMOBILE INC",
-    "rate": "4.00",
+    "rate": "4.20",
     "releaseTime": "2025/1/31",
     "platform": "PS4",
     "type": "Arcade, Casual",
     "category": "Full Game",
-    "price": 5.79,
+    "price": 4.05,
     "priceCurrency": "GBP"
   },
   {
@@ -163785,7 +163822,7 @@
     "rate": "3.92",
     "releaseTime": "2019/9/16",
     "platform": "PS4",
-    "type": "Action, Adventure, Adventure",
+    "type": "Adventure, Action, Adventure",
     "category": "Full Game",
     "price": 15.99,
     "priceCurrency": "GBP"
@@ -163803,7 +163840,7 @@
     "platform": "PS5",
     "type": "Role Playing Games",
     "category": "Full Game",
-    "price": 34.99,
+    "price": 10.49,
     "priceCurrency": "GBP"
   },
   {
@@ -163830,7 +163867,7 @@
     "fullname": "World Championship Boxing Manager™ 2",
     "category": "Full Game",
     "description": "Watch your fighter rise to the top, or get KO’d trying",
-    "price": 11.99,
+    "price": 4.19,
     "priceCurrency": "GBP",
     "publisher": "Ziggurat Interactive, Inc.",
     "rate": "2.25",
@@ -163862,10 +163899,10 @@
     "fullname": "Witchcrafty",
     "category": "Full Game",
     "description": "Everything you expect from a fairy game, but with a touch of weirdness.",
-    "price": 7.99,
+    "price": 2.39,
     "priceCurrency": "GBP",
     "publisher": "Sometimes You",
-    "rate": "3.41",
+    "rate": "3.42",
     "releaseTime": "2022/10/12",
     "platform": "PS5",
     "type": "Action"
@@ -163926,7 +163963,7 @@
     "fullname": "Wildshade: Unicorn Champions",
     "description": "Cross the finishing line riding a unicorn",
     "publisher": "NACON SA",
-    "rate": "3.46",
+    "rate": "3.50",
     "releaseTime": "2023/11/9",
     "platform": "PS4, PS5",
     "type": "Arcade",
@@ -163947,7 +163984,7 @@
     "platform": "PS4",
     "type": "Driving/Racing",
     "category": "Full Game",
-    "price": 6.49,
+    "price": 4.54,
     "priceCurrency": "GBP"
   },
   {
@@ -163958,10 +163995,10 @@
     "fullname": "Tower Up",
     "description": "Build your highest tower up in the sky and higher",
     "publisher": "THOMAS CLAUS UND FRANK MENZEL",
-    "rate": "3.34",
+    "rate": "3.37",
     "releaseTime": "2023/6/21",
     "platform": "PS4",
-    "type": "Arcade, Casual",
+    "type": "Casual, Arcade",
     "category": "Full Game",
     "price": 1.74,
     "priceCurrency": "GBP"
@@ -163974,7 +164011,7 @@
     "fullname": "Tilting Tiles",
     "category": "Full Game",
     "description": "Tilting Tiles is a unique movement based puzzle game. Guide the tile through each level’s environment while collecting every item within the move limit. Your goal is to find the most efficient route possible. Examine each level carefully to solve your way across the terrain using special moves and the environment to your advantage to stay within the move limit.  Tilting Tiles is a minimalist puzzle experience built upon a simple premise that contains puzzles that provoke deep thinking.  Can you guide the lost tile to victory     - Grid Based Movement    - 50 Levels    - Unique Movement Options ",
-    "price": 4.29,
+    "price": 2.14,
     "priceCurrency": "GBP",
     "publisher": "TreeFall Studios L.L.C.",
     "rate": "3.80",
@@ -163993,7 +164030,7 @@
     "rate": "4.58",
     "releaseTime": "2015/4/28",
     "platform": "PS4",
-    "type": "Action, Action, Role Playing Games",
+    "type": "Action, Role Playing Games, Action",
     "category": "Full Game",
     "price": 49.99,
     "priceCurrency": "GBP"
@@ -164009,7 +164046,7 @@
     "rate": "3.80",
     "releaseTime": "2021/2/10",
     "platform": "PS4, PS5",
-    "type": "Action, Arcade, Action",
+    "type": "Arcade, Action, Action",
     "category": "Full Game",
     "price": 3.99,
     "priceCurrency": "GBP"
@@ -166414,7 +166451,7 @@
     "fullname": "Undying",
     "description": "Caught amid the zombie apocalypse and with time running out, Anling will stop at nothing to ensure her son, Cody, gets to safety. Enduring countless perils, including the zombie infection thats beginning to take over her body, not to mention teaching Cody how to survive their harsh new reality.  As Anling and Cody explore the world theyll come across an ensemble of characters that present unique challenges. How Anling and Cody handle each one determines their fates, some may die, some may live, and some may become staunch allies or even an archnemesis. Will humanity truly prevail   Your Path, Your Choices, Your Story With everyone trying to survive, whether you help others or not can lead to devastating consequences. Everyone has their secrets, which begs the question… Who can you really trust Every decision you make changes the outcome of your story, what will your ending look like   Crafting 1.0 Means of Survival Its not a survival game if theres no crafting and now, with so many things to craft and enhance, its a wonder if therell even be enough resources  How you use the crafting system will determine if you survive or not, and how easy it will be.   The World is filled with Dungeons, Stories, and loot  Did you really think we wouldnt have David Brevik the godfather of Diablo help design dungeons and make sure looting felt satisfying  Each time you start a game of Undying, youll never know how the map will be laid out before your eyes. The 14 major locations will be spread across the map in a variety of layouts, while the other Unsafe Areas are filled with random events that can quickly alter your plans. Will you help an ungrateful survivor; what about a gang surrounded by zombies You never know who you will encounter on your journey, each with their own tale to tell. ",
     "publisher": "Skystone Games Inc. ",
-    "rate": "",
+    "rate": "4.21",
     "releaseTime": "2025/2/11",
     "platform": "PS5",
     "type": "Adventure",
@@ -166523,13 +166560,16 @@
     "img": "images/e96a0dba52757fbbee98f340bb06bc3b.jpg",
     "path": "https://store.playstation.com/en-gb/concept/234706",
     "lang": "en-gb",
-    "fullname": "",
-    "description": "",
+    "fullname": "Throne Quest Deluxe",
+    "description": "Throne Quest Deluxe is a seem-less open-world Action Role Playing Game ARPG. Delve into an adventurous world full of dungeons and crypts, fighting many types of vicious monsters and search for huge amounts of loot. Change between 12 classes throwing your axes, fire, harps and even a djenty-guitar in fast-paced combat whilst gulping potions and collecting drops to level-up and become a champion. Explore your way through the dangers of the lands on an epic quest to reach the central castle- to claim the Throne held by a demon boss.  This product supports the following languages English  ",
     "publisher": "Valorware LTD",
     "rate": "4.30",
     "releaseTime": "2019/9/8",
     "platform": "PS4",
-    "type": "Action, Role Playing Games, Action"
+    "type": "Action, Role Playing Games, Action",
+    "category": "Full Game",
+    "price": 5.79,
+    "priceCurrency": "GBP"
   },
   {
     "name": "Urban Trial Tricky Deluxe Edition",
@@ -166716,7 +166756,7 @@
     "price": 13.99,
     "priceCurrency": "GBP",
     "publisher": "Plug In Digital",
-    "rate": "4.25",
+    "rate": "4.24",
     "releaseTime": "2022/6/7",
     "platform": "PS4",
     "type": "Adventure, Action"
@@ -166783,7 +166823,7 @@
     "rate": "3.72",
     "releaseTime": "2021/10/27",
     "platform": "PS4",
-    "type": "Adventure, Casual"
+    "type": "Casual, Adventure"
   },
   {
     "name": "VEV: Viva Ex Vivo VR Edition",
@@ -167065,7 +167105,7 @@
     "fullname": "Onimusha 2: Samurai's Destiny",
     "category": "Full Game",
     "description": "Reclaim your destiny.",
-    "price": 24.99,
+    "price": 12.49,
     "priceCurrency": "GBP",
     "publisher": "CE EUROPE LIMITED",
     "rate": "4.57",
@@ -167622,7 +167662,7 @@
     "platform": "PS5",
     "type": "Simulation, Unique, Casual",
     "category": "Full Game",
-    "price": 17.99,
+    "price": 7.19,
     "priceCurrency": "GBP"
   },
   {
@@ -167681,10 +167721,10 @@
     "fullname": "Wheel of Words: Crossword",
     "category": "Full Game",
     "description": "Challenge Your Vocabulary and Solve Puzzles Across 70 Levels",
-    "price": 3.29,
+    "price": 2.17,
     "priceCurrency": "GBP",
     "publisher": "SOURCE BYTE SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
-    "rate": "2.68",
+    "rate": "2.73",
     "releaseTime": "2025/2/14",
     "platform": "PS5",
     "type": "Family, Brain Training, Quiz"
@@ -167796,7 +167836,7 @@
     "price": 11.99,
     "priceCurrency": "GBP",
     "publisher": "BBG Entertainment GmbH",
-    "rate": "3.33",
+    "rate": "3.46",
     "releaseTime": "2025/2/16",
     "platform": "PS5",
     "type": "Family, Action"
@@ -167921,10 +167961,10 @@
     "fullname": "Watcher Chronicles",
     "description": "2D Souls-like Action RPG",
     "publisher": "Third Sphere Game Studios LLC",
-    "rate": "4.40",
+    "rate": "4.41",
     "releaseTime": "2022/9/26",
     "platform": "PS5",
-    "type": "Action, Role Playing Games",
+    "type": "Role Playing Games, Action",
     "category": "Full Game",
     "price": 18.99,
     "priceCurrency": "GBP"
@@ -168049,7 +168089,7 @@
     "platform": "PS5",
     "type": "Shooter, Horror",
     "category": "Full Game",
-    "price": 34.99,
+    "price": 17.49,
     "priceCurrency": "GBP"
   },
   {
@@ -168060,10 +168100,10 @@
     "fullname": "RollerCoaster Tycoon 3 Complete Edition",
     "category": "Full Game",
     "description": "Rediscover the critically acclaimed rollercoaster simulation bestseller",
-    "price": 8.74,
+    "price": 24.99,
     "priceCurrency": "GBP",
     "publisher": "Atari Inc.",
-    "rate": "3.11",
+    "rate": "3.02",
     "releaseTime": "2025/3/20",
     "platform": "PS4, PS5",
     "type": "Strategy, Simulation, Casual"
@@ -168143,7 +168183,7 @@
     "price": 13.99,
     "priceCurrency": "GBP",
     "publisher": "10Tons Ltd.",
-    "rate": "",
+    "rate": "4.51",
     "releaseTime": "2020/11/12",
     "platform": "PS4, PS5",
     "type": "Role Playing Games, Adventure, Action"
@@ -168161,7 +168201,7 @@
     "platform": "PS4, PS5",
     "type": "Role Playing Games, Strategy, Role Playing Games",
     "category": "Full Game",
-    "price": 7.99,
+    "price": 3.99,
     "priceCurrency": "GBP"
   },
   {
@@ -168297,10 +168337,10 @@
     "fullname": "Underhero",
     "category": "Full Game",
     "description": "Underhero is an RPG-platformer where the chosen hero has failed, and an underling of the evil king reluctantly takes his place as the new hero. Use timing-based combat to defeat enemies as you venture across the land, face off against quirky bosses, and save the Chestnut Kingdom from your own evil boss, Mr Stitches  Key Features A side-scrolling RPG adventure, complete with lush pixel art and cartoony aesthetics Jump, slash, evade, talk, and bribe your way through a fantasy adventure with a satirical twist Turn-based combat… without the turns Precisely timed actions are your most powerful weapons Level up, solve puzzles, find secrets in a world full of friends, foes, and weird inhabitants A wonderful original soundtrack composed by Stijn van Wakeren A story full of humor and mysteries awaits  This product supports the following languages English ",
-    "price": 12.99,
+    "price": 2.59,
     "priceCurrency": "GBP",
     "publisher": "Paper Castle Games, O.E.",
-    "rate": "4.34",
+    "rate": "4.35",
     "releaseTime": "2020/2/12",
     "platform": "PS4",
     "type": "Adventure, Adventure"
@@ -168318,7 +168358,7 @@
     "platform": "PS4",
     "type": "Arcade, Casual",
     "category": "Full Game",
-    "price": 3.89,
+    "price": 6.49,
     "priceCurrency": "GBP"
   },
   {
@@ -168377,12 +168417,12 @@
     "fullname": "Sorry We're Closed",
     "description": "Sorry Were Closed is an eccentric story-driven survival horror game about angels and demons that mixes fixed-camera exploration and arcade-style shooting. Michelle must use her Third Eye to see between worlds and uncover secrets.  Follow the final days of Michelle as she battles to break the curse placed on her by a powerful archdemon looking for love. Help or hinder the lives of curious residents in Michelle’s bustling London borough as she pursues freedom from her own untimely demise.  Sorry Were Closed is a fusion of nostalgic survival horror with a new perspective on combat, combining  atmospheric environments with fixed-camera angles and the thrill of arcade-style first person shooting. Collect items and manage resources to help Michelle survive. Optional tank controls are available for those who enjoy the classic survival horror experience.  Michelle’s time is split between the perilous demon world and mingling with the locals on her residential street. Everyone’s battling their own inner demons and through Michelle you can help guide them. Multiple endings are available through RPG-style dialogue interactions with the extravagant cast.  Feature List • Open Your Third Eye See two worlds at once with the gift of Michelle’s demonic curse. • Your Choices Matter Multiple endings are available depending on the dialogue choices you make with an eclectic cast of characters. • Fixed Camera Exploration Experience the cinematic charm of classic survival horror camera angles. • First Person Arcade Shooting Combat is up close and personal as you target enemy weak points. • Manage Your Inventory Straightforward health and ammo resource management. Find items to solve puzzles and exchange with NPCs. • Modern and Tank Controls Optionally play the entire experience using authentic tank controls. • Motion Sensor Function Aiming Turn on motion sensor function aiming for further control during combat. • New Game Restart the adventure, keeping your upgrades and collectables, as you explore alternate story paths. • Time Attack Mode Race against the clock to improve your combat level scores. • Accessibility Options Remappable controls, aim assist, no-hold button toggles, logbook, infinite healing and additional comfort options are available. ",
     "publisher": "AKUPARA GAMES",
-    "rate": "4.48",
+    "rate": "4.47",
     "releaseTime": "2025/3/6",
     "platform": "PS4, PS5",
     "type": "Horror, Adventure, Unique",
     "category": "Full Game",
-    "price": 19.99,
+    "price": 13.99,
     "priceCurrency": "GBP"
   },
   {
@@ -168587,7 +168627,7 @@
     "platform": "PS4, PS5",
     "type": "Family",
     "category": "Full Game",
-    "price": 2.99,
+    "price": 11.99,
     "priceCurrency": "GBP"
   },
   {
@@ -168598,7 +168638,7 @@
     "fullname": "Atelier Yumia: The Alchemist of Memories & the Envisioned Land (PS4 & PS5)",
     "category": "Full Game",
     "description": "Walk the forbidden path, no matter where it leads.",
-    "price": 54.99,
+    "price": 27.49,
     "priceCurrency": "GBP",
     "publisher": "Koei Tecmo Europe Ltd",
     "rate": "4.35",
@@ -168657,10 +168697,10 @@
     "fullname": "Mars Survivor",
     "category": "Full Game",
     "description": "Conquer Mars, fend off alien threats, and secure your path to survival",
-    "price": 4.99,
+    "price": 1.64,
     "priceCurrency": "GBP",
     "publisher": "QUBICGAMES SP. Z O.O.",
-    "rate": "3.83",
+    "rate": "3.79",
     "releaseTime": "2025/2/21",
     "platform": "PS4",
     "type": "Adventure, Action"
@@ -168676,10 +168716,10 @@
     "price": 49.99,
     "priceCurrency": "GBP",
     "publisher": "Spike Chunsoft, Inc.",
-    "rate": "4.39",
+    "rate": "4.40",
     "releaseTime": "2019/4/8",
     "platform": "PS4",
-    "type": "Adventure, Role Playing Games"
+    "type": "Role Playing Games, Adventure"
   },
   {
     "name": "Paper Bad",
@@ -168711,7 +168751,7 @@
     "rate": "4.31",
     "releaseTime": "2016/10/4",
     "platform": "PS4",
-    "type": "Action, Fighting, Action"
+    "type": "Fighting, Action, Action"
   },
   {
     "name": "Lulu's Temple",
@@ -168753,7 +168793,7 @@
     "fullname": "Breakin Bricks",
     "category": "Full Game",
     "description": "Break the Bricks",
-    "price": 3.99,
+    "price": 2.79,
     "priceCurrency": "GBP",
     "publisher": "Benoit Varasse trading as Pix Arts",
     "rate": "3.22",
@@ -168867,7 +168907,7 @@
     "platform": "PS4, PS5",
     "type": "Action",
     "category": "Full Game",
-    "price": 6.49,
+    "price": 12.99,
     "priceCurrency": "GBP"
   },
   {
@@ -169051,7 +169091,7 @@
     "fullname": "Dungeons of Hinterberg",
     "description": "Welcome to Hinterberg, a new tourist hotspot in the idyllic Austrian Alps As Luisa, your escape from the treadmill of corporate life quickly unravels when the mysterious local dungeons stir back into life once more. Will you restore peace to this once-serene alpine paradise, or be sent straight back to your humdrum life back home   Every inch of Hinterberg has been crafted with a captivating art style you’ll want to savour. Whether you’re snowboarding down a glacier, climbing mountains, or taking in the lakeside scenery, there’s so much available to explore.  Hinterberg’s dungeons are packed full of playful puzzles designed to surprise and challenge you. Get your thinking cap on and use every spell at your disposal to tackle each dungeon’s unique puzzling twist.  Monsters lurk around every corner in Hinterberg, and your sword and magic skills are essential for keeping them at bay. Harness the wind, conjure a hoverboard out of thin air, or freeze your enemies in a jelly block.  Explore the world or conquer dungeons by day, then spend your evenings forging friendships with the locals and other adventurers in town. Some will help you get stronger, while others are here strictly for the excitement and the selfies.  Stop by Olivia’s Store in town and browse through a collection of stylish outfits Once you’re decked out in your finest, simply fire up Photo Mode where you can apply filters, poses and overlays to capture a lasting memory of your very own Luisa. ",
     "publisher": "Curve Digital",
-    "rate": "4.35",
+    "rate": "4.34",
     "releaseTime": "2025/3/13",
     "platform": "PS4, PS5",
     "type": "Adventure, Role Playing Games",
@@ -170856,7 +170896,7 @@
     "fullname": "Space KaBAAM: Neon",
     "description": "Ready to engage",
     "publisher": "AUTO SLAVIC d.o.o.",
-    "rate": "3.95",
+    "rate": "3.92",
     "releaseTime": "2025/3/14",
     "platform": "PS4, PS5",
     "type": "Arcade",
@@ -171919,7 +171959,7 @@
     "fullname": "Commandos: Origins",
     "description": "Witness the very beginning of the legendary elite WWII force.",
     "publisher": "Kalypso Media GMBH",
-    "rate": "3.62",
+    "rate": "3.63",
     "releaseTime": "2025/4/9",
     "platform": "PS5",
     "type": "Action, Strategy",
@@ -172191,7 +172231,7 @@
     "fullname": "Autopsy Simulator",
     "description": "In Autopsy Simulator Dead Memories, you play a middle-aged pathologist whose life has taken a turn for the worse. After a career downfall and the loss of your beloved wife, you live each day shattered and exhausted. One day during a routine post-mortem, you find a relic of your past hidden inside a body. Now, it feels like something just won’t let go…  FEATURES  Examine the bodies and study the files to get all the answers Every case has its own story and each victim has their secrets. Uncover them to solve the puzzles and learn the truth about your subjects... and yourself.  Cases prepared and analyzed by specialists Each case is designed with the help of real life pathomorphologists and forensic doctors, ensuring the feel of being involved in an authentic autopsy process. Down to even the most gruesome details.  Detailed depiction of organs and autopsy cases In-game bodies, organs and injuries are crafted with unprecedented attention to detail. While this makes it easy to create immersion, its also not for the faint hearted.  A unique mix of simulation and horror Be kept on your toes with engrossing gameplay mechanics and spine-chilling moments in Story Mode. Or dial back the horror and step into the shoes of a student pathologist in Autopsy Only Mode. ",
     "publisher": "Team 17 Digital LTD",
-    "rate": "3.92",
+    "rate": "3.91",
     "releaseTime": "2025/4/2",
     "platform": "PS5",
     "type": "Simulation, Horror",
@@ -172332,7 +172372,7 @@
     "fullname": "United Assault - Final Stand",
     "description": "Infiltrate, fight, and explore 1945 Germany’s secret stronghold",
     "publisher": "DANIEL WENGENROTH",
-    "rate": "",
+    "rate": "3.12",
     "releaseTime": "2025/3/20",
     "platform": "PS5",
     "type": "Shooter, Action",
@@ -172460,7 +172500,7 @@
     "fullname": "Magnitude: Gamma",
     "description": "Nuclear micro-chaos",
     "publisher": "AUTO SLAVIC d.o.o.",
-    "rate": "4.18",
+    "rate": "4.19",
     "releaseTime": "2025/3/25",
     "platform": "PS4, PS5",
     "type": "Arcade",
@@ -172806,7 +172846,7 @@
     "fullname": "Discolored 2",
     "description": "All the colors have gone missing and its up to you to bring them back.",
     "publisher": "Godbey Games LLC",
-    "rate": "",
+    "rate": "4.11",
     "releaseTime": "2025/3/31",
     "platform": "PS5",
     "type": "Puzzle, Brain Training, Adventure",
@@ -173145,7 +173185,7 @@
     "price": 11.99,
     "priceCurrency": "GBP",
     "publisher": "COOL AS HECK GAMES LLC",
-    "rate": "4.46",
+    "rate": "4.45",
     "releaseTime": "2022/8/10",
     "platform": "PS4",
     "type": "Fighting, Arcade"
@@ -174016,7 +174056,7 @@
     "fullname": "MindsEye",
     "category": "Game Bundle",
     "description": "An ever-expanding gameplay experience with endless new playable content.",
-    "price": 29.99,
+    "price": 8.99,
     "priceCurrency": "GBP",
     "publisher": "Build a Rocket Boy Limited",
     "rate": "2.60",
@@ -174082,7 +174122,7 @@
     "platform": "PS4",
     "type": "Driving/Racing",
     "category": "Full Game",
-    "price": 3.99,
+    "price": 2.79,
     "priceCurrency": "GBP"
   },
   {
@@ -174226,7 +174266,7 @@
     "platform": "PS5",
     "type": "Puzzle",
     "category": "Full Game",
-    "price": 1.69,
+    "price": 1.35,
     "priceCurrency": "GBP"
   },
   {
@@ -174290,7 +174330,7 @@
     "platform": "PS4, PS5",
     "type": "Fighting",
     "category": "Full Game",
-    "price": 15.99,
+    "price": 8.79,
     "priceCurrency": "GBP"
   },
   {
@@ -174301,7 +174341,7 @@
     "fullname": "Robin Hood - Sherwood Builders",
     "category": "Full Game",
     "description": "Fight, craft, steal and help the local people.",
-    "price": 24.99,
+    "price": 6.24,
     "priceCurrency": "GBP",
     "publisher": "PlayWay plc",
     "rate": "3.11",
@@ -174354,7 +174394,7 @@
     "platform": "PS4",
     "type": "Adventure, Adventure, Adventure",
     "category": "Full Game",
-    "price": 53.99,
+    "price": 26.99,
     "priceCurrency": "GBP"
   },
   {
@@ -174402,7 +174442,7 @@
     "platform": "PS4",
     "type": "Adventure, Adventure, Adventure",
     "category": "Full Game",
-    "price": 39.99,
+    "price": 19.99,
     "priceCurrency": "GBP"
   },
   {
@@ -174429,7 +174469,7 @@
     "price": 1.79,
     "priceCurrency": "GBP",
     "publisher": "Brinemedia",
-    "rate": "4.15",
+    "rate": "4.17",
     "releaseTime": "2025/4/1",
     "platform": "PS4, PS5",
     "type": "Action, Arcade, Driving/Racing"
@@ -174479,7 +174519,7 @@
     "platform": "PS5",
     "type": "Adventure",
     "category": "Full Game",
-    "price": 1.19,
+    "price": 7.99,
     "priceCurrency": "GBP"
   },
   {
@@ -174527,7 +174567,7 @@
     "platform": "PS5",
     "type": "Adventure",
     "category": "Full Game",
-    "price": 7.99,
+    "price": 2.39,
     "priceCurrency": "GBP"
   },
   {
@@ -177206,7 +177246,7 @@
     "fullname": "EA SPORTS™ Madden NFL 26",
     "description": "BUILT FROM SUNDAYS",
     "publisher": "EA Swiss Sarl",
-    "rate": "",
+    "rate": "3.20",
     "releaseTime": "2025/8/7",
     "platform": "PS5",
     "type": "Sport",
@@ -177659,10 +177699,10 @@
     "fullname": "Hell Froze Over PS4® & PS5®",
     "category": "Full Game",
     "description": "Freeze the Demons Match them in a row",
-    "price": 2.49,
+    "price": 0.24,
     "priceCurrency": "GBP",
     "publisher": "Xeneder Team",
-    "rate": "4.15",
+    "rate": "4.13",
     "releaseTime": "2025/4/26",
     "platform": "PS4, PS5",
     "type": "Puzzle"
@@ -177675,7 +177715,7 @@
     "fullname": "Sqwrk",
     "description": "Sqwrks tribe have been captured by the evil golem. Help him rescue them in this fast paced 3d platformer with momentum based movement  momentum based platforming with wall running  defeat enemies with a homing dash attack  levels have different side challenges to complete ",
     "publisher": "The Voices Games Ltd",
-    "rate": "2.99",
+    "rate": "2.97",
     "releaseTime": "2025/7/18",
     "platform": "PS5",
     "type": "Action",
@@ -177774,7 +177814,7 @@
     "platform": "PS5",
     "type": "Adventure",
     "category": "Full Game",
-    "price": 11.99,
+    "price": 8.39,
     "priceCurrency": "GBP"
   },
   {
@@ -177838,7 +177878,7 @@
     "platform": "PS4, PS5",
     "type": "Action",
     "category": "Full Game",
-    "price": 11.99,
+    "price": 19.99,
     "priceCurrency": "GBP"
   },
   {
@@ -177849,7 +177889,7 @@
     "fullname": "Sir Whoopass: Immortal Death",
     "description": "Many are the tales of heroism and grandeur, of saving the princess and being rewarded her hand and half the kingdom in marriage.  This is not one of them.  You are Sir Whoopass, a valiant knight with a heart of gold ...and also the accidental architect of absolute anarchy and chaos in a once-perfect world.  Through a series of poor life choices you managed to set loose disarray on the world… and now it’s up to you to fix it by knocking your arch-nemesis ‘The Immortal’ into the middle of next week  HILARIOUS HACK N SLASH Do you like ragdoll effects What about Swords Maces Magical Wands imbued with the power of a slight pandemic cough We’ve got you covered Crack open a cold Can of Whoopass on the countless Orcs, Skeletons, Trolls and other nose-picking beasts standing in your way of redemption.  TRAVERSE THE OPEN WORLD The quest for The Legendary Villain-Beating Artifact™ will take you across the world of Weirdwood, searching high and low. Wander through the forests, delve into the dank caves and scour the heavens on your grand endeavor. Along your way youll stumble upon hidden and not-so-hidden, some might even say conveniently placed puzzles, treasures, and artsy artifacts scattered throughout the world.  At this point we probably should tell you about the purchasable weapons at The Blackschmidt, freshly brewed Cattucino, secret Wheels of Cheese, relentless IRS agents and all the side quests. But this ‘sales pitch’ is already too long ",
     "publisher": "AtomicElbow AB",
-    "rate": "4.04",
+    "rate": "4.03",
     "releaseTime": "2025/5/9",
     "platform": "PS5",
     "type": "Action, Adventure",
@@ -177865,12 +177905,12 @@
     "fullname": "Against the Storm",
     "description": "Rebuild civilization in the face of apocalyptic rains.",
     "publisher": "Hooded Horse Inc.",
-    "rate": "4.65",
+    "rate": "4.66",
     "releaseTime": "2025/6/26",
     "platform": "PS5",
     "type": "Strategy, Simulation",
     "category": "Full Game",
-    "price": 24.99,
+    "price": 12.49,
     "priceCurrency": "GBP"
   },
   {
@@ -177895,7 +177935,7 @@
     "fullname": "Duck Detective: The Ghost of Glamping",
     "description": "THE DETECTIVE RETURNS The Duck Detective is back Get ready to interview suspects, inspect evidence, and deduce the truth in another stand-alone mystery  RED BREAD REDEMPTION This campsite might have ghosts, but the real thing haunting Eugene McQuacklin is his failed marriage and bread addiction. Can he escape the shadows of his past  EVERY DETECTIVE NEEDS A SIDEKICK To the annoyance of the Duck Detective, he is joined by a new partner in solving crime. Work together to unravel the truth and nibble on the crumbs of justice  FEATURES A 2-3 hour long cozy mystery game A stand-alone sequel to the acclaimed ‘Duck Detective The Secret Salami‘ Interview suspects, fill in the blanks and crack the case Fully voice-acted cast of suspiciously secretive characters Dive into a murky pond of delinquency and dredge up the truth Throw bread to the fine beak of lady justice ",
     "publisher": "Happy Broccoli Games UG",
-    "rate": "4.77",
+    "rate": "4.76",
     "releaseTime": "2025/5/22",
     "platform": "PS5",
     "type": "Adventure",
@@ -177927,10 +177967,10 @@
     "fullname": "SubwaySim 2",
     "category": "Full Game",
     "description": "Dive into Simuverse Interactives new public transport simulation   Explore the three most picturesque underground lines in Germany The Berlin U1U3 and the Hamburg U3 are waiting for you.   Immerse yourself in everyday life in the two German metropolises and discover famous sights such as Hamburgs harbour or Berlins Oberbaum Bridge.   Master various scenarios and get your passengers to their destin ation safely and on time. Watch out, though, as disruptions and red signals can suddenly change your workload  Are you ready to start your first shift  Experience public transport on a new level. SubwaySim 2 offers an unparalleled standard of realism and authenticity. The graphics have been improved even more since the predecessor, and particular attention was dedicated to the vehicles, which are more detailled than ever before.  Authentic scenarios, dynamic weather and the brand-new career mode round off the realistic picture of a subway operators day-to-day work.   Discover the underground network of the German capital Berlin   Transport your passengers on two lines of the Berlin underground network, with a total length of 30 kilometres and 26 highly detailed, unique stations.   Along the route, you will encounter the iconic sights of Germany’s largest city. Thanks to the detailed recreation of routes and surroundings, as well as the Unreal Engine 5, virtual Berlin looks more detailed than ever before   Take control of two fully functional and highly detailed vehicles and the discover the lovingly designed above-ground sections of the track in the middle of the city centre. The vehicles include the A3L vehicle, a true Berlin icon, in the A3L92 edition, as well as the HK electric multiple unit.   Just as with the stations, particular attention has been paid to every detail of the vehicles.    Start your journey along Hamburgs U3 line and make sure that your passengers get from station to station safely   20.7 kilometres and 25 accurately recreated stations are waiting for you to be discovered. From the Elbphilharmonie, the Landungsbrücken to the Elbpromenade, many iconic sights of the Hanseatic city along the U3 have been recreated and offer an authentic picture of Hamburg.  Thanks to Unreal Engine 5, the DT5, available in two versions, was recreated with all the smallest details. The accurate driving experience, accompanied by the accurate sounds, gives you an authentic insight into the everyday life of a Hamburg subway operator.    Features - SubwaySim 2  • A total of 3 underground railway lines in Hamburg and Berlin  • 41 km of lovingly recreated track, mostly above ground  • 51 detailed stations with interactive passengers  • Impressive sights along the route  • 3 playable, highly detailed vehicles type DT5, HK and A3L92 with an authentic soundscape  • Functional depots and stabling halls  • Challenging scenarios with dynamic weather  • Lively environment with passengers, AI trains and AI cars  • Career mode with realistic transport issues, such as delays, red lights and breakdowns  • Impressive graphics thanks to Unreal Engine 5 ",
-    "price": 34.99,
+    "price": 23.44,
     "priceCurrency": "GBP",
     "publisher": "AEROSOFT GMBH",
-    "rate": "4.03",
+    "rate": "4.04",
     "releaseTime": "2025/4/29",
     "platform": "PS5",
     "type": "Simulation, Driving/Racing"
@@ -177943,7 +177983,7 @@
     "fullname": "WUCHANG: Fallen Feathers",
     "category": "Full Game",
     "description": "Nothing is Forever",
-    "price": 31.49,
+    "price": 44.99,
     "priceCurrency": "GBP",
     "publisher": "505 GAMES S.R.L.",
     "rate": "3.80",
@@ -177994,7 +178034,7 @@
     "platform": "PS5",
     "type": "Adventure, Action",
     "category": "Full Game",
-    "price": 6.85,
+    "price": 9.79,
     "priceCurrency": "GBP"
   },
   {
@@ -178042,7 +178082,7 @@
     "platform": "PS4, PS5",
     "type": "Adventure, Action",
     "category": "Full Game",
-    "price": 24.99,
+    "price": 12.49,
     "priceCurrency": "GBP"
   },
   {
@@ -178058,7 +178098,7 @@
     "platform": "PS5",
     "type": "Action, Party",
     "category": "Full Game",
-    "price": 5.94,
+    "price": 16.99,
     "priceCurrency": "GBP"
   },
   {
@@ -178069,12 +178109,12 @@
     "fullname": "MY REALITY SIDE",
     "description": "Your actions define the reality - are you ready to play",
     "publisher": "GOOSE GAME LTD",
-    "rate": "1.63",
+    "rate": "1.64",
     "releaseTime": "2025/3/14",
     "platform": "PS4",
     "type": "Adventure, Simulation, Role Playing Games",
     "category": "Full Game",
-    "price": 11.99,
+    "price": 4.79,
     "priceCurrency": "GBP"
   },
   {
@@ -178090,7 +178130,7 @@
     "platform": "PS5",
     "type": "Simulator, Strategy",
     "category": "Full Game",
-    "price": 3.99,
+    "price": 1.79,
     "priceCurrency": "GBP"
   },
   {
@@ -178101,7 +178141,7 @@
     "fullname": "HYPERCHARGE Unboxed",
     "category": "Full Game",
     "description": "Hypercharge is an action figure game youve always dreamed of",
-    "price": 24.99,
+    "price": 13.74,
     "priceCurrency": "GBP",
     "publisher": "Digital Cybercherries Ltd.",
     "rate": "3.94",
@@ -178122,7 +178162,7 @@
     "platform": "PS5",
     "type": "Adventure, Puzzle, Brain Training",
     "category": "Premium Edition",
-    "price": 19.99,
+    "price": 13.99,
     "priceCurrency": "GBP"
   },
   {
@@ -178207,12 +178247,12 @@
     "fullname": "Hidden Kittens: Kingdom of Cats",
     "description": "A fantasy medieval adventure… with cute cats scattered around",
     "publisher": "SILESIA GAMES SP. Z O.O.",
-    "rate": "4.47",
+    "rate": "4.46",
     "releaseTime": "2025/5/14",
     "platform": "PS5",
     "type": "Puzzle, Family, Casual",
     "category": "Full Game",
-    "price": 2.49,
+    "price": 1.24,
     "priceCurrency": "GBP"
   },
   {
@@ -178239,7 +178279,7 @@
     "fullname": "Hypermarket Simulator: Supermarket reimagined",
     "description": "Run a big supermarket",
     "publisher": "Croissant Games SAS",
-    "rate": "3.95",
+    "rate": "3.96",
     "releaseTime": "2025/3/13",
     "platform": "PS5",
     "type": "Simulation",
@@ -178255,12 +178295,12 @@
     "fullname": "Mostroscopy",
     "description": "Monsters. Masks. Mayhem.",
     "publisher": "SEASHELL STUDIO C.V.",
-    "rate": "4.24",
+    "rate": "4.25",
     "releaseTime": "2025/5/6",
     "platform": "PS4, PS5",
     "type": "Fighting, Action",
     "category": "Full Game",
-    "price": 9.49,
+    "price": 3.79,
     "priceCurrency": "GBP"
   },
   {
@@ -178271,7 +178311,7 @@
     "fullname": "despelote",
     "category": "Full Game",
     "description": "A slice-of-life adventure about childhood, community, and soccer.",
-    "price": 11.49,
+    "price": 5.74,
     "priceCurrency": "GBP",
     "publisher": "Panic",
     "rate": "4.38",
@@ -178290,7 +178330,7 @@
     "price": 32.99,
     "priceCurrency": "GBP",
     "publisher": "CyberConnect2",
-    "rate": "4.29",
+    "rate": "4.28",
     "releaseTime": "2025/5/29",
     "platform": "PS4, PS5",
     "type": "Role Playing Games"
@@ -178322,7 +178362,7 @@
     "price": 9.99,
     "priceCurrency": "GBP",
     "publisher": "KAIROSOFT CO.,LTD",
-    "rate": "4.23",
+    "rate": "4.25",
     "releaseTime": "2025/4/30",
     "platform": "PS4",
     "type": "Simulation, Family, Casual"
@@ -178367,7 +178407,7 @@
     "fullname": "Cats in Boxes",
     "category": "Full Game",
     "description": "The perfect cat puzzle game Can you fit them in the BOX",
-    "price": 2.59,
+    "price": 3.99,
     "priceCurrency": "GBP",
     "publisher": "Age Zero S.R.L.",
     "rate": "3.95",
@@ -178415,7 +178455,7 @@
     "fullname": "Freddy Farmer",
     "category": "Full Game",
     "description": "Freddy Farmer is a retro arcade style game with 16-bit pixel art graphics in the style of the 80s90s where you can test your skills as a player. Freddys daughter has been kidnapped by an evil dragon that lives on top of an abandoned castle.  The only possibility to rescue her is through a magic potion that only a mysterious wizard who lives in the forest can make, but to do so, he will need to get some very specific ingredients and these in turn must be mixed in a certain order using magical cauldrons that are spread throughout the kingdom.  With the only action of jumping, Freddy must collect all these ingredients while trying to avoid all the enemies and dangers in his path until he reaches the cauldron of each of the levels having collected the ingredients in the correct order.  Features - High-quality pixel art graphics with excellent 16-bit animations. - 5 different Worlds with 7 levels in each of them. - More than 25 types of enemies with their own characteristics. - 2 different endings for the story. - 5 different 8-bit style bonus levels that unlock mini-games. - Galleries and unlockable extras. - 3 game modes, each one more challenging than the last. - Various cameos and references to cinema, literature and video games. - Enjoy the CRT filter and 43 camera for a total retro experience. ",
-    "price": 4.99,
+    "price": 1.99,
     "priceCurrency": "GBP",
     "publisher": "Dolores Entertainment S.L.",
     "rate": "3.96",
@@ -178533,7 +178573,7 @@
     "rate": "3.85",
     "releaseTime": "2020/2/4",
     "platform": "PS4",
-    "type": "Role Playing Games, Role Playing Games, Strategy"
+    "type": "Role Playing Games, Strategy, Role Playing Games"
   },
   {
     "name": "Gang Blast",
@@ -179961,7 +180001,7 @@
     "fullname": "Monster Train 2",
     "description": "The classic roguelike deckbuilder returns with new clans, challenges and modes",
     "publisher": "Big Fan",
-    "rate": "4.36",
+    "rate": "4.31",
     "releaseTime": "2025/5/21",
     "platform": "PS5",
     "type": "Strategy",
@@ -181860,7 +181900,7 @@
     "fullname": "How 2 Escape: Lost Submarine",
     "description": "Cooperate with a friend in this escape game to prevent a war.",
     "publisher": "Maximum Entertainment France SAS",
-    "rate": "3.69",
+    "rate": "3.68",
     "releaseTime": "2025/6/24",
     "platform": "PS4, PS5",
     "type": "Puzzle",
@@ -182877,7 +182917,7 @@
     "price": 15.99,
     "priceCurrency": "GBP",
     "publisher": "KEMCO",
-    "rate": "",
+    "rate": "3.00",
     "releaseTime": "2025/6/5",
     "platform": "PS4, PS5",
     "type": "Role Playing Games"
@@ -183063,7 +183103,7 @@
     "price": 34.99,
     "priceCurrency": "GBP",
     "publisher": "SEGA EUROPE LTD",
-    "rate": "4.57",
+    "rate": "4.58",
     "releaseTime": "2025/9/25",
     "platform": "PS4, PS5",
     "type": "Driving/Racing"
@@ -186016,7 +186056,7 @@
     "fullname": "Fill The Cup 2",
     "description": "Every drop counts.",
     "publisher": "Aristo Studio s.r.o.",
-    "rate": "4.26",
+    "rate": "4.27",
     "releaseTime": "2025/7/1",
     "platform": "PS5",
     "type": "Puzzle",
@@ -186081,7 +186121,7 @@
     "price": 6.64,
     "priceCurrency": "GBP",
     "publisher": "Artem Shyriaiev trading as Frostweep Games",
-    "rate": "2.05",
+    "rate": "2.13",
     "releaseTime": "2025/6/29",
     "platform": "PS5",
     "type": "Action, Adventure"
@@ -186799,7 +186839,7 @@
     "price": 0.39,
     "priceCurrency": "GBP",
     "publisher": "THOMAS CLAUS UND FRANK MENZEL",
-    "rate": "",
+    "rate": "3.08",
     "releaseTime": "2025/7/4",
     "platform": "PS4",
     "type": "Arcade"
@@ -191933,7 +191973,7 @@
     "fullname": "Formula Legends",
     "description": "From the golden age to current day, race through time in Formula Legends.",
     "publisher": "3DClouds SRL",
-    "rate": "3.71",
+    "rate": "3.70",
     "releaseTime": "2025/9/18",
     "platform": "PS5",
     "type": "Driving/Racing",
@@ -191949,7 +191989,7 @@
     "fullname": "Heading Out",
     "description": "Flee your fear and carve your story - it’s your legend in the making.",
     "publisher": "Crunching Koalas Sp. z o.o. Sp. K.",
-    "rate": "",
+    "rate": "4.11",
     "releaseTime": "2025/8/29",
     "platform": "PS5",
     "type": "Unique, Driving/Racing",
@@ -192859,7 +192899,7 @@
     "fullname": "Labyrinthine - Console Edition",
     "description": "Co-op horror. Team up, explore, solve, collect, and survive the nightmare maze.",
     "publisher": "Klabater",
-    "rate": "",
+    "rate": "4.05",
     "releaseTime": "2025/9/18",
     "platform": "PS5",
     "type": "Horror, Adventure, Action",
@@ -193789,7 +193829,7 @@
     "price": 3.99,
     "priceCurrency": "GBP",
     "publisher": "Snail Games USA, Inc.",
-    "rate": "4.33",
+    "rate": "4.32",
     "releaseTime": "2025/8/27",
     "platform": "PS5",
     "type": "Action, Adventure"
@@ -193903,7 +193943,7 @@
     "platform": "PS4",
     "type": "Strategy",
     "category": "Full Game",
-    "price": 18.99,
+    "price": 13.29,
     "priceCurrency": "GBP"
   },
   {
@@ -194010,7 +194050,7 @@
     "price": 5.99,
     "priceCurrency": "GBP",
     "publisher": "Kebin Ntena Trading as Dragon Path",
-    "rate": "1.50",
+    "rate": "1.49",
     "releaseTime": "2025/8/28",
     "platform": "PS4",
     "type": "Casual, Simulation, Strategy"
@@ -194625,13 +194665,16 @@
     "img": "images/1c446c7d4ee709ecbcc826d64d69a474.jpg",
     "path": "https://store.playstation.com/en-gb/concept/10005908",
     "lang": "en-gb",
-    "fullname": "",
-    "description": "",
+    "fullname": "Hollow Knight: Silksong",
+    "description": "Ascend to the Peak of a Haunted Kingdom",
     "publisher": "Team Cherry Pty Ltd",
     "rate": "4.65",
     "releaseTime": "2025/9/4",
     "platform": "PS4, PS5",
-    "type": "Adventure"
+    "type": "Adventure",
+    "category": "Full Game",
+    "price": 15.99,
+    "priceCurrency": "GBP"
   },
   {
     "name": "Mage Arena: Voicebound",
@@ -194798,7 +194841,7 @@
     "fullname": "Baseless",
     "description": "Shooting = Movement",
     "publisher": "FirstBlood Technologies, Inc.",
-    "rate": "4.88",
+    "rate": "4.78",
     "releaseTime": "2025/12/4",
     "platform": "PS5",
     "type": "Shooter, Action",
@@ -196121,7 +196164,7 @@
     "fullname": "Mortal Kombat: Legacy Kollection PS4 & PS5",
     "description": "Experience the legendary origins of Mortal Kombat.",
     "publisher": "Atari Inc.",
-    "rate": "3.69",
+    "rate": "3.68",
     "releaseTime": "2025/10/30",
     "platform": "PS4, PS5",
     "type": "Fighting, Action",
