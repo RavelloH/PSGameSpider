@@ -610,7 +610,7 @@
     "fullname": "Sniper Elite: Resistance PS4™ & PS5™ (日语, 韩语, 简体中文, 繁体中文, 英语)",
     "description": "新特工、新威胁、新史诗战役 《Sniper Elite Resistance》提供无与伦比的狙击机制、潜行和第三人称战术战斗，将这一获奖系列的关注点转向了一场远离前线、深入被占领的法国腹地的隐秘战争。 在与《Sniper Elite 5》并行展开的扣人心弦的新故事中，特别行动执行处SOE的特工哈里·霍克首次担任主角，他发现了一种阴险的新型奇迹武器——这种武器威力强大，足以确保纳粹赢得战争。 与法国反抗军合作，势必摧毁帝国武器库中的这一致命武器。 多个暗杀名单目标以及不同的潜入和撤离点为你提供了无与伦比的选择权，让你自由决定如何完成目标并创造出自己的游戏风格。 整个战役也可以在合作模式下进行。与盟友一起对抗纳粹战争机器，分享武器、物品和战术知识，并在交火中倒下时互相帮助重新投入战斗。 逼真的X射线击杀镜头和先进的枪战物理效果 标志性的X射线击杀镜头回归，展示每一次标志性射击的真实破坏力。骨头会使子弹偏转方向，不可预测地从新的路径穿透敌人的身体，而冲锋枪和手枪也会触发击杀镜头，以夸张的慢动作展示多发子弹射击。 要成功击中目标，你需要像真正的狙击手一样思考。在瞄准目标时，要考虑步枪枪托和枪管的选择，同时还要考虑重力、风和心率。 真实的二战武器和自定义 你可以使用的武器库将包括回归的系列游戏热门武器，以及一系列全新的二战真实武器。挑选合适的装备对于粉碎帝国的邪恶计划至关重要！ 根据你的作战风格自定义武器。找到分散在战役各处的工作台，以使用新瞄准镜、枪托、枪管、弹匣等自定义和升级你的步枪、副武器和手枪。同时要记得为正确的任务选择正确的弹药，无论你需要的是穿甲弹还是非致命击倒。 宣传任务——加入反抗军 在主战役中找到独特的宣传海报，并在全新的宣传任务中扮演一名法国反抗军战士的角色。在这些情景中，潜行、狙击和击倒敌人，以完成限时任务，并帮助结束纳粹的占领。 轴心国入侵模式 广受喜爱的轴心国入侵模式回归了！以轴心国狙击手的身份入侵其他玩家的战役，参与致命的猫捉老鼠游戏。无论你是跟踪猎物、设下埋伏还是在枪林弹雨中奔跑，入侵的威胁都会为战役带来全新的挑战维度。 紧张的在线多人游戏 当你掌握了步枪后，自定义你的角色和装备，在竞争激烈的16人战斗中在线作战，以赚取经验值、奖章和勋带。 如果你不喜欢竞争，还可以在生存模式中与最多3名其他玩家组队对抗一波又一波的敌人。 ",
     "publisher": "REBELLION INTERACTIVE",
-    "rate": "3.73",
+    "rate": "3.72",
     "releaseTime": "30/1/2025",
     "platform": "PS4, PS5",
     "type": "射击, 动作",
@@ -1268,13 +1268,16 @@
     "img": "images/9a41cc3bfd2340bcefddbd316d43a233.jpg",
     "path": "https://store.playstation.com/zh-hans-hk/concept/234585",
     "lang": "zh-hans-hk",
-    "fullname": "DEATH STRANDING",
-    "description": "传奇游戏制作人小岛秀夫为PlayStation®4玩家带来颠覆传统游戏题材的全新体验。  山姆·布里吉斯必须直面因死亡搁浅而面目全非的世界。他手握残存的希望碎片，踏上征途，逐步重建已分崩离析的世界。  鬼魅横行，人类濒临灭亡。山姆身负重任，横跨满目疮痍的大陆，拯救面临灭顶之灾的人类。  死亡搁浅的真相是什么？前行之路上，山姆会有何发现？你将在前所未有的游戏体验中找到答案。  诺曼·瑞杜斯 Norman Reedus、麦斯·米科尔森 Mads Mikkelsen、蕾雅·赛杜 Léa Seydoux、琳赛·瓦格纳 Lindsay Wagner倾情出演。",
+    "fullname": "《DEATH STRANDING DIRECTOR'S CUT》（数字豪华版） (日语, 韩语, 简体中文, 繁体中文, 英语)",
+    "description": "Tomorrow is in your hands",
     "publisher": "Sony Interactive Entertainment",
-    "rate": "",
+    "rate": "4.61",
     "releaseTime": "23/9/2021",
-    "platform": "",
-    "type": "动作"
+    "platform": "PS5",
+    "type": "动作",
+    "category": "豪华版",
+    "price": 468,
+    "priceCurrency": "HKD"
   },
   {
     "name": "TEKKEN 8",
@@ -1987,7 +1990,7 @@
     "price": 238,
     "priceCurrency": "HKD",
     "publisher": "THQ NORDIC GAMES GMBH",
-    "rate": "4.55",
+    "rate": "4.56",
     "releaseTime": "30/8/2023",
     "platform": "PS4, PS5",
     "type": "家庭, 冒险, 拼图"
@@ -2348,7 +2351,7 @@
     "fullname": "Dead by Daylight PS4™ & PS5™ (日语, 韩语, 简体中文, 繁体中文, 英语)",
     "description": "10年恐惧相伴。10年的惊吓与刺激体验。10年的残暴献祭与惊险逃脱。  购买该产品后，您可以同时下载该游戏的 PS4™ 数字版和 PS5™ 数字版。  永久困于邪恶的幻境之中，即使死亡也无法逃脱，这是一场需要勇气和智慧的较量，四名意志坚定的逃生者在残忍对局中面对嗜血杀手。选择一方，进入多人非对称竞技游戏世界，获得最佳恐怖游戏体验。  玩家可以选择扮演强大无比的杀手，也可以扮演四名逃生者中的一人来逃脱死神的魔爪。每每名杀手和逃生者都拥有各自富有深度的进度系统，还有大量可解锁物品，你可以根据自己的策略自定义这些物品。合作逃生，或者跟踪并献祭你抓到的倒霉蛋。  此版本的《黎明杀机》内含7名杀手（陷阱杀手、电锯杀手、幽灵杀手、护士、妖巫、女猎手以及医生）和9名逃生者（梅格·托马斯、克劳黛特·莫莱、朴· 杰克、德怀特·费菲尔德、埃斯·维斯孔蒂、妮娅·卡尔森、比尔·奥弗贝克、凤敏以及大卫·金）。同时还包含两款外观附加品与多个角色套装组合在了一起。  如您已经拥有该游戏的 PS4™ 数字版，则可免费获得其 PS5™ 数字版，无需额外付费购买。如您拥有 PS4™ 制品版游戏，则需在下载游戏和每次游玩时将光盘放入 PS5™ 主机内。如您拥有 PS4™ 制品版游戏，但购买了无光驱的 PS5™ 数字版主机，则无法免费获得该游戏的 PS5™ 版本。 ",
     "publisher": "STARBREEZE PUBLISHING AB",
-    "rate": "4.10",
+    "rate": "4.09",
     "releaseTime": "11/11/2020",
     "platform": "PS4, PS5",
     "type": "恐怖, 恐怖, 动作",
@@ -3873,7 +3876,7 @@
     "fullname": "索尼克×夏特 世代重启 PS4 & PS5 (泰语, 日语, 韩语, 简体中文, 繁体中文, 英语)",
     "description": "两部高速动作冒险游戏合而为一！",
     "publisher": "SEGA CORPORATION",
-    "rate": "4.58",
+    "rate": "4.57",
     "releaseTime": "24/10/2024",
     "platform": "PS4, PS5",
     "type": "动作",
@@ -4782,7 +4785,7 @@
     "price": 527,
     "priceCurrency": "HKD",
     "publisher": "KOEI TECMO GAMES CO., LTD.",
-    "rate": "4.50",
+    "rate": "4.51",
     "releaseTime": "20/7/2022",
     "platform": "PS4",
     "type": "模拟, 战略"
@@ -5115,7 +5118,7 @@
     "fullname": "Age of Wonders 4 (日语, 韩语, 简体中文, 英语)",
     "description": "统治奇幻的世界，万般皆由你作主，尽在《Age of Wonders 4》！在《Age of Wonders》标志性的4X战略回合制战斗中探索全新的魔法世界。以回合为单位扩展你的帝国，让你的派系不断发展，不断壮大  Triumph Studios屡获殊荣的战略系列已经进入了一个新的时代，这个系列游戏标志性的帝国建设、角色扮演与战争表现今日发展到了全新的水平。全新的事件系统与巨大的个性化帝国提供了无限的可重复游戏体验，每一次游玩都会为您不断写下的传奇故事增添新的篇章  强大的巫师之王已经重回世界，以神的身份统治着凡世之间。掌控魔典来进化你的人民，为史诗般的战斗做好准备，这将决定时代的未来！  创造你最狂野幻想的帝国  ◾融合各种身体形态、行事特征与奥术力量来创作你的臣民。无论是食人成性的半身人还是神秘的月之精灵，甚至完全出于你最爱的幻想生物，一切尽在你的掌控 ◾寻找强大的魔典来附魔你的军队、进化你的民众！让你的民众化为天使的子嗣或混沌的后裔，让物理上的变化来帮助他们直面敌人。以残酷的统治、狡猾的联盟或终极奥术知识来寻求荣耀，在世界的基本架构中打进你的烙印！  战略游戏与角色扮演的完美结合  ◾每一个选择都会带来新的可能性与战术优势，多层次的深度战略让你可以随时尝试新战术，探索新力量 ◾战术回合制战斗会让你的军队活力四射，在由你决定的战场上展示他们的力量。从与游荡怪物的遭遇战到双方均拥有数十个单位的大规模攻城战，更有士气系统与其它功能的帮助，每一场战斗都是一场全新的挑战 ◾帝国、单位与环境的巨大多样性使得游戏具有了无限的可能。《Age of Wonders》现在拥有了前所未有的兼容性与开放性   在这个随机应变的巨大世界上留下你的印迹吧！   ◾每场游戏都会让你探索全新的世界——或者创造自己的世界！从寒冰女王的霜原荒漠，到巨龙漫游的荒凉废墟，大量千变万化的地形地貌等待着你的探索 ◾全新的事件系统为4X游戏提供了意想不到的故事叙述平台。无论是日益扩展的城邦，逡巡世间的军队，还是扭曲世界的魔法效果，周围世界的形象尽皆取决于你的决定 ◾引导你的帝国实现辉煌的伟业，但故事不会以你的胜利或失败而结束！让你的领袖飞升至万神殿，从而进一步提升你的游戏体验。在此后的游戏中，你会以潜在的盟友或对手来遇到你所创造的角色，从而体验自己游戏的下一章！ ",
     "publisher": "H2 Interactive Co., Ltd.",
-    "rate": "4.51",
+    "rate": "4.50",
     "releaseTime": "2/5/2023",
     "platform": "PS5",
     "type": "战略, 战略",
@@ -6612,7 +6615,7 @@
     "fullname": "MLB® The Show™ 24 PS5® (英语)",
     "description": "创造闪耀瞬间。在The Show™称霸球场。",
     "publisher": "Sony Interactive Entertainment",
-    "rate": "3.64",
+    "rate": "3.65",
     "releaseTime": "19/3/2024",
     "platform": "PS4, PS5",
     "type": "运动",
@@ -9376,7 +9379,7 @@
     "price": 214.8,
     "priceCurrency": "HKD",
     "publisher": "H2 Interactive Co., Ltd.",
-    "rate": "4.55",
+    "rate": "4.56",
     "releaseTime": "9/11/2023",
     "platform": "PS5",
     "type": "战略"
@@ -10164,7 +10167,7 @@
     "fullname": "《LEGO® 漫威复仇者联盟》 (英文版)",
     "description": "※另有包含此单独商品的套装包。请注意切勿重复购买。  复仇者集合！畅销 LEGO® 漫威系列游戏重磅回归，带来火爆刺激的超级英雄历险。加入 LEGO® 漫威复仇者联盟团队，畅玩游戏，体验来自广受好评的电影和系列作品中的各种角色和故事。化身为最强大的超级英雄，完成任务，拯救世界。  Copyright： LEGO® MARVEL’S AVENGERS software © 2016 TT Games Publishing Ltd. Produced by TT Games under license from the LEGO Group. LEGO, the LEGO logo, the Brick and the Knob configurations and the Minifigure are trademarks of the LEGO Group. © 2016 The LEGO Group. © 2016 MARVEL. All other trademarks and copyrights are the property of their respective owners.  All rights reserved. WB GAMES LOGO, WB SHIELD ™  © Warner Bros. Entertainment Inc. s16 ",
     "publisher": "Warner Bros. Interactive",
-    "rate": "4.24",
+    "rate": "4.25",
     "releaseTime": "26/1/2016",
     "platform": "PS4",
     "type": "家庭, 动作",
@@ -11293,7 +11296,7 @@
     "fullname": "Flint: Treasure of Oblivion (日语, 韩语, 简体中文, 繁体中文, 英语)",
     "description": "一个以海盗世界为背景的原创叙事性战术角色扮演游戏。",
     "publisher": "Microids",
-    "rate": "3.05",
+    "rate": "3.06",
     "releaseTime": "16/12/2024",
     "platform": "PS5",
     "type": "战略",
@@ -12994,7 +12997,7 @@
     "fullname": "Tools Up! - Ultimate Edition (日语, 韩语, 简体中文, 繁体中文, 英语)",
     "description": "忙亂的家庭裝修多人合作遊戲，一次體驗所有內容！",
     "publisher": "Untold Tales S.A.",
-    "rate": "4.11",
+    "rate": "4.10",
     "releaseTime": "25/1/2024",
     "platform": "PS4",
     "type": "派对",
@@ -13296,7 +13299,7 @@
     "price": 360,
     "priceCurrency": "HKD",
     "publisher": "MAGES. Inc.",
-    "rate": "4.13",
+    "rate": "4.14",
     "releaseTime": "6/2/2020",
     "platform": "PS4",
     "type": "角色扮演游戏"
@@ -13632,7 +13635,7 @@
     "price": 238,
     "priceCurrency": "HKD",
     "publisher": "Good Games Group, Inc.",
-    "rate": "2.99",
+    "rate": "3.00",
     "releaseTime": "3/10/2023",
     "platform": "PS5",
     "type": "街机"
@@ -13693,7 +13696,7 @@
     "fullname": "Lorelei and the Laser Eyes (日语, 韩语, 简体中文, 繁体中文, 英语)",
     "description": "藏于迷雾记忆深处的神秘庄园。",
     "publisher": "Annapurna Interactive",
-    "rate": "4.72",
+    "rate": "4.73",
     "releaseTime": "3/12/2024",
     "platform": "PS4, PS5",
     "type": "拼图",
@@ -14000,7 +14003,7 @@
     "price": 198,
     "priceCurrency": "HKD",
     "publisher": "PARADOX GAMES INC",
-    "rate": "3.82",
+    "rate": "3.81",
     "releaseTime": "6/11/2024",
     "platform": "PS5",
     "type": "冒险"
@@ -14856,7 +14859,7 @@
     "price": 35.7,
     "priceCurrency": "HKD",
     "publisher": "NACON SA",
-    "rate": "4.04",
+    "rate": "4.03",
     "releaseTime": "14/9/2023",
     "platform": "PS5",
     "type": "恐怖"
@@ -14874,7 +14877,7 @@
     "platform": "PS5",
     "type": "冒险",
     "category": "制品版游戏",
-    "price": 238,
+    "price": 148,
     "priceCurrency": "HKD"
   },
   {
@@ -15013,7 +15016,7 @@
     "price": 148,
     "priceCurrency": "HKD",
     "publisher": "NACON SA",
-    "rate": "2.70",
+    "rate": "2.71",
     "releaseTime": "12/11/2020",
     "platform": "PS4",
     "type": "独特游戏"
@@ -15077,7 +15080,7 @@
     "price": 308,
     "priceCurrency": "HKD",
     "publisher": "Bliss Brain Corporation",
-    "rate": "4.29",
+    "rate": "4.30",
     "releaseTime": "7/8/2024",
     "platform": "PS4, PS5",
     "type": "模拟"
@@ -15301,7 +15304,7 @@
     "price": 83.3,
     "priceCurrency": "HKD",
     "publisher": "TACTICAL ADVENTURES",
-    "rate": "4.29",
+    "rate": "4.30",
     "releaseTime": "6/3/2024",
     "platform": "PS5",
     "type": "角色扮演游戏"
@@ -15719,7 +15722,7 @@
     "platform": "PS5",
     "type": "模拟, 角色扮演游戏, 休闲",
     "category": "制品版游戏",
-    "price": 238,
+    "price": 148,
     "priceCurrency": "HKD"
   },
   {
@@ -15799,7 +15802,7 @@
     "platform": "PS5",
     "type": "角色扮演游戏",
     "category": "制品版游戏",
-    "price": 238,
+    "price": 148,
     "priceCurrency": "HKD"
   },
   {
@@ -16322,7 +16325,7 @@
     "fullname": "Transformers Beyond Reality (英语)",
     "description": "Battle Decepticons as a human in this arcade-style first-person VR shooter",
     "publisher": "Meta4 Interactive Inc.",
-    "rate": "3.08",
+    "rate": "3.09",
     "releaseTime": "8/5/2023",
     "platform": "PS4, PS5",
     "type": "街机, 动作",
@@ -17013,7 +17016,7 @@
     "price": 59.2,
     "priceCurrency": "HKD",
     "publisher": "Hipster Whale Pty Ltd",
-    "rate": "3.70",
+    "rate": "3.71",
     "releaseTime": "11/9/2024",
     "platform": "PS5",
     "type": "家庭, 街机, 派对"
@@ -18709,7 +18712,7 @@
     "fullname": "神偷卡门标准版 (日语, 英语)",
     "description": "全世界最伟大的盗贼回来了",
     "publisher": "Gameloft K.K.",
-    "rate": "3.92",
+    "rate": "3.90",
     "releaseTime": "4/3/2025",
     "platform": "PS4, PS5",
     "type": "冒险",
@@ -19747,7 +19750,7 @@
     "fullname": "Long Gone Days (日语, 简体中文, 繁体中文, 英语)",
     "description": "这款角色扮演游戏探讨了现代冲突及战争中人们的同理心。",
     "publisher": "BEEP JAPAN INC.",
-    "rate": "4.10",
+    "rate": "4.11",
     "releaseTime": "15/1/2025",
     "platform": "PS5",
     "type": "角色扮演游戏",
@@ -19923,7 +19926,7 @@
     "fullname": "Squirrel with a Gun (英语)",
     "description": "为松鼠的持枪权而战。",
     "publisher": "Maximum Entertainment France SAS",
-    "rate": "3.72",
+    "rate": "3.73",
     "releaseTime": "15/10/2024",
     "platform": "PS5",
     "type": "动作",
@@ -20259,7 +20262,7 @@
     "fullname": "Magical Bakery (日语, 韩语, 简体中文, 繁体中文, 英语)",
     "category": "制品版游戏",
     "description": "欢迎来到面粉满满的魔法世界！",
-    "price": 238,
+    "price": 148,
     "priceCurrency": "HKD",
     "publisher": "SOEDESCO PUBLISHING",
     "rate": "3.59",
@@ -21052,14 +21055,14 @@
     "img": "images/5260d9feebcfcce1360829cd4206b4d1.jpg",
     "path": "https://store.playstation.com/zh-hans-hk/concept/232332",
     "lang": "zh-hans-hk",
-    "fullname": "Necromunda: Underhive Wars (简体中文, 英语)",
-    "category": "制品版游戏",
-    "description": "污秽不堪、噩梦般的涅克洛蒙达——蜂巢之都的深处，在下巢那些黑暗曲折、令人晕眩的隧道中，势不两立的帮派势力打打杀杀，争夺个人权力、财富、生存权和荣耀。只有最强的一方才能生存下去。  引领埃舍尔、歌利亚和奥洛克帮派，对其进行定制，不断助其壮大和发展。指定每一名成员的责任，将他们派到危险的反乌托邦环境中战斗。在战术火拼中充分利用地形：爬上高处的走道获得优势，设置陷阱，伏击敌人，强迫他们与己方进行血腥的近战。  学习新技能，搜刮设备，带领升级后的帮派参加4人在线帮派战斗。  • 在竞争激烈的战术RPG中壮大己方帮派 • 体验内容丰富的下巢剧情任务 • 沉浸式体验，多种游戏模式可选 • 改编自《Warhammer 40,000》最著名的蜂巢世界——神话桌上游戏《Necromunda》的首款电子游戏 • 单人游戏或加入激动人心的4路在线帮派战斗 ",
-    "price": 148,
+    "fullname": "Necromunda: Underhive Wars - Gold Edition (简体中文, 英语)",
+    "category": "游戏套装",
+    "description": "《Necromunda Underhive Wars》黄金版包含游戏本体、梵萨尔帮派DLC和考德帮派DLC。  Necromunda Underhive Wars 前往涅克洛蒙达——蜂巢之都的深处，在遍布反乌托邦下巢的曲折隧道中引领、定制和发展壮大自己的帮派。与敌对帮派火拼，斗智斗勇，争夺权力、财富、生存权和荣耀。  梵萨尔帮派DLC 加入涅克洛蒙达的这一科技强帮，为下巢带去秩序——梵萨尔的高科技套装能够维持他们的生命，同时他们有着极高的纪律、可部署的炮塔以及喷涌的火力，他们将是一支绝对的劲旅。  考德帮派DLC 搜寻最“神圣”的遗物，与那些拒绝接受救赎教狂热有力的光辉所照耀之人开战。坚持战斗直到最后，带着永无止境的信仰在正确的大道上实现超越，让你无惧于那些会让其他帮派的成员丧命的创伤。 ",
+    "price": 238,
     "priceCurrency": "HKD",
-    "publisher": "Focus Entertainment",
+    "publisher": "SNEG Ltd",
     "rate": "3.21",
-    "releaseTime": "8/9/2020",
+    "releaseTime": "16/2/2021",
     "platform": "PS4",
     "type": "动作, 战略"
   },
@@ -21958,7 +21961,7 @@
     "price": 148,
     "priceCurrency": "HKD",
     "publisher": "Microids",
-    "rate": "3.41",
+    "rate": "3.43",
     "releaseTime": "28/4/2024",
     "platform": "PS4, PS5",
     "type": "动作"
@@ -22099,7 +22102,7 @@
     "fullname": "Tram Simulator Urban Transit (日语, 韩语, 简体中文, 繁体中文, 英语)",
     "description": "上车！",
     "publisher": "astragon Entertainment GmbH",
-    "rate": "3.63",
+    "rate": "3.64",
     "releaseTime": "20/3/2024",
     "platform": "PS4, PS5",
     "type": "模拟",
@@ -22497,7 +22500,7 @@
     "price": 148,
     "priceCurrency": "HKD",
     "publisher": "Appnori Inc.",
-    "rate": "2.19",
+    "rate": "2.21",
     "releaseTime": "14/11/2023",
     "platform": "PS4",
     "type": "运动"
@@ -23310,7 +23313,7 @@
     "fullname": "CONSCRIPT (日语, 简体中文, 繁体中文, 英语)",
     "description": "生存恐怖游戏《CONSCRIPT》的背景设于 1916 年第一次世界大战期间，灵感来自多款同类游戏经典之作，融合了早期恐怖游戏众多挑战机制，为你呈现连贯、紧张且独一无二的体验。  在《CONSCRIPT》中，你是凡尔登“绞肉机”之战中的一位法国士兵，需要寻找自己失踪的弟弟。焦黑荒凉的战场上，战壕如迷宫般错综曲折，零落的碉堡中不知是敌是友，每个角落都可能潜伏着危险。你能否克服重重挑战，穿越可怖的无人废土，带弟弟活着回家？  走进独特的历史舞台背景——凡尔登战役，体验策略和谨慎为王的经典生存恐怖玩法。 多种难度、多重结局，还有追加服装和武器，让你通关一周目还想重开。  使用各类一战近战武器和枪械，击败多种敌方士兵和战斗人员。  独特像素风格，阴郁的声音设计，营造出令人压抑的紧张氛围，让“求生”二字更加有力。  在精心设计的巧妙关卡中，唯有谨慎管理资源、规划路线，同时解开复杂的环境谜题，才能保住性命，不断向前推进。  独特的一战主题环境，地图连贯相同，并有重叠之处。 ",
     "publisher": "Team17 Digital Ltd",
-    "rate": "4.01",
+    "rate": "4.00",
     "releaseTime": "22/7/2024",
     "platform": "PS4, PS5",
     "type": "恐怖",
@@ -23531,7 +23534,7 @@
     "fullname": "Potion Permit (日语, 韩语, 简体中文, 繁体中文, 英语)",
     "description": "成为一名小镇药剂师，在这个风景如画的像素生活模拟游戏中治疗镇民的疾病。",
     "publisher": "Phoenixx Inc.",
-    "rate": "4.19",
+    "rate": "4.18",
     "releaseTime": "8/2/2023",
     "platform": "PS4, PS5",
     "type": "角色扮演游戏",
@@ -24887,7 +24890,7 @@
     "price": 108,
     "priceCurrency": "HKD",
     "publisher": "CITY-CONNECTION CO., LTD.",
-    "rate": "4.40",
+    "rate": "4.41",
     "releaseTime": "1/2/2023",
     "platform": "PS4",
     "type": "拼图"
@@ -25313,7 +25316,7 @@
     "price": 44.4,
     "priceCurrency": "HKD",
     "publisher": "PlayWay plc",
-    "rate": "3.59",
+    "rate": "",
     "releaseTime": "22/10/2024",
     "platform": "PS5",
     "type": "模拟器, 战略"
@@ -25325,7 +25328,7 @@
     "lang": "zh-hans-hk",
     "fullname": "Arcade Archives Tank Battalion (日语, 英语)",
     "description": "《Tank Battalion》是NAMCO（Bandai Namco Entertainment Inc.）于1980年发行的射击游戏。 在《BATTLE CITY》和《TANK FORCE》的前作中，玩家控制一辆坦克，为保护总部免受敌人的袭击而战斗。 近距离正面击倒敌人会获得更多积分，因此危险的攻击成为获得高分的关键。 \t “Arcade Archives”系列忠实再现了许多经典的Arcade杰作。 玩家可以改变各种游戏设置，例如游戏难度，并且还可以重现那时的街机显示设置的氛围。 玩家也可以通过他们的高分在世界各地互相竞争。 请欣赏杰作。  选项菜单和手册有日语，英语，法语，德语，意大利语和西班牙语。 ",
-    "publisher": "HAMSTER Corporation",
+    "publisher": "",
     "rate": "2.67",
     "releaseTime": "6/3/2024",
     "platform": "PS4",
@@ -25497,13 +25500,16 @@
     "img": "images/1d46694a5c85f03eb6dc37bea8ff812a.jpg",
     "path": "https://store.playstation.com/zh-hans-hk/concept/232561",
     "lang": "zh-hans-hk",
-    "fullname": "BioShock Remastered",
-    "description": "探索海底都市欢喜城，这座社会精英的庇护所，因为一个人的傲慢而变成了一场反乌托邦的噩梦。在被水淹没的废墟中，新的生态系统悄然而现，而疯狂的接缝怪正在这里追杀绝望无助的小妹妹，幸好她们身旁还有着笨拙的大老爹守护者。生存下去的唯一希望便是敏捷的思维、改造的武器，以及DNA突变质体所赋予的超能力。要想击败欢喜城的突变怪物，你必须先成为怪物。brbr还包含：brbr• 初期概念博物馆——这个虚拟博物馆里收藏着早期的原画、完整游戏模型等等珍品，你可以一探《生化奇兵》的起源。brbr• 挑战室——经历这一系列非常规式的试炼，来考验你的战斗能力和解谜能力brbr• 导演解说：畅享《生化奇兵》——探索新的收藏品，来解锁讲述创意总监Ken Levine和首席动画师Shawn Robertson心德的章节视频。brbrbCopyright：bbr© 2002-2020 Take-Two Interactive Software, Inc. All rights reserved. Developed by 2K Boston and 2K Australia. BioShock, 2K, 2K Boston, 2K Australia,  and respective logos are all trademarks andor registered trademarks of Take-Two Interactive Software, Inc. Unreal® is a registered trademark of Epic Games, Inc. Unreal® Engine. Copyright 1998-2020, Epic Games, Inc. All rights reserved. BioShock uses Havok®, Copyright 1999-2020 Havok.com, Inc. and its Licensors. All Rights Reserved. See www.havok.com for details. Uses Bink Video. Copyright © 1997- 2020 by RAD Game Tools Inc. All rights reserved. All other marks and trademarks are the property of their respective owners. All rights reserved. The content of this videogame is purely fictional, is not intended to represent or depict any actual event, person, or entity, and any such similarities are purely coincidental. The makers and publishers of this videogame do not in any way endorse, condone, or encourage engaging in any conduct depicted in this videogame.brbr购买或使用本产品需遵从SEN服务条款及使用协议。",
+    "fullname": "生化奇兵 重制版 (日语, 韩语, 简体中文, 繁体中文, 英语)",
+    "description": "探索海底都市欢喜城，这座社会精英的庇护所，因为一个人的傲慢而变成了一场反乌托邦的噩梦。在被水淹没的废墟中，新的生态系统悄然而现，而疯狂的接缝怪正在这里追杀绝望无助的小妹妹，幸好她们身旁还有着笨拙的大老爹守护者。生存下去的唯一希望便是敏捷的思维、改造的武器，以及DNA突变质体所赋予的超能力。要想击败欢喜城的突变怪物，你必须先成为怪物。\r \r 还包含：\r \r • 初期概念博物馆——这个虚拟博物馆里收藏着早期的原画、完整游戏模型等等珍品，你可以一探《生化奇兵》的起源。\r \r • 挑战室——经历这一系列非常规式的试炼，来考验你的战斗能力和解谜能力\r \r • 导演解说：畅享《生化奇兵》——探索新的收藏品，来解锁讲述创意总监Ken Levine和首席动画师Shawn Robertson心德的章节视频。\r \r Copyright：\r © 2002-2020 Take-Two Interactive Software, Inc. All rights reserved. Developed by 2K Boston and 2K Australia. BioShock, 2K, 2K Boston, 2K Australia,  and respective logos are all trademarks andor registered trademarks of Take-Two Interactive Software, Inc. Unreal® is a registered trademark of Epic Games, Inc. Unreal® Engine. Copyright 1998-2020, Epic Games, Inc. All rights reserved. BioShock uses Havok®, Copyright 1999-2020 Havok.com, Inc. and its Licensors. All Rights Reserved. See www.havok.com for details. Uses Bink Video. Copyright © 1997- 2020 by RAD Game Tools Inc. All rights reserved. All other marks and trademarks are the property of their respective owners. All rights reserved. The content of this videogame is purely fictional, is not intended to represent or depict any actual event, person, or entity, and any such similarities are purely coincidental. The makers and publishers of this videogame do not in any way endorse, condone, or encourage engaging in any conduct depicted in this videogame. ",
     "publisher": "Take-Two",
-    "rate": "",
-    "releaseTime": "28/5/2020",
-    "platform": "",
-    "type": "射击, 动作"
+    "rate": "4.62",
+    "releaseTime": "4/11/2026",
+    "platform": "PS4",
+    "type": "射击, 动作",
+    "category": "制品版游戏",
+    "price": 155,
+    "priceCurrency": "HKD"
   },
   {
     "name": "Are You Smarter Than A 5th Grader?",
@@ -26073,7 +26079,7 @@
     "fullname": "FANTAVISION 202X (日语, 韩语, 简体中文, 繁体中文, 英语)",
     "description": "PS2 杰作动作益智游戏“Fantavision”回归 PS5！",
     "publisher": "Cosmo Machia Inc.",
-    "rate": "3.34",
+    "rate": "3.35",
     "releaseTime": "21/2/2023",
     "platform": "PS5",
     "type": "拼图",
@@ -26518,7 +26524,7 @@
     "fullname": "Teacup (日语, 简体中文, 英语)",
     "description": "Teacup 是一款简短而充实的叙事冒险游戏，侧重于探索和非线性进展。  您扮演名义上的 Teacup，一只害羞内向的年轻青蛙，喜欢喝茶和看书。在她准备在家里举办茶话会的前一天，她发现自己已经没有茶了，因此必须冒险进入周围的树林寻找补充食品储藏所需的草药。  在冒险过程中，您会遇到森林里迷人的居民。有些健谈，有些脾气暴躁，但他们都会倾听您的冒险。  探索这个美丽的水彩世界，里面充满了友好的动物、好玩的迷你游戏、谜题和美丽而平静的荒野。 ",
     "publisher": "Whitethorn Games, Inc.",
-    "rate": "4.48",
+    "rate": "4.47",
     "releaseTime": "29/9/2024",
     "platform": "PS4",
     "type": "冒险, 休闲",
@@ -26977,7 +26983,7 @@
     "path": "https://store.playstation.com/zh-hans-hk/concept/202807",
     "lang": "zh-hans-hk",
     "fullname": "METRO 2033 Redux (英语)",
-    "description": "• Immerse yourself in the Moscow Metro – witness one of the most atmospheric worlds in gaming brought to life with stunning next-gen visuals at 60FPS  • Brave the horrors of the Russian apocalypse – equip  your gasmask and an arsenal of hand-made weaponry as you face the threat of deadly mutants, human foes, and the terrifying environment itself   • Rebuilt and Remastered for next gen – this is no mere ‘HD port’. Metro 2033 has been rebuilt in the vastly improved Last Light engine and gameplay framework, to create the definitive version of the cult classic that fans and newcomers alike can enjoy  • Two unique Play Styles  ‘Spartan’ and ‘Survival’ – approach the campaign as a slow burn Survival Horror , or tackle it with the combat skills of a Spartan Ranger in these two unique modes   • The legendary Ranger Mode returns – dare you play the fearsome Ranger Mode  Based on the internationally bestselling novel series by Dmitry Glukhovsky  1 player 9GB minimum save size DUALSHOCK®4 Vibration Function Remote Play Supported HD Video Output 720p,1080i,1080p  Download of this product is subject to the PlayStation Network Terms of Service and our Software Usage Terms plus any specific additional conditions applying to this product. If you do not wish to accept these terms, do not download this product. See Terms of Service for more important information.  One-time licence fee to download to multiple PS4 systems. Sign in to PlayStation Network is not required to use this on your primary PS4, but is required for use on other PS4 systems. See Health Warnings for important health information before using this product. Library programs ©Sony Computer Entertainment Inc. exclusively licensed to Sony Computer Entertainment Europe. Software Usage Terms apply, See eu.playstation.comlegal for full usage rights.  © and published 2014 by Koch Media GmbH. Deep Silver is a division of Koch Media GmbH, Gewerbegebiet 1, 6604 Höfen, Austria. Developed by 4A Games. 4A Games Limited and their respective logo are trademarks of 4A Games Limited. “Metro 2033 Redux”, “Metro Last Light Redux”, “Metro Redux” are inspired by the novels “Metro 2033” and “Metro 2035” by Dmitry Glukhovsky. All other trademarks, logos and copyrights are property of their respective owners. ",
+    "description": "2013年，末日灾难摧毁了这个世界，几乎消灭了所有人类，并将地球表面变成了充满污染的废土。寥寥可数的幸存者前往莫斯科地底深处避难，人类文明也因此进入新的黑暗时代。  现在，时间来到2033年。整整一代人在地下出生长大，他们那四面楚歌的地铁站城市为了生存而挣扎，不仅要与彼此争斗，还要对抗潜伏在外界的变异怪物。  您扮演的阿尔乔姆诞生于核爆前的最后时日，但从小在地底长大。一桩决定性的事件，让您冒着生命危险展开前往地铁系统核心的任务，您必须警告幸存的人类，一个恐怖的威胁即将降临。  您将在旅程中走遍各处，从地铁线路下被遗忘的幽深墓穴，到地表上的荒凉废墟，而您的行动将决定人类的命运。  但如果真正的威胁是来自内部呢？  专为PLAYSTATION®5打造的更新 利用次世代更新，以前所未有的质感体验末日后莫斯科地铁的深处。  《METRO 2033 Redux》经过多项视觉与技术改善的强化，包含原生PlayStation®5与PlayStation®5 Pro支持、60 FPS的真实4K分辨率、在PSSR支持下升频至4K分辨率可达120 FPS、添加纹理细节、改善阴影、照明和着色、粒子效果、改善动画和音质、支持低能源模式、支持实时硬件细分曲面与置换等等；彻底发挥PlayStation®5的性能。  《METRO 2033 Redux》现提供DualSense®控制器的独特功能，利用自适应扳机，增强您奋战求生的沉浸感。  游戏特色  •\t《METRO 2033 Redux》是阿尔乔姆史诗旅程经典首章的决定版：这款2010年的邪典作品于2014年使用《METRO Last Light》的引擎与游戏架构重新打造，如今进一步更新以充分发挥现代硬件的优势，同时保留《Redux》原汁原味的玩法  •\t勇闯末日的恐怖，并沉浸在莫斯科地铁中：在电玩界气氛营造数一数二的世界中，装备防毒面具和多种手工打造的武器，面对致命变异怪物、敌对人类和超自然现象的威胁  •\t两种独特的游玩模式，“斯巴达”和“生存”：两种各具特色的模式，让您能以慢节奏的生存恐怖玩法进行战役，或选择强调战斗技巧的斯巴达游骑兵玩法  •\t传说中的游骑兵模式回来了：您有勇气挑战恐怖的游骑兵模式吗？没有抬头显示、没有用户界面、战斗将更致命、物资将更贫瘠。种种设置皆是为了打造终极的沉浸体验  •\t改编自Dmitry Glukhovsky的全球畅销小说系列 ",
     "publisher": "Deep Silver",
     "rate": "4.43",
     "releaseTime": "29/10/2026",
@@ -27174,7 +27180,7 @@
     "price": 108,
     "priceCurrency": "HKD",
     "publisher": "NEON DOCTRINE",
-    "rate": "4.69",
+    "rate": "4.68",
     "releaseTime": "12/6/2023",
     "platform": "PS4",
     "type": "恐怖, 冒险"
@@ -27462,7 +27468,7 @@
     "price": 78,
     "priceCurrency": "HKD",
     "publisher": "Bethesda Softworks",
-    "rate": "4.73",
+    "rate": "4.74",
     "releaseTime": "12/10/2021",
     "platform": "PS4, PS5",
     "type": "射击"
@@ -28064,7 +28070,7 @@
     "price": 38.75,
     "priceCurrency": "HKD",
     "publisher": "Warner Bros. Interactive",
-    "rate": "4.33",
+    "rate": "4.32",
     "releaseTime": "26/3/2020",
     "platform": "PS4",
     "type": "家庭, 动作, 动作"
@@ -28842,7 +28848,7 @@
     "fullname": "METRO Last Light Redux (英语)",
     "description": "・融入莫斯科的地铁站——透过次世代的视觉效果和60FPS输出见证游戏娱乐中最富有氛围的世界    ・克服俄罗斯末日带来的恐惧——戴上防毒面罩，拿起各式自制武器勇敢面对致命的变种人、人类和可怖的环境    ・为次世代重建和重制——此版本同时含括既有的所有下载内容、新模式、特色以及诸多游戏相关的改良，可望成为这款经典游戏的最佳版本，好让新旧粉丝们皆可尽情享受    ・两种独特的游玩模式：「斯巴达」和「生存」——选择慢节奏的生存恐怖模式（Survival Horror），或是强调战斗技巧的斯巴达游侠模式（Spartan Ranger）    ・传说中的游侠模式（Ranger Mode）回来了——你有勇气挑战恐怖的游侠模式吗？没有抬头显示，没有用户接口，战斗将更致命，物资将更贫瘠。种种设定皆是为了打造终极的融入体验    Copyright：  © and published 2014 by Koch Media GmbH. Deep Silver is a division of Koch Media GmbH, Gewerbegebiet 1, 6604 Höfen, Austria. Developed by 4A Games. 4A Games Limited and their respective logo are trademarks of 4A Games Limited. “Metro 2033 Redux”, “Metro Last Light Redux”, “Metro Redux” are inspired by the novels “Metro 2033” and “Metro 2035” by Dmitry Glukhovsky. All other trademarks, logos and copyrights are property of their respective owners.    单次购买後，本内容可於被购买账号指定为「常用PS4™」的PS4™主机和另一台以购买账号登入的PS4™主机上游玩。    购买或使用本产品需遵从SEN服务条款及使用协议。 ",
     "publisher": "Deep Silver",
-    "rate": "4.53",
+    "rate": "4.52",
     "releaseTime": "29/10/2026",
     "platform": "PS4, PS5",
     "type": "射击, 动作, 射击",
@@ -29530,7 +29536,7 @@
     "price": 32.4,
     "priceCurrency": "HKD",
     "publisher": "Focus Entertainment",
-    "rate": "4.57",
+    "rate": "4.56",
     "releaseTime": "10/12/2020",
     "platform": "PS4",
     "type": "独特游戏, 冒险"
@@ -30466,7 +30472,7 @@
     "price": 148,
     "priceCurrency": "HKD",
     "publisher": "COATSINK SOFTWARE LTD",
-    "rate": "3.17",
+    "rate": "3.18",
     "releaseTime": "29/7/2021",
     "platform": "PS4",
     "type": "派对, 家庭, 动作"
@@ -30652,13 +30658,16 @@
     "img": "images/7e673639cd992aa3998664ae27046978.jpg",
     "path": "https://store.playstation.com/zh-hans-hk/concept/232587",
     "lang": "zh-hans-hk",
-    "fullname": "BioShock 2 Remastered",
-    "description": "通过恐怖的大老爹原型——实验体D的眼睛，来观察欢喜城，并完成生死攸关的任务，援救失踪的小妹妹。第一次生化冲击事件已过去八年，而狂喜城的居民已联合起来组成了一个集体主义的教团。使用更多的质体类型，对抗新的敌人。穿越海底，在欢喜城特有的艺术风建筑物中冒险，同时还会被新一代的超强掠食者“大姐姐”一路猎杀。brbr还包括：brbr• 密涅瓦的巢穴——揭开神秘的欢喜城中央计算机，在那里，被称之为“思考者”的全能机器已落入了反派之手。brbr• 守护者试炼——选择特定的装备，守卫小妹妹。装配好这些专门用来作战的装备后，看你能抵挡住多少波疯狂的攻势。brbrbCopyright：bbr© 2002-2020 Take-Two Interactive Software, Inc. All rights reserved. Developed by 2K Boston and 2K Australia. BioShock, 2K, 2K Boston, 2K Australia,  and respective logos are all trademarks andor registered trademarks of Take-Two Interactive Software, Inc. Unreal® is a registered trademark of Epic Games, Inc. Unreal® Engine. Copyright 1998-2020, Epic Games, Inc. All rights reserved. BioShock uses Havok®, Copyright 1999-2020 Havok.com, Inc. and its Licensors. All Rights Reserved. See www.havok.com for details. Uses Bink Video. Copyright © 1997- 2020 by RAD Game Tools Inc. All rights reserved. All other marks and trademarks are the property of their respective owners. All rights reserved. The content of this videogame is purely fictional, is not intended to represent or depict any actual event, person, or entity, and any such similarities are purely coincidental. The makers and publishers of this videogame do not in any way endorse, condone, or encourage engaging in any conduct depicted in this videogame.brbr购买或使用本产品需遵从SEN服务条款及使用协议。",
+    "fullname": "生化奇兵2 重制版 (日语, 韩语, 简体中文, 繁体中文, 英语)",
+    "description": "通过恐怖的大老爹原型——实验体D的眼睛，来观察欢喜城，并完成生死攸关的任务，援救失踪的小妹妹。第一次生化冲击事件已过去八年，而狂喜城的居民已联合起来组成了一个集体主义的教团。使用更多的质体类型，对抗新的敌人。穿越海底，在欢喜城特有的艺术风建筑物中冒险，同时还会被新一代的超强掠食者“大姐姐”一路猎杀。\r \r 还包括：\r \r • 密涅瓦的巢穴——揭开神秘的欢喜城中央计算机，在那里，被称之为“思考者”的全能机器已落入了反派之手。\r \r • 守护者试炼——选择特定的装备，守卫小妹妹。装配好这些专门用来作战的装备后，看你能抵挡住多少波疯狂的攻势。\r \r Copyright：\r © 2002-2020 Take-Two Interactive Software, Inc. All rights reserved. Developed by 2K Boston and 2K Australia. BioShock, 2K, 2K Boston, 2K Australia,  and respective logos are all trademarks andor registered trademarks of Take-Two Interactive Software, Inc. Unreal® is a registered trademark of Epic Games, Inc. Unreal® Engine. Copyright 1998-2020, Epic Games, Inc. All rights reserved. BioShock uses Havok®, Copyright 1999-2020 Havok.com, Inc. and its Licensors. All Rights Reserved. See www.havok.com for details. Uses Bink Video. Copyright © 1997- 2020 by RAD Game Tools Inc. All rights reserved. All other marks and trademarks are the property of their respective owners. All rights reserved. The content of this videogame is purely fictional, is not intended to represent or depict any actual event, person, or entity, and any such similarities are purely coincidental. The makers and publishers of this videogame do not in any way endorse, condone, or encourage engaging in any conduct depicted in this videogame. ",
     "publisher": "Take-Two",
-    "rate": "",
-    "releaseTime": "28/5/2020",
-    "platform": "",
-    "type": "射击, 动作"
+    "rate": "4.59",
+    "releaseTime": "4/11/2026",
+    "platform": "PS4",
+    "type": "射击, 动作",
+    "category": "制品版游戏",
+    "price": 155,
+    "priceCurrency": "HKD"
   },
   {
     "name": "As Far As The Eye",
@@ -30828,7 +30837,7 @@
     "fullname": "MADiSON (泰语, 日语, 韩语, 简体中文, 英语)",
     "description": "恶魔迫使你继续血腥的仪式，而你不得不忍受该残酷折磨",
     "publisher": "Perpetual Europe Ltd",
-    "rate": "4.43",
+    "rate": "4.44",
     "releaseTime": "7/7/2022",
     "platform": "PS5",
     "type": "恐怖, 动作",
@@ -31353,7 +31362,7 @@
     "price": 7.8,
     "priceCurrency": "HKD",
     "publisher": "Joindots GmbH",
-    "rate": "3.53",
+    "rate": "3.51",
     "releaseTime": "20/6/2024",
     "platform": "PS4",
     "type": "休闲, 家庭, 拼图"
@@ -31638,7 +31647,7 @@
     "fullname": "Best Month Ever! (简体中文, 英语)",
     "description": "在 1960 年代的美国加入路易斯，确保她儿子米奇的未来。",
     "publisher": "KLABATER",
-    "rate": "4.02",
+    "rate": "4.03",
     "releaseTime": "23/2/2023",
     "platform": "PS4",
     "type": "冒险",
@@ -31849,7 +31858,7 @@
     "price": 75,
     "priceCurrency": "HKD",
     "publisher": "Capcom U.S.A., Inc.",
-    "rate": "4.69",
+    "rate": "4.70",
     "releaseTime": "15/10/2024",
     "platform": "PS4, PS5",
     "type": "动作"
@@ -32147,7 +32156,7 @@
     "fullname": "Zombie Derby (英语)",
     "description": "开车求生！看看你能走多远，在他们抓住你之前！",
     "publisher": "Brinemedia",
-    "rate": "3.84",
+    "rate": "3.81",
     "releaseTime": "10/12/2024",
     "platform": "PS4, PS5",
     "type": "动作, 街机, 驾驶/赛车",
@@ -32211,7 +32220,7 @@
     "fullname": "Magnitude (英语)",
     "description": "微观混沌",
     "publisher": "AUTO SLAVIC d.o.o.",
-    "rate": "3.86",
+    "rate": "3.85",
     "releaseTime": "18/11/2024",
     "platform": "PS4, PS5",
     "type": "街机",
@@ -33585,7 +33594,7 @@
     "price": 108,
     "priceCurrency": "HKD",
     "publisher": "THQ Nordic Mobile GmbH",
-    "rate": "4.36",
+    "rate": "4.37",
     "releaseTime": "24/12/2015",
     "platform": "PS4",
     "type": "拼图, 冒险, 动作"
@@ -60249,7 +60258,7 @@
     "rate": "3.78",
     "releaseTime": "19/2/2019",
     "platform": "PS4",
-    "type": "动作, 动作, 角色扮演游戏"
+    "type": "动作, 角色扮演游戏, 动作"
   },
   {
     "name": "Elliot",
@@ -60307,7 +60316,7 @@
     "fullname": "emoji Kart™ Racer (日语, 简体中文, 繁体中文, 英语)",
     "category": "制品版游戏",
     "description": "第一款官方 emoji™ 视频游戏！",
-    "price": 238,
+    "price": 159.46,
     "priceCurrency": "HKD",
     "publisher": "Joindots GmbH",
     "rate": "2.85",
@@ -60377,7 +60386,7 @@
     "rate": "3.34",
     "releaseTime": "30/5/2019",
     "platform": "PS4",
-    "type": "家庭, 教育, 拼图"
+    "type": "家庭, 拼图, 教育"
   },
   {
     "name": "Energy Cycle",
@@ -60387,13 +60396,13 @@
     "fullname": "能量循环 (日语, 韩语, 简体中文, 繁体中文, 英语)",
     "category": "制品版游戏",
     "description": "『Energy Cycle』是一款老少咸宜的创新益智游戏。当你在游戏区域按下一个细胞时，此细胞和同一水平线与垂直线上的细胞都会变色。你的任务是让游戏区域的所有细胞变成同一颜色。你能办到吗？  『Energy Cycle』有三种不同的模式，可满足不同喜好：  ・益智：没有定时器，谜题均为预先设计。 ・限时攻击：有定时器并计分。随机谜题。 ・无限游玩：没有定时器。爱玩多久就玩多久。 ",
-    "price": 18,
+    "price": 9,
     "priceCurrency": "HKD",
     "publisher": "EVGENIY KOLPAKOV",
     "rate": "3.45",
     "releaseTime": "4/5/2022",
     "platform": "PS5",
-    "type": "家庭, 休闲, 拼图"
+    "type": "家庭, 拼图, 休闲"
   },
   {
     "name": "Energy Cycle Edge",
@@ -60403,7 +60412,7 @@
     "fullname": "Energy Cycle Edge (日语, 韩语, 简体中文, 英语)",
     "description": "※此商品除PlayStation®4用内容外，亦包含适用于PlayStation®Vita之内容。关于PlayStation®Vita内容的详细信息，请于PlayStation™Store确认。  『Energy Cycle Edge』是一款令人心旷神怡的益智游戏。当你启动一个细胞后，此细胞和同一直线上的细胞都会变色。细胞总共能切换三种不同的颜色，而你的任务是让所有细胞变成同一颜色。  在『Energy Cycle Edge』这款游戏中，大多数的解谜会在三维空间进行，观察多层连结的颜色变化替原本熟悉的游玩方式带来新的风味。  游戏特色：  •44个关卡搭配4种组合 •不同音乐家创作的智能型电子舞曲╱氛围配乐 •「随机颜色」（Random Colors，暂译）模式允许玩家重复游玩任何关卡 •让原版游戏的粉丝回味的「经典细胞」（Classic cells，暂译）模式  Copyright： © Sometimes You. Licensed to and published by Eastasiasoft Limited. All Rights Reserved. ",
     "publisher": "EVGENIY KOLPAKOV",
-    "rate": "3.85",
+    "rate": "3.84",
     "releaseTime": "30/8/2022",
     "platform": "PS5",
     "type": "拼图, 音乐/节奏, 休闲",
@@ -60419,10 +60428,10 @@
     "fullname": "Energy Invasion (中日英韩文版)",
     "description": "PS Vita版仅支持英文。各平台版本支持语言如下：  ・PS4™：英文、日文、繁体中文、韩文 ・PS Vita：英文  ※此商品除PlayStation®4用内容外，亦包含适用于PlayStation®Vita之内容。关于PlayStation®Vita内容的详细信息，请于PlayStation™Store确认。  『Energy Invasion』是一款以经典之作『Breakout』为灵感的街机游戏。与原版游戏不同，你的球不会自动破坏方块，但是可以朝选定的方向发射导弹。具有不同的游戏模式和各式各样的关卡。  游戏特色：  ・大量奖励（有的好，有的坏） ・明亮的视觉效果 ・具有危险敌人的关卡 ・Nick R 61创作的原声音乐 ・「Invasion」模式有25关，「Linear」模式有25关，「Endless」（无尽）模式则有无限多关  Copyright： © Sometimes You. Licensed to and published by Eastasiasoft Limited. All Rights Reserved. ",
     "publisher": "eastasiasoft",
-    "rate": "2.39",
+    "rate": "2.38",
     "releaseTime": "16/5/2019",
     "platform": "PS4",
-    "type": "动作, 街机, 休闲",
+    "type": "休闲, 街机, 动作",
     "category": "制品版游戏",
     "price": 28,
     "priceCurrency": "HKD"
@@ -60470,7 +60479,7 @@
     "price": 63,
     "priceCurrency": "HKD",
     "publisher": "eastasiasoft",
-    "rate": "4.21",
+    "rate": "4.20",
     "releaseTime": "17/3/2020",
     "platform": "PS4",
     "type": "拼图"
@@ -60483,7 +60492,7 @@
     "fullname": "Epic Word Search Collection 2 (英语)",
     "description": "Epic Word Search的字谜是很巨大的！每个巨大及可滚动的网格中，都隐藏著超过1500个英语单词。你能找到所有的单词吗？  这一系列包含： •史诗式的美国单词搜索 •史诗式的怪物单词搜索 •史诗式的摇滚单词搜索 •史诗式的夏季单词搜索  ",
     "publisher": "eastasiasoft",
-    "rate": "4.46",
+    "rate": "4.45",
     "releaseTime": "4/8/2020",
     "platform": "PS4",
     "type": "拼图, 家庭",
@@ -60547,7 +60556,7 @@
     "fullname": "Escape from Life Inc (英语)",
     "category": "制品版游戏",
     "description": "你没有任何腿...所以我们给了您一些！",
-    "price": 78,
+    "price": 15.6,
     "priceCurrency": "HKD",
     "publisher": "EVGENIY KOLPAKOV",
     "rate": "4.29",
@@ -60585,7 +60594,7 @@
     "rate": "4.09",
     "releaseTime": "16/12/2013",
     "platform": "PS4",
-    "type": "拼图, 独特游戏"
+    "type": "独特游戏, 拼图"
   },
   {
     "name": "Escape String",
@@ -60614,7 +60623,7 @@
     "rate": "2.09",
     "releaseTime": "9/7/2022",
     "platform": "PS4",
-    "type": "休闲, 模拟",
+    "type": "模拟, 休闲",
     "category": "制品版游戏",
     "price": 148,
     "priceCurrency": "HKD"
@@ -60673,7 +60682,7 @@
     "fullname": "Dex (英文版)",
     "category": "制品版游戏",
     "description": "※此商品除PlayStation®4用内容外，亦包含适用于PlayStation®Vita之内容。关于PlayStation®Vita内容的详细信息，请于PlayStation®Store确认。  《Dex》是一款2D赛博朋克风的动作RPG游戏，向《Blade Runner（银翼杀手）》致敬的一部作品。故事发生在未来城市Harbor Prime。在那里，玩家会遇到当地居民，还需面对城市中所遇各种挑战。玩家需要在布满霓虹灯的街道不停探索，不断提升游戏角色的技能：玩家可以成为无声的暗杀者、黑客、谈判者或射手等。本作是横版卷轴冒险和RPG要素予以融合，实时战斗，针对年龄成熟的故事情节，可以相互作用的对话。玩家可进行个性的升级主角的能力、装备和可以激活特殊能力的 augmentations – implants。作为开放世界可开放新的路径。革新的黑客机器对玩家帮助，深入到宇宙空间。玩家要克服病毒和防御系统，使攻击塔丧失攻击能力。偷走大型企业的数据破坏敌人。  Copyright： © 2014 - 2017 Dreadlocks Ltd. All Rights Reserved. ",
-    "price": 13.9,
+    "price": 139,
     "priceCurrency": "HKD",
     "publisher": "H2 Interactive Co., Ltd.",
     "rate": "4.31",
@@ -60724,7 +60733,7 @@
     "rate": "4.28",
     "releaseTime": "12/1/2021",
     "platform": "PS4",
-    "type": "恐怖, 动作, 冒险",
+    "type": "恐怖, 冒险, 动作",
     "category": "制品版游戏",
     "price": 148,
     "priceCurrency": "HKD"
@@ -60806,7 +60815,7 @@
     "platform": "PS4",
     "type": "角色扮演游戏",
     "category": "制品版游戏",
-    "price": 119.4,
+    "price": 398,
     "priceCurrency": "HKD"
   },
   {
@@ -60849,7 +60858,7 @@
     "fullname": "Dishonored®: Definitive Edition (英语)",
     "category": "组合包",
     "description": "由Arkane Studios所制作, 赢得超过100个年度游戏奖项的《冤罪杀机》将会连同附加内容推出在次世代主机上, 新版本名为《冤罪杀机》决定版 游戏内你可混合超自然技能, 武器和配置装置来做成高自由的战斗系统和具创意地消灭敌人. “Void Walker’s Arsenal”提供独有的角色增强, 骨骼魔力插槽和其他帮你复仇的援助. 在  “Dunwall City Trails”中你会进入局外人的世界, 测试自己战斗, 潜行和活动性的能力。最後, 你更可在 “The Knife of Dunwall”及 “The Brigmore Witches”使用傳說中的刺客Daud。  Copyright： © 2015 ZeniMax Media Inc.  Developed in association with Arkane Studios.  Dishonored, The Brigmore Witches, Void Walker’s Arsenal, The Knife of Dunwall, Dunwall City Trials, Revenge Solves Everything, Arkane, Bethesda, Bethesda Softworks, ZeniMax and related logos are registered trademarks or trademarks of ZeniMax Media Inc. in the U.S. andor other countries.  All Rights Reserved.  购买或使用本产品需遵从SEN服务条款及使用协议。  ",
-    "price": 38.75,
+    "price": 155,
     "priceCurrency": "HKD",
     "publisher": "Bethesda Softworks",
     "rate": "",
@@ -60927,10 +60936,10 @@
     "fullname": "Divination PS4 & PS5 (英语)",
     "category": "制品版游戏",
     "description": "聆听客户的故事，从符文中解读他们的未来，从中拼凑出垂死世界的真相！",
-    "price": 38,
+    "price": 15.2,
     "priceCurrency": "HKD",
     "publisher": "eastasiasoft",
-    "rate": "3.69",
+    "rate": "3.67",
     "releaseTime": "17/5/2022",
     "platform": "PS4, PS5",
     "type": "冒险"
@@ -60964,7 +60973,7 @@
     "platform": "PS4",
     "type": "动作",
     "category": "组合包",
-    "price": 77.5,
+    "price": 310,
     "priceCurrency": "HKD"
   },
   {
@@ -61028,7 +61037,7 @@
     "releaseTime": "16/9/2020",
     "platform": "PS4",
     "type": "射击, 战略",
-    "price": 15.6,
+    "price": 38,
     "priceCurrency": "HKD"
   },
   {
@@ -61042,7 +61051,7 @@
     "price": 38,
     "priceCurrency": "HKD",
     "publisher": "QUBYTE INTERACTIVE",
-    "rate": "3.55",
+    "rate": "3.56",
     "releaseTime": "24/8/2022",
     "platform": "PS4",
     "type": "拼图"
@@ -61061,7 +61070,7 @@
     "rate": "3.30",
     "releaseTime": "8/3/2022",
     "platform": "PS4",
-    "type": "角色扮演游戏, 冒险, 角色扮演游戏"
+    "type": "角色扮演游戏, 角色扮演游戏, 冒险"
   },
   {
     "name": "Ether One",
@@ -61103,7 +61112,7 @@
     "fullname": "Evergate (日语, 韩语, 简体中文, 繁体中文, 英语)",
     "category": "制品版游戏",
     "description": "点燃你的灵魂火焰",
-    "price": 78,
+    "price": 50.7,
     "priceCurrency": "HKD",
     "publisher": "Phoenixx Inc.",
     "rate": "3.89",
@@ -61122,7 +61131,7 @@
     "price": 78,
     "priceCurrency": "HKD",
     "publisher": "Sony Interactive Entertainment",
-    "rate": "3.63",
+    "rate": "3.64",
     "releaseTime": "7/3/2025",
     "platform": "PS4, PS5",
     "type": "运动"
@@ -61204,7 +61213,7 @@
     "platform": "PS5",
     "type": "冒险, 角色扮演游戏, 动作",
     "category": "制品版游戏",
-    "price": 108,
+    "price": 21.6,
     "priceCurrency": "HKD"
   },
   {
@@ -61218,7 +61227,7 @@
     "rate": "3.04",
     "releaseTime": "7/11/2023",
     "platform": "PS4, PS5",
-    "type": "街机, 动作, 射击",
+    "type": "街机, 射击, 动作",
     "category": "制品版游戏",
     "price": 38,
     "priceCurrency": "HKD"
@@ -61268,7 +61277,7 @@
     "platform": "PS4, PS5",
     "type": "射击",
     "category": "制品版游戏",
-    "price": 73.28,
+    "price": 458,
     "priceCurrency": "HKD"
   },
   {
@@ -61279,7 +61288,7 @@
     "fullname": "Exploria (英语)",
     "description": "乌尔弗尔岛等着你！在冒险中扮演我们的英雄，帮助国王 Avner 重新控制被黑暗和邪恶生物入侵的岛屿。用剑和斧头等单手武器战斗，用盾牌抵挡敌人的攻击，或者通过滚动和装备头盔来增加盔甲。完成主线和支线任务，与岛上的人们交谈，击败敌人并收集任务物品。或者，您可以简单地探索一天中不同时间和天气条件下的各种暗示性地点。 ",
     "publisher": "Maghilux LTD",
-    "rate": "2.57",
+    "rate": "2.50",
     "releaseTime": "30/7/2022",
     "platform": "PS4",
     "type": "角色扮演游戏",
@@ -61377,7 +61386,7 @@
     "platform": "PS4",
     "type": "角色扮演游戏",
     "category": "制品版游戏",
-    "price": 47.6,
+    "price": 238,
     "priceCurrency": "HKD"
   },
   {
@@ -61404,7 +61413,7 @@
     "fullname": "Fairy Elements (英语)",
     "category": "制品版游戏",
     "description": "在一场跨越 200 年的奇幻 RPG 冒险之旅的终点会发生什麽？",
-    "price": 117,
+    "price": 58.5,
     "priceCurrency": "HKD",
     "publisher": "KEMCO",
     "rate": "3.68",
@@ -61420,7 +61429,7 @@
     "fullname": "FAIRY TAIL (韩语, 简体中文, 繁体中文)",
     "category": "制品版游戏",
     "description": "※包含《FAIRY TAIL》游戏本篇的套装商品《FAIRY TAIL Digital Deluxe》也正在贩卖中，请在购买时留意。  大受欢迎的《FAIRY TAIL》的游戏首次在PlayStationⓇ4登场！   ■超越公会的梦之共演 玩家角色多达16位！ 也有来自“妖精尾巴”公会之外的多位角色登场！ 此外，还将收录游戏独有的原创篇章。   ■扣人心弦的魔法大战 从联合攻击到超魔法，再现原作中熟悉的招式！ 还可以组合游戏原创的联合攻击。   ■以最强公会为目标 还原马格诺利亚的城镇，以及公会内部的全貌。 解决布告板上的委托，提升公会等级，与公会的伙伴们一起努力成为最强公会！ ",
-    "price": 489,
+    "price": 161.37,
     "priceCurrency": "HKD",
     "publisher": "KOEI TECMO GAMES CO., LTD.",
     "rate": "4.54",
@@ -61436,10 +61445,10 @@
     "fullname": "Figment (游戏)",
     "description": "※另有包含此单独商品的套装包。请注意切勿重复购买。  因某个事件而被恐惧困扰的心。 那就是Figment古怪又超现实的世界。  随着性情乖戾的灰灰和超乐天派的皮佩一同克服恐惧，为这颗心灵夺回勇气吧。  ♦梦幻般的手绘世界♦ 超现实主义的画风，丰富多彩的插图，怀旧的手绘为独具特色的登场人物注入生命。 各个区域拥有独特的艺术风格，让您尽情享受。  ♦享受精彩的游戏配乐♦ 这世界弥漫着充满节奏感的音乐，在这儿您将会遇到喇叭树，钢琴屋，甚至是唱歌的敌人。  ♦与噩梦对决♦ 与灰灰和皮佩合作，一起打败人类共有的恐惧吧。  ♦竭尽智力和体力的冒险♦ 挥剑退敌，破解谜题。 头目战需要的是智勇双全的英雄，在享受壮阔的音乐的同时，您的智力与体力都会受到考验。 ",
     "publisher": "Bedtime Digital Games Aps",
-    "rate": "4.44",
+    "rate": "4.43",
     "releaseTime": "24/4/2019",
     "platform": "PS4",
-    "type": "动作, 冒险",
+    "type": "冒险, 动作",
     "category": "制品版游戏",
     "price": 148,
     "priceCurrency": "HKD"
@@ -61455,7 +61464,7 @@
     "rate": "3.37",
     "releaseTime": "26/8/2019",
     "platform": "PS4",
-    "type": "益智, 家庭, 拼图",
+    "type": "拼图, 家庭, 益智",
     "category": "制品版游戏",
     "price": 63,
     "priceCurrency": "HKD"
@@ -61489,7 +61498,7 @@
     "platform": "PS4",
     "type": "角色扮演游戏",
     "category": "游戏套装",
-    "price": 398,
+    "price": 119.4,
     "priceCurrency": "HKD"
   },
   {
@@ -61548,12 +61557,12 @@
     "fullname": "FINAL SWORD (日语, 韩语, 简体中文, 繁体中文, 英语)",
     "description": "开放性世界正宗的动作RPG - 现在就来试试华丽战斗的原始ARPG系列吧",
     "publisher": "HUP GAMES Inc.",
-    "rate": "3.28",
+    "rate": "3.27",
     "releaseTime": "19/5/2022",
     "platform": "PS5",
     "type": "角色扮演游戏",
     "category": "制品版游戏",
-    "price": 148,
+    "price": 88.8,
     "priceCurrency": "HKD"
   },
   {
@@ -61617,7 +61626,7 @@
     "platform": "PS4",
     "type": "模拟",
     "category": "制品版游戏",
-    "price": 108,
+    "price": 32.4,
     "priceCurrency": "HKD"
   },
   {
@@ -61644,7 +61653,7 @@
     "fullname": "五个约会 (Five Dates) (韩语, 简体中文, 英语)",
     "category": "制品版游戏",
     "description": "Five Dates，一部互动式的浪漫喜剧电影游戏，为您呈现在线约会的无穷可能性。在触不可及的网络世界里，试着与五位不同女性交往的Vinny，能否与她们成功磨合、建立羁绊并擦出爱情的火花？  00后Vinny来自伦敦，在新冠疫情封锁期间，他第一次开始使用约会App。在游戏中，Vinny必须鼓起勇气，和五位性格截然不同的女性展开视频约会。她们中的两位由曼迪·吉尔（参演了《神秘博士》）和乔治娅·赫斯特（参演了《维京传奇》）扮演。 游戏玩家作出的选择将决定Vinny与每位约会对象的互动表现，以及她们是否愿意继续和他约会。通过一系列多导向的对话主题和深入的问题探讨，Vinny将面对在线游戏约会、尴尬场景和出乎意料的事实等重重挑战。  该游戏系知名工作室出品，《复体》、《地堡》和《化身侦探》等一系列作品均出自其手。  由保罗·拉希德（游戏《复体》导演）操刀，为您呈现一部全真人的浪漫喜剧游戏 于疫情期间完成全部构想、拍摄和制作 超过7小时的连续拍摄，堪称游戏史上最长的全动态影像 实时关系状态追踪，左右故事发展 多条可选故事线，导向10个不同结局 强大演员阵容，包括：曼迪·吉尔（参演了《神秘博士》）、乔治娅·赫斯特（参演了《维京传奇》）、西诺德·哈尼特（歌手）和塔欣·莫达克（参演了《两周后就死》） ",
-    "price": 43.2,
+    "price": 108,
     "priceCurrency": "HKD",
     "publisher": "Wales Interactive",
     "rate": "4.30",
@@ -61663,9 +61672,9 @@
     "rate": "4.42",
     "releaseTime": "22/5/2024",
     "platform": "PS4",
-    "type": "动作, 冒险, 动作",
+    "type": "冒险, 动作, 动作",
     "category": "制品版游戏",
-    "price": 11.4,
+    "price": 38,
     "priceCurrency": "HKD"
   },
   {
@@ -61804,13 +61813,13 @@
     "fullname": "Flying Soldiers (英语)",
     "category": "制品版游戏",
     "description": "做好准备，指挥一支有趣的鸟儿部队，设计一个计划，将他们安全地带到战场的最后",
-    "price": 78,
+    "price": 7.8,
     "priceCurrency": "HKD",
     "publisher": "WILD SPHERE S.L.",
-    "rate": "4.24",
+    "rate": "4.26",
     "releaseTime": "26/11/2021",
     "platform": "PS4",
-    "type": "家庭, 拼图, 独特游戏"
+    "type": "独特游戏, 拼图, 家庭"
   },
   {
     "name": "Flynn: Son of Crimson",
@@ -61884,7 +61893,7 @@
     "price": 148,
     "priceCurrency": "HKD",
     "publisher": "BIG BLUE BUBBLE, INC.",
-    "rate": "4.36",
+    "rate": "4.37",
     "releaseTime": "4/10/2020",
     "platform": "PS4",
     "type": "冒险, 动作"
@@ -61913,7 +61922,7 @@
     "fullname": "Forest Camp Story (泰语, 日语, 韩语, 简体中文, 繁体中文, 英语)",
     "description": "弥漫着森林清新空气的露营地经营模拟游戏　还能经营商店或招待动物哦",
     "publisher": "KAIROSOFT CO.,LTD",
-    "rate": "4.50",
+    "rate": "4.51",
     "releaseTime": "8/2/2023",
     "platform": "PS4",
     "type": "模拟, 战略, 休闲",
@@ -61967,7 +61976,7 @@
     "rate": "4.33",
     "releaseTime": "12/10/2023",
     "platform": "PS5",
-    "type": "教育, 模拟, 驾驶/赛车"
+    "type": "模拟, 教育, 驾驶/赛车"
   },
   {
     "name": "FORM",
@@ -61980,7 +61989,7 @@
     "rate": "4.02",
     "releaseTime": "20/4/2020",
     "platform": "PS4",
-    "type": "冒险, 拼图",
+    "type": "拼图, 冒险",
     "category": "制品版游戏",
     "price": 76,
     "priceCurrency": "HKD"
@@ -61999,7 +62008,7 @@
     "rate": "1.50",
     "releaseTime": "27/3/2024",
     "platform": "PS5",
-    "type": "街机, 休闲, 派对"
+    "type": "休闲, 街机, 派对"
   },
   {
     "name": "FoxyLand",
@@ -62079,7 +62088,7 @@
     "rate": "3.60",
     "releaseTime": "11/11/2020",
     "platform": "PS4",
-    "type": "动作, 射击, 动作"
+    "type": "射击, 动作, 动作"
   },
   {
     "name": "Freddi Fish 2: The Case of The Haunted Schoolhouse",
@@ -62092,7 +62101,7 @@
     "rate": "4.76",
     "releaseTime": "1/5/2024",
     "platform": "PS4",
-    "type": "冒险, 教育",
+    "type": "教育, 冒险",
     "category": "制品版游戏",
     "price": 108,
     "priceCurrency": "HKD"
@@ -62111,7 +62120,7 @@
     "rate": "5.00",
     "releaseTime": "3/11/2022",
     "platform": "PS4",
-    "type": "冒险, 教育"
+    "type": "教育, 冒险"
   },
   {
     "name": "Freddi Fish 4: The Case of The Hogfish Rustlers of Briny Gulch",
@@ -62127,7 +62136,7 @@
     "rate": "5.00",
     "releaseTime": "20/12/2023",
     "platform": "PS4",
-    "type": "冒险, 教育"
+    "type": "教育, 冒险"
   },
   {
     "name": "Freddi Fish 5: The Case of the Creature of Coral Cove",
@@ -62143,7 +62152,7 @@
     "rate": "5.00",
     "releaseTime": "1/5/2024",
     "platform": "PS4",
-    "type": "冒险, 教育"
+    "type": "教育, 冒险"
   },
   {
     "name": "Freddi Fish and the Case of the Missing Kelp Seeds",
@@ -62159,7 +62168,7 @@
     "rate": "4.54",
     "releaseTime": "28/2/2024",
     "platform": "PS4",
-    "type": "冒险, 教育"
+    "type": "教育, 冒险"
   },
   {
     "name": "Freddi Fish Collection",
@@ -62185,7 +62194,7 @@
     "fullname": "Freddy Spaghetti 2 PS4 & PS5 (日语, 英语)",
     "description": "美味的 3D动作游戏续集，就像你从来都没吃过一样！",
     "publisher": "eastasiasoft",
-    "rate": "3.51",
+    "rate": "3.52",
     "releaseTime": "5/8/2021",
     "platform": "PS4, PS5",
     "type": "街机",
@@ -62238,7 +62247,7 @@
     "platform": "PS5",
     "type": "动作",
     "category": "制品版游戏",
-    "price": 238,
+    "price": 119,
     "priceCurrency": "HKD"
   },
   {
@@ -62252,7 +62261,7 @@
     "rate": "3.48",
     "releaseTime": "13/2/2018",
     "platform": "PS4",
-    "type": "角色扮演游戏, 动作, 角色扮演游戏",
+    "type": "角色扮演游戏, 角色扮演游戏, 动作",
     "category": "制品版游戏",
     "price": 128,
     "priceCurrency": "HKD"
@@ -62271,7 +62280,7 @@
     "rate": "4.23",
     "releaseTime": "13/2/2018",
     "platform": "PS4",
-    "type": "角色扮演游戏, 动作, 角色扮演游戏"
+    "type": "角色扮演游戏, 角色扮演游戏, 动作"
   },
   {
     "name": "陷洪大冒险",
@@ -62316,7 +62325,7 @@
     "price": 95,
     "priceCurrency": "HKD",
     "publisher": "H2 Interactive Co., Ltd.",
-    "rate": "4.62",
+    "rate": "4.61",
     "releaseTime": "11/4/2019",
     "platform": "PS4",
     "type": "冒险, 冒险"
@@ -62329,12 +62338,12 @@
     "fullname": "Farm for your Life - 耕种人生 (日语, 简体中文, 英语)",
     "description": "农场管理",
     "publisher": "SECRET ITEM GAMES UG",
-    "rate": "2.65",
+    "rate": "2.69",
     "releaseTime": "29/6/2021",
     "platform": "PS5",
-    "type": "冒险, 休闲, 模拟",
+    "type": "冒险, 模拟, 休闲",
     "category": "豪华版",
-    "price": 148,
+    "price": 74,
     "priceCurrency": "HKD"
   },
   {
@@ -62348,7 +62357,7 @@
     "price": 308,
     "priceCurrency": "HKD",
     "publisher": "SEGA CORPORATION",
-    "rate": "3.59",
+    "rate": "3.58",
     "releaseTime": "31/10/2024",
     "platform": "PS5",
     "type": "角色扮演游戏"
@@ -62702,7 +62711,7 @@
     "platform": "PS5",
     "type": "战略",
     "category": "制品版游戏",
-    "price": 23.76,
+    "price": 108,
     "priceCurrency": "HKD"
   },
   {
@@ -63065,7 +63074,7 @@
     "fullname": "Garfield Lasagna Party (日语, 韩语, 简体中文, 繁体中文, 英语)",
     "description": "32个迷你游戏供您探索标志性的环境，例如加菲猫的房子、披萨餐厅和丽丝的兽医诊所……  我们的朋友加菲猫、欧迪和艾玲接受了巨大的挑战：参加盛大的千层面派对！  菜单上有各种各样的疯狂游戏：扔雪球、穿越障碍路线、切披萨……不择手段，胜过对手：赢得迷你游戏、掷出最佳骰子点数、使用物体强化恶意攻击！  加菲猫千层面派对邀请您来玩派对游戏，游戏背景设定为人见人爱的橘色胖猫的世界。游戏包括32个迷你游戏和3个游戏模式，乐趣畅享不停！  这款游戏适合全家人，无论您是否喜欢千层面，都可以玩！  2个奖励游戏模式：  挑战模式：此模式专为4位玩家设计，使用户可以享受最喜欢的迷你游戏，而不必通过游戏板上的所有关卡：是进入快速游戏和高强度训练的最佳方式！  竞赛模式：在此游戏模式中，玩家可以通过选定数量的迷你游戏组织一场冠军赛，随机选择，高速连续游玩！  32个迷你游戏可供最多4位玩家游玩！ 呈现4个标志性漫画角色之一。  3种游戏模式：标准模式、挑战模式、竞赛模式 最优秀的玩家将享用成吨的千层面！ ",
     "publisher": "Microids",
-    "rate": "3.91",
+    "rate": "3.92",
     "releaseTime": "1/5/2024",
     "platform": "PS4, PS5",
     "type": "派对",
@@ -63262,7 +63271,7 @@
     "platform": "PS4",
     "type": "射击",
     "category": "制品版游戏",
-    "price": 23.4,
+    "price": 78,
     "priceCurrency": "HKD"
   },
   {
@@ -63358,7 +63367,7 @@
     "platform": "PS4",
     "type": "射击, 冒险, 动作",
     "category": "制品版游戏",
-    "price": 60,
+    "price": 240,
     "priceCurrency": "HKD"
   },
   {
@@ -63406,7 +63415,7 @@
     "platform": "PS4, PS5",
     "type": "冒险",
     "category": "制品版游戏",
-    "price": 35.64,
+    "price": 108,
     "priceCurrency": "HKD"
   },
   {
@@ -63422,7 +63431,7 @@
     "platform": "PS4, PS5",
     "type": "动作",
     "category": "制品版游戏",
-    "price": 7.8,
+    "price": 78,
     "priceCurrency": "HKD"
   },
   {
@@ -63625,7 +63634,7 @@
     "fullname": "GOLF VS ZOMBIES (英语)",
     "description": "《Golf VS Zombies》是一款融合了RPG元素的街机风格高尔夫游戏。挥杆发球，消灭不死的怪物！",
     "publisher": "Untold Tales S.A.",
-    "rate": "4.05",
+    "rate": "4.00",
     "releaseTime": "25/7/2024",
     "platform": "PS4, PS5",
     "type": "街机",
@@ -63694,7 +63703,7 @@
     "platform": "PS5",
     "type": "格斗, 休闲, 动作",
     "category": "制品版游戏",
-    "price": 86.4,
+    "price": 108,
     "priceCurrency": "HKD"
   },
   {
@@ -64856,7 +64865,7 @@
     "price": 90,
     "priceCurrency": "HKD",
     "publisher": "KAIROSOFT CO.,LTD",
-    "rate": "4.03",
+    "rate": "4.04",
     "releaseTime": "31/1/2024",
     "platform": "PS4",
     "type": "冒险, 模拟, 角色扮演游戏"
@@ -88015,7 +88024,7 @@
     "fullname": "International Basketball (英语)",
     "description": "街机风格的篮球游戏",
     "publisher": "Benoit Varasse trading as Pix Arts",
-    "rate": "1.74",
+    "rate": "1.79",
     "releaseTime": "6/10/2023",
     "platform": "PS4",
     "type": "运动",
@@ -88162,7 +88171,7 @@
     "price": 388,
     "priceCurrency": "HKD",
     "publisher": "Nippon-Ichi Software",
-    "rate": "4.47",
+    "rate": "4.48",
     "releaseTime": "26/10/2022",
     "platform": "PS4",
     "type": "动作"
@@ -88588,7 +88597,7 @@
     "fullname": "杀手13 (英语)",
     "description": "身份之谜：你到底是谁？",
     "publisher": "Microids",
-    "rate": "3.50",
+    "rate": "3.51",
     "releaseTime": "15/8/2024",
     "platform": "PS4, PS5",
     "type": "动作",
@@ -88652,7 +88661,7 @@
     "fullname": "The Tale of Bistun (日语, 韩语, 简体中文, 英语)",
     "description": "基于史诗浪漫诗歌《霍斯劳与希林》",
     "publisher": "IMAGINATION S.C",
-    "rate": "4.04",
+    "rate": "4.03",
     "releaseTime": "21/1/2025",
     "platform": "PS4, PS5",
     "type": "动作",
@@ -88921,7 +88930,7 @@
     "fullname": "Air Aces (英语)",
     "description": "空战飞行模拟",
     "publisher": "Benoit Varasse trading as Pix Arts",
-    "rate": "2.08",
+    "rate": "2.06",
     "releaseTime": "11/11/2023",
     "platform": "PS4",
     "type": "模拟",
@@ -89036,7 +89045,7 @@
     "price": 198,
     "priceCurrency": "HKD",
     "publisher": "Akupara Games, LLC",
-    "rate": "3.89",
+    "rate": "3.90",
     "releaseTime": "1/11/2023",
     "platform": "PS4, PS5",
     "type": "冒险, 战略"
@@ -89177,7 +89186,7 @@
     "fullname": "Air Sea Modern Conflict (英语)",
     "category": "制品版游戏",
     "description": "海空战策略游戏",
-    "price": 78,
+    "price": 54.6,
     "priceCurrency": "HKD",
     "publisher": "Benoit Varasse trading as Pix Arts",
     "rate": "2.46",
@@ -89198,7 +89207,7 @@
     "platform": "PS4",
     "type": "驾驶/赛车",
     "category": "制品版游戏",
-    "price": 38,
+    "price": 26.6,
     "priceCurrency": "HKD"
   },
   {
@@ -89358,7 +89367,7 @@
     "platform": "PS5",
     "type": "街机, 休闲",
     "category": "制品版游戏",
-    "price": 26.6,
+    "price": 38,
     "priceCurrency": "HKD"
   },
   {
@@ -89374,7 +89383,7 @@
     "platform": "PS4",
     "type": "射击",
     "category": "制品版游戏",
-    "price": 78,
+    "price": 54.6,
     "priceCurrency": "HKD"
   },
   {
@@ -89454,7 +89463,7 @@
     "platform": "PS5",
     "type": "休闲, 街机",
     "category": "制品版游戏",
-    "price": 26.6,
+    "price": 38,
     "priceCurrency": "HKD"
   },
   {
@@ -89550,7 +89559,7 @@
     "platform": "PS4",
     "type": "街机",
     "category": "制品版游戏",
-    "price": 18,
+    "price": 12.6,
     "priceCurrency": "HKD"
   },
   {
@@ -89721,7 +89730,7 @@
     "fullname": "The Golden Eagle (英语)",
     "category": "制品版游戏",
     "description": "动作冒险游戏",
-    "price": 38,
+    "price": 26.6,
     "priceCurrency": "HKD",
     "publisher": "Benoit Varasse trading as Pix Arts",
     "rate": "2.80",
@@ -89822,7 +89831,7 @@
     "platform": "PS5",
     "type": "模拟, 模拟器, 驾驶/赛车",
     "category": "制品版游戏",
-    "price": 148,
+    "price": 66.6,
     "priceCurrency": "HKD"
   },
   {
@@ -89881,7 +89890,7 @@
     "fullname": "Apocalipsis: The Tree of the Knowledge of Good and Evil (英文版)",
     "category": "制品版游戏",
     "description": "在 Apocalipsis 中，您将扮演 Harry，对他来说，失去挚爱是他世界的终结。 现在他必须冒险进入陌生、不受欢迎和闹鬼的土地才能把她找回来。 在他的旅程中，他将遇到奇幻的生物，这些生物直接来自第 15 世纪和第 16 世纪的艺术家，如 Hans Holbein 或 Albrecht Dürer。 在 Apocalipsis 中，古老的静态木刻开始过自己的生活，它们形成了一个全新的世界，灵感来自启示录和 Danse Macabre 的美学——一个充满恐惧、死亡和疾病的世界。 然而，在这些险恶的土地上，仍然有真爱的空间…… Apocalipsis 也是电子游戏世界中最畅销的黑金属乐队 Behemoth 的首次亮相。 Behemoth 的音乐隐藏在游戏玩法中，Nergal（乐队不祥的领袖）旁白，这真是一种地狱般的体验！在 Apocalipsis 中，您将扮演 Harry，对他来说，失去挚爱是他世界的终结。 现在他必须冒险进入陌生、不受欢迎和闹鬼的土地才能把她找回来。 在他的旅程中，他将遇到奇幻的生物，这些生物直接来自第 15 世纪和第 16 世纪的艺术家，如 Hans Holbein 或 Albrecht Dürer。 在 Apocalipsis 中，古老的静态木刻开始过自己的生活，它们形成了一个全新的世界，灵感来自启示录和 Danse Macabre 的美学——一个充满恐惧、死亡和疾病的世界。 然而，在这些险恶的土地上，仍然有真爱的空间…… Apocalipsis 也是电子游戏世界中最畅销的黑金属乐队 Behemoth 的首次亮相。 Behemoth 的音乐隐藏在游戏玩法中，Nergal（乐队不祥的领袖）旁白，这真是一种地狱般的体验！ ",
-    "price": 38,
+    "price": 5.7,
     "priceCurrency": "HKD",
     "publisher": "ULTIMATE GAMES",
     "rate": "3.27",
@@ -89926,7 +89935,7 @@
     "fullname": "Aquatic Life: Fish Simulator RPG (英语)",
     "description": "超越珊瑚礁：潜水、进化、征服水下世界！",
     "publisher": "404 GAMES LTD",
-    "rate": "1.51",
+    "rate": "1.52",
     "releaseTime": "6/8/2025",
     "platform": "PS5",
     "type": "角色扮演游戏, 模拟, 冒险",
@@ -90230,7 +90239,7 @@
     "fullname": "Arcade Archives Dinorex (日语, 英语)",
     "description": "《Dinorex》是TAITO于1992年发行的一款格斗游戏。 从 6 种可用恐龙中进行选择并进行战斗，赢得亚马逊女王和霸王龙的称号：陆地之王！ 获得各种类型的蛋形物品和武器可以让你在战斗中获得优势。 \t “Arcade Archives”系列忠实再现了许多经典的Arcade杰作。 玩家可以改变各种游戏设置，例如游戏难度，并且还可以重现那时的街机显示设置的氛围。 玩家也可以通过他们的高分在世界各地互相竞争。 请欣赏杰作。  此游戏使用日语ROM作为游戏的主要部分。 选项菜单和手册有日语，英语，法语，德语，意大利语和西班牙语。 ",
     "publisher": "HAMSTER Corporation",
-    "rate": "4.08",
+    "rate": "4.04",
     "releaseTime": "15/11/2023",
     "platform": "PS4",
     "type": "格斗",
@@ -90246,10 +90255,10 @@
     "fullname": "餐尸冒险饭 (日语, 韩语, 简体中文, 繁体中文)",
     "category": "制品版游戏",
     "description": "吃掉一切，充实自己！ 异食地牢生存SRPG！ 《餐尸冒险饭》是在怪物群集的地牢中收集食材与素材，烹饪餐品的同时努力返回地面的生存模拟RPG。 吃下“冒险饭”使角色变强，或是利用腐烂食物削弱怪物等，食材的用法正是冒险核心所在。  概述 冒险者们踏入据称适合新手的地牢，却在其中遭难。 在饥渴难耐的极限状态下，冒险者们发现了巨大怪物的尸体…… 冒险者们暂时避免饿死之后，开始寻找地牢出口。 无论好东西还是怪东西，吞食一切努力返回地面吧。 ",
-    "price": 116.4,
+    "price": 388,
     "priceCurrency": "HKD",
     "publisher": "Nippon-Ichi Software",
-    "rate": "3.93",
+    "rate": "3.91",
     "releaseTime": "23/5/2022",
     "platform": "PS4",
     "type": "角色扮演游戏, 角色扮演游戏"
@@ -90326,7 +90335,7 @@
     "fullname": "112 Operator (韩语, 简体中文, 英语)",
     "category": "制品版游戏",
     "description": "在世界上的任何城市管理紧急服务",
-    "price": 198,
+    "price": 79.2,
     "priceCurrency": "HKD",
     "publisher": "ULTIMATE GAMES",
     "rate": "3.29",
@@ -90454,13 +90463,13 @@
     "fullname": "A Building Full of Cats (日语, 韩语, 简体中文, 繁体中文, 英语)",
     "category": "制品版游戏",
     "description": "在这个可爱而轻松的游戏中寻找和抚摸所有的猫咪！",
-    "price": 18,
+    "price": 7.2,
     "priceCurrency": "HKD",
     "publisher": "SILESIA GAMES SP. Z O.O.",
-    "rate": "4.56",
+    "rate": "4.54",
     "releaseTime": "31/5/2023",
     "platform": "PS5",
-    "type": "益智, 休闲, 拼图"
+    "type": "拼图, 休闲, 益智"
   },
   {
     "name": "A Castle Full of Cats",
@@ -90518,7 +90527,7 @@
     "fullname": "A Time Traveller's Guide To Past Delicacies (英语)",
     "category": "制品版游戏",
     "description": "一款关于虚构时间旅行者掠夺过去偷取食谱的短游戏。",
-    "price": 38,
+    "price": 9.5,
     "priceCurrency": "HKD",
     "publisher": "EVGENIY KOLPAKOV",
     "rate": "3.26",
@@ -90635,7 +90644,7 @@
     "platform": "PS5",
     "type": "动作",
     "category": "制品版游戏",
-    "price": 10.8,
+    "price": 108,
     "priceCurrency": "HKD"
   },
   {
@@ -90761,9 +90770,9 @@
     "rate": "2.91",
     "releaseTime": "25/1/2024",
     "platform": "PS4",
-    "type": "动作, 冒险, 冒险",
+    "type": "冒险, 动作, 冒险",
     "category": "制品版游戏",
-    "price": 108,
+    "price": 54,
     "priceCurrency": "HKD"
   },
   {
@@ -92853,7 +92862,7 @@
     "platform": "PS5",
     "type": "冒险",
     "category": "制品版游戏",
-    "price": 198,
+    "price": 99,
     "priceCurrency": "HKD"
   },
   {
@@ -92869,7 +92878,7 @@
     "platform": "PS4, PS5",
     "type": "街机, 动作, 冒险",
     "category": "制品版游戏",
-    "price": 88.8,
+    "price": 148,
     "priceCurrency": "HKD"
   },
   {
@@ -92880,7 +92889,7 @@
     "fullname": "Backpack Hero (日语, 韩语, 简体中文, 繁体中文, 英语)",
     "description": "《背包英雄》是一款Roguelike库存管理游戏！收集稀有物品，整理背包排列，消灭拦路敌人！",
     "publisher": "Pretty Soon S.A.",
-    "rate": "3.90",
+    "rate": "3.91",
     "releaseTime": "22/5/2024",
     "platform": "PS4, PS5",
     "type": "冒险, 战略",
@@ -93059,7 +93068,7 @@
     "platform": "PS5",
     "type": "拼图",
     "category": "制品版游戏",
-    "price": 38,
+    "price": 11.4,
     "priceCurrency": "HKD"
   },
   {
@@ -93088,7 +93097,7 @@
     "platform": "PS5",
     "type": "冒险, 模拟",
     "category": "制品版游戏",
-    "price": 78,
+    "price": 23.4,
     "priceCurrency": "HKD"
   },
   {
@@ -93163,7 +93172,7 @@
     "fullname": "Carry Onward (英语)",
     "category": "制品版游戏",
     "description": "一个叙事性的游戏短片，追随一位悲痛的男子。",
-    "price": 19,
+    "price": 38,
     "priceCurrency": "HKD",
     "publisher": "Nejcraft",
     "rate": "2.88",
@@ -93179,7 +93188,7 @@
     "fullname": "Castle on the Coast (繁体中文, 英语)",
     "category": "制品版游戏",
     "description": "与长颈鹿一起参加的第一个街机 3D 跑酷收集马拉松！",
-    "price": 108,
+    "price": 21.6,
     "priceCurrency": "HKD",
     "publisher": "KLABATER",
     "rate": "4.48",
@@ -93200,7 +93209,7 @@
     "platform": "PS5",
     "type": "冒险",
     "category": "制品版游戏",
-    "price": 78,
+    "price": 23.4,
     "priceCurrency": "HKD"
   },
   {
@@ -93227,7 +93236,7 @@
     "fullname": "Cat's Request (英语)",
     "category": "制品版游戏",
     "description": "关于一只名叫Ash的外星猫的奇幻侦探故事",
-    "price": 78,
+    "price": 19.5,
     "priceCurrency": "HKD",
     "publisher": "EVGENIY KOLPAKOV",
     "rate": "4.27",
@@ -93248,7 +93257,7 @@
     "platform": "PS5",
     "type": "拼图, 家庭, 休闲",
     "category": "制品版游戏",
-    "price": 9,
+    "price": 18,
     "priceCurrency": "HKD"
   },
   {
@@ -93262,7 +93271,7 @@
     "rate": "3.96",
     "releaseTime": "8/3/2023",
     "platform": "PS5",
-    "type": "动作, 射击",
+    "type": "射击, 动作",
     "category": "制品版游戏",
     "price": 78,
     "priceCurrency": "HKD"
@@ -93326,7 +93335,7 @@
     "price": 148,
     "priceCurrency": "HKD",
     "publisher": "Stalwart Games, LLC",
-    "rate": "4.59",
+    "rate": "4.60",
     "releaseTime": "13/12/2023",
     "platform": "PS5",
     "type": "格斗, 战略, 动作"
@@ -93360,7 +93369,7 @@
     "platform": "PS4",
     "type": "射击",
     "category": "制品版游戏",
-    "price": 71,
+    "price": 142,
     "priceCurrency": "HKD"
   },
   {
@@ -93448,7 +93457,7 @@
     "fullname": "Behold Battle (简体中文, 英语)",
     "category": "制品版游戏",
     "description": "猜测哪支军队会获胜，并观看他们的战斗供您消遣。",
-    "price": 38,
+    "price": 11.4,
     "priceCurrency": "HKD",
     "publisher": "Samustai LTD",
     "rate": "4.31",
@@ -93480,7 +93489,7 @@
     "fullname": "Between Horizons (日语, 韩语, 简体中文, 繁体中文, 英语)",
     "category": "制品版游戏",
     "description": "《地平线之间》是一部2.5D叙事科幻侦探冒险游戏。在和风号的33年旅程中，它的任务突然受到了威胁。你能及时找到罪魁祸首吗？体验这场半开放的迷人故事，根据你的选择",
-    "price": 16.2,
+    "price": 108,
     "priceCurrency": "HKD",
     "publisher": "ASSEMBLE ENTERTAINMENT GMBH",
     "rate": "4.41",
@@ -93515,7 +93524,7 @@
     "price": 78,
     "priceCurrency": "HKD",
     "publisher": "OCEAN MEDIA LLC",
-    "rate": "3.71",
+    "rate": "3.74",
     "releaseTime": "31/7/2024",
     "platform": "PS5",
     "type": "冒险"
@@ -93589,7 +93598,7 @@
     "fullname": "Billy's Game Show (英语)",
     "category": "制品版游戏",
     "description": "潜行恐怖游戏，你将面对危险的敌人。",
-    "price": 78,
+    "price": 19.5,
     "priceCurrency": "HKD",
     "publisher": "EVGENIY KOLPAKOV",
     "rate": "3.53",
@@ -93669,7 +93678,7 @@
     "fullname": "Cliff Rush 3D (英语)",
     "description": "踏上 Rush Climb 的终极攀岩挑战之旅！攀登崎岖的悬崖，在狭窄的岩架之间跳跃，在登顶的旅途中收获珍贵的心。h 准备攀登 - 您的冒险正在等待您！ ",
     "publisher": "Nextgo24 UG",
-    "rate": "2.83",
+    "rate": "2.80",
     "releaseTime": "18/11/2024",
     "platform": "PS5",
     "type": "运动",
@@ -93685,7 +93694,7 @@
     "fullname": "Clive 'N' Wrench (日语, 韩语, 简体中文, 繁体中文, 英语)",
     "category": "制品版游戏",
     "description": "《Clive N Wrench》是一款3D平台游戏，故事围绕着一只兔子Clive和背上的猴子同伴Wrench展开。你将通过50年代冰箱穿越时空，开启一段冒险旅程，挫败专横的Daucus博士并阻止他的邪恶计划。  一天早晨，Nancy Merricarp教授醒来时发现，她引以为傲的时间旅行蓝图竟然被邪恶无比的Daucus博士盗走了 不一会儿，突然，一道紫色的闪光照亮了天空，传送门出现了 Daucus博士和他的同伙Olga Chestycough将军，跳进了传送门，随之转瞬即逝。  幸运的是，Nancy的表弟Clive和她的徒弟Wrench前来帮忙，追赶邪恶博士，阻止其可怕的阴谋！但前提是，他们必须穿越时空！ 穿越时空之旅　Daucus博士正通过时空穿梭四处寻找“远古之石”，此物会带给他巨大的力量。而我们的英雄已经整装待发拯救世界了，谢天谢地！此次征途将带你穿越11个不同时期且风格各异的世界。  你将咋舌于各种世界场景，为其精细的刻画而折服，比如古埃及的坦普斯古墓以及史前冰河时代的冰角龙等。在穿越时空的过程中，你会遇到不同时期的各式各样的角色，既有现代人物，也有历史人物。每个时代都有令人兴奋不已的冒险等着你哦！   顺滑移动操作　Clive和Wrench都有不同的移动动作设置，让他们轻松玩转每个时代关卡。Clive特别擅长运动，在跑酷方面颇有经验。搭档Wrench的超强弹性和绝佳威力，简直绝配。这对合作无间的伙伴所向披靡，无论Daucus博士和他的时空邪恶大军有什么恶行，都不会放过！ ",
-    "price": 238,
+    "price": 119,
     "priceCurrency": "HKD",
     "publisher": "SOFT SOURCE PTE LTD",
     "rate": "3.56",
@@ -93797,12 +93806,12 @@
     "fullname": "Color Recreator (英语)",
     "description": "测试你的色彩再现技巧！ ",
     "publisher": "OÜ Enningture Game Temple",
-    "rate": "3.21",
+    "rate": "3.25",
     "releaseTime": "26/7/2025",
     "platform": "PS5",
     "type": "益智",
     "category": "制品版游戏",
-    "price": 9,
+    "price": 6.3,
     "priceCurrency": "HKD"
   },
   {
@@ -103968,7 +103977,7 @@
     "price": 108,
     "priceCurrency": "HKD",
     "publisher": "KLABATER",
-    "rate": "3.77",
+    "rate": "3.78",
     "releaseTime": "24/1/2024",
     "platform": "PS5",
     "type": "动作"
@@ -104162,7 +104171,7 @@
     "platform": "PS4, PS5",
     "type": "角色扮演游戏",
     "category": "制品版游戏",
-    "price": 119,
+    "price": 238,
     "priceCurrency": "HKD"
   },
   {
@@ -104303,7 +104312,7 @@
     "platform": "PS4, PS5",
     "type": "角色扮演游戏",
     "category": "制品版游戏",
-    "price": 42.9,
+    "price": 78,
     "priceCurrency": "HKD"
   },
   {
@@ -104503,7 +104512,7 @@
     "fullname": "Super Toy Cars Offroad (日语, 英语)",
     "category": "制品版游戏",
     "description": "控制玩具车，在迷你模型的世界中奔驰",
-    "price": 71.4,
+    "price": 238,
     "priceCurrency": "HKD",
     "publisher": "COSEN CO., LTD.",
     "rate": "2.98",
@@ -104846,7 +104855,7 @@
     "fullname": "Telebbit (日语, 韩语, 简体中文, 繁体中文, 英语)",
     "category": "制品版游戏",
     "description": "以瞬间移动为核心进行的，充满速度感的平台动作游戏！",
-    "price": 39,
+    "price": 78,
     "priceCurrency": "HKD",
     "publisher": "HYPER REAL",
     "rate": "4.83",
@@ -104881,7 +104890,7 @@
     "price": 103.6,
     "priceCurrency": "HKD",
     "publisher": "Dear Villagers",
-    "rate": "4.38",
+    "rate": "4.37",
     "releaseTime": "10/4/2024",
     "platform": "PS5",
     "type": "角色扮演游戏"
@@ -105011,7 +105020,7 @@
     "platform": "PS4",
     "type": "动作, 模拟器, 驾驶/赛车",
     "category": "制品版游戏",
-    "price": 70.2,
+    "price": 108,
     "priceCurrency": "HKD"
   },
   {
@@ -105054,7 +105063,7 @@
     "fullname": "The Enigma Machine (日语, 韩语, 繁体中文, 英语)",
     "category": "制品版游戏",
     "description": "The Enigma Machine是一款能让人体验经典游戏不可预测的复杂性和挑动不安情绪的效果编排，采用第一人称视角的科幻恐怖冒险游戏。透过融合了老式CLI命令式介面画面、与90年代中期的3D图形、以及VHS风格效果的第一人称视角画面，提供给玩家奇特而难忘的游戏体验。 您是否曾经有感到过不可思议... AI 的内心到底是什么样的呢？ 为了寻找解答，Enigma®邀请您来到Dreamscape。 使用Dreamscape之后，透过可探索的互动式3D空间，能够感受AI的内心。可以透过Dreamscape来认识新的AI好友。 ",
-    "price": 59.4,
+    "price": 198,
     "priceCurrency": "HKD",
     "publisher": "COSEN CO., LTD.",
     "rate": "3.54",
@@ -105153,7 +105162,7 @@
     "platform": "PS5",
     "type": "冒险, 拼图, 益智",
     "category": "豪华版",
-    "price": 118.8,
+    "price": 198,
     "priceCurrency": "HKD"
   },
   {
@@ -105201,7 +105210,7 @@
     "releaseTime": "15/4/2021",
     "platform": "PS4",
     "type": "冒险, 动作, 动作",
-    "price": 28.2,
+    "price": 141,
     "priceCurrency": "HKD"
   },
   {
@@ -105260,7 +105269,7 @@
     "fullname": "The Lost Legends of Redwall: The Scout Anthology (英语)",
     "description": "Step into the epic, story-rich world of Mossflower in the first official Redwall story since 2011. The Scout is a linear action-adventure game told in three acts. Play as Liam or Sophia, the newest member of the Lilygrove Scout Corps, as the young mice find themselves on the journey of a lifetime to save their home from ruthless pirates. Will they reach Redwall and save their friends before all is lost  The Scout Act 1 After months of training, betrothed mice Liam and Sophia are ready to graduate into fully-fledged Scouts a group of woodland rangers tasked with the protection of the land and trained in the ancient ways of woodcraft. Their initiate ceremonies are cut short when sea rats attack their beloved home. As the senior Scouts rally for battle, its up to the Scout Corps newest recruit to outwit the enemy, light the beacon, and summon aid from the surrounding woodlands - before there is nothing left to save.  The Scout Act 2 The beacon is lit, troops rally to fend off the invading searats, and Liam reunites with his dear Sophia beneath the Lilygrove Lighthouse, but not all is well. Scumsnouts vengeful cries can be heard in the distance and it is revealed that our Scouts betrothed has been poisoned by the wereats venomous bite. With no time to spare, the couple race to the Winsome Wraith, where a mysterious and dangerous stoat may have the antidote they seek. As if things werent bad enough, the sea rats are moving inland and the shadow of a large predatory bird lurks just at the edge of the woods.  The Scout Act 3 After being mortally poisoned by Scumsnouts vicious maw, our young Scouts have made it to the Winsome Wraith in one piece, if just barely. While the mysterious stoats treatment has bought some precious time, Liam and Sophia must now travel the rest of the way to Redwall Abbey for a more permanent cure. This is the dramatic conclusion of their journey through the murk of Portmans Slough, the miraculously-functioning puzzles of Grating Gulley, and the ancient ruins of the Otters Den.  Features - A brand new original story set the winter before the events of the first book. - A stunning woodland world inhabited by charming critters and villainous vermin. - Two characters with divergent dialog for replayability. - Unique real-time scent mechanic fitting for woodlanders who experience the world primarily through their noses. - An assortment of achievements and collectables for the completionist spirit. - Original soundtrack created especially for fans of Redwall. - Fully voice acted by a talented cast of new and established actors. - Engaging puzzles and side stories for those who delight in world building.  Mechanics - The Scout debuts a dynamic scent system unlike any game before it. Rather than stagnant, pre-designed paths that imitate scent, particles read the wind and the environment to simulate realistic currents and pools. Scents themselves consist of parts and patterns designed around real scent theory. - When traversing the world of Mossflower, you make use of your mouse agility to explore the world in a unique and wondrous way. Shimmy along ledges, scramble sheer cliffs, and even squeeze through impossibly small spaces. With courage, faith, and friends by your side, Mossflowers fate rests in your paws - Rely on stealth, wit, and agility to evade your enemies. Manipulate dull-witted vermin with scent and scent to avoid getting caught in their grubby paws. - Use your trusty way glass to scope the area and identify danger. Rely on your home-made slingshot to solve puzzles, break pots, and activate traps. - Decide if you will prioritize the mission and leave the others to save themselves or take the time to lend a helping paw. Some may praise philanthropy, still others would praise pragmatism. ",
     "publisher": "Forthright Entertainment, LLC",
-    "rate": "3.95",
+    "rate": "3.97",
     "releaseTime": "10/2/2024",
     "platform": "PS4",
     "type": "家庭, 冒险, 动作",
@@ -105340,7 +105349,7 @@
     "fullname": "福尔摩斯谋杀案 (日语, 简体中文, 英语)",
     "category": "制品版游戏",
     "description": "踏上一场难以置信的虚拟现实冒险，探究夏洛克·福尔摩斯谋杀案的真相。通过重建贝克街 221B 的真实体素，玩家可以与每一个细节进行无缝互动。无论是乐器还是书籍，任何蛛丝马迹都至关重要，助我们搜寻线索，征服密室，成为梦境名探。  在虚拟现实的密室中寻找夏洛克·福尔摩斯谋杀案的真相 通过重建贝克街 221B 的真实体素，玩家可以与每一个细节进行无缝互动。无论是乐器还是书籍，任何蛛丝马迹都至关重要，助我们搜寻线索，成为梦境名探。如果您喜欢解谜并想体验虚拟现实，这款游戏将是您的完美之选。  通过手势交互 您无需通过按钮来确认操作。当您在游戏中需要做出进行确认操作时，您只需要通过 OK 手势确认即可。  游戏中全部元素都可以进行互动 贝克街 221B 中的所有物品都具备可互动性。弹奏夏洛克·福尔摩斯的小提琴，品味烟斗的醇香，调和化学药剂，揭示藏匿在这位史上最杰出侦探的房间里的隐秘谜题。  对密室解密的全新演绎 在这个梦境世界中进行密室逃生。在这里，您将遇到不受地心引力束缚的物体，以及一些超越常理的机械构造。在这里，你可以做一些在现实世界中无法实现的事情。游戏的目的并不在于逃生，而是解开扑朔迷离的谜团。  一个亟待发掘的宇宙 “夏洛克·福尔摩斯谋杀案”是 Oniria World 宇宙系列游戏中的一款独立游戏。Oniria 是一个超出您想象的迷人世界：公会、政治腐败、噩梦、拥有灵魂的机器人…探索这个梦境社会是如何在一个被气候变化困扰的未来中运作的，在这个世界中，人类只能靠梦境生存。您还可以体验我们另一款跨媒体科幻黑色风格的游戏。 ",
-    "price": 27,
+    "price": 108,
     "priceCurrency": "HKD",
     "publisher": "PdPartid@games",
     "rate": "1.83",
@@ -105482,7 +105491,7 @@
     "fullname": "The Suicide of Rachel Foster (日语, 韩语, 简体中文, 繁体中文, 英语)",
     "description": "PlayStation 5版本提供：    - 自适应扳机，通过为动作引入重量感来增强沉浸式体验  - 触感反馈和动态振动（根据游戏中的事件、音乐、心跳等触发）  - 60 fps  - 纹理提升  - 杜比全景声支持  1993年 美国蒙大拿州路易斯与克拉克县  十年前，瑞秋自杀了，还是青少年的妮可与她母亲离开了自家经营的家庭旅馆，因为这个与妮可年龄差不多的女孩当时怀有身孕，是妮可的父亲伦纳德的血脉。  如今，妮可的父母均已过世，母亲的遗愿是卖掉旅馆，对瑞秋的家人做出一点补偿，妮可希望能满足母亲生前的愿望。她与律师一起返回旅馆，评估这个破败的建筑的价值。  由于天气剧变，妮可被困在了这个巨大的山地旅馆中，迫不得已用一个很老旧的手机向年轻的联邦应急管理局职员欧文求助。  在欧文的帮助下，妮可开始调查一个秘密，这个秘密远超山谷居民的想象。这是一个关于爱与死亡的故事，抑郁，怀旧，同时糅合进了幽魂元素。 ",
     "publisher": "DAEDALIC ENTERTAINMENT",
-    "rate": "4.04",
+    "rate": "4.05",
     "releaseTime": "12/9/2024",
     "platform": "PS4, PS5",
     "type": "冒险",
@@ -105530,7 +105539,7 @@
     "fullname": "The Vale: Shadow of the Crown (英语)",
     "category": "制品版游戏",
     "description": "钢铁相撞,敌人喘气困难,脚陷入泥潭。",
-    "price": 74,
+    "price": 148,
     "priceCurrency": "HKD",
     "publisher": "Nejcraft",
     "rate": "4.61",
@@ -105674,10 +105683,10 @@
     "fullname": "This Way Madness Lies (英语)",
     "category": "制品版游戏",
     "description": "让我们在意大利安静的城市维罗纳开始我们的故事。一座恋人之城……以及巨大的变异花朵袭击。  作为埃文河畔斯特拉特福高等戏剧协会的领导者，伊莫金不是一个普通的女孩！当然，她每天去学校并帮助为社区制作戏剧，但除此之外，她还是一个神奇的女孩！凭借她的力量，她可以传送到莎士比亚戏剧中的异次元，反击梦魇的力量，并且仍然能及时回来吃晚饭！  在这款喜剧日式角色扮演游戏中，与伊莫金、宝琳娜、维奥拉、罗莎琳德、米兰达、比阿特丽斯和凯特一起踏上莎士比亚虚拟宇宙的史诗冒险之旅！  • 独特的回合制战斗！ • 和你的朋友一起出去玩！ • 表演戏剧！ • 莎士比亚的对话太难解析？使用我们独特的旧英语到新英语翻译器没问题！ 110准确！ • 多角色联合能力！ • 在您学习的同时教您！ • 养只宠物！ • 节奏不会浪费您的时间！ • 适合全家人一起享受乐趣！  我们相信，世界需要更多小型回合制日式角色扮演游戏 - 简短、独立的游戏，当您想从大型史诗游戏中改变节奏时，您可以花一个周末或几个游戏时间来享受这些游戏。都是杀手级的东西，没有任何填充物。我们估计单次通关《This Way Madness Lies》将需要大约 5-10 小时，具体取决于难度和游戏风格，我们希望您能享受每一分钟！ ",
-    "price": 18.72,
+    "price": 78,
     "priceCurrency": "HKD",
     "publisher": "Zeboyd Digital Entertainment LLC",
-    "rate": "4.27",
+    "rate": "4.26",
     "releaseTime": "4/9/2023",
     "platform": "PS5",
     "type": "角色扮演游戏"
@@ -110302,7 +110311,7 @@
     "platform": "PS5",
     "type": "动作, 恐怖",
     "category": "制品版游戏",
-    "price": 47.6,
+    "price": 238,
     "priceCurrency": "HKD"
   },
   {
@@ -110313,10 +110322,10 @@
     "fullname": "Cat Plus (英语)",
     "category": "制品版游戏",
     "description": "与 Cat Plus 一起跃入冒险！",
-    "price": 26.6,
+    "price": 38,
     "priceCurrency": "HKD",
     "publisher": "Smobile",
-    "rate": "4.20",
+    "rate": "4.27",
     "releaseTime": "30/1/2025",
     "platform": "PS4",
     "type": "街机, 休闲"
@@ -110345,7 +110354,7 @@
     "fullname": "苏醒之路 (日语, 韩语, 简体中文, 繁体中文, 英语)",
     "description": "安玲被困在僵尸启示录中，时间紧迫，她将不惜一切代价确保儿子科迪的安全。她要经受无数危险，包括开始占据她身体的僵尸感染，更不用说教科迪如何在残酷的新现实中生存。  在安玲和科迪探索这个世界的过程中，他们会遇到许多角色，这些角色都带来了独特的挑战。安玲和科迪如何处理每一个人决定了他们的命运，有些人可能会死，有些人可能会活，有些人可能会成为坚定的盟友，甚至是敌人。人类会真正获胜吗？   你的道路，你的选择，你的故事！ 每个人都在努力生存，无论你是否帮助他人，都可能导致毁灭性的后果。每个人都有自己的秘密，这就引出了一个问题......你到底能相信谁？你所做的每一个决定都会改变故事的结局，你的结局会是怎样的呢？   制作 1.0 生存手段！ 如果没有手工制作，这就不是一款生存游戏。现在，有这么多东西可以制作和强化，资源是否足够都是个问题！  如何使用制作系统将决定你能否生存，以及生存的难易程度。   这个世界充满了地下城、故事和战利品！  你真的认为我们不会请 David Brevik（暗黑破坏神教父）帮助设计地下城并确保战利品让人感到满意吗？  每次开始玩《不朽》时，你都不会知道眼前的地图会是怎样的。14 个主要地点将以各种布局分布在地图上，而其他 “不安全区域 ”则充满了随机事件，会迅速改变你的计划。你会帮助忘恩负义的幸存者吗；被僵尸包围的帮派怎么办？你永远不知道在旅途中会遇到谁，每个人都有自己的故事。 ",
     "publisher": "Skystone Games Inc. ",
-    "rate": "4.21",
+    "rate": "4.22",
     "releaseTime": "11/2/2025",
     "platform": "PS5",
     "type": "冒险",
@@ -112788,7 +112797,7 @@
     "platform": "PS5",
     "type": "拼图, 休闲, 冒险",
     "category": "制品版游戏",
-    "price": 148,
+    "price": 88.8,
     "priceCurrency": "HKD"
   },
   {
@@ -112815,7 +112824,7 @@
     "fullname": "Paranormal Watcher (英语)",
     "category": "制品版游戏",
     "description": "发现、报告、幸存。超自然异常等待你的敏锐眼睛",
-    "price": 78,
+    "price": 62.4,
     "priceCurrency": "HKD",
     "publisher": "Surprised Hotdog Limited",
     "rate": "2.29",
@@ -112831,12 +112840,12 @@
     "fullname": "Gravity Jump (英语)",
     "description": "在立方体掉落之前把握好下一次跳跃的时间。",
     "publisher": "Aristo Studio s.r.o.",
-    "rate": "4.22",
+    "rate": "4.21",
     "releaseTime": "4/3/2025",
     "platform": "PS5",
     "type": "休闲, 街机",
     "category": "制品版游戏",
-    "price": 9,
+    "price": 3.6,
     "priceCurrency": "HKD"
   },
   {
@@ -112911,7 +112920,7 @@
     "fullname": "Masters Tennis HD (英语)",
     "category": "制品版游戏",
     "description": "逼真、真实物理、高清图形、本地多人、网球游戏",
-    "price": 38,
+    "price": 26.6,
     "priceCurrency": "HKD",
     "publisher": "Benoit Varasse trading as Pix Arts",
     "rate": "1.19",
@@ -112943,7 +112952,7 @@
     "fullname": "Electrician Simulator VR (日语, 简体中文, 繁体中文, 英语)",
     "description": "《Electrician Simulator》进军 VR！ 体验前所未有的游戏方式。",
     "publisher": "Take IT Studio! Sp. z o.o.",
-    "rate": "3.85",
+    "rate": "3.84",
     "releaseTime": "21/3/2025",
     "platform": "PS5",
     "type": "模拟",
@@ -113026,7 +113035,7 @@
     "price": 18,
     "priceCurrency": "HKD",
     "publisher": "SUCCESS Corporation",
-    "rate": "3.92",
+    "rate": "3.93",
     "releaseTime": "5/3/2025",
     "platform": "PS4",
     "type": "动作"
@@ -113074,7 +113083,7 @@
     "price": 218,
     "priceCurrency": "HKD",
     "publisher": "Spike Chunsoft Co., Ltd.",
-    "rate": "4.72",
+    "rate": "4.71",
     "releaseTime": "5/3/2025",
     "platform": "PS4",
     "type": "冒险"
@@ -113090,7 +113099,7 @@
     "price": 138,
     "priceCurrency": "HKD",
     "publisher": "Spike Chunsoft Co., Ltd.",
-    "rate": "4.38",
+    "rate": "4.36",
     "releaseTime": "5/3/2025",
     "platform": "PS4",
     "type": "冒险"
@@ -113172,7 +113181,7 @@
     "platform": "PS5",
     "type": "休闲, 运动",
     "category": "制品版游戏",
-    "price": 78,
+    "price": 58.5,
     "priceCurrency": "HKD"
   },
   {
@@ -113183,7 +113192,7 @@
     "fullname": "Alter Age (日语, 英语)",
     "category": "制品版游戏",
     "description": "在奇幻RPG世界中变换年龄，展开冒险！",
-    "price": 140,
+    "price": 77,
     "priceCurrency": "HKD",
     "publisher": "KEMCO",
     "rate": "4.51",
@@ -113199,7 +113208,7 @@
     "fullname": "Pixicharm - Mariana Gold (英语)",
     "description": "化身潜水员，深入海底世界！收集金币，同时通过获取氧气瓶保持氧气充足。探索隐藏的海洋宝藏时，要小心危险的水下地雷和迅捷游动的鱼群。你能在深海中生存多久？ ",
     "publisher": "ERDEM SEN",
-    "rate": "4.05",
+    "rate": "4.06",
     "releaseTime": "6/3/2025",
     "platform": "PS5",
     "type": "休闲, 街机, 冒险",
@@ -113279,7 +113288,7 @@
     "price": 108,
     "priceCurrency": "HKD",
     "publisher": "SIMPLICITY GAMES SP. Z O. O.",
-    "rate": "3.04",
+    "rate": "3.03",
     "releaseTime": "6/3/2025",
     "platform": "PS5",
     "type": "拼图, 问答, 教育"
@@ -113342,7 +113351,7 @@
     "platform": "PS4, PS5",
     "type": "模拟, 家庭",
     "category": "制品版游戏",
-    "price": 198,
+    "price": 138.6,
     "priceCurrency": "HKD"
   },
   {
@@ -113435,7 +113444,7 @@
     "platform": "PS5",
     "type": "冒险",
     "category": "制品版游戏",
-    "price": 198,
+    "price": 99,
     "priceCurrency": "HKD"
   },
   {
@@ -113446,7 +113455,7 @@
     "fullname": "The Phantom (英语)",
     "description": "漫画中第一位身着戏服的英雄已经登陆游戏机，他仅凭着自己的体力、武器技能和打击犯罪的可怕名声就做到了！  《幻影》是一款街机风格的打斗游戏，即将登陆 PC 和游戏机。在这场 14 级冒险中，扮演幻影或他的搭档戴安娜·帕尔默。辛格兄弟会令人恐惧的海盗正在争夺权力，威胁着幻影的遗产，而阻止他们的重任就落在了你的身上。使用你的徒手搏击技能和可靠的武器来消灭这个恶魔，并向你的动物朋友猎鹰弗拉卡和狼魔鬼寻求帮助。《幻影》讲述了一个由 King Features 批准的全新故事。通过全屏场景和迷人的游戏内视觉效果体验这一经典作品，这些视觉效果由经验丰富的漫画家和 Art Of Play 专门的内部 2D 创意团队手绘和逐帧动画。 ",
     "publisher": "Art Of Play Interactive Pty Ltd",
-    "rate": "3.82",
+    "rate": "3.79",
     "releaseTime": "11/3/2025",
     "platform": "PS5",
     "type": "格斗",
@@ -113462,7 +113471,7 @@
     "fullname": "Afterlove EP (日语, 韩语, 简体中文, 繁体中文, 英语)",
     "category": "制品版游戏",
     "description": "一段充满爱、离别与音乐的人生历练",
-    "price": 148,
+    "price": 74,
     "priceCurrency": "HKD",
     "publisher": "SURPRISE ATTACK",
     "rate": "4.39",
@@ -113542,7 +113551,7 @@
     "fullname": "Big Buck Hunter: Ultimate Trophy (英语)",
     "description": "內容豐富，比歷代《BIG BUCK HUNTER》主機版更增加三倍！",
     "publisher": "Trailmark Games, LLC",
-    "rate": "3.10",
+    "rate": "3.12",
     "releaseTime": "10/4/2025",
     "platform": "PS5",
     "type": "射击",
@@ -113563,7 +113572,7 @@
     "platform": "PS5",
     "type": "音乐/节奏",
     "category": "制品版游戏",
-    "price": 9,
+    "price": 6.3,
     "priceCurrency": "HKD"
   },
   {
@@ -113579,7 +113588,7 @@
     "platform": "PS5",
     "type": "冒险",
     "category": "制品版游戏",
-    "price": 48.6,
+    "price": 108,
     "priceCurrency": "HKD"
   },
   {
@@ -113622,7 +113631,7 @@
     "fullname": "So Much Stuff 5: Mix-Knacks Collector’s Edition (英语)",
     "description": "重新发现了第五期中发现“如此多的东西”的快感！",
     "publisher": "OCEAN MEDIA LLC",
-    "rate": "4.64",
+    "rate": "4.66",
     "releaseTime": "12/3/2025",
     "platform": "PS5",
     "type": "拼图",
@@ -113657,7 +113666,7 @@
     "price": 108,
     "priceCurrency": "HKD",
     "publisher": "Croissant Games SAS",
-    "rate": "3.95",
+    "rate": "3.96",
     "releaseTime": "12/3/2025",
     "platform": "PS5",
     "type": "模拟"
@@ -113670,7 +113679,7 @@
     "fullname": "Monster Energy Supercross 25 - The Official Video Game (英语)",
     "description": "欢迎体验全新的比赛！",
     "publisher": "Milestone S.r.l.",
-    "rate": "2.58",
+    "rate": "2.34",
     "releaseTime": "9/4/2025",
     "platform": "PS5",
     "type": "运动, 驾驶/赛车",
@@ -113707,7 +113716,7 @@
     "platform": "PS5",
     "type": "角色扮演游戏, 战略",
     "category": "制品版游戏",
-    "price": 198,
+    "price": 99,
     "priceCurrency": "HKD"
   },
   {
@@ -113718,7 +113727,7 @@
     "fullname": "挣脱：13号站点 (日语, 简体中文, 繁体中文, 英语)",
     "description": "身临其境，揭开SCP式的神秘事件！你准备好直面那些无法解释的超现实现象了吗？",
     "publisher": "HAPPY PLAYER PTE. LTD.",
-    "rate": "3.80",
+    "rate": "3.55",
     "releaseTime": "12/3/2025",
     "platform": "PS5",
     "type": "恐怖, 角色扮演游戏, 冒险",
@@ -113817,7 +113826,7 @@
     "price": 9,
     "priceCurrency": "HKD",
     "publisher": "ERDEM SEN",
-    "rate": "4.29",
+    "rate": "4.30",
     "releaseTime": "13/3/2025",
     "platform": "PS5",
     "type": "家庭, 街机, 休闲"
@@ -113843,10 +113852,10 @@
     "fullname": "Space KaBAAM: Neon (英语)",
     "category": "制品版游戏",
     "description": "准备战斗",
-    "price": 5.4,
+    "price": 18,
     "priceCurrency": "HKD",
     "publisher": "AUTO SLAVIC d.o.o.",
-    "rate": "3.88",
+    "rate": "3.92",
     "releaseTime": "13/3/2025",
     "platform": "PS4, PS5",
     "type": "街机"
@@ -113875,12 +113884,12 @@
     "fullname": "MY REALITY SIDE (英语)",
     "description": "你的行动定义了现实——你准备好玩了吗？",
     "publisher": "GOOSE GAME LTD",
-    "rate": "1.63",
+    "rate": "1.64",
     "releaseTime": "13/3/2025",
     "platform": "PS4",
     "type": "冒险, 模拟, 角色扮演游戏",
     "category": "制品版游戏",
-    "price": 43.2,
+    "price": 108,
     "priceCurrency": "HKD"
   },
   {
@@ -113891,7 +113900,7 @@
     "fullname": "Rendering Ranger™: R² [Rewind] (日语, 英语)",
     "description": "传奇的16位时代经典游戏回归了！",
     "publisher": "Ziggurat Interactive, Inc.",
-    "rate": "4.39",
+    "rate": "4.40",
     "releaseTime": "21/3/2025",
     "platform": "PS4, PS5",
     "type": "动作",
@@ -113907,10 +113916,10 @@
     "fullname": "Sticky Business (日语, 韩语, 简体中文, 繁体中文, 英语)",
     "category": "制品版游戏",
     "description": "创建、打包和售卖你自己的独特贴纸作品！",
-    "price": 39,
+    "price": 78,
     "priceCurrency": "HKD",
     "publisher": "ASSEMBLE ENTERTAINMENT GMBH",
-    "rate": "4.55",
+    "rate": "4.56",
     "releaseTime": "13/3/2025",
     "platform": "PS5",
     "type": "模拟"
@@ -113986,7 +113995,7 @@
     "platform": "PS5",
     "type": "冒险",
     "category": "游戏套装",
-    "price": 308,
+    "price": 184.8,
     "priceCurrency": "HKD"
   },
   {
@@ -114018,7 +114027,7 @@
     "platform": "PS5",
     "type": "冒险",
     "category": "制品版游戏",
-    "price": 148,
+    "price": 74,
     "priceCurrency": "HKD"
   },
   {
@@ -114045,7 +114054,7 @@
     "fullname": "Fuel Station Simulator (日语, 韩语, 简体中文, 英语)",
     "description": "Inherit an abandoned gas station in a desolate desert",
     "publisher": "Revolt Games SRL",
-    "rate": "1.85",
+    "rate": "1.84",
     "releaseTime": "23/3/2025",
     "platform": "PS5",
     "type": "模拟器, 休闲, 动作",
@@ -114125,7 +114134,7 @@
     "fullname": "DEATH STRANDING 2: ON THE BEACH (日语, 韩语, 简体中文, 繁体中文, 英语)",
     "category": "制品版游戏",
     "description": "SHOULD WE HAVE CONNECTED",
-    "price": 568,
+    "price": 323.76,
     "priceCurrency": "HKD",
     "publisher": "Sony Interactive Entertainment Inc.",
     "rate": "4.86",
@@ -114194,7 +114203,7 @@
     "platform": "PS5",
     "type": "冒险",
     "category": "制品版游戏",
-    "price": 48.6,
+    "price": 108,
     "priceCurrency": "HKD"
   },
   {
@@ -114272,7 +114281,7 @@
     "price": 78,
     "priceCurrency": "HKD",
     "publisher": "FromSoftware, Inc.",
-    "rate": "4.20",
+    "rate": "4.19",
     "releaseTime": "18/3/2025",
     "platform": "PS4, PS5",
     "type": "动作"
@@ -114383,7 +114392,7 @@
     "platform": "PS4",
     "type": "益智",
     "category": "制品版游戏",
-    "price": 9,
+    "price": 6.3,
     "priceCurrency": "HKD"
   },
   {
@@ -114394,7 +114403,7 @@
     "fullname": "The Talos Principle: Reawakened (日语, 韩语, 简体中文, 繁体中文, 英语)",
     "description": "《The Talos Principle Reawakened》邀你重返这个充满谜题的世界，在令人屏息的绝美画面中感悟深邃的哲学奥秘。此次推出的终极版本不仅重新演绎了《The Talos Principle》充满创意的故事，还在此基础上进行了扩展和优化，让玩家可以沉浸在模拟世界中，享受一段前所未有的奇妙旅程。  《The Talos Principle Reawakened》此次回归带来了全新内容、升级玩法以及震撼的视觉体验。你不仅可以重温备受好评的扩展内容《Road to Gehenna》，还可以游玩新章节《In the Beginning》。在新章节中，你将跟随亚莉珊德拉·德伦南的视角，完成“模拟世界”的首次关键测试，并直面深刻的生存议题，深入思考什么才是人类的本质。  无以伦比的视觉体验和全方位的体验优化 采用虚幻 5 引擎重新打造，让你记忆中的模拟世界呈现出前所未有的细腻质感。无论是光影系统、材质表现还是场景设计，都经过了全面升级，为游戏增添了新的生命力。同时，游戏在保留原作精髓的基础上，还进行了全面的界面和操作优化，大大提高了玩家体验。  扩展内容和全新章节 重制了备受好评的扩展内容《Road to Gehenna》并添加了令人震撼的全新章节《In the Beginning》。在新章节中，你将探索“模拟世界”的起源，亲历首次测试时的种种挑战，感受更深层次的哲学思辨，并体验更丰富的剧情故事。 ",
     "publisher": "Devolver Digital",
-    "rate": "4.56",
+    "rate": "4.55",
     "releaseTime": "10/4/2025",
     "platform": "PS5",
     "type": "拼图",
@@ -114410,7 +114419,7 @@
     "fullname": "爱心小熊：解锁魔法 (日语, 韩语, 简体中文, 繁体中文, 英语)",
     "description": "在《爱心小熊：解锁魔法》中，与爱心小熊一起深入充满乐趣和冒险的世界。扮演欢乐熊在各种街机游戏中展现自己的实力！  遇见心爱的小熊们：与欢乐熊、睡觉熊、Tenderheart Bear和 来自爱心村的所有可爱小熊们一起玩耍！  踏上旅程：在充满奇思妙想的爱心小熊世界中探索众多独一无二的迷你小游戏，闯过200多个关卡！获取星星力量，消除Silver Lining中的风暴云，认识有趣的Whiffle，前往魔法道路的尽头，收获可爱的惊喜。  经典街机游戏：在丰富多彩的主题迷你游戏中徜徉，感受经典街机风格的魅力：有Care Bubbles、Cross The Rainbow、Lost Whiffle等等！  填满画册：随着游戏的进展，你会获得来自“爱心小熊：解锁魔法”电视节目的艺术和小熊贴纸。快来集齐它们吧！ ",
     "publisher": "Maximum Entertainment France SAS",
-    "rate": "4.26",
+    "rate": "4.17",
     "releaseTime": "27/3/2025",
     "platform": "PS4, PS5",
     "type": "家庭",
@@ -114431,7 +114440,7 @@
     "platform": "PS4, PS5",
     "type": "街机, 动作",
     "category": "制品版游戏",
-    "price": 81.4,
+    "price": 148,
     "priceCurrency": "HKD"
   },
   {
@@ -114506,12 +114515,12 @@
     "fullname": "Autopsy Simulator (日语, 韩语, 简体中文, 繁体中文, 英语)",
     "description": "验尸模拟器“是一款带有恐怖元素的拟真游戏，诡异气息无处不在。玩家将扮演杰克，他是一位病理学家。在对一具神秘女尸进行尸检的时候，他在尸体内部发现了一枚订婚戒指，而这枚戒指正属于自己失踪多时的妻子凯特。尸检仍在继续，越来越多的谜团也浮现了出来。为了揭开真相，杰克不得不和自己的内心，以及邪恶力量作斗争。  查阅报告，检视档案，发掘受害者的生平经历 每个人都有着自己的故事。要想做好尸检工作，你就需要从内到外地了解受害者。  经由专家分析的案例 每个案例都是在病理学家和法医的帮助下构思而成的。你将体会到如同亲临其境一般的尸检过程。  讲究细节呈现的器官和案例 我们非常注重真实性。所以呈现在大家面前的人体器官，报告单，伤痕以及案例都会尽可能地体现细节和真实性。  拟真和恐怖游戏的结合 游玩故事模式，体验引人入胜的游戏机制和令人毛骨悚然的时刻，享受紧张刺激的体验。或游玩“仅尸检模式”，扮演病理学新生，再次沉浸在恐怖氛围之中。 ",
     "publisher": "Team17 Digital Ltd",
-    "rate": "3.91",
+    "rate": "3.90",
     "releaseTime": "2/4/2025",
     "platform": "PS5",
     "type": "模拟, 恐怖",
     "category": "制品版游戏",
-    "price": 79.2,
+    "price": 198,
     "priceCurrency": "HKD"
   },
   {
@@ -120645,7 +120654,7 @@
     "fullname": "Space KaBAAM: Neon II (英语)",
     "description": "继续反抗暴政",
     "publisher": "AUTO SLAVIC d.o.o.",
-    "rate": "4.15",
+    "rate": "4.14",
     "releaseTime": "12/5/2025",
     "platform": "PS4, PS5",
     "type": "街机",
@@ -120818,7 +120827,7 @@
     "fullname": "《怪物火车2》 (日语, 韩语, 简体中文, 繁体中文, 英语)",
     "description": "经典Roguelike牌组构建游戏系列再度归来，准备好迎接全新氏族、挑战以及模式！",
     "publisher": "Big Fan",
-    "rate": "4.38",
+    "rate": "4.24",
     "releaseTime": "21/5/2025",
     "platform": "PS5",
     "type": "战略",
@@ -120919,7 +120928,7 @@
     "platform": "PS5",
     "type": "街机, 冒险, 动作",
     "category": "制品版游戏",
-    "price": 31.2,
+    "price": 78,
     "priceCurrency": "HKD"
   },
   {
@@ -120946,7 +120955,7 @@
     "price": 70.2,
     "priceCurrency": "HKD",
     "publisher": "GRINDSTONE, S.R.O.",
-    "rate": "4.34",
+    "rate": "4.35",
     "releaseTime": "15/5/2025",
     "platform": "PS5",
     "type": "家庭, 拼图, 战略"
@@ -121228,12 +121237,12 @@
     "fullname": "Spray Paint Simulator (日语, 韩语, 简体中文, 繁体中文, 英语)",
     "description": "为你的世界增添色彩  在喷漆模拟器中为世界带来色彩！用一层新漆修复破旧的表面，见证它们焕然一新。精准使用喷漆工具，覆盖每一寸表面，享受完美收尾的成就感。走进喷溅镇，建立你自己的喷漆生意。与当地人见面，修复、修理、遮盖并喷涂一切——从厨房和地标建筑到巨型机器人。购买新工具和设备，解锁自由喷涂模式，改造整个小镇。  事前准备与遮盖  要想成为镇上的喷漆高手，必须先证明你的实力。不过不用担心！这里有的是工作，能让你忙个不停。遮盖表面防止喷涂溢色，移除或者修复物体，填补受损区域的颜色，构造完美的喷涂区域。  每一喷都很满足  拿起你的喷涂工具，看着破旧的物品焕发新的色彩，重获新生！感受翻新的快感，跟随喷涂的节奏放松身心，享受每一次重塑物品的乐趣。让旧物焕发新生，在喷涂中尽享欢乐！我们一起喷涂，一起玩耍，让旧物重生！  经营系统轻松简单  经营喷漆业务从未如此有趣！多多留意油漆、遮蔽纸和胶带这些耗材的库存，毕竟没人希望工作半途而废。升级的喷漆工具，加大油漆容量，扩大喷涂范围，增加电池续航。需要帮助？各种梯子和脚手架供你选择，轻松应对高处的喷涂任务。管理用品和设备，让游戏既有策略性，又不失轻松愉快。  释放你的创意  完成客户的订单之后，进入自由喷涂模式！回到已经完成的工程那里，任凭想象力驰骋，随心所欲地喷涂工件和周围环境。各种色彩任你选择，整个小镇都是你的画布。尽情表达自己，享受几个小时的创作乐趣。让泼洒镇成为你的艺术杰作，一喷一画之间展现你的才华！ ",
     "publisher": "Whitethorn Games, Inc.",
-    "rate": "3.54",
+    "rate": "3.55",
     "releaseTime": "29/5/2025",
     "platform": "PS5",
     "type": "模拟",
     "category": "制品版游戏",
-    "price": 81,
+    "price": 108,
     "priceCurrency": "HKD"
   },
   {
@@ -121644,10 +121653,10 @@
     "fullname": "Architect Life: A House Design Simulator (日语, 韩语, 简体中文, 繁体中文, 英语)",
     "category": "制品版游戏",
     "description": "尽情挥洒你的奇思妙想，采用各类材料、结构和物品（尤其是创新建筑工具），实现对建筑的设计和定制，包括每个房间的形状，乃至屋顶明细图。  • 职业模式 –  你掌管一家建筑公司，受托管理公司的现代家居设计项目。根据客户要求和地形特点，给每栋住宅建模，选择分包商，监督施工。所有这些举措都能获得经验值，从而逐步解锁实施这些项目的新元素（新建筑材料和技术，绿色能源等）。   • 自由模式 – 60个不同环境和地形任你挑选，享受充分的创意自由！  • 创新而直观的工具 –  在房间和屋顶图纸中，无论你需要精确测量尺寸和角度，还是创造智能安装阳台和夹层，扩展结构，调整天花板高度，运用多种材料和涂层等等，Architect Life都能提供简单趁手的工具，让你最大限度地发挥创意潜力。  • 设备和配件 –  通过优化供暖设备的数量和布局来管理室内供暖，定制室内装潢，甚至包括家具的颜色。利用绿植和各种设施（游泳池、游乐场等）丰富户外空间。  • 虚拟看房 –   住宅完工后，可随时切换到第一人称视角来审视自己的住宅。调整阳光的位置，检测房间在不同光线下的效果呈现，并在生物群系中欣赏自己作品的同时让身心得到放松。 ",
-    "price": 184.8,
+    "price": 308,
     "priceCurrency": "HKD",
     "publisher": "NACON SA",
-    "rate": "3.00",
+    "rate": "3.01",
     "releaseTime": "19/6/2025",
     "platform": "PS5",
     "type": "模拟"
@@ -121689,12 +121698,12 @@
     "fullname": "Epyka (日语, 韩语, 简体中文, 英语)",
     "description": "踏上探寻世界第一文明失落秘密的史诗之旅！",
     "publisher": "SINGULAR PERCEPTION SRL",
-    "rate": "4.16",
+    "rate": "4.18",
     "releaseTime": "5/6/2025",
     "platform": "PS5",
     "type": "拼图, 冒险",
     "category": "制品版游戏",
-    "price": 78,
+    "price": 46.8,
     "priceCurrency": "HKD"
   },
   {
@@ -121705,10 +121714,10 @@
     "fullname": "神经猫：火速奇兵 (游戏)",
     "description": "神经猫：火速奇兵 Bubsy Paws on Fire - 来自 BIT.TRIP 系列的开发者又一力作！这是最新及最棒的喵喵游戏。  Oinker P. Hamm 决心为他的 “Amazootorium” 捕捉宇宙中每一只动物。Bubsy - 虽然害怕 - 但仍决心阻止他。 两个对手，由命运残酷的织针缝合在一起。 无论谁取得胜利，都可以肯定：沿途会有很多奇怪故事即将发生。  Features  • 四个可游玩角色，均有自己独特技能！像 The Woolie 乌力 一样于空中射击、与 Arnold 阿诺一起遁地进入神秘关卡，或者与 Bubsy 神经猫 及 Virgil 威仔 一起迈向胜利！ • 全新故事情节，Bubsy 神经猫及竞争对手The Woolie 乌力之结盟！ • 三个独特的世界超过100个关卡！ • 与3大头目对战！ • 独特战斗系统及角色排行榜！ • 服装及饰物商店，通过游戏即可免费解锁！ • 关卡独有角色对话！ • 收集各种游戏中珍藏！ • Oinker、Terri、Terry及以往 Bubsy 神经猫化身等角色人物载誉归来！故事紧凑！  Copyright： Published by Accolade. ©2019 Billion Soft Hong Kong Limited. Accolade is a registered trademark of Billion Soft Hong Kong Limited. ©2019 Choice Provisions. All rights reserved. All other trademarks, logos and copyrights are property of their respective owners. ",
     "publisher": "ATARI",
-    "rate": "3.64",
+    "rate": "3.65",
     "releaseTime": "27/5/2019",
     "platform": "PS4",
-    "type": "动作, 冒险, 冒险",
+    "type": "冒险, 动作, 冒险",
     "category": "制品版游戏",
     "price": 198,
     "priceCurrency": "HKD"
@@ -121721,7 +121730,7 @@
     "fullname": "Tainted Grail: The Fall of Avalon (日语, 简体中文, 繁体中文, 英语)",
     "category": "制品版游戏",
     "description": "走进《污痕圣杯：阿瓦隆的陨落》的世界，在这款成熟的第一人称视角开放世界RPG中，你将见证一个将亚瑟王传说重新诠释的黑暗世界。 探索错综复杂的主线剧情，自亚瑟王的统治结束已经过去整整600年，在经历了无尽的纷争之后，你终于有机会重塑他留下的遗产。 这款游戏是一封献给开放世界第一人称RPG的情书。 ________________________________________ 关键特色 ●\t海量游戏内容：在三个广阔区域中享受50-70小时的精彩游戏。  ●\t错综复杂的叙事：引人入胜的主线剧情与数百个支线任务，结交无数个性鲜明而且拥有配音对话的角色。  ●\t自由的游玩风格：利用不计其数的搭配来打造属于自己的独特游玩体验：组合不同的属性、技能与装备来创造你最喜欢的配置。 ________________________________________ 探索阿瓦隆的秘密 阿瓦隆将带来数不尽的奥秘与发现：隐藏物品、秘密剧情、独特敌人、地牢、任务以及有趣的NPC角色。随心所欲自由探索，在这款货真价实的开放世界中开辟自己的道路。 ________________________________________ 灵活的战斗体验 无缝切换近战武器、盾牌、弓箭、魔法、投掷物、混合物以及其他物品。利用闪避、招架与格挡化险为夷。尝试独一无二的终极战斗风格，想方设法战胜各方强敌。 ________________________________________ 你的游戏你做主 凭借琳琅满目的属性、特性、装备以及制作选择，随心所欲塑造想要的游戏风格。 想成为一个疯狂的炼金术士狂战士，近身肉搏？行。 或者是一个可以召唤亡灵大军的神秘铁匠法师？没问题。 还是一名徘徊于阴影之中的潜行弓箭手？无需多言，这款游戏绝对能让所有潜行弓狂热分子心满意足。 ________________________________________ 黑暗却美丽的世界 领略三个截然不同的区域，见证形形色色的任务、NPC角色、物品以及更多内容： ●\t迷雾重重的Horns of the South  ●\t阳光明媚的Cuanacht Village  ●\tForlorn Swords冰封山巅  ________________________________________ 融入这个世界 在阿瓦隆这个栩栩如生的世界中，你的旅程永远不会乏味。参与包括素描绘画、钓鱼、耕种、锻造、炼金、烹饪、采矿、房屋管理在内的丰富活动。 ________________________________________ 面对黑夜中的Wyrdness 夜幕降临，混沌的原始力量Wyrdness踏上这片大地，扭曲现实的本质。敌人们将变得更加凶狠，一旦犹豫犯错便会追悔莫及。杀戮或者被杀。 ________________________________________ 游走在道德灰色地带的深邃故事 面对难以抉择的道德困境，这些艰难的抉择将考验你的人格并塑造阿瓦隆的未来。跟随亚瑟·潘德拉贡国王的黑暗遗产，结交超过250名NPC角色并挑战200支线任务。 ",
-    "price": 348,
+    "price": 139.2,
     "priceCurrency": "HKD",
     "publisher": "AR Digital Sp. z o.o.",
     "rate": "4.29",
@@ -121758,7 +121767,7 @@
     "platform": "PS5",
     "type": "街机, 休闲",
     "category": "制品版游戏",
-    "price": 26.6,
+    "price": 38,
     "priceCurrency": "HKD"
   },
   {
@@ -121785,10 +121794,10 @@
     "fullname": "Magnitude: Eta (英语)",
     "category": "制品版游戏",
     "description": "异常的战斗开始了",
-    "price": 18,
+    "price": 6.3,
     "priceCurrency": "HKD",
     "publisher": "AUTO SLAVIC d.o.o.",
-    "rate": "4.35",
+    "rate": "4.32",
     "releaseTime": "22/5/2025",
     "platform": "PS4, PS5",
     "type": "街机"
@@ -121881,7 +121890,7 @@
     "fullname": "The Night of the Rabbit (日语, 韩语, 简体中文, 繁体中文, 英语)",
     "description": "沉浸在魔法和奇迹的故事中",
     "publisher": "DAEDALIC ENTERTAINMENT",
-    "rate": "4.32",
+    "rate": "4.33",
     "releaseTime": "4/6/2025",
     "platform": "PS4, PS5",
     "type": "冒险",
@@ -121902,7 +121911,7 @@
     "platform": "PS5",
     "type": "模拟",
     "category": "制品版游戏",
-    "price": 38,
+    "price": 26.6,
     "priceCurrency": "HKD"
   },
   {
@@ -121913,10 +121922,10 @@
     "fullname": "Quisisana (英语)",
     "category": "制品版游戏",
     "description": "你能活下来并揭开真相吗？",
-    "price": 108,
+    "price": 91.8,
     "priceCurrency": "HKD",
     "publisher": "Domynyo S.r.l.",
-    "rate": "2.31",
+    "rate": "2.29",
     "releaseTime": "23/5/2025",
     "platform": "PS5",
     "type": "恐怖, 角色扮演游戏, 冒险"
@@ -121929,7 +121938,7 @@
     "fullname": "Firefighting Simulator: Ignite (日语, 韩语, 简体中文, 繁体中文, 英语)",
     "description": "团结一心，共同抗火。",
     "publisher": "astragon Entertainment GmbH",
-    "rate": "4.03",
+    "rate": "4.02",
     "releaseTime": "9/9/2025",
     "platform": "PS5",
     "type": "模拟",
@@ -122144,7 +122153,7 @@
     "fullname": "Date Everything! (英语)",
     "description": "找到心仪的对象",
     "publisher": "Team17 Digital Ltd",
-    "rate": "4.11",
+    "rate": "4.08",
     "releaseTime": "16/6/2025",
     "platform": "PS5",
     "type": "模拟",
@@ -128065,7 +128074,7 @@
     "fullname": "Alien Rush (英语)",
     "category": "制品版游戏",
     "description": "击败外星人潮并坚持到最后战胜对手！",
-    "price": 26.6,
+    "price": 38,
     "priceCurrency": "HKD",
     "publisher": "Smobile",
     "rate": "4.48",
@@ -128190,7 +128199,7 @@
     "fullname": "Gladiator Simulator: Arena of Freedom (英语)",
     "category": "制品版游戏",
     "description": "你准备好在角斗士竞技场中面对你的命运了吗？",
-    "price": 54,
+    "price": 108,
     "priceCurrency": "HKD",
     "publisher": "Kebin Ntena Trading as Dragon Path",
     "rate": "1.65",
@@ -128491,10 +128500,10 @@
     "fullname": "Luto (日语, 韩语, 简体中文, 繁体中文, 英语)",
     "category": "制品版游戏",
     "description": "这是关于死亡的故事。",
-    "price": 88.8,
+    "price": 148,
     "priceCurrency": "HKD",
     "publisher": "SELECTAVISION, S.L.U.",
-    "rate": "4.44",
+    "rate": "4.45",
     "releaseTime": "21/7/2025",
     "platform": "PS5",
     "type": "恐怖"
@@ -128603,7 +128612,7 @@
     "fullname": "Rookie Basketball Shoots (英语)",
     "category": "制品版游戏",
     "description": "迈出一步。锁定目标。投篮制胜。",
-    "price": 78,
+    "price": 54.6,
     "priceCurrency": "HKD",
     "publisher": "Benoit Varasse trading as Pix Arts",
     "rate": "1.69",
@@ -132987,7 +132996,7 @@
     "platform": "PS4",
     "type": "战略",
     "category": "制品版游戏",
-    "price": 198,
+    "price": 138.6,
     "priceCurrency": "HKD"
   },
   {
@@ -133017,7 +133026,7 @@
     "price": 308,
     "priceCurrency": "HKD",
     "publisher": "DAEWON MEDIA CO., LTD.",
-    "rate": "2.67",
+    "rate": "2.66",
     "releaseTime": "27/8/2025",
     "platform": "PS5",
     "type": "动作"
@@ -133158,7 +133167,7 @@
     "fullname": "红色的炼金术士和白色的守护者 ～蕾斯莱莉娅娜的炼金工房～ (日语, 韩语, 简体中文, 繁体中文)",
     "category": "制品版游戏",
     "description": "向探寻未来的旅途，迈步前进吧。",
-    "price": 478,
+    "price": 272.46,
     "priceCurrency": "HKD",
     "publisher": "KOEI TECMO GAMES CO., LTD.",
     "rate": "4.62",
@@ -133174,7 +133183,7 @@
     "fullname": "死亡面具: 雪凤山杀人剧场 (日语, 简体中文, 繁体中文, 英语)",
     "category": "制品版游戏",
     "description": "神秘面具下，是驱邪仪式，还是连环杀人的舞台？",
-    "price": 39,
+    "price": 78,
     "priceCurrency": "HKD",
     "publisher": "HAPPY PLAYER PTE. LTD.",
     "rate": "3.50",
@@ -133206,12 +133215,12 @@
     "fullname": "阴郁之眸 (日语, 韩语, 简体中文, 繁体中文, 英语)",
     "description": "惬意的诡异，“自我合作”的探索，令人舒适的蒂姆·波顿风格画面",
     "publisher": "Untold Tales S.A.",
-    "rate": "4.61",
+    "rate": "4.62",
     "releaseTime": "11/9/2025",
     "platform": "PS5",
     "type": "冒险",
     "category": "制品版游戏",
-    "price": 198,
+    "price": 99,
     "priceCurrency": "HKD"
   },
   {
@@ -133222,10 +133231,10 @@
     "fullname": "40 Sports Games in 1 (英语)",
     "category": "制品版游戏",
     "description": "《40 Sports Games in 1》是游戏主机上的终极体育游戏合集！",
-    "price": 23.8,
+    "price": 238,
     "priceCurrency": "HKD",
     "publisher": "Maximum Entertainment France SAS",
-    "rate": "2.50",
+    "rate": "2.63",
     "releaseTime": "28/8/2025",
     "platform": "PS4, PS5",
     "type": "运动"
@@ -133238,7 +133247,7 @@
     "fullname": "Cat in Rain (英语)",
     "category": "制品版游戏",
     "description": "奇幻的猫咪冒险",
-    "price": 15.2,
+    "price": 38,
     "priceCurrency": "HKD",
     "publisher": "Phoenix Reborn Games",
     "rate": "3.78",
@@ -133257,7 +133266,7 @@
     "price": 108,
     "priceCurrency": "HKD",
     "publisher": "Kebin Ntena Trading as Dragon Path",
-    "rate": "1.52",
+    "rate": "1.49",
     "releaseTime": "28/8/2025",
     "platform": "PS4",
     "type": "休闲, 模拟, 战略"
@@ -133307,7 +133316,7 @@
     "platform": "PS4, PS5",
     "type": "冒险, 冒险",
     "category": "制品版游戏",
-    "price": 108,
+    "price": 64.8,
     "priceCurrency": "HKD"
   },
   {
@@ -133334,10 +133343,10 @@
     "fullname": "Retro Racers (英语)",
     "category": "制品版游戏",
     "description": "燃起你的怀旧之情！",
-    "price": 19,
+    "price": 38,
     "priceCurrency": "HKD",
     "publisher": "Revolt Games SRL",
-    "rate": "2.56",
+    "rate": "2.61",
     "releaseTime": "28/8/2025",
     "platform": "PS5",
     "type": "驾驶/赛车, 休闲"
@@ -133350,7 +133359,7 @@
     "fullname": "SWORN (日语, 韩语, 简体中文, 繁体中文, 英语)",
     "category": "制品版游戏",
     "description": "探索没落的卡美洛",
-    "price": 59.5,
+    "price": 238,
     "priceCurrency": "HKD",
     "publisher": "Team17 Digital Ltd",
     "rate": "4.35",
@@ -133427,7 +133436,7 @@
     "fullname": "Battle of Rebels (日语, 韩语, 简体中文, 繁体中文, 英语)",
     "category": "制品版游戏",
     "description": "在这款激烈的跨平台第一人称射击游戏中与僵尸和外星人作战",
-    "price": 67,
+    "price": 268,
     "priceCurrency": "HKD",
     "publisher": "FUNBOX MEDIA LIMITED",
     "rate": "2.31",
@@ -133616,10 +133625,10 @@
     "fullname": "Friends vs Friends (日语, 韩语, 简体中文, 英语)",
     "category": "制品版游戏",
     "description": "加入1v1、2v2、3v3或是全员大混战，在快节奏氛围中大闹一场！提升玩家等级，获得全新卡牌，加强已有卡牌，逐渐掌握一众脱线角色的独特被动技能。你问我好在哪里？花点小钱，你那些损友有一个算一个，都可以请来嗨一场！无副作用的那种哦！  推荐使用加速器来获得更稳定的线上联机体验！  ●好友照样来掰头：在1v1或2v2战斗中匹配世界各地的玩家，亦可直接组织私人比赛，与好友比拼。需要有人撑腰？那就邀请朋友来观战！ ●角色丰富迷人眼：超酷角色任君选择，各自都身怀绝技，合理搭配牌组即可发挥一加一大于二的强大效果。 ●超低的价格超高的质量=还有这种好事？！：为了提升凝聚力，我们尽最大努力一碗水端平，创造公平的竞技环境，无脑来玩就是了！ ●不断磨炼，惊艳全场：参与匹配战与限时挑战，即可不断升级，获得全新卡牌和武器。  ●构筑牌组乐趣多：收集各类武器、陷阱和诅咒卡牌，通过升级提升其实力。 ●更新与季度内容：本体发售后也会持续更新角色、卡牌、地图和基地升级相关内容。 ●是谁能打又会穿：解锁让人眼花缭乱的皮肤和卡牌设计，酷炫装饰就要秀出来！ ●勤学苦练是正道：在人机切磋中尝试全新卡牌连击，磨练技艺，以备不时之需。 ",
-    "price": 39,
+    "price": 78,
     "priceCurrency": "HKD",
     "publisher": "RAW FURY",
-    "rate": "4.14",
+    "rate": "4.15",
     "releaseTime": "1/9/2025",
     "platform": "PS5",
     "type": "射击, 休闲"
@@ -133632,12 +133641,12 @@
     "fullname": "Tommy is my hero! PS4 & PS5 (韩语, 简体中文, 英语)",
     "description": "耐莉需要你的帮助。",
     "publisher": "Andrey Paramonov",
-    "rate": "3.94",
+    "rate": "3.97",
     "releaseTime": "27/10/2023",
     "platform": "PS5",
     "type": "街机",
     "category": "制品版游戏",
-    "price": 9,
+    "price": 18,
     "priceCurrency": "HKD"
   },
   {
@@ -133667,7 +133676,7 @@
     "price": 18,
     "priceCurrency": "HKD",
     "publisher": "AUTO SLAVIC d.o.o.",
-    "rate": "4.17",
+    "rate": "4.19",
     "releaseTime": "1/9/2025",
     "platform": "PS4, PS5",
     "type": "街机"
@@ -133680,7 +133689,7 @@
     "fullname": "烂奶酪 (Bad Cheese) (日语, 韩语, 简体中文, 繁体中文, 英语)",
     "category": "制品版游戏",
     "description": "一部心理恐怖片，灵感来自 20 世纪 20 年代动画的诡异魅力。",
-    "price": 100,
+    "price": 50,
     "priceCurrency": "HKD",
     "publisher": "FEARDEMIC SP. Z O.O.",
     "rate": "4.00",
@@ -133728,7 +133737,7 @@
     "fullname": "Mythwrecked: Ambrosia Island (英语)",
     "category": "制品版游戏",
     "description": "你是新手背包客阿列克丝，辛苦了很长时间，终于找到机会远离现代生活，好好休息休息。谁知途中轮船突然失事，令你来到了仙馔密酒岛——这个神秘的地方景色秀美，阳光明媚，而且早已被世人遗忘。这里住着希腊神话的诸位神祇，毕竟他们确实存在于世，只是现在遇到了身份危机。   开启阳光灿烂的“交朋友”冒险，看你能否发现仙馔密酒岛各处的秘密。 ",
-    "price": 198,
+    "price": 108.9,
     "priceCurrency": "HKD",
     "publisher": "Whitethorn Games, Inc.",
     "rate": "4.14",
@@ -133776,7 +133785,7 @@
     "fullname": "Animal Kingdom 3 (英语)",
     "description": "令人惊叹的隐藏物体追求动物世界！",
     "publisher": "OCEAN MEDIA LLC",
-    "rate": "3.56",
+    "rate": "3.41",
     "releaseTime": "2/9/2025",
     "platform": "PS5",
     "type": "冒险",
@@ -133797,7 +133806,7 @@
     "platform": "PS5",
     "type": "恐怖, 冒险",
     "category": "制品版游戏",
-    "price": 118.8,
+    "price": 198,
     "priceCurrency": "HKD"
   },
   {
@@ -133811,7 +133820,7 @@
     "price": 78,
     "priceCurrency": "HKD",
     "publisher": "OCEAN MEDIA LLC",
-    "rate": "4.36",
+    "rate": "4.38",
     "releaseTime": "2/9/2025",
     "platform": "PS5",
     "type": "冒险"
@@ -133824,12 +133833,12 @@
     "fullname": "Hot Wheels Let's Race™: Ultimate Speed (英语)",
     "description": "接受挑战！",
     "publisher": "GAMEMILL ENTERTAINMENT",
-    "rate": "3.33",
+    "rate": "3.37",
     "releaseTime": "23/10/2025",
     "platform": "PS5",
     "type": "驾驶/赛车",
     "category": "制品版游戏",
-    "price": 92.4,
+    "price": 308,
     "priceCurrency": "HKD"
   },
   {
@@ -133938,7 +133947,7 @@
     "platform": "PS5",
     "type": "模拟, 冒险",
     "category": "制品版游戏",
-    "price": 148,
+    "price": 74,
     "priceCurrency": "HKD"
   },
   {
@@ -133965,12 +133974,12 @@
     "fullname": "Platypus Reclayed (粘土战机 重塑版) (泰语, 日语, 韩语, 简体中文, 繁体中文, 英语)",
     "description": "重获。重制。重塑。传奇的Platypus归来！",
     "publisher": "Claymatic Games Ltd",
-    "rate": "4.65",
+    "rate": "4.66",
     "releaseTime": "17/9/2025",
     "platform": "PS4, PS5",
     "type": "射击",
     "category": "制品版游戏",
-    "price": 54,
+    "price": 108,
     "priceCurrency": "HKD"
   },
   {
@@ -133981,7 +133990,7 @@
     "fullname": "The Nameless City (英语)",
     "category": "制品版游戏",
     "description": "叙事驱动的第一人称恐怖冒险，灵感来自洛夫克拉夫特的短篇小说。",
-    "price": 78,
+    "price": 31.2,
     "priceCurrency": "HKD",
     "publisher": "EVGENIY KOLPAKOV",
     "rate": "4.23",
@@ -134002,7 +134011,7 @@
     "platform": "PS4",
     "type": "冒险, 音乐/节奏, 冒险",
     "category": "制品版游戏",
-    "price": 238,
+    "price": 119,
     "priceCurrency": "HKD"
   },
   {
@@ -134013,7 +134022,7 @@
     "fullname": "Becastled (日语, 简体中文, 繁体中文, 英语)",
     "description": "在白天打造你的城堡，并在夜幕降临时守护它。Becastled结合了温馨的城市建设与刺激的塔防策略。带领太阳王国迎战月之魔兽，为光与暗之间的古老冲突写下最终章！",
     "publisher": "Pingle Studio Ltd",
-    "rate": "3.59",
+    "rate": "3.61",
     "releaseTime": "23/10/2025",
     "platform": "PS5",
     "type": "战略",
@@ -134045,12 +134054,12 @@
     "fullname": "Baki Hanma: Blood Arena PS4 & PS5 (日语, 韩语, 简体中文, 繁体中文, 英语)",
     "description": "踏入范马刃牙的战斗之路，在这款充满动感的 2D 动漫格斗游戏中展开激战。",
     "publisher": "eastasiasoft",
-    "rate": "3.73",
+    "rate": "3.75",
     "releaseTime": "24/9/2025",
     "platform": "PS4, PS5",
     "type": "格斗, 冒险, 运动",
     "category": "制品版游戏",
-    "price": 238,
+    "price": 119,
     "priceCurrency": "HKD"
   },
   {
@@ -134061,7 +134070,7 @@
     "fullname": "Baseless (日语, 韩语, 简体中文, 繁体中文, 英语)",
     "description": "射击 = 移动！",
     "publisher": "FirstBlood Technologies, Inc.",
-    "rate": "4.86",
+    "rate": "4.78",
     "releaseTime": "4/12/2025",
     "platform": "PS5",
     "type": "射击, 动作",
@@ -134077,12 +134086,12 @@
     "fullname": "Hidden Cats in Tokyo (日语, 英语)",
     "description": "东京的猫猫需要英雄——那个英雄就是你！",
     "publisher": "SILESIA GAMES SP. Z O.O.",
-    "rate": "4.55",
+    "rate": "4.54",
     "releaseTime": "17/9/2025",
     "platform": "PS5",
     "type": "拼图, 休闲, 冒险",
     "category": "制品版游戏",
-    "price": 19,
+    "price": 38,
     "priceCurrency": "HKD"
   },
   {
@@ -134097,7 +134106,7 @@
     "priceCurrency": "HKD",
     "publisher": "4Divinity Pte Ltd",
     "rate": "4.43",
-    "releaseTime": "2025/9/3",
+    "releaseTime": "3/9/2025",
     "platform": "PS5",
     "type": "角色扮演游戏, 动作"
   },
@@ -134113,7 +134122,7 @@
     "priceCurrency": "HKD",
     "publisher": "Prophecy Games, Inc.",
     "rate": "4.56",
-    "releaseTime": "2025/9/3",
+    "releaseTime": "3/9/2025",
     "platform": "PS5",
     "type": "射击"
   },
@@ -134129,7 +134138,7 @@
     "priceCurrency": "HKD",
     "publisher": "Bandai Namco Entertainment",
     "rate": "4.70",
-    "releaseTime": "2025/10/29",
+    "releaseTime": "29/10/2025",
     "platform": "PS5",
     "type": "角色扮演游戏, 动作"
   },
@@ -134141,11 +134150,11 @@
     "fullname": "007 First Light (日语, 韩语, 简体中文, 繁体中文, 英语)",
     "category": "制品版游戏",
     "description": "跟随年轻、机智但偶尔鲁莽的詹姆斯·邦德的脚步，他是军情六处训练项目中的新兵，一起探索这位世界最著名间谍的起源故事。 在展现出英勇行为后，年轻的海军机组人员詹姆斯·邦德获邀加入新重启的“00”项目。但随后一场阻止叛逆特工的任务以悲剧告终，他也因此必须与不情愿的导师格林威联手，揭露深层阴谋，阻止即将到来且涉及国家根本的政变。  成为007  探索全新独立、重新构想的詹姆斯·邦德起源故事，看看是什么事件让这位大胆的年轻英雄成为最优秀的军情六处特工。  惊险刺激的间谍冒险  在风景壮阔的地点执行任务，驾驶经典载具，沉浸在电影般的冒险中，追捕总是领先一步的叛逆特工。  按自己的方式扮演间谍 保持安静或大开杀戒。无论是肉搏战斗，火力全开，使用小工具悄悄潜入，还是虚张声势逼守卫放行，方法完全由你决定。  欢迎来到军情六处  考验自己的本领，使用额外的改动功能重玩你最喜欢的任务，享受无尽的间谍乐趣！ ",
-    "price": 327.6,
+    "price": 468,
     "priceCurrency": "HKD",
     "publisher": "IO INTERACTIVE",
     "rate": "4.59",
-    "releaseTime": "2026/5/26",
+    "releaseTime": "26/5/2026",
     "platform": "PS5",
     "type": "冒险, 动作"
   },
@@ -134189,10 +134198,10 @@
     "fullname": "Candylands Journey (英语)",
     "category": "制品版游戏",
     "description": "踏上旅程，归还魔法水晶并惩罚邪恶女巫！",
-    "price": 78,
+    "price": 19.5,
     "priceCurrency": "HKD",
     "publisher": "EVGENIY KOLPAKOV",
-    "rate": "4.19",
+    "rate": "4.24",
     "releaseTime": "3/9/2025",
     "platform": "PS5",
     "type": "冒险"
@@ -134317,7 +134326,7 @@
     "fullname": "The Kangaroo Conspiracy DX (英语)",
     "category": "制品版游戏",
     "description": "复古平台跳跃邂逅荒诞冒险，终极电影改编游戏恶搞",
-    "price": 19.5,
+    "price": 78,
     "priceCurrency": "HKD",
     "publisher": "Tunermaxx Media GmbH",
     "rate": "4.77",
@@ -142540,7 +142549,7 @@
     "price": 280.8,
     "priceCurrency": "HKD",
     "publisher": "Ubisoft",
-    "rate": "4.10",
+    "rate": "4.09",
     "releaseTime": "12/11/2025",
     "platform": "PS5",
     "type": "战略"
@@ -142681,7 +142690,7 @@
     "fullname": "Samurai Academy: Paws of Fury (英语)",
     "description": "村落Kakamucho正在遭受Shogun忍者猫军团的攻击！作为猫咪世界中的一只武士狗，Hank和他的朋友们奋起反抗。快来加入Hank，与他们一同拆穿邪恶的阴谋，像武士一样化解危机。在这场逗比欢乐的第三人称动作冒险中一起砍杀、冲刺和欢笑！  故事 正当Hank和Jimbo以为纷争结束时，他们又被卷入到了一场新的战斗中，这一次是对抗强大的Shogun本尊。没错，Paws of Fury的领袖神秘地改变了心意。他想要打败这对风风火火的组合，并用他的猫咪军团摧毁Hank和Jimbo保护的村落。现在，将由你来掌握武士技能，保护Kakamucho村落，营救Hank的他的朋友，发现真正的幕后黑手。  成为一名真正的武士 • 在难度逐步增加的武士训练中证明你的技能，磨炼出神速的反射弧 • 学习神秘的技能，在环境中快速穿梭，将敌人打个措手不及 • 使用各种道具和武器，抵御一波又一波来势汹汹的敌人  保护原生态部落 • 保护Kakamucho、Dookiehill和Pippishore的古寺，抵挡强大敌人的侵袭，包括忍者伏兵、维京战士、火箭飞行精锐部队 • 使用意想不到的陷阱来造成巨大伤害，将Shogun的小兵打个措手不及 • 和Paws of Fury中的人气角色组队，让他们独特的技能在大战中助你一臂之力  探索一个逗比欢乐且五彩斑斓的世界 • 在充满各种惊喜的绚丽动画世界中，深入Kakamucho村落及更多不同的地方展开冒险 • 随着冒险不断深入，解锁全新地图、道具和可操控角色 • 从精灵古怪的当地人和新老朋友身上发现并完成副线任务，获取声望、奖励和财宝  发现邪恶的阴谋 • 跟随《Paws of Fury The Legend of Hank》中的事件，体验一段充实的故事 • 跟随过场动画，会见老朋友，结识新伙伴 • 营救伙伴，团结村落，集结盟友，挫败邪恶的阴谋，化解帝国危机，成为一名传奇英雄！  所有人都能皮一下的武士游戏 • 全年龄段玩家都能上手又好玩的游戏 • 和好友一起挑战完成武士训练 • 分屏合作模式体验本地多玩家游戏：与另一名玩家一同体验整个冒险 ",
     "publisher": "Maximum Entertainment France SAS",
-    "rate": "4.89",
+    "rate": "4.90",
     "releaseTime": "20/11/2025",
     "platform": "PS5",
     "type": "家庭",
@@ -142790,7 +142799,7 @@
     "fullname": "A.I.L.A (日语, 韩语, 简体中文, 英语)",
     "description": "在虚拟与现实的界限逐渐模糊之际，从极致恐怖经历中存活下来",
     "publisher": "Fireshine Games",
-    "rate": "4.39",
+    "rate": "4.38",
     "releaseTime": "25/11/2025",
     "platform": "PS5",
     "type": "恐怖",
@@ -143044,7 +143053,7 @@
     "fullname": "Tomb Raider: Anniversary PS4 & PS5 (日语, 英语)",
     "category": "制品版游戏",
     "description": "在《古墓丽影：周年纪念版》中，劳拉·克劳馥将再次踏上开创性探险之旅。",
-    "price": 14.8,
+    "price": 148,
     "priceCurrency": "HKD",
     "publisher": "CRYSTAL DYNAMICS",
     "rate": "4.57",
@@ -143137,7 +143146,7 @@
     "fullname": "The Rise (日语, 简体中文, 英语)",
     "category": "制品版游戏",
     "description": "帮助山姆和艾丽西完成充满挑战的深渊之旅。这是一款史诗般的 2D 精密平台游戏，探索未知、克服障碍和发现秘密是到达深渊顶端的关键。冒险在等着你！  登顶之旅 山姆和艾丽西有一个共同的目标，那就是登上顶峰。在这段深渊之旅中，两人需要相互理解，因为他们要面对各种挑战和阻碍他们前进的生物。  什么是《崛起 The Rise》是一款精密平台游戏，主要讲述两个角色为逃离他们所处的恐怖深渊而进行的冒险。  谁是山姆和艾丽西 山姆是一只年长的兔子，他穿着一件带有吊坠的斗篷，吊坠似乎有某种力量，显然他依赖它。艾丽西是最小的兔子，在做了一个奇怪的梦后，她在一个不记得的地方醒了过来。有什么东西在召唤她去山顶，那会是回家的路吗？  探索深渊，迎接挑战 60 多个关卡 与强大敌人作战 极具挑战性的游戏玩法 环境多样性 胡萝卜  机不可失，时不再来。深呼吸，再次攀爬。 ",
-    "price": 39,
+    "price": 78,
     "priceCurrency": "HKD",
     "publisher": "GoGo Games Studio LTDA",
     "rate": "4.00",
@@ -143368,7 +143377,7 @@
     "fullname": "R-Type Delta: HD Boosted (日语, 韩语, 简体中文, 繁体中文)",
     "category": "制品版游戏",
     "description": "「R」系列屈指的名作，以高精细3D画面进化！　如今再次出击",
-    "price": 118.8,
+    "price": 198,
     "priceCurrency": "HKD",
     "publisher": "H2 Interactive Co., Ltd.",
     "rate": "4.63",
@@ -143421,7 +143430,7 @@
     "platform": "PS4, PS5",
     "type": "驾驶/赛车, 动作",
     "category": "制品版游戏",
-    "price": 74,
+    "price": 148,
     "priceCurrency": "HKD"
   },
   {
@@ -143659,7 +143668,7 @@
     "price": 228,
     "priceCurrency": "HKD",
     "publisher": "Ubisoft",
-    "rate": "2.59",
+    "rate": "2.60",
     "releaseTime": "25/9/2024",
     "platform": "PS4, PS5",
     "type": "派对, 休闲"
@@ -143736,7 +143745,7 @@
     "fullname": "Cube KaBAAM (英语)",
     "category": "制品版游戏",
     "description": "立方体即将毁灭",
-    "price": 6.3,
+    "price": 18,
     "priceCurrency": "HKD",
     "publisher": "AUTO SLAVIC d.o.o.",
     "rate": "3.98",
