@@ -9,9 +9,11 @@ if(at<0||!process.argv[at+1])throw Error('Expected --dir <generated site>');
 const root=path.resolve(here,process.argv[at+1]);
 const regions=['zh-hans-hk','ja-jp','en-us','en-gb','ko-kr'];
 const html=relative=>fs.readFileSync(path.join(root,relative),'utf8');
-const base='/PSGameSpider/';
+const baseArg=process.argv.indexOf('--base-path');
+const base=baseArg>=0?process.argv[baseArg+1]:'/PSGameSpider/';
+assert.match(base,/^\/(?:[a-zA-Z0-9_-]+\/)*$/);
 const homeRedirect=html('index.html');
-assert.match(homeRedirect,/url=\/PSGameSpider\/zh-hans-hk/);
+assert.ok(homeRedirect.includes('url='+base+'zh-hans-hk'),'correct locale redirect');
 assert.equal(fs.existsSync(path.join(root,'assets/css/style.css')),true);
 assert.equal(fs.existsSync(path.join(root,'assets/js/psgs-cover-state.js')),true);
 assert.equal(fs.existsSync(path.join(root,'assets/js/psgs-static-search.js')),true);
@@ -24,7 +26,7 @@ for(const region of regions){
   assert.ok(home.includes('psgsSearch(\''+region+'\', name)'),region+' static search');
   assert.ok(home.includes('https://i.ravelloh.com/raw.githubusercontent.com/RavelloH/PSGameSpider/main/origin/images/'),region+' covers');
   assert.ok(home.includes('srcset='),region+' responsive covers');
-  assert.ok(!home.includes(base+'PSGameSpider/'),region+' doubled base path');
+  assert.ok(!home.includes('href="'+base+'PSGameSpider/') && !home.includes('src="'+base+'PSGameSpider/'),region+' incorrect base path');
   assert.ok(!home.includes('noindex,nofollow'),region+' production should be indexed');
   assert.ok(!home.includes('127.0.0.1:4173'),region+' localhost leakage');
   assert.ok(home.includes('id="page-dest"'),region+' original virgule target');
@@ -39,7 +41,7 @@ for(const region of regions){
   assert.ok(detail.includes('https://i.ravelloh.com/raw.githubusercontent.com/'),region+' detail cover');
   assert.ok(detail.includes('srcset=')&&detail.includes('sizes='),region+' responsive detail cover');
   assert.ok(detail.includes(base+'assets/js/psgs-cover-state.js'),region+' image placeholders');
-  assert.ok(!detail.includes(base+'PSGameSpider/'),region+' doubled detail path');
+  assert.ok(!detail.includes('href="'+base+'PSGameSpider/') && !detail.includes('src="'+base+'PSGameSpider/'),region+' incorrect detail base path');
   assert.ok(!detail.includes('127.0.0.1:4173'),region+' localhost detail');
   for(const dir of dirs){
     const full=path.join(root,region,dir.name);

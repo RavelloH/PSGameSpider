@@ -58,11 +58,11 @@ jobs:
 
       - name: Generate five-region original static site
         working-directory: experiments/legacy-render-node
-        run: node build.mjs --data ../output/pages-data --output ../output/pages-site --publish
+        run: node build.mjs --data ../output/pages-data --output ../output/pages-site --publish --base-path / --site-url https://psgamespider.ravelloh.top/
 
       - name: Validate generated routes, images and search
         working-directory: experiments/legacy-render-node
-        run: node smoke-pages.mjs --dir ../output/pages-site
+        run: node smoke-pages.mjs --dir ../output/pages-site --base-path /
 
       - name: Setup GitHub Pages
         uses: actions/configure-pages@v5

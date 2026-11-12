@@ -1,6 +1,6 @@
 # PSGameSpider · 原版 RenderBuild / Node.js 静态站点
 
-GitHub Pages: https://ravelloh.github.io/PSGameSpider/
+GitHub Pages 自定义域名：https://psgamespider.ravelloh.top/
 
 本项目发布版保留原版 `render-build@0.4.0`、`template/layout.html`、`index.ejs`、`item.ejs`、原有字体、CSS、Virgule 动画和 D3 图表；不使用 React/Shadcn，不压缩或省略游戏详情和价格历史。
 
@@ -19,7 +19,7 @@ GitHub Pages: https://ravelloh.github.io/PSGameSpider/
 5. `smoke-pages.mjs` 核对所有地区索引、游戏详情页、图片 URL、静态搜索和脚本。
 6. `configure-pages` → `upload-pages-artifact` → `deploy-pages`。
 
-GitHub Pages 项目路径是 `/PSGameSpider/`；发布 HTML、资源链接和搜索结果链接均使用此路径。默认的 `serve.mjs` 仍可为原本 4173 本机预览服务。
+正式自定义域名使用根路径 `/`（`--base-path / --site-url https://psgamespider.ravelloh.top/`），因此全部发布 HTML、搜索、资源和详情页链接都从域名根路径加载。`ravelloh.github.io/PSGameSpider/` 由 GitHub Pages 重定向到新的自定义域名。默认 `serve.mjs` 仍可在 4173 提供本机预览。
 
 ## CDN 封面
 
@@ -51,19 +51,19 @@ npm ci
 npm test
 npm run sync:assets
 node prepare-data.mjs --output ../output/pages-data
-node build.mjs --data ../output/pages-data --output ../output/pages-site --publish
-node smoke-pages.mjs --dir ../output/pages-site
+node build.mjs --data ../output/pages-data --output ../output/pages-site --publish --base-path / --site-url https://psgamespider.ravelloh.top/
+node smoke-pages.mjs --dir ../output/pages-site --base-path /
 ```
 
 每次构建必须使用**不存在**的新输出目录；全部构建产物均位于 `experiments/output/`（gitignored）。
 
-预览 `/PSGameSpider/` 子路径：
+预览自定义域名对应的 `/` 根路径：
 
 ```powershell
-node serve.mjs --root ../output/pages-site --port 4179 --base-path /PSGameSpider/
+node serve.mjs --root ../output/pages-site --port 4179 --base-path /
 ```
 
-打开 `http://127.0.0.1:4179/PSGameSpider/en-us`。对照原版仍可使用之前的 `npm run serve`，监听 `127.0.0.1:4173`。
+打开 `http://127.0.0.1:4179/en-us`。对照原版仍可使用之前的 `npm run serve`，监听 `127.0.0.1:4173`。
 
 `render-build-layout.html` 是原版 render-build 完成 EJS 组件展开后的固定布局快照，保障 GitHub Actions 环境稳定，不依赖旧版静态布局 URL 在每次构建时都可用。原版字体/样式则通过 `sync-assets.mjs` 下载。
 
