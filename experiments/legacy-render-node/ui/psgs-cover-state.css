@@ -1,0 +1,114 @@
+/*
+ * Additional image-state presentation for the original PSGameSpider UI.
+ * Keeps the original Furore type, square covers, radius, colours and zoom.
+ * Does not replace style.css or modify the old EJS templates.
+ */
+.square-img-box-img,
+.info-img {
+    position: relative;
+    isolation: isolate;
+    overflow: hidden;
+    background: radial-gradient(circle at 50% 30%, #292d35 0%, #17191e 74%);
+}
+
+.square-img-box-img {
+    width: 100%;
+    aspect-ratio: 1 / 1;
+    border-radius: 1em;
+}
+
+.info-img {
+    aspect-ratio: 1 / 1;
+    border-radius: 1em;
+}
+
+.square-img-box-img::before,
+.info-img::before {
+    content: 'PS';
+    position: absolute;
+    inset: 0;
+    display: grid;
+    place-items: center;
+    color: rgba(244, 247, 255, 0.42);
+    font-family: 'Furore', sans-serif;
+    font-weight: 700;
+    font-size: clamp(1.7rem, 5vw, 3.5rem);
+    letter-spacing: 0.05em;
+    pointer-events: none;
+    z-index: 0;
+    transition: opacity 240ms ease;
+}
+
+.square-img-box-img::before {
+    font-size: 1.65rem;
+}
+
+.square-img-box-img::after,
+.info-img::after {
+    content: '';
+    position: absolute;
+    inset: 0;
+    z-index: 1;
+    pointer-events: none;
+    background: linear-gradient(
+        100deg,
+        transparent 15%,
+        rgba(255, 255, 255, 0.055) 45%,
+        rgba(255, 255, 255, 0.095) 50%,
+        rgba(255, 255, 255, 0.055) 55%,
+        transparent 85%
+    );
+    transform: translateX(-100%);
+    animation: psgs-cover-loading 1.7s ease-in-out infinite;
+    transition: opacity 240ms ease;
+}
+
+.square-img-box-img > img,
+.info-img > img {
+    display: block;
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    opacity: 0;
+    z-index: 2;
+    transition: opacity 240ms ease, transform 400ms ease;
+}
+
+.square-img-box-img[data-cover-state='loaded'] > img,
+.info-img[data-cover-state='loaded'] > img {
+    opacity: 1;
+}
+
+.square-img-box-img[data-cover-state='loaded']::before,
+.square-img-box-img[data-cover-state='loaded']::after,
+.info-img[data-cover-state='loaded']::before,
+.info-img[data-cover-state='loaded']::after {
+    opacity: 0;
+    animation: none;
+}
+
+.square-img-box-img[data-cover-state='error']::after,
+.info-img[data-cover-state='error']::after {
+    opacity: 0;
+    animation: none;
+}
+
+.square-img-box-img[data-cover-state='error'] > img,
+.info-img[data-cover-state='error'] > img {
+    opacity: 0;
+}
+
+@keyframes psgs-cover-loading {
+    to { transform: translateX(100%); }
+}
+
+@media (prefers-reduced-motion: reduce) {
+    .square-img-box-img::after,
+    .info-img::after { animation: none; }
+    .square-img-box-img > img,
+    .info-img > img,
+    .square-img-box-img::before,
+    .info-img::before { transition: none; }
+}

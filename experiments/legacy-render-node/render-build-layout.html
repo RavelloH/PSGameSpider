@@ -1,0 +1,241 @@
+<!doctype html>
+<html lang="zh">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <title><%- title %> | PSGameSpider</title>
+
+    <meta name="keywords" content="<%- keywords %>" />
+    <meta name="description" content="<%- description %>" />
+    <meta name="author" content="RavelloH" />
+    <meta name="pagetype" content="<%- pagetype %>" />
+    <meta name="theme-color" content="#111111" />
+    <meta http-equiv="Content-Language" content="zh-cn" />
+    <meta property="og:title" content="<%- title %> | PSGameSpider" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="<%- url %>" />
+    <link rel="canonical" href="<%- url %>" />
+    <meta property="og:image" value="https://psgamespider.ravelloh.top/assets/images/screenshot-pc.png" />
+    <meta property="og:image:alt" value="PSGameSpider's Screenshot" />
+    <meta property="og:image:width" value="2560" />
+    <meta property="og:image:height" value="1600" />
+    <meta name="twitter:card" value="summary_large_image" />
+    <meta name="twitter:site" value="@ravellohh" />
+    <meta name="twitter:image" value="https://psgamespider.ravelloh.top/assets/images/screenshot-pc.png" />
+    <meta name="twitter:image:alt" value="PSGameSpider's Screenshot" />
+    <meta name="format-detection" content="address=no,telephone=no" />
+    <meta name="COPYRIGHT" content="@RavelloH" />
+    <meta http-equiv="X-UA-Compatible" content="chrome=1" />
+    <meta name="mobile-web-app-capable" content="yes" />
+    <!-- Preload -->
+    <link rel="preload" href="https://static.ravelloh.top/assets/fonts/ri.woff2" as="font" crossorigin>
+    <link rel="preload" href="https://static.ravelloh.top/assets/fonts/Furore.ttf" as="font" crossorigin>
+    <link rel="preload" href="https://static.ravelloh.top/assets/js/loading.js" as="script">
+    <link rel="preload" href="https://static.ravelloh.top/assets/js/script.js" as="script">
+    <link rel="preload" href="https://static.ravelloh.top/assets/js/i18n.js" as="script">
+    <link rel="preload" href="https://static.ravelloh.top/assets/js/moudle.js" as="script">
+    <link rel="preload" href="https://static.ravelloh.top/assets/js/display.js" as="script">
+    <link rel="preload" href="https://static.ravelloh.top/assets/css/style.css" as="style">
+    <link rel="preload" href="https://static.ravelloh.top/assets/css/iconfont.css" as="style">
+    <link rel="preload" href="https://static.ravelloh.top/assets/images/avatar.jpg" as="image">
+
+    <!-- Loading Starter -->
+    <script defer type="text/javascript" src="https://static.ravelloh.top/assets/js/loading.js"></script>
+    <!-- CSS -->
+    <link rel="stylesheet" href="https://static.ravelloh.top/assets/css/style.css" type="text/css" media="all">
+    <link rel="stylesheet" href="https://static.ravelloh.top/assets/css/iconfont.css" type="text/css">
+    <noscript>
+        <style type="text/css" media="all">
+            .loading {
+                opacity: 1;
+                transition: 0.5s;
+            }
+
+            #load-shade {
+                display: none;
+            }
+        </style>
+    </noscript>
+    <link rel="apple-touch-icon-precomposed" sizes="180x180" href="https://static.ravelloh.top/assets/images/apple-touch-icon.png" type="image/png">
+    <link rel="apple-touch-icon-precomposed" href="https://static.ravelloh.top/assets/images/favicon-32x32.png" type="image/png">
+    <link rel="icon" href="https://static.ravelloh.top/favicon.ico">
+    <link rel="manifest" href="https://static.ravelloh.top/site.webmanifest">
+</head>
+
+<body>
+    <!-- viewport start -->
+    <section id="showcase">
+        <div id="shade-global"></div>
+        <div id="load-shade" class="active">
+            <div id="load-content">
+                <hr>
+                <h2>PSGameSpider</h2>
+                <h3>LOAD <span id="loading-text"> ing <span class="breath"> <span>.</span><span>.</span><span>.</span></span> </span></h3>
+                <hr> <br>
+            </div>
+        </div>
+        <header>
+            <div id="logo" class="loading" style="--i: 1">
+                <!-- logo start -->
+                <a href="#userbar">
+                    <img id="avatar" class="no-zoom" src="https://static.ravelloh.top/assets/images/avatar.jpg" alt="avatar">
+                    <img id="avatarname" class="no-zoom" src="https://static.ravelloh.top/assets/images/RavelloH.svg" alt="RavelloH's Blog">
+                </a>
+                <!-- logo end -->
+            </div>
+            <div id="header-side">
+                <div id="navs">
+                    <!-- nav start -->
+                    <nav>
+                        <a href="https://psgamespider.ravelloh.top/" class="loading" style="--i: 2" id="nav-2">INDEX / 索引</a>
+                        <a href="https://ravelloh.top/" class="loading" style="--i: 1" id="nav-1"> BLOG / 博客</a>
+
+                    </nav>
+                    <!-- nav end -->
+                </div>
+                <div id="toggle" class="loading" style="--i: 0"></div>
+            </div>
+        </header>
+        <div id="shade-context"></div>
+        <div id="main" class="loading">
+            <div id="viewmap">
+                <%- doc %>
+            </div>
+        </div>
+        <footer>
+            <div id="icons-left">
+                <nav>
+                    <a class="loading loaded" style="--i: 1" id="icon-about" href="#about" onclick="openInfoBar('info');return false;" aria-label="about this page" data-pjax-state="" data-umami-event="footer-关于"><span class="i ri:compass-discover-line"></span></a>
+                    <a class="loading loaded" style="--i: 2" id="icon-github" href="http://github.com/ravelloh" target="_blank" rel="noreferrer" aria-label="my github" data-pjax-state="" data-umami-event="footer-Github"><span class="i ri:github-fill"></span></a>
+                    <a class="loading loaded" style="--i: 3" id="icon-studio" href="http://xeocnet-studio.github.io" target="_blank" rel="noreferrer" aria-label="my studio" data-pjax-state="" data-umami-event="footer-工作室"><span class="i ri:building-2-line"></span></a>
+                    <a class="loading loaded" style="--i: 4" id="icon-rss" onclick="openInfoBar('feed')" data-umami-event="footer-RSS"><span class="i ri:rss-fill"></span></a>
+                </nav>
+            </div>
+            <div id="icons-right" class="loading loaded" style="--i: 1" data-umami-event="footer-消息栏">
+                <div id="message-bar">
+                    <noscript>
+                        <a class="red" href="https://static.ravelloh.top/about/help#javascript"><strong>错误:无法使用JAVASCRIPT</strong>&nbsp;<span class="i ri:alert-line"></span></a>
+                    </noscript>
+                </div>
+            </div>
+        </footer>
+    </section>
+    <section id="sidebar">
+        <div id="sidebar-top">
+            <div id="sideinfo">
+                <h3>RavelloH's</h3>
+                <h2>BLOG</h2>
+                <a class="icons" href="mailto:ravelloh@outlook.com" id="email"> <span class="i ri:mail-add-fill"></span> &nbsp; <span>ravelloh@outlook.com</span> </a>
+                <hr>
+            </div>
+        </div>
+        <div id="sidebar-mid">
+            <menu id="sidebar-menu">
+                <ul>
+                    <!-- menu start -->
+                    <li style="--i: 1"><a href="https://static.ravelloh.top/"><span class="i_small ri:home-3-fill"></span> HOME</a></li>
+                    <li style="--i: 2"><a href="https://static.ravelloh.top/works/"><span class="i_small ri:dashboard-fill"></span> WORKS</a></li>
+                    <li style="--i: 3"><a href="https://static.ravelloh.top/articles/"><span class="i_small ri:article-fill"></span> ARTICLES</a></li>
+                    <li style="--i: 4"><a href="https://static.ravelloh.top/images/"><span class="i_small ri:image-fill"></span> IMAGES</a></li>
+                    <li style="--i: 4"><a href="https://static.ravelloh.top/games/"><span class="i_small ri:gamepad-fill"></span> GAMES</a></li>
+                    <li style="--i: 5"><a href="https://static.ravelloh.top/friends/"><span class="i_small ri:team-fill"></span> FRIENDS</a></li>
+                    <li style="--i: 6"><a href="https://static.ravelloh.top/about/"><span class="i_small ri:information-fill"></span> ABOUT</a></li>
+                    <li>&nbsp;</li>
+                    <li><a href="https://static.ravelloh.top/platform/signin/"><span class="i_small ri:login-box-fill"></span> LOG IN</a></li>
+                    <li><a href="https://static.ravelloh.top/platform/signup/"><span class="i_small ri:user-add-fill"></span> LOG UP</a></li>
+                    <li><a href="https://analytics.ravelloh.top/share/4kyzPMCCpfG9Vd1k/blog"><span class="i_small ri:bar-chart-box-fill"></span> ANALYTICS</a></li>
+                    <li><a href="https://drive.ravelloh.top/"><span class="i_small ri:hard-drive-3-fill"></span> DRIVE</a></li>
+                    <li><a href="https://monitor.ravelloh.top/"><span class="i_small ri:timer-flash-fill"></span> UPTIME</a></li>
+                    <li><a href="https://chat.ravelloh.top/ravelloh"><span class="i_small ri:video-chat-fill"></span> CHATROOM</a></li>
+                    <li><a href="https://music.ravelloh.top/"><span class="i_small ri:album-fill"></span> MUSIC</a></li>
+                    <li><a href="https://psgamespider.ravelloh.top/"><span class="i_small ri:playstation-fill"></span> PSGAME</a></li>
+                    <!-- menu end -->
+                </ul>
+            </menu>
+        </div>
+        <div id="sidebar-bottom">
+            <hr>
+            <div id="side-info">
+                <!-- side-info start -->
+                <b>
+                    Theme : <a href="https://github.com/ravelloh/RTheme">RTheme</a>. <br>
+                    Powered by <a href="https://github.com/RavelloH/RenderBuild">RenderBuild</a>.<br>
+                    Copyright © 2019 - <b id="year"></b> RavelloH. <br>
+                    All rights reserved.
+                </b>
+                <!-- side-info end -->
+            </div>
+            <div class="flex-iconset">
+                <ul>
+                    <li><a href="#swap" id="icon-swap" onclick="openInfoBar('swap');return false;" aria-label="swap"> <span class="i ri:swap-box-line"></span> </a></li>
+                    <li><a href="#" id="icon-color" onclick="toggleThemeMode();return false;" aria-label="color"> <span class="i ri:sun-line"></span> </a></li>
+                    <li><a href="#music" id="icon-music" onclick="openInfoBar('music');return false;" aria-label="music"> <span class="i ri:file-music-line"></span> </a></li>
+                    <li><a href="#" id="icon-fullscreen" onclick="toggleFullScreen();return false;" aria-label="fullscreen"> <span class="i ri:aspect-ratio-line"></span> </a></li>
+                    <li><a href="#share" id="icon-share" onclick="openInfoBar('share');return false;" aria-label="share"> <span class="i ri:share-box-line"></span> </a></li>
+                    <li><a href="#setting" id="icon-setting" onclick="openInfoBar('setting');return false;" aria-label="setting"> <span class="i ri:settings-4-line"></span> </a></li>
+                </ul>
+            </div>
+        </div>
+    </section>
+    <section id="infobar">
+        <div id="infobar-header">
+            <div id="infobar-title">
+                INFO
+            </div>
+            <div id="infobar-toggle">
+                <span class="i ri:arrow-down-s-line"></span>
+            </div>
+        </div>
+        <div id="infobar-context">
+            <div id="infobar-left"></div>
+            <div id="infobar-right">
+                <h2 id="time">00:00</h2>
+                <hr>
+                <div id="music-player">
+                    <div id="music-top">
+                        <div id="music-name">
+                            无正在播放的音乐
+                        </div>
+                        <div id="music-time">
+                            00:00/00:00
+                        </div>
+                    </div>
+                    <audio id="music" src="/" ontimeupdate="musicUpdata()" loop="loop" preload="none"></audio>
+                    <div id="music-bar">
+                        <div id="music-progress-container">
+                            <div id="music-progress"></div>
+                        </div>
+                    </div>
+                    <div id="music-operation">
+                        <span onclick="musicSetting()"> <span class="i ri:play-list-line"></span> </span> <span class="i ri:skip-back-line" onclick="musicGo(-10)"></span> <span id="music-button" onclick="musicPlay()"> <span class="i ri:play-line"></span> </span> <span class="i ri:skip-forward-line" onclick="musicGo(10)"></span> <span class="i ri:repeat-one-line"></span>
+                    </div>
+                </div>
+                <div id="state-bar"></div>
+                <div id="uid" class="barcode center">
+                    <br>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section id="userbar"></section>
+    <!-- viewport end -->
+
+    <!-- JavaScript -->
+    <script defer type="text/javascript" src="https://static.ravelloh.top/assets/js/i18n.js" onload="loadComplete('i18n.js')"></script>
+    <script defer type="text/javascript" src="https://static.ravelloh.top/assets/js/moudle.js" onload="loadComplete('moudle.js')"></script>
+    <script defer type="text/javascript" src="https://static.ravelloh.top/assets/js/script.js" onload="loadComplete('script.js')"></script>
+    <script defer type="text/javascript" src="https://static.ravelloh.top/assets/js/display.js" onload="loadComplete('display.js')"></script>
+    <script defer type="text/javascript" src="https://static.ravelloh.top/assets/js/pjax.js" onload="loadComplete('pjax.js')"></script>
+    <script defer src="https://insight.ravelloh.com/script.js?siteId=12f27cea-19af-44e6-a99c-20cc7b292ec0"></script>>
+    <div id="page-js">
+        <%- pageJs %>
+    </div>
+    <!-- Prefetch -->
+    <div id="page-prefetch">
+        <%- prefetch %>
+    </div>
+</body>
+
+</html>
+<!-- EOF -->

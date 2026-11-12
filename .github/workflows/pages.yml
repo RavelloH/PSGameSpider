@@ -1,0 +1,86 @@
+name: Deploy PSGameSpider to GitHub Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_run:
+    workflows: [update]
+    types: [completed]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: psgamespider-pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    name: Build original RenderBuild pages
+    # A data update uses GITHUB_TOKEN to push; GitHub does not emit a new push
+    # workflow for that push. workflow_run covers those scheduled updates.
+    if: ${{ github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success' }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - name: Checkout latest main
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+          cache: npm
+          cache-dependency-path: experiments/legacy-render-node/package-lock.json
+
+      - name: Install renderer dependencies
+        working-directory: experiments/legacy-render-node
+        run: npm ci
+
+      - name: Test data adapter
+        working-directory: experiments/legacy-render-node
+        run: npm test
+
+      - name: Fetch original UI assets
+        working-directory: experiments/legacy-render-node
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: npm run sync:assets
+
+      - name: Convert Git data to build-time JSONL
+        working-directory: experiments/legacy-render-node
+        run: node prepare-data.mjs --output ../output/pages-data
+
+      - name: Generate five-region original static site
+        working-directory: experiments/legacy-render-node
+        run: node build.mjs --data ../output/pages-data --output ../output/pages-site --publish
+
+      - name: Validate generated routes, images and search
+        working-directory: experiments/legacy-render-node
+        run: node smoke-pages.mjs --dir ../output/pages-site
+
+      - name: Setup GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload GitHub Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: experiments/output/pages-site
+
+  deploy:
+    name: Deploy GitHub Pages
+    needs: build
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

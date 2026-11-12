@@ -1,0 +1,17 @@
+{
+  "name": "psgamespider-original-render-node",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Isolated local render-build/EJS renderer with Git JSONL data adapter",
+  "type": "module",
+  "scripts": {
+    "test": "node --test model.test.mjs",
+    "sync:assets": "node sync-assets.mjs",
+    "build": "node build.mjs --output ../output/renderbuild-next",
+    "serve": "node serve.mjs --root ../output/renderbuild-original-effects-v2 --port 4173"
+  },
+  "dependencies": {
+    "ejs": "3.1.10",
+    "render-build": "0.4.0"
+  }
+}
