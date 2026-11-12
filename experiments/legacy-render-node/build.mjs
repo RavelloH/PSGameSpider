@@ -72,7 +72,7 @@ function optimizeCovers(document){
     const src=imageUrl(file,big?828:256);
     const srcset=widths.map(w=>imageUrl(file,w)+' '+w+'w').join(', ');
     const sizes=big?'(max-width: 600px) 90vw, (max-width: 1000px) 50vw, 512px':
-      '(max-width: 480px) 42vw, (max-width: 960px) 25vw, 160px';
+      '(max-width: 520px) 25vw, (max-width: 960px) 160px, 160px';
     return start+'src="'+src+'" srcset="'+srcset+'" sizes="'+sizes+
       '" loading="'+(big?'eager':'lazy')+'" decoding="async"';
   });

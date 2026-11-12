@@ -16,7 +16,7 @@
   window.psgsCoverAttributes=(path,name)=>{
     const attrs=Array.from([128,256,384,640],size=>window.psgsCoverUrl(path,size)+' '+size+'w').join(', ');
     return 'src="'+window.psgsCoverUrl(path,256)+'" srcset="'+attrs+
-      '" sizes="(max-width:480px) 42vw, (max-width:960px) 25vw, 160px" loading="lazy" decoding="async" alt="'+esc(name)+'" class="no-zoom"';
+      '" sizes="(max-width:520px) 25vw, (max-width:960px) 160px, 160px" loading="lazy" decoding="async" alt="'+esc(name)+'" class="no-zoom"';
   };
   // Retain the original search-card DOM and animations; only rewrite URLs.
   window.psgsOptimizeSearchResult=(markup,game)=>String(markup)

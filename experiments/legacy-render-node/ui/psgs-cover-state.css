@@ -11,6 +11,16 @@
     background: radial-gradient(circle at 50% 30%, #292d35 0%, #17191e 74%);
 }
 
+/*
+ * The original card only has max-width: 10em. Images are absolutely
+ * positioned to support placeholders, so without an explicit width
+ * each card shrinks according to its title. Give covers a shared fluid
+ * width; let the existing flex-wrap determine how many fit per row.
+ */
+.square-img-box {
+    width: clamp(4.75rem, 22vw, 10em);
+}
+
 .square-img-box-img {
     width: 100%;
     aspect-ratio: 1 / 1;
